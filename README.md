@@ -1,2 +1,3 @@
-# smd-com
-Silvia Maggi Design website
+# Silvia Maggi Design website
+
+Public website.
