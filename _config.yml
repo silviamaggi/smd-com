@@ -1,0 +1,28 @@
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+description: Welcome. Silvia Maggi is a UX Designer striving to create meaningful, user-centric experiences. View her UX portfolio and latest blog posts.
+
+host: 0.0.0.0
