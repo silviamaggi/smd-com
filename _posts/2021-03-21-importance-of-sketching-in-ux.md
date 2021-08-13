@@ -16,7 +16,7 @@ description: Sketching is one of the most important tools a UX Designer should m
   {% endfor %}
 </div>
 
-![Wisteria in bloom](/assets/images/20210403-wisteria-in-bloom-1.webp)
+![Design, Digested #18: Start designing for inclusion](/assets/images/design-digested-18.webp)
 
 I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is **sketching**.
 
