@@ -1,6 +1,15 @@
----
----
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<title>{{ page.title }}</title>
+<link rel="stylesheet" href="/assets/css/styles.css">
+{% feed_meta %}
+{% seo %}
+</head>
+<body>
 {% include navigation.html %}
+
 <h1>{{ page.name }}</h1>
 <h2>{{ page.position }}</h2>
 
@@ -14,3 +23,5 @@
   <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+</body>
+</html>

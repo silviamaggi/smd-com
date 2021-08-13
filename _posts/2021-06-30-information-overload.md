@@ -1,6 +1,7 @@
 ---
 author: silvia
 categories: Design-Digested
+description: On information overload and my plans for the newsletter Design, Digested.
 ---
 <div class="post-categories">
   {% if post %}

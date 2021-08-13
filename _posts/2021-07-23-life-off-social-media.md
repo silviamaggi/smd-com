@@ -2,6 +2,7 @@
 title: Life off social media, six months in
 author: silvia
 categories: Social-Media
+description: I tell you what happened when I quit social media six months ago, and why I don't want to come back.
 ---
 <div class="post-categories">
   {% if post %}

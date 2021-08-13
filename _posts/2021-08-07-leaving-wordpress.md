@@ -1,6 +1,7 @@
 ---
 author: silvia
 categories: Personal
+description: An announcement to my WordPress followers.
 ---
 <div class="post-categories">
   {% if post %}

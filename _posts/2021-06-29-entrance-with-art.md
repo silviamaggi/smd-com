@@ -1,6 +1,7 @@
 ---
 author: silvia
 categories: Photography
+description: How is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.
 ---
 <div class="post-categories">
   {% if post %}
