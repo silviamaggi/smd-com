@@ -1,9 +1,6 @@
 ---
 title: About
+permalink: /about/
 ---
 
 # About
-
-Ciao, sono Kenzo.
-
-{{ page.url }}

@@ -1,0 +1,36 @@
+---
+author: silvia
+categories: Design-Digested
+---
+<div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <strong>{{category}}</strong>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
+
+![Information overload](/assets/images/smd-blog-featured-image_lettera.webp)
+
+On the latest letter I sent out on 20 June, I set out my plans for the next few months. Ever felt overwhelmed by the quantity of information found on the internet? Then you’ll know what I’m talking about.
+
+![Design, Digested, a newsletter by Silvia Maggi](/assets/images/design-digested-newsletter.jpg)
+
+As the temperatures in this part of Italy hit 32˚C, I’m reminded how the human body takes time to adapt, and that I’m definitively still a stranger in my own country. Here’s the thing: I don’t want to get used to this.
+
+Let me switch the air conditioner on, so I can tell you with more clarity what’s to come.
+
+_[Design, Digested](https://silviamaggidesign.com/?cat_ID=678){:target="_blank"}_ is a design newsletter. Yet, I’ve been talking about different things recently, and practically stopped writing about design on my blog. On the one hand, I took a break from the information overload I’ve been experiencing; on the other, **I focused my attention on more authoritative UX sources** that I’m currently processing.
+
+**If you ever got lost in Medium articles and blog posts and felt like you were missing crucial skills**, you know what I mean by information overload. In this situation it’s easy to get caught in opinions and trends, wasting time and energy in something that won’t last or doesn’t have solid foundations. I don’t want to get used to this either.
+
+During the coming weeks, I’ll be sharing these UX sources here and on the blog. There will be the other things too – books, TV series, films, games and photography. The frequency of the emails might change as, hopefully, we all spend more time outside this summer.
+
+Take care,  
+Silvia
+
+The featured image is a composite with a photo by [Flavio Amiel](https://unsplash.com/@flavioamiel){:target="_blank"} on Unsplash
