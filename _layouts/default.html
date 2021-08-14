@@ -2,9 +2,10 @@
 <html lang="en" dir="ltr">
 <head>
 {% include default-meta.html %}
-<link rel="stylesheet" href="{{ site.url }}/assets/css/styles.css">
+{% include seo.html %}
+{% include favicons.html %}
 </head>
-<body>
+<body class="layout-{{ page.layout }} {% if page.is_post %}post-{{ page.title | slugify }}{% else %}page-{{ page.title | slugify }}{% endif %}" id="top">
 {% include navigation.html %}
 {{ content }}
 </body>

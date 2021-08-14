@@ -1,6 +1,22 @@
-collections:
-  authors:
-    output: true
+title: Silvia Maggi Design
+tagline: UX Designer
+description: Welcome. Silvia Maggi is a UX Designer striving to create meaningful, user-centric experiences. View her UX portfolio and latest blog posts.
+permalink: /:categories/:title/
+keywords:
+  uxdesign,
+  design
+timezone: Europe/Rome
+
+author:
+  name: Silvia Maggi
+  email: hello@silviamaggidesign.com
+  #avatar:
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - /node_modules
 
 defaults:
   - scope:
@@ -12,19 +28,21 @@ defaults:
       path: ""
       type: "posts"
     values:
+      is_post: true # automatically set is_post=true for all posts
       layout: "post"
   - scope:
       path: ""
     values:
       layout: "default"
 
-permalink: /:categories/:title/
+collections:
+  authors:
+    output: true
 
+# Plugins
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
 
-description: Welcome. Silvia Maggi is a UX Designer striving to create meaningful, user-centric experiences. View her UX portfolio and latest blog posts.
-
+# Server
 host: 0.0.0.0

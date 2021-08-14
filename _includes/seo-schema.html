@@ -1,0 +1,37 @@
+<!-- Schema -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  {% if page.is_post %}"@type": "BlogPosting",{% else %}"@type": "WebSite",{% endif %}
+  "name": "{% if page.url == "/" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.title }} {{ site.tagline }}{% endif %}",
+  "headline": "{% if page.url == "/" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.title }} {{ site.tagline }}{% endif %}",
+  "url": "{{ site.url }}",
+  "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
+  "keywords": "{% if page.tags %}{{ page.tags | join: ',' }}{% else %}{{ site.keywords }}{% endif %}",
+  "datePublished": "{{ page.date }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date }}",
+  "author": {
+    "@type": "Person",
+    "name": "Silvia Maggi",
+    "givenName": "Silvia",
+    "familyName": "Maggi"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  },
+  "sameAs": [
+    "https://linkedin.com/in/silviamaggi",
+    "https://github.com/silviamaggi",
+    "https://www.flickr.com/photos/silvia-m/"
+  ],
+  {% if page.image %}
+  "image": {
+    "@type": "ImageObject",
+    "width": {{ page.img_width | default: site.img_width }},
+    "height": {{ page.img_height | default: site.img_height }},
+    "url": "{{ site.url }}{{ page.img_url | default: site.img_url }}"
+  }
+  {% endif %}
+}
+</script>
