@@ -3,7 +3,7 @@ author: silvia
 categories: Personal
 description: An announcement to my WordPress followers.
 ---
-![Leaving WordPress](/assets/images/marco-chilese-unsplash.webp)
+![Leaving WordPress](/assets/images/marco-chilese-unsplash.jpg)
 
 An announcement to my WordPress followers.
 

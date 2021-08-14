@@ -55,7 +55,7 @@ I had [doubts about social media](https://silviamaggidesign.com/?cat_ID=630){:ta
 
 #### Status: in progress
 
-![Cross-Cultural Design by Senongo Akpem](/assets/images/senongo-akpem.webp)
+![Cross-Cultural Design by Senongo Akpem](/assets/images/senongo-akpem.jpg)
 
 I bookmarked this book in [June](https://silviamaggidesign.com/books/design-community-solidarity/){:target="_blank"} and picked it up again recently. Coupled with _The Culture Map_, it’s a fundamental read for anyone in the web field.
 

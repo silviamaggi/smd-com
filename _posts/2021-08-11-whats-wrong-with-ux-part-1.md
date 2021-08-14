@@ -4,7 +4,7 @@ author: silvia
 categories: Design-Digested
 description: In the first installment of the Design, Digested series since March, I share with you three reasons why the UX industry is currently broken.
 ---
-![Design Digested #19: What's wrong with UX - Part 1](/assets/images/smd-blog-dd-19.webp)
+![Design Digested #19: What's wrong with UX - Part 1](/assets/images/smd-blog-dd-19.jpg)
 
 In the first instalment of the _[Design, Digested](https://silviamaggidesign.com/?cat_ID=678)_ series since March, I share with you three reasons why the UX industry is currently broken.
 

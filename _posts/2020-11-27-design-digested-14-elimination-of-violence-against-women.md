@@ -4,7 +4,7 @@ title: Design, Digested 14. Elimination of violence against women
 categories: Design-Digested
 description: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
 ---
-![Design, Digested #14: elimination of violence against women](/assets/images/un-women.webp)
+![Design, Digested #14: elimination of violence against women](/assets/images/un-women.jpg)
 Photo by UN Women
 
 25 November marks the **International Day for the Elimination of Violence against Women**.

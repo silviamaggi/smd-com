@@ -4,7 +4,7 @@ title: Design, Digested 10. Inclusive Design, Problematic Social Media
 categories: Diversity
 description: Design inspiration series. Inclusive design, problematic social media facts, and a great music project.
 ---
-![Design, Digested 10. Inclusive Design, Problematic Social Media](/assets/images/design-digested-10.webp)
+![Design, Digested 10. Inclusive Design, Problematic Social Media](/assets/images/design-digested-10.jpg)
 
 Photo by [Daria Nepriakhina](https://unsplash.com/@epicantus){:target="_blank"} on [Unsplash](https://unsplash.com/){:target="_blank"}
 

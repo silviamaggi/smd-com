@@ -4,7 +4,7 @@ title: Design, Digested 1. Killing Eve Set Design, Accessibility On Social Media
 categories: Books
 description: First instalment of my design inspiration series. Killing Eve set design, accessibility on social media, bad design vs good design, and more.
 ---
-![Design, Digested #1: Killing Eve Set Design, Accessibility On Social Media, Bad vs Good Design](/assets/images/design-digested-1.webp)
+![Design, Digested #1: Killing Eve Set Design, Accessibility On Social Media, Bad vs Good Design](/assets/images/design-digested-1.jpg)
 
 Image credits: Sid Gentle and Ian Johnson Publicity, Unknown, Jorge Gonzalez / Copyright terms and licence: CC BY-SA 2.0
 

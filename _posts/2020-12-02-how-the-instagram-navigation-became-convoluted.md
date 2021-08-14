@@ -4,7 +4,7 @@ title: How the Instagram navigation became convoluted
 categories: Design
 description: With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let's briefly explore how.
 ---
-![How the Instagram navigation became convoluted](/assets/images/lalo-hernandez-unsplash.webp)
+![How the Instagram navigation became convoluted](/assets/images/lalo-hernandez-unsplash.jpg)
 
 With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let’s briefly explore how.
 
@@ -18,10 +18,10 @@ With the introduction of significant layout changes – the tabs Reel and Shop �
 
 For a person holding a phone with one hand, the bottom area is **easier to reach** with the thumb. Anything at the top, considering the increasing sizes of modern phones, is impossible to touch without readjusting the phone.
 
-![Thumb-zone mapping explained by Samantha Ingram](/assets/images/thumb-zone-mapping-1.webp)
+![Thumb-zone mapping explained by Samantha Ingram](/assets/images/thumb-zone-mapping-1.jpg)
 Thumb-zone mapping explained by Samantha Ingram
 
-![New thumb-zone mapping adjusted to larger screen sizes by Arturas Leonovas](/assets/images/thumb-zone-mapping-2.webp)
+![New thumb-zone mapping adjusted to larger screen sizes by Arturas Leonovas](/assets/images/thumb-zone-mapping-2.jpg)
 New thumb-zone mapping adjusted to larger screen sizes by Arturas Leonovas
 
 ## The convoluted navigation
@@ -50,7 +50,7 @@ From the profile, people can create **six** types of content: _Feed Post_, _Stor
 
 ![Posting from the home screen and the four types of content](/assets/images/instagram-add.jpg)
 Posting from the profile page and the six types of content
-![Posting from the home screen and the four types of content](/assets/images/instagram-post-types.webp)
+![Posting from the home screen and the four types of content](/assets/images/instagram-post-types.jpg)
 Posting from the profile page and the six types of content
 
 ## One possible explanation

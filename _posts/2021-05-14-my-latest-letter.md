@@ -3,7 +3,7 @@ author: silvia
 categories: Design
 description: Every couple of weeks, I write a letter to the nice people subscribed to Design, Digested. This is the one where I didn't know what to write.
 ---
-![My latest letter](/assets/images/smd-blog-featured-image_lettera.webp)
+![My latest letter](/assets/images/smd-blog-featured-image_lettera.jpg)
 
 Every couple of weeks, I write a letter to the nice people subscribed to [_Design, Digested_](https://silviamaggidesign.com/design-inspiration-newsletter-silvia-maggi/){:target="_blank"}. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.
 

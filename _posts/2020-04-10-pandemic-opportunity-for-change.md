@@ -4,7 +4,7 @@ title: The Pandemic is a Massive Opportunity for Change
 categories: Design
 description: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
 ---
-![The Pandemic is a Massive Opportunity for Change](/assets/images/charlie-deets.webp)
+![The Pandemic is a Massive Opportunity for Change](/assets/images/charlie-deets.jpg)
 
 Photo by Charlie Deets on Unsplash
 
@@ -20,7 +20,7 @@ I [watched _Rams_](https://silviamaggidesign.com/tag/dieter-rams/){:target="_bla
 
 ## Less, But Better
 
-![Dieter Rams Braun T 3 pocket radio. Image credit: Sgustok Design](/assets/images/dieter-rams-braun-t-3-pocket-radio.webp)
+![Dieter Rams Braun T 3 pocket radio. Image credit: Sgustok Design](/assets/images/dieter-rams-braun-t-3-pocket-radio.jpg)
 
 <figure>
     <figcaption>Braun T 3 Pocket Radio, 1958, by Dieter Rams. Image credit: Sgustok Design</figcaption>
@@ -36,7 +36,7 @@ There is a bigger system at play. Within a culture of overconsumption, every sin
 
 “_Less, but better_” is Rams’ motto. He invites us to think about **what** we’re designing, **how** and **why**. As everything interacts and is dependant on other things, his message couldn’t be more appropriate today.
 
-![Vitsoe 606 Universal Shelving System, 1960, by Dieter Rams. Image credit: Sgustok Design.](/assets/images/dieter-rams-606-universal-shelving-system.webp)
+![Vitsoe 606 Universal Shelving System, 1960, by Dieter Rams. Image credit: Sgustok Design.](/assets/images/dieter-rams-606-universal-shelving-system.jpg)
 
 <figure>
     <figcaption>Vitsoe 606 Universal Shelving System, 1960, by Dieter Rams. Image credit: Sgustok Design.</figcaption>

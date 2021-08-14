@@ -4,7 +4,7 @@ title: Learning to draw. A journey
 categories: Design
 description: As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey.
 ---
-![Learning to draw. A journey](/assets/images/sam-rios-unsplash.webp)
+![Learning to draw. A journey](/assets/images/sam-rios-unsplash.jpg)
 
 In my latest _Design, Digested_ post titled [The importance of sketching in UX and beyond](https://silviamaggidesign.com/design-digested/importance-of-sketching-in-ux/){:target="_blank"}, I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up.
 
@@ -30,9 +30,9 @@ The instructor stresses **the need to draw freely for the same amount of time de
 
 I could see where I lost focus and, more importantly, **I could see progress between the first and second page**.
 
-![The first page filled with lines and curves. The short curves turned out to be more difficult than the lines, probably because I tend to use my wrist to draw. It’ll get better with practise.](/assets/images/superimposed-lines_1.webp)
+![The first page filled with lines and curves. The short curves turned out to be more difficult than the lines, probably because I tend to use my wrist to draw. It’ll get better with practise.](/assets/images/superimposed-lines_1.jpg)
 
-![The second page filled with lines and curves. I was able to start each superimposed line with more precision: I felt less anxious, and took more time to focus on my task.](/assets/images/superimposed-lines_2.webp)
+![The second page filled with lines and curves. I was able to start each superimposed line with more precision: I felt less anxious, and took more time to focus on my task.](/assets/images/superimposed-lines_2.jpg)
 
 **This journey is going to be long**. And it feels like it’s been designed that way. It doesn’t have to be a solo adventure though, as there is a [Patreon](https://patreon.com/uncomfortable) page where to get feedback from the instructor and teaching assistant, as well as active communities on [Reddit (known as ArtsFundamentals)](https://reddit.com/r/ArtFundamentals) and [Discord](https://discord.gg/FtSS4hhqSu).
 
