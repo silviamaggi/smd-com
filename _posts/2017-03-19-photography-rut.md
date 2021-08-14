@@ -27,7 +27,7 @@ So today I equipped my camera with a delightful Helios-44M lens, pointed it to t
 ![Bamboo](/assets/images/20170319-img_4275.jpg)
 ![Daffoldil](/assets/images/20170319-img_4273.jpg)
 ![Rosemary](/assets/images/20170319-img_4267.jpg)
-![Red leaves](/assets/images/220170319-img_4268.jpg)
+![Red leaves](/assets/images/20170319-img_4268.jpg)
 ![Daffoldils](/assets/images/20170319-img_4277.jpg)
 ![Berries](/assets/images/20170319-img_4286.jpg)
 

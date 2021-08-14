@@ -34,9 +34,9 @@ Suddenly, Ravelry wasn’t anymore the **inclusive** and **friendly** website ev
 
 ## The precedent
 
-While researching this blog post, I found [an article](https://www.auckland.ac.nz/en/news/2020/07/01/the-website-making-people-sick.html) stating that this cannot be anything different than **mass hysteria**.
+While researching this blog post, I found [an article](https://www.auckland.ac.nz/en/news/2020/07/01/the-website-making-people-sick.html){:target="_blank"} stating that this cannot be anything different than **mass hysteria**.
 
-But what happened in 2013 when Apple released [iOS 7](http://www.theguardian.com/technology/2013/sep/27/ios-7-motion-sickness-nausea) proves that those reactions are **genuine**. The issue with the iPhone’s operating system was clear: the newly introduced **animations** and the way they were implemented made people with [vestibular disorders](https://vestibular.org/understanding-vestibular-disorder) **sick**. In Ravelry’s case, even those who are free from these issues are **suffering** from visiting the site.
+But what happened in 2013 when Apple released [iOS 7](http://www.theguardian.com/technology/2013/sep/27/ios-7-motion-sickness-nausea){:target="_blank"} proves that those reactions are **genuine**. The issue with the iPhone’s operating system was clear: the newly introduced **animations** and the way they were implemented made people with [vestibular disorders](https://vestibular.org/understanding-vestibular-disorder){:target="_blank"} **sick**. In Ravelry’s case, even those who are free from these issues are **suffering** from visiting the site.
 
 The Epilepsy Foundation of America issued a **warning** and indicated what might be the **trigger** to the seizures. Follow the thread on Twitter:
 
@@ -56,7 +56,7 @@ Finally, the newly redesigned icons have many **details** that get lost in the *
 
 ---
 
-As stated in a [blog post](https://blog.ravelry.com/the-story-of-the-new-look/) published three days after the release, the team at Ravelry started the redesign in January 2019. The platform is **massive**: 800 pages that needed updating one by one. It’s a tremendous amount of work. Based on my understanding, they waited for all pages to be ready before starting to **test** the new design, a choice that **backfired**.
+As stated in a [blog post](https://blog.ravelry.com/the-story-of-the-new-look/){:target="_blank"} published three days after the release, the team at Ravelry started the redesign in January 2019. The platform is **massive**: 800 pages that needed updating one by one. It’s a tremendous amount of work. Based on my understanding, they waited for all pages to be ready before starting to **test** the new design, a choice that **backfired**.
 
 ## Advantages of early testing
 

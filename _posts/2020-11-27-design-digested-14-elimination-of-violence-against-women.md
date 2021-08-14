@@ -47,6 +47,6 @@ The outrage that followed sparked the broadcaster _Rai 2_ to **suspend** the pro
 
 ### What happens when our bodies are digital?
 
-I’ve enjoyed this **talk** between digital sociologist [Silvia Semenzin](https://www.instagram.com/silviasemenzin_/){:target="_blank"}, influencer [Camihawke](https://www.instagram.com/camihawke/){:target="_blank"}, and presenter [Sofia Viscardi](https://www.instagram.com/sofiaviscardi/) about what happens when our **faces** and **bodies** are **online**. They touch on **privacy**, **misogyny**, **sex education** and more.
+I’ve enjoyed this **talk** between digital sociologist [Silvia Semenzin](https://www.instagram.com/silviasemenzin_/){:target="_blank"}, influencer [Camihawke](https://www.instagram.com/camihawke/){:target="_blank"}, and presenter [Sofia Viscardi](https://www.instagram.com/sofiaviscardi/){:target="_blank"} about what happens when our **faces** and **bodies** are **online**. They touch on **privacy**, **misogyny**, **sex education** and more.
 
 **[Watch the talk](https://video.repubblica.it/dossier/basement-cafe-3/basement-cafe-camihawke-e-silvia-semenzin-cosa-succede-quando-il-tuo-corpo-e-digitale/370941/371549){:target="_blank"}** (in Italian).

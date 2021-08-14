@@ -13,7 +13,7 @@ As the temperatures in this part of Italy hit 32˚C, I’m reminded how the huma
 
 Let me switch the air conditioner on, so I can tell you with more clarity what’s to come.
 
-_[Design, Digested](https://silviamaggidesign.com/?cat_ID=678){:target="_blank"}_ is a design newsletter. Yet, I’ve been talking about different things recently, and practically stopped writing about design on my blog. On the one hand, I took a break from the information overload I’ve been experiencing; on the other, **I focused my attention on more authoritative UX sources** that I’m currently processing.
+Design, Digested is a design newsletter. Yet, I’ve been talking about different things recently, and practically stopped writing about design on my blog. On the one hand, I took a break from the information overload I’ve been experiencing; on the other, **I focused my attention on more authoritative UX sources** that I’m currently processing.
 
 **If you ever got lost in Medium articles and blog posts and felt like you were missing crucial skills**, you know what I mean by information overload. In this situation it’s easy to get caught in opinions and trends, wasting time and energy in something that won’t last or doesn’t have solid foundations. I don’t want to get used to this either.
 

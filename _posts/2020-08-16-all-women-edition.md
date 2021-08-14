@@ -38,6 +38,6 @@ French artist Emma illustrates perfectly how certain friendly remarks can **beli
 
 Set designer Es Devlin and design associate Machiko Weston created _I Saw The World End_, a display to mark **75 years** since the **atomic bombs** were dropped over Hiroshima and Nagasaki. The work, commissioned by the Imperial War Museum, is a **collective reading** from both British and Japanese sources sharing **thoughts** and **testimonies** of the events.
 
-https://youtu.be/MyNeu7C2ilc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MyNeu7C2ilc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **[Read the article](https://www.dezeen.com/2020/08/13/es-devlin-machiko-weston-hiroshima-bombing-i-saw-the-world-end/){:target="_blank"}** on Dezeen.

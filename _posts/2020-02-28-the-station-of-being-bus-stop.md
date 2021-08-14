@@ -32,4 +32,4 @@ During the first couple of weeks after the opening, the studio observed a 35% in
 
 Take a look at the video below, what do you think?
 
-https://youtu.be/GsdXOyJvnZM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GsdXOyJvnZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

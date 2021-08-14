@@ -13,7 +13,7 @@ On the design inspiration new instalment: the role of **fear** in our lives and 
 
 Fear plays a **predominant role** in our lives. Businesses and products succeed by leveraging this emotion. This article illustrates how they do it, and what we can do as designers to apply this knowledge **ethically**.
 
-**[Read the article](https://www.interaction-design.org/literature/article/be-afraid-the-silent-role-of-fear-in-decision-making?r=silvia-maggi){:target="_blank"}** on Interaction Design Foundation.
+**[Read the article](https://www.interaction-design.org/literature/article/be-afraid-the-silent-role-of-fear-in-decision-making){:target="_blank"}** on Interaction Design Foundation.
 
 ## This is how AI bias really happens—and why it’s so hard to fix
 
@@ -37,4 +37,4 @@ Uncompromising and prolific designer Enzo Mari stood by his political beliefs an
 
 You know Futura, you’ve seen it many times. But did you know its story?
 
-https://youtu.be/SaX_PwxSh5M
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SaX_PwxSh5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

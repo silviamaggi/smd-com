@@ -40,4 +40,4 @@ If a person reveals their real **character** in a **crisis**, the same is valid 
 
 As a big fan of **David Bowie**’s, I was delighted to see this video widely shared on Twitter last week. Bowie becomes the interviewer while he **calls out** MTV on **racism**, but the answers he gets don’t impress him – and rightly so.
 
-https://youtu.be/XZGiVzIr8Qg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZGiVzIr8Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -46,7 +46,7 @@ _Google Maps knows everything_. Read about the reasons to adjust your **privacy 
 
 In his book _The Design of Everyday Things_, Donald A. Norman showed us how it’s not our fault if we couldn’t use the **most common products** in our lives. In this video, he explains how **good design** makes us happy.
 
-https://youtu.be/RlQEoJaLQRA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RlQEoJaLQRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Elliott Erwitt: ‘Photography is pretty simple. You just react to what you see’
 

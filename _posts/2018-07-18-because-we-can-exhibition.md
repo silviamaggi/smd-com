@@ -16,7 +16,9 @@ It is with great excitement that I can say three of my pictures are part of the 
 
 Shutter Hub at Festival Pil’ours, Saint-Gilles-Croix-de-Vie, France credit © Jayne Lloyd / Shutter Hub
 
-(Gallery of my photos)
+![You had blonde hair by Silvia Maggi](/assets/images/silvia-maggi_you-had-blonde-hair.jpg)
+![Make a wish by Silvia Maggi](/assets/images/silvia-maggi_make-a-wish.jpg)
+![Tell me a goonight story by Silvia Maggi](/assets/images/silvia-maggi_tell-me-a-goodnight-story.jpg)
 
 Read more about the exhibition on the [Shutter Hub blog](https://shutterhub.org.uk/because-we-can-exhibition-launch-and-photos/){:target="_blank"}.
 

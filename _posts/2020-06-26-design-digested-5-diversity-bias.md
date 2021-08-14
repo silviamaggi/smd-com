@@ -42,7 +42,7 @@ The design industry is [_71% White_](https://designcensus.org/). Lexi Namer list
 
 In his best-selling book _[The Design Of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank"}_, Donald A. Norman highlighted the issues with most doors. Their **design** gives people the **wrong signal**, which then needs an **explanation** to make it work. It’s not you.
 
-https://youtu.be/yY96hTb8WgI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yY96hTb8WgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Book
 

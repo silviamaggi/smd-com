@@ -1,6 +1,6 @@
 ---
 author: silvia
-categories: Design-Digested
+categories: Design
 description: As the line between encouraging people to use a product and tricking them is thinner than ever, I share a compelling article about dark patterns in UI to help you recognise them.
 ---
 ![Design, Digested: dark patterns in user interfaces](/assets/images/design-digested-16.jpg)

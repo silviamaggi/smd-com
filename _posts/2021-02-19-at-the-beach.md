@@ -9,4 +9,9 @@ In a couple of days, the Emilia-Romagna region is going to see stricter Covid-19
 
 Sun, mild temperatures, fresh air, face masks. It feels surreal, but it’s been almost a year.
 
+![At the beach](/assets/images/at-the-beach-silviamaggi-2.jpeg)
+![At the beach](/assets/images/at-the-beach-silviamaggi-3.jpeg)
+![Diga foranea sud](/assets/images/at-the-beach-silviamaggi-4.jpeg)
+![Learning to sail](/assets/images/at-the-beach-silviamaggi-5.jpeg)
+
 [Check my pictures on Flick](https://www.flickr.com/photos/silvia-m/){:target="_blank"}.

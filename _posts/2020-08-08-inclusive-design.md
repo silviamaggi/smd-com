@@ -38,7 +38,7 @@ Jason Ogle, together with Mina Markham, Farai Madzima and Derek Featherstone tou
 
 Time well spent, if you ask me.
 
-https://youtu.be/i9mTeKl3NVQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i9mTeKl3NVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Social Media
 
@@ -74,6 +74,6 @@ Watch the official video of the song _A Little Boy That Santa Claus Forgot On A 
 
 ### Video
 
-https://youtu.be/5M1XTw483Ew
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5M1XTw483Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Disclaimer: Minutes to Midnight is my husband. I’m sharing his music because I believe it’s a unique and touching project. Check his [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg/){:target="_blank"} to discover the entire album.

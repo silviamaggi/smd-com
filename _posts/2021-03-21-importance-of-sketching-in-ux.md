@@ -26,13 +26,13 @@ It can be a notebook, your phone’s camera, or both. **Observing and recording 
 
 ## Read the article
 
-* [Etch A Sketch: How to Use Sketching in User Experience Design](https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design?r=silvia-maggi){:target="_blank"}
+* [Etch A Sketch: How to Use Sketching in User Experience Design](https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design){:target="_blank"}
 
 ## Start sketching
 
 You don’t need to be an artist to sketch effectively but there are a few techniques you should learn. If you, like me, need to have visual cues and some explaination, Matt Corrall’s video helps greatly.
 
-https://youtu.be/vN2MFF2YZjo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vN2MFF2YZjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I used Matt’s advice to refine storyboard and wireframes for the [Acclimatize.me case study](https://silviamaggidesign.com/portfolio/case-study-acclimatize-me/){:target="_blank"}, and I’m happy with the result.
 
@@ -75,4 +75,4 @@ The workbook is the ideal companion of the book, where the theory behind the tec
 
 As much as wanted to follow my own advice and sketch every day, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up.
 
-After reading an article, I started a new journey and wrote about it on the post _[Learning to draw: a journey](https://silviamaggidesign.com/design/learning-to-draw/){:target="_blank"}_.
+After reading an article, I started a new journey and wrote about it on the post [Learning to draw: a journey](https://silviamaggidesign.com/design/learning-to-draw/){:target="_blank"}.
