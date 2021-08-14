@@ -4,18 +4,6 @@ title: I deleted my Twitter account and an update
 categories: Social-Media
 description: Today I tell you why I deleted my Twitter account and give you an update on why I've been silent on my blog lately.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![I deleted my Twitter account and an update](/assets/images/i-deleted-my-twitter-account.jpg)
 
 Photo by [Chris J. Davis](https://unsplash.com/@chrisjdavis){:target="_blank"} on [Unsplash](https://unsplash.com/s/photos/twitter){:target="_blank"}

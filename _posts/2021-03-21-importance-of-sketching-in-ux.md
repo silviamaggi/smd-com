@@ -4,18 +4,6 @@ title: The importance of sketching in UX and beyond
 categories: Design-Digested
 description: Sketching is one of the most important tools a UX Designer should master. Let's explore why, how, and go beyond.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Design, Digested #18: Start designing for inclusion](/assets/images/design-digested-18.webp)
 
 I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is **sketching**.

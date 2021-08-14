@@ -4,18 +4,6 @@ title: Design, Digested 8. How a Website Lost Community Trust
 categories: Accessibility
 description: A well-known website lost community trust with a redesign that didn't take into account its users with disabilities.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Design, Digested #8: How a Website Lost Community Trust](/assets/images/design-digested-8.jpg)
 
 Photo by Tara Evans on Unsplash, design by Silvia Maggi

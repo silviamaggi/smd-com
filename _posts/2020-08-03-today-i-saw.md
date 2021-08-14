@@ -3,18 +3,6 @@ author: silvia
 categories: Today-I-Saw
 description: With the intent of staying away from social media, I started "Today I Saw", a series where I post one photo and a few thoughts about it.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Today I saw](/assets/images/today-i-saw-silviamaggi.jpg)
 
 It’s that itch again. Today I saw something I like but can’t take a picture. Or, I can and do, but it’s doesn’t work on Instagram.

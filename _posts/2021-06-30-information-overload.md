@@ -3,18 +3,6 @@ author: silvia
 categories: Design-Digested
 description: On information overload and my plans for the newsletter Design, Digested.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Information overload](/assets/images/smd-blog-featured-image_lettera.webp)
 
 On the latest letter I sent out on 20 June, I set out my plans for the next few months. Ever felt overwhelmed by the quantity of information found on the internet? Then you’ll know what I’m talking about.

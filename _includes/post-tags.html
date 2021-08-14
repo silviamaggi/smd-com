@@ -1,0 +1,1 @@
+{% unless page.tags == empty %}<div class="post-tags">{% if post %}{% assign tags = post.tags %}{% else %}{% assign tags = page.tags %}{% endif %}<p>Tags: <strong>{% for tag in tags %}{{ tag }}{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong></p></div>{% endunless %}

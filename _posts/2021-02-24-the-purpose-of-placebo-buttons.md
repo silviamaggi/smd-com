@@ -3,18 +3,6 @@ author: silvia
 categories: Design
 description: Do pedestrian buttons work? Some of them don't. They're called placebo buttons. Read about their purpose.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![The purpose of placebo buttons](/assets/images/berlin-night-silviamaggi.webp)
 © Silvia Maggi – Berlin, 2016. No buttons here.
 

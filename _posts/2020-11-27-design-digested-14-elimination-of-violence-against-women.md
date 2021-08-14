@@ -4,18 +4,6 @@ title: Design, Digested 14. Elimination of violence against women
 categories: Design-Digested
 description: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Design, Digested #14: elimination of violence against women](/assets/images/un-women.webp)
 Photo by UN Women
 

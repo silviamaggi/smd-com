@@ -4,18 +4,6 @@ title: How Rebranding Cost Ravelry the Trust of Their Community
 categories: Design
 description: Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several usersadverse side effects from browsing the site. Let's explore what went wrong.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![How Rebranding Cost Ravelry the Trust of Their Community](/assets/images/ravelry-rebranding.webp)
 
 Photo by Tara Evans on Unsplash

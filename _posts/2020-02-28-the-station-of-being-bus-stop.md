@@ -4,18 +4,6 @@ title: The Station of Being Bus Stop Experience
 categories: Design
 description: A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![The Station of Being Bus Stop Experience](/assets/images/station-of-being-samuel-pettersson.webp)
 
 Photo by Samuel Pettersson

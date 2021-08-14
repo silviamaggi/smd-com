@@ -3,18 +3,6 @@ author: silvia
 categories: Photography
 description: Nature and a shallow depth of field create one of my favourite photography style. Here I present four pictures that make me happy.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Pictures that make me happy](/assets/images/pictures-that-make-me-happy-1.jpg)
 
 During the past sweltering weekend, I looked for a few pictures to make my website more personal: not many other things in photography make me happy as nature and a shallow depth of field.

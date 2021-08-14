@@ -4,18 +4,6 @@ title: How Instagram Drained My Creativity
 categories: Photography
 description: While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here's how my love for photography helped.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![How Instagram Drained My Creativity](/assets/images/20171218_lago_2001-silviamaggi.webp)
 
 While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here’s how my love for photography helped.

@@ -4,18 +4,6 @@ title: Design, Digested 6. Anti-Racist Lessons, Empathic Design And The Misogyny
 categories: Books
 description: Design inspiration series. Four anti-racist lessons, problems with empathic design and the misogyny of the workforce.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Design, Digested #6: Anti-Racist Lessons, Empathic Design And The Misogyny Of The Workforce](/assets/images/design-digested-6.jpg)
 
 Credits: Angelina Bambina/Adobe Stock, XD Ideas, Vox

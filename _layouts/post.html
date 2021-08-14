@@ -1,24 +1,9 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-<head>
-<meta charset="utf-8">
-<title>{{ page.title }}</title>
-<link rel="stylesheet" href="/assets/css/styles.css">
-{% feed_meta %}
-{% seo %}
-</head>
-<body>
-{% include navigation.html %}
+---
+layout: default
+---
 <h1>{{ page.title }}</h1>
 
-<p>
-  {{ page.date | date_to_string }}
-  {% assign author = site.authors | where: 'short_name', page.author | first %}
-  {% if author %}
-  - <a href="{{ author.url }}" title="Go to {{ author.name }} page">{{ author.name }}</a>
-  {% endif %}
-</p>
-
+{% include post-categories.html %}
+{% include post-tags.html %}
+{% include post-meta.html %}
 {{ content }}
-</body>
-</html>

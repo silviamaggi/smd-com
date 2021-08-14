@@ -3,18 +3,6 @@ author: silvia
 categories: Today-I-Saw
 description: Today I took time to appreciate my surroundings. After the rain shower, I shot a few pictures in my garden.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![After the rain by Silvia Maggi](/assets/images/after-the-rain-silviamaggi-1.jpg)
 
 Today, after the rain, I used the tripod to take a few short videos in the garden. With time, I will set up a YouTube channel to share them.

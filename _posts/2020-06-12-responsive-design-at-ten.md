@@ -4,18 +4,6 @@ title: Design, Digested 3. Language, Mobile Approach And Responsive Design At 10
 categories: Creativity
 description: Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Design, Digested #3: Language, Mobile Approach And Responsive Design At 10](/assets/images/design-digested-3.jpg)
 
 Design inspiration series. This week: language and storytelling, usability, mobile approach, responsive design at 10 and more.

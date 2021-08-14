@@ -4,18 +4,6 @@ author: silvia
 categories: Design-Digested
 description: In the first installment of the Design, Digested series since March, I share with you three reasons why the UX industry is currently broken.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Design Digested #19: What's wrong with UX - Part 1](/assets/images/smd-blog-dd-19.webp)
 
 In the first instalment of the _[Design, Digested](https://silviamaggidesign.com/?cat_ID=678)_ series since March, I share with you three reasons why the UX industry is currently broken.

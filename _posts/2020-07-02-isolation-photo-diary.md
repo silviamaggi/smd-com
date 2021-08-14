@@ -3,18 +3,6 @@ author: silvia
 categories: Creativity
 description: After the initial shock, the lockdown and subsequent isolation prompted me to point the lens to my emotions and immediate surroundings. Here I present my isolation photo diary.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Isolation photo diary](/assets/images/isolation-photo-diary-silviamaggi-1.jpg)
 
 Between the ups and downs of the global **pandemic** and **lockdown**, I kept taking pictures. I intended to have a **photo diary** to describe my take on **isolation** and the extraordinary circumstances we’re living.

@@ -4,18 +4,6 @@ title: The Pandemic is a Massive Opportunity for Change
 categories: Design
 description: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![The Pandemic is a Massive Opportunity for Change](/assets/images/charlie-deets.webp)
 
 Photo by Charlie Deets on Unsplash

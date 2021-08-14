@@ -4,18 +4,6 @@ title: A healthy walk in the pine forest
 categories: Photography
 description: Today I took a few pictures of the pine forest with my phone. It's a great feature to have close to home as an alternative to walking on the beach.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![A healthy walk in the pine forest](/assets/images/healthy-walk-pine-forest-1.jpg)
 
 A pine forest looks and smells so good it’s impossible to resist it. It’s a great feature to have close to home as an alternative to walking on the beach or staring at a screen.

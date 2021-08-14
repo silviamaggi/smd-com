@@ -4,18 +4,6 @@ title: Design, Digested 5. Diversity Bias
 categories: Books
 description: Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Design, Digested #5: Diversity Bias](/assets/images/design-digested-5.jpg)
 
 Photo by Clay Banks on Unsplash

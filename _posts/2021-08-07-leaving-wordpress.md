@@ -3,18 +3,6 @@ author: silvia
 categories: Personal
 description: An announcement to my WordPress followers.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Leaving WordPress](/assets/images/marco-chilese-unsplash.webp)
 
 An announcement to my WordPress followers.

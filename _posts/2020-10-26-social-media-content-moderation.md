@@ -4,18 +4,6 @@ title: Design, Digested 12. Social media content moderation issues and complicat
 categories: Social-Media
 description: This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Design, Digested #12: social media content moderation issues and complicated products](/assets/images/design-digested-12.jpg)
 Photo by [Ryoji Iwata](https://unsplash.com/@ryoji__iwata){:target="_blank"} on [Unsplash](https://unsplash.com/s/photos/humans){:target="_blank"}
 

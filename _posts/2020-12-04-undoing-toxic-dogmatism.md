@@ -4,18 +4,6 @@ title: Undoing toxic dogmatism; designing less; be more effective
 categories: Design
 description: Design, Digested 15. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Design, Digested #15: Undoing toxic dogmatism; designing less; be more effective](/assets/images/design-digested-15.jpg)
 
 ## Design, Digested #15

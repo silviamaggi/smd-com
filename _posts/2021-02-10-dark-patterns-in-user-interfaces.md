@@ -3,18 +3,6 @@ author: silvia
 categories: Design-Digested
 description: As the line between encouraging people to use a product and tricking them is thinner than ever, I share a compelling article about dark patterns in UI to help you recognise them.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Design, Digested: dark patterns in user interfaces](/assets/images/design-digested-16.jpg)
 
 Recently, I read a couple of compelling blog post about dark patterns in user interfaces copy that I want to share with you. They’re an essential read to understand what they are, how they’re used to deceive people and how to recognise them.

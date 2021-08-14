@@ -4,18 +4,6 @@ author: silvia
 categories: Social-Media
 description: I tell you what happened when I quit social media six months ago, and why I don't want to come back.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Life off social media, six months in](/assets/images/max-van-den-oetelaar-unsplash.webp)
 
 I used to be everywhere. Name the social media and, most probably, I had an account. Internet’s always been a big thing for me, and a certain kind of **online presence** was good for my profession, hobbies and relationships.

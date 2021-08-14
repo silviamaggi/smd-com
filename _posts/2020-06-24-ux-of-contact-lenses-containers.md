@@ -4,18 +4,6 @@ title: The UX of Contact Lenses Containers
 categories: Design
 description: Everyday things affects our lives, sometimes making us feel frustrated. This time I analyse the UX of contact lenses containers.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![The UX of Contact Lenses Containers](/assets/images/ux-of-contact-lenses-containers.jpg)
 
 Photo by David Travis on Unsplash

@@ -1,0 +1,1 @@
+{% unless page.categories == empty %}<div class="post-categories">{% if post %}{% assign categories = post.categories %}{% else %}{% assign categories = page.categories %}{% endif %}{% for category in categories %}<p>Category: <strong>{{ category }}</strong></p>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}</div>{% endunless %}

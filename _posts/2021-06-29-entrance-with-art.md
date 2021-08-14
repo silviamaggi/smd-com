@@ -3,18 +3,6 @@ author: silvia
 categories: Photography
 description: How is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Entrance with art](/assets/images/20210628-entrance-with-art.jpg)
 
 Stepping into our new house for the summer, I wonder: how is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.

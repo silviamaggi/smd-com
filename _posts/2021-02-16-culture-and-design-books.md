@@ -4,18 +4,6 @@ title: Brilliant culture and design books I’m reading
 categories: Books
 description: Here are the culture and design books I'm reading. Some are ideal if you're a designer, others are either very interesting or funny – or both – for anyone.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Recommended reads: brilliant culture and design books I’m reading](/assets/images/recommended-reads.jpg)
 
 As a child, I always had books with me. I loved losing myself into good stories, to the point it hurt when they finished. In later years, my attention span became ridiculously short.

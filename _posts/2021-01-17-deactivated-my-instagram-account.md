@@ -4,18 +4,6 @@ title: I deactivated my Instagram account. What now?
 categories: Photography
 description: I deactivated my Instagram account. What now? If it sounds like a big a deal, it's because it is. My first week post-Instagram.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![I deactivated my Instagram account. What now?](/assets/images/deactivated-instagram-account.jpg)
 
 Last weekend, I deactivated my Instagram account

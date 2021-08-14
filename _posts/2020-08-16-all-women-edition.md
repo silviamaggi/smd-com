@@ -4,18 +4,6 @@ title: Design, Digested 11. All-women edition
 categories: Diversity
 description: Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <strong>{{category}}</strong>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
 ![Design, Digested #11: All-women edition](/assets/images/design-digested-11-all-women-edition.jpg)
 
 Image credits: Shaniqwa Jarvis, Sara Wong, Emma
