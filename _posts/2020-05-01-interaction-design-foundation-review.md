@@ -3,6 +3,7 @@ author: silvia
 title: Interaction Design Foundation review
 categories: Design
 redirection: https://www.interaction-design.org/
+hidden: true
 ---
 ## This page has moved
 

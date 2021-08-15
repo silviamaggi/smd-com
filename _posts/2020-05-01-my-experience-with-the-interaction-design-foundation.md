@@ -3,6 +3,7 @@ author: silvia
 title: My experience with the Interaction Design Foundation
 categories: Design
 redirection: https://www.interaction-design.org/
+hidden: true
 ---
 ## This page has moved
 

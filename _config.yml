@@ -34,7 +34,7 @@ collections:
   authors:
     output: true
 
-paginate: 6
+paginate: 9
 paginate_path: "/blog/page:num/"
 
 # Plugins
