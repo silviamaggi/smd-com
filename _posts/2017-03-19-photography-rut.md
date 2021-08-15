@@ -4,6 +4,8 @@ title: Photography rut and little things in my garden
 categories: Creativity
 description: Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.
 featured-image: 20170319-img_4269.jpg
+redirect_from:
+  - /creativity/photography-rut-and-little-things-in-my-garden/
 ---
 Having an ongoing photo project is good, as it helps seeing things around us with a different perspective and noticing details usually overlooked in our day-to-day life.
 

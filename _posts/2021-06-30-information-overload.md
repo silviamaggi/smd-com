@@ -2,6 +2,10 @@
 author: silvia
 categories: Design-Digested
 description: On information overload and my plans for the newsletter Design, Digested.
+redirect_from:
+  - /design/information-overload/
+  - /it/design-it/sovraccarico-di-informazioni/
+  - /it/design-digested-it/sovraccarico-di-informazioni/
 ---
 ![Information overload](/assets/images/smd-blog-featured-image_lettera.jpg)
 

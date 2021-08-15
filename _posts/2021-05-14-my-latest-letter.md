@@ -2,6 +2,8 @@
 author: silvia
 categories: Design
 description: Every couple of weeks, I write a letter to the nice people subscribed to Design, Digested. This is the one where I didn't know what to write.
+redirect_from:
+  - /it/design-it/una-lettera/
 ---
 ![My latest letter](/assets/images/smd-blog-featured-image_lettera.jpg)
 

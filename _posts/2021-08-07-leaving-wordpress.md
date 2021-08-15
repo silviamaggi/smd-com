@@ -2,6 +2,8 @@
 author: silvia
 categories: Personal
 description: An announcement to my WordPress followers.
+redirect_from:
+  - /it/personale/lascio-wordpress/
 ---
 ![Leaving WordPress](/assets/images/marco-chilese-unsplash.jpg)
 

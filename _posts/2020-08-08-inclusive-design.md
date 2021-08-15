@@ -3,6 +3,8 @@ author: silvia
 title: Design, Digested 10. Inclusive Design, Problematic Social Media
 categories: Diversity
 description: Design inspiration series. Inclusive design, problematic social media facts, and a great music project.
+redirect_from:
+  - /diversity/design-digested-10-inclusive-design-social-media/
 ---
 ![Design, Digested 10. Inclusive Design, Problematic Social Media](/assets/images/design-digested-10.jpg)
 

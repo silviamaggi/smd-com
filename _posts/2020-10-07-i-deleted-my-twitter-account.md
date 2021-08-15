@@ -3,6 +3,8 @@ author: silvia
 title: I deleted my Twitter account and an update
 categories: Social-Media
 description: Today I tell you why I deleted my Twitter account and give you an update on why I've been silent on my blog lately.
+redirect_from:
+  - /social-media/why-i-deleted-my-twitter-account-and-an-update/
 ---
 ![I deleted my Twitter account and an update](/assets/images/i-deleted-my-twitter-account.jpg)
 

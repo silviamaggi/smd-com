@@ -2,6 +2,8 @@
 author: silvia
 categories: Photography
 description: New journey and new blog for my husband and I to record our thoughts, experiences and memories on Oregano Dangereux. Follow it as we move back to Italy from the UK.
+redirect_from:
+  - /photography/new-journey-new-blog/
 ---
 ![New journey, new blog by Silvia Maggi](/assets/images/new-journey-new-blog.jpg)
 

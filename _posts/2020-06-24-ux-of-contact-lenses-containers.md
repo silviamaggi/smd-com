@@ -3,6 +3,8 @@ author: silvia
 title: The UX of Contact Lenses Containers
 categories: Design
 description: Everyday things affects our lives, sometimes making us feel frustrated. This time I analyse the UX of contact lenses containers.
+redirect_from:
+  - /design/the-ux-of-contact-lenses-containers/
 ---
 ![The UX of Contact Lenses Containers](/assets/images/ux-of-contact-lenses-containers.jpg)
 

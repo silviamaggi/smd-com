@@ -3,6 +3,10 @@ author: silvia
 title: I deactivated my Instagram account. What now?
 categories: Photography
 description: I deactivated my Instagram account. What now? If it sounds like a big a deal, it's because it is. My first week post-Instagram.
+redirect_from:
+  - /i-deactivated-my-instagram-account-what-now/
+  - /photography/i-deactivated-my-instagram-account-what-now/
+  - /photography/i-deactivated-my-instagram-account/
 ---
 ![I deactivated my Instagram account. What now?](/assets/images/deactivated-instagram-account.jpg)
 

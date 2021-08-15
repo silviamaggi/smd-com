@@ -2,6 +2,8 @@
 author: silvia
 categories: Photography
 description: People, face masks, sun, mild temperatures. Pictures I took today at the beach in Marina di Ravenna.
+redirect_from:
+  - /it/fotografia/in-spiaggia/
 ---
 ![At the beach](/assets/images/at-the-beach-silviamaggi-1.jpg)
 

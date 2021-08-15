@@ -2,6 +2,11 @@
 author: silvia
 categories: Design
 description: As the line between encouraging people to use a product and tricking them is thinner than ever, I share a compelling article about dark patterns in UI to help you recognise them.
+redirect_from:
+  - /it/design-it/dark-patterns-web/
+  - /it/design-it/dark-pattern-web/
+  - /it/design/dark-patterns-web/
+  - /it/uncategorized-it/dark-patterns-web/
 ---
 ![Design, Digested: dark patterns in user interfaces](/assets/images/design-digested-16.jpg)
 

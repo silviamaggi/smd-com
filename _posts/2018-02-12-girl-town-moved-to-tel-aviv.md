@@ -2,6 +2,8 @@
 author: silvia
 categories: Photography
 description: Girl Town moved to Tel Aviv, Israel. The exhibition celebrates the culture of the female in the 21th century. By Shutter Hub, hosted at Albert Gallery.
+redirect_from:
+  - /photography/girl-town-tel-aviv/
 ---
 ![Girl Town – Silvia Maggi entry](/assets/images/girl-town-silviamaggi-header.jpg)
 

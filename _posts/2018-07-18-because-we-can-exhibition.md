@@ -3,6 +3,11 @@ author: silvia
 title: Because We Can Exhibition at Festival Pil’Ours
 categories: Exhibition
 description: I'm presenting three of my pictures as part of the Because We Can exhibition by Shutter Hub at Festival Pil'Ours.
+redirect_from:
+  - /because-we-can-shutter-hub-exhibition-festival-pilours/
+  - /exhibition/because-we-can-exhibition-festival-pilours/
+  - /exhibition/because-we-can-exhibition-shutter-hub-festival-pilours/
+  - /exhibition/because-we-can-shutter-hub-exhibition-festival-pilours/
 ---
 ![Because We Can Exhibition at Festival Pil’Ours](/assets/images/jayne_180718_7765-header.jpg)
 

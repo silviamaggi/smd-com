@@ -3,6 +3,8 @@ author: silvia
 title: Design, Digested 8. How a Website Lost Community Trust
 categories: Accessibility
 description: A well-known website lost community trust with a redesign that didn't take into account its users with disabilities.
+redirect_from:
+  - /accessibility/design-digested-8-how-a-well-known-website-lost-the-trust-of-their-community/
 ---
 ![Design, Digested #8: How a Website Lost Community Trust](/assets/images/design-digested-8.jpg)
 

@@ -2,6 +2,8 @@
 author: silvia
 categories: Photography
 description: How is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.
+redirect_from:
+  - /it/fotografia/entrata-con-arte/
 ---
 ![Entrance with art](/assets/images/20210628-entrance-with-art.jpg)
 

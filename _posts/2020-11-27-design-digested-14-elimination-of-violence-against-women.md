@@ -3,6 +3,8 @@ author: silvia
 title: Design, Digested 14. Elimination of violence against women
 categories: Design-Digested
 description: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
+redirect_from:
+  - /design-digested/design-digested-14-elimination-of-violence-against-women-edition/
 ---
 ![Design, Digested #14: elimination of violence against women](/assets/images/un-women.jpg)
 Photo by UN Women
