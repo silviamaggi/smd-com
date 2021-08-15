@@ -42,4 +42,4 @@ Jess Vergara’s message is simple: stop contributing to the **misogyny** of the
 
 Let’s finish this week’s digest with a smile. I recently rediscovered the pleasure of playing **video games** and how they can take our minds off the news and the current uncertain times we’re living. _Super Mario Bros._ is still one of my favourite games. The very first screen is the perfect example of how to explain a game without manuals: all you need to know is there, the rest you can learn along the way — something to keep in mind when it comes to **onboarding** experiences of digital products/websites.
 
-<iframe width="951" height="535" src="https://www.youtube.com/embed/K-NBcP0YUQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include pattern-video.html id="K-NBcP0YUQI" title="How the inventor of Mario designs a game" %}

@@ -13,7 +13,9 @@ I bought a Fujifilm X-T20. The main reason for me to switch from an entry-level 
 
 After reading the manual, though, it became clear that the little camera would make a more profound change in the way I take and process my pictures.
 
-![Soap bubbles, High St, Edinburgh](/assets/images/20170729-edinburgh-1298.jpg)
+{% include pattern-figure.html image="/assets/images/20170729-edinburgh-1298.jpg" caption="Soap bubbles, High St, Edinburgh" width="1399" height="740" %}
+
+<!-- ![Soap bubbles, High St, Edinburgh](/assets/images/20170729-edinburgh-1298.jpg) -->
 
 ## The Test
 
