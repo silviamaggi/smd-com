@@ -39,6 +39,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-paginate
 
 # Server
 host: 0.0.0.0
