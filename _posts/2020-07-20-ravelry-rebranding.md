@@ -3,9 +3,8 @@ author: silvia
 title: How Rebranding Cost Ravelry the Trust of Their Community
 categories: Design
 description: Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several usersadverse side effects from browsing the site. Let's explore what went wrong.
+featured-image: ravelry-rebranding.jpg
 ---
-![How Rebranding Cost Ravelry the Trust of Their Community](/assets/images/ravelry-rebranding.jpg)
-
 Photo by Tara Evans on Unsplash
 
 Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.

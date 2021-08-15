@@ -9,7 +9,7 @@ Having an ongoing photo project is good, as it helps seeing things around us wit
 
 My ongoing project is about the changes in nature and sky on my way to work with my bicycle. It began in July 2016, around the time I started a new job in Cambridge.
 
-![Longer Days on River cam](/assets/images/20170307-img_1724.jpg)
+{% include pattern-figure.html image="/assets/images/20170307-img_1724.jpg" caption="Longer Days on River Cam" width="1400" height="1050" %}
 
 I take pictures with a mobile phone and upload them on the website at the end of each season. My intention is to finish it by July 2017, but I don’t feel so enthusiastic about it as I have been up until the end of last year.
 
@@ -19,7 +19,7 @@ The truth is, I’m in a photography rut.
 
 To try to get out of it, I’m bringing the camera with me at work. This alone doesn’t help though, as I end up taking the same pictures over and over again.
 
-![March 2017, River Cam after work. Canon + Helios-44M.](/assets/images/20170317-img_42641.jpg)
+{% include pattern-figure.html image="/assets/images/20170317-img_42641.jpg" caption="March 2017, River Cam after work. Canon + Helios-44M" width="1400" height="933" %}
 
 So today I equipped my camera with a delightful Helios-44M lens, pointed it to the small things in my garden, and saw beautiful colours.
 

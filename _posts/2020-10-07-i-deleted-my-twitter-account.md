@@ -3,9 +3,8 @@ author: silvia
 title: I deleted my Twitter account and an update
 categories: Social-Media
 description: Today I tell you why I deleted my Twitter account and give you an update on why I've been silent on my blog lately.
+featured-image: i-deleted-my-twitter-account.jpg
 ---
-![I deleted my Twitter account and an update](/assets/images/i-deleted-my-twitter-account.jpg)
-
 Photo by [Chris J. Davis](https://unsplash.com/@chrisjdavis){:target="_blank"} on [Unsplash](https://unsplash.com/s/photos/twitter){:target="_blank"}
 
 Today I **deleted** my Twitter account, and it felt good. Lately, I’ve visited to keep up to date with other UX professional but it’s impossible to avoid retweets about **politics** and other topics.

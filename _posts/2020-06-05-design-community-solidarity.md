@@ -3,9 +3,8 @@ author: silvia
 title: Design, Digested 2. Design Community Solidarity
 categories: Books
 description: Design inspiration series. Design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.
+featured-image: design-digested-2.jpg
 ---
-![Design, Digested #2: Design Community Solidarity](/assets/images/design-digested-2.jpg)
-
 Image credits: C. Daniela Shapiro (@cds.art ), Leo and Diane Dillon, Spotify
 
 Design inspiration series. This week: design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.

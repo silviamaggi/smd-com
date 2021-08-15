@@ -3,8 +3,8 @@ author: silvia
 title: Design, Digested 12. Social media content moderation issues and complicated products
 categories: Social-Media
 description: This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.
+featured-image: design-digested-12.jpg
 ---
-![Design, Digested #12: social media content moderation issues and complicated products](/assets/images/design-digested-12.jpg)
 Photo by [Ryoji Iwata](https://unsplash.com/@ryoji__iwata){:target="_blank"} on [Unsplash](https://unsplash.com/s/photos/humans){:target="_blank"}
 
 After a two-month [hiatus](https://silviamaggidesign.com/today-i-saw/after-the-rain/){:target="_blank"}, the design inspiration series is back with a focus on social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.

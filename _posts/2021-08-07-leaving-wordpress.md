@@ -2,9 +2,8 @@
 author: silvia
 categories: Personal
 description: An announcement to my WordPress followers.
+featured-image: marco-chilese-unsplash.jpg
 ---
-![Leaving WordPress](/assets/images/marco-chilese-unsplash.jpg)
-
 An announcement to my WordPress followers.
 
 Soon, I’ll be starting a process to move away from WordPress: **my website will have a new house, look, and ways to be managed**.

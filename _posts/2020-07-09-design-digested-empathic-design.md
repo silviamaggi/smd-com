@@ -3,9 +3,8 @@ author: silvia
 title: Design, Digested 6. Anti-Racist Lessons, Empathic Design And The Misogyny Of The Workforce
 categories: Design
 description: Design inspiration series. Four anti-racist lessons, problems with empathic design and the misogyny of the workforce.
+featured-image: design-digested-6.jpg
 ---
-![Design, Digested #6: Anti-Racist Lessons, Empathic Design And The Misogyny Of The Workforce](/assets/images/design-digested-6.jpg)
-
 Credits: Angelina Bambina/Adobe Stock, XD Ideas, Vox
 
 Design inspiration series. This week: four anti-racism lessons, Don Norman doesn’t believe in empathic design and working in tech as a woman.

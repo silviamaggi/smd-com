@@ -3,14 +3,13 @@ author: silvia
 title: A healthy walk in the pine forest
 categories: Photography
 description: Today I took a few pictures of the pine forest with my phone. It's a great feature to have close to home as an alternative to walking on the beach.
+featured-image: healthy-walk-pine-forest-1.jpg
 ---
-![A healthy walk in the pine forest](/assets/images/healthy-walk-pine-forest-1.jpg)
-
 A pine forest looks and smells so good it’s impossible to resist it. It’s a great feature to have close to home as an alternative to walking on the beach or staring at a screen.
 
 I only had my phone with me, but I took a few pictures before retracing our steps to go back home. It’s been an 8 km hike. Yikes.
 
-![A healthy walk in the pine forest](/assets/images/healthy-walk-pine-forest-2.jpg)
+{% include pattern-figure.html image="/assets/images/healthy-walk-pine-forest-2.jpg" caption="Thumb-zone mapping explained by Samantha Ingram" width="1400" height="1866" %}
 
 Walking does magic to the body, but today my legs remind me that, during the past few months, I’ve been sedentary. As the temperatures warm, it’s easier to think about going out more and keep healthy.
 

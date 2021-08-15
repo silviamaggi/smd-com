@@ -2,12 +2,11 @@
 author: silvia
 categories: Design-Digested
 description: On information overload and my plans for the newsletter Design, Digested.
+featured-image: smd-blog-featured-image_lettera.jpg
 ---
-![Information overload](/assets/images/smd-blog-featured-image_lettera.jpg)
-
 On the latest letter I sent out on 20 June, I set out my plans for the next few months. Ever felt overwhelmed by the quantity of information found on the internet? Then you’ll know what I’m talking about.
 
-![Design, Digested, a newsletter by Silvia Maggi](/assets/images/design-digested-newsletter.jpg)
+{% include pattern-figure.html image="/assets/images/design-digested-newsletter.jpg" caption="Design, Digested, a newsletter by Silvia Maggi" width="1200" height="600" %}
 
 As the temperatures in this part of Italy hit 32˚C, I’m reminded how the human body takes time to adapt, and that I’m definitively still a stranger in my own country. Here’s the thing: I don’t want to get used to this.
 

@@ -2,9 +2,8 @@
 author: silvia
 categories: Design
 description: Every couple of weeks, I write a letter to the nice people subscribed to Design, Digested. This is the one where I didn't know what to write.
+featured-image: smd-blog-featured-image_lettera.jpg
 ---
-![My latest letter](/assets/images/smd-blog-featured-image_lettera.jpg)
-
 Every couple of weeks, I write a letter to the nice people subscribed to [_Design, Digested_](https://silviamaggidesign.com/design-inspiration-newsletter-silvia-maggi/){:target="_blank"}. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.
 
 ---
@@ -30,19 +29,19 @@ My favourite author, who now writes in Italian too. **This is her first Italian 
 
 A TV series friends recommended years ago, that I watched only recently. **Six brief series where a group of developers tries to build their start-up.** Loads of laughing-out-loud moments, and a few annoying ones. Blink and it’s the series finale, with nostalgia and a hint of sadness.
 
-* **[Check Silicon Valley on IMDB](https://www.imdb.com/title/tt2575988/?ref_=nv_sr_srsg_0){:target="_blank"}**
+* **[Check Silicon Valley on IMDB](https://www.imdb.com/title/tt2575988/){:target="_blank"}**
 
 ### For All Mankind
 
 **What would have happened if the Soviets landed on the moon first?** This series is a well done dystopia. Initially, I thought it was light entertainment but it confronts current themes in a clever way. The second season is available, a third is on the way.
 
-* **[Check For All Mankind on IMDB](https://www.imdb.com/title/tt7772588/?ref_=nv_sr_srsg_0){:target="_blank"}**
+* **[Check For All Mankind on IMDB](https://www.imdb.com/title/tt7772588/){:target="_blank"}**
 
 ### Sound of Metal
 
 **The life of Ruben, a metal drummer, falls apart when he suddenly loses his hearing.** I have yet to find the right words to describe this movie, and it’s fine. All the awards and nominations received are well earned.
 
-* **[Check Sound of Metal on IMDB](https://www.imdb.com/title/tt5363618/?ref_=nv_sr_srsg_0){:target="_blank"}**
+* **[Check Sound of Metal on IMDB](https://www.imdb.com/title/tt5363618/){:target="_blank"}**
 
 ## What surprised me
 

@@ -3,9 +3,8 @@ author: silvia
 title: The UX of Contact Lenses Containers
 categories: Design
 description: Everyday things affects our lives, sometimes making us feel frustrated. This time I analyse the UX of contact lenses containers.
+featured-image: ux-of-contact-lenses-containers.jpg
 ---
-![The UX of Contact Lenses Containers](/assets/images/ux-of-contact-lenses-containers.jpg)
-
 Photo by David Travis on Unsplash
 
 How is the **UX** **of** **contact lenses containers**? It’s easy to overlook what we use daily, and yet everyday things are usually the ones that make us feel **frustrated**.
@@ -18,13 +17,9 @@ This little mishap prompted me to understand what went wrong. Of course, I might
 
 Something was off. After a quick [search](https://www.google.com/search?q=contact+lenses+container&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjp4vyNu5rqAhVeRxUIHdhLDDAQ_AUoAnoECCEQBA&biw=1261&bih=733&dpr=2){:target="_blank"} (the link opens a Google search window), I found out that the containers look very similar – excluding the novelty ones. They usually have two colours and one letter on at least one lid, just like the one I was using.
 
-![The UX of Contact Lenses Containers](/assets/images/lenses-container-1.jpg)
+{% include pattern-figure.html image="/assets/images/lenses-container-1.jpg" caption="Off-brand contact lenses container" width="1400" height="895" %}
 
-Off-brand contact lenses container
-
-![The UX of Contact Lenses Containers](/assets/images/lenses-container-2.jpg)
-
-Famous-brand contact lenses container
+{% include pattern-figure.html image="/assets/images/lenses-container-2.jpg" caption="Famous-brand contact lenses container" width="1400" height="895" %}
 
 The colours of the lids are switched, and the letters on the off-brand lids are thinner.
 

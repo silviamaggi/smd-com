@@ -3,9 +3,8 @@ author: silvia
 title: The Station of Being Bus Stop Experience
 categories: Design
 description: A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.
+featured-image: station-of-being-samuel-pettersson.jpg
 ---
-![The Station of Being Bus Stop Experience](/assets/images/station-of-being-samuel-pettersson.jpg)
-
 Photo by Samuel Pettersson
 
 A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.
@@ -32,4 +31,4 @@ During the first couple of weeks after the opening, the studio observed a 35% in
 
 Take a look at the video below, what do you think?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GsdXOyJvnZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include pattern-video.html id="GsdXOyJvnZM" title="Station of Being is an interactive Arctic bus stop" %}
