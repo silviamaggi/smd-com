@@ -7,6 +7,8 @@ featured-image: instagram-bug.jpg
 ---
 Instagram is reportedly fixing the camera on bug, which was discovered by a user while testing Apple’s iOS 14 beta version.
 
+<!--more-->
+
 The upcoming iOS 14 alerts users every time apps access phone features like clipboard and camera. A person who is testing the beta version found out that Instagram switches the camera – and arguably the microphone – on when browsing the feed.
 
 https://twitter.com/KevDoy/status/1283987495948914689?s=20

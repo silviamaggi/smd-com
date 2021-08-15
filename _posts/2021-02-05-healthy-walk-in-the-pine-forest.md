@@ -7,6 +7,8 @@ featured-image: healthy-walk-pine-forest-1.jpg
 ---
 A pine forest looks and smells so good it’s impossible to resist it. It’s a great feature to have close to home as an alternative to walking on the beach or staring at a screen.
 
+<!--more-->
+
 I only had my phone with me, but I took a few pictures before retracing our steps to go back home. It’s been an 8 km hike. Yikes.
 
 {% include pattern-figure.html image="/assets/images/healthy-walk-pine-forest-2.jpg" caption="Thumb-zone mapping explained by Samantha Ingram" width="1400" height="1866" %}

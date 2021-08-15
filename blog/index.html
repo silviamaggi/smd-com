@@ -4,33 +4,17 @@ description: This is Silvia Maggi's blog, a place where I write about design, te
 redirect_from:
   - /latest/
 ---
-<!-- temporary -->
-<style media="screen">
-  .pag-first,
-  .pag-last {
-   color: white;
-  }
-</style>
-<!-- /end temporary -->
 <h1>Blog</h1>
 {% for post in paginator.posts %}
 <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
 <p class="post-meta">{{ post.date | date_to_string }}{% assign author = site.authors | where: 'short_name', page.author | first %}{% if author %} - <a href="{{ author.url }}" title="Go to {{ author.name }} page">{{ author.name }}</a>{% endif %}</p>
-<div class="content">{{ post.excerpt }}</div>
-{% endfor %}
-<!-- Pagination links -->
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">&larr; Prev</a>{% else %}<span class="pag-first">&larr; Prev</span>{% endif %}
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-    <em>{{ page }}</em>
-    {% elsif page == 1 %}
-    <a href="{{ '/blog/' | relative_url }}">{{ page }}</a>
-    {% else %}
-    <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-  {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">Next &rarr;</a>{% else %}<span class="pag-last">Next &rarr;</span>{% endif %}
+<div class="content">{{ post.excerpt | markdownify }}
+  <div><a class="button" href="{{ post.url }}" title="Read the entire post">Read more</a></div>
 </div>
-{% endif %}
+{% endfor -%}
+
+<nav class="nav nav-paginator">
+  {% if paginator.previous_page -%}<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination pagination-previous">&larr; Newer</a>{%- endif %}
+  <span class="pagination pagination-counter">Page: <strong>{{ paginator.page }} of {{ paginator.total_pages }}</strong></span>
+  {% if paginator.next_page %}<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination pagination-next">Older &rarr;</a>{% endif %}
+</nav>

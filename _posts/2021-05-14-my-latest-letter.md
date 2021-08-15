@@ -8,6 +8,8 @@ redirect_from:
 ---
 Every couple of weeks, I write a letter to the nice people subscribed to [_Design, Digested_](https://silviamaggidesign.com/design-inspiration-newsletter-silvia-maggi/){:target="_blank" rel="noopener"}. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.
 
+<!--more-->
+
 ---
 I was initially embarrassed while thinking about what to tell you. Yet, what I read, watch and interests me everyday helps me grow. Or simply amuses me.
 

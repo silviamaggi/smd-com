@@ -7,6 +7,8 @@ featured-image: sam-rios-unsplash.jpg
 ---
 In my latest _Design, Digested_ post titled [The importance of sketching in UX and beyond](https://silviamaggidesign.com/design-digested/importance-of-sketching-in-ux/){:target="_blank" rel="noopener"}, I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up.
 
+<!--more-->
+
 Being a life-long learner, I love to develop news skills. However, if there is something I know about myself, is that I need structure and some guidance, otherwise every attempt will be void.
 
 Very recently, I’ve encountered an article wrote by Jane Zhang, an independent data visualization designer, about [why she’s finally learning to draw](https://janezhang.ca/posts/why-im-learning-to-draw/){:target="_blank" rel="noopener"}. Jane is following the lessons from [Drawabox.com](https://drawabox.com/){:target="_blank" rel="noopener"}, and shared a video from their instructor that perfectly describes **what happens every time I’m faced with a blank page**.

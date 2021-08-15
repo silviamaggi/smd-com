@@ -10,6 +10,8 @@ redirect_from:
 ---
 As a child, I always had books with me. I loved losing myself into good stories, to the point it hurt when they finished. In later years, my attention span became ridiculously short.
 
+<!--more-->
+
 Recently though, I was able to finish a few titles I’ve been dragging for months and start a few more. Here are the culture and design books I’m reading. Some of them are ideal if you’re a designer, others are either very interesting or funny – or both – for anyone.
 
 ## The Culture Map

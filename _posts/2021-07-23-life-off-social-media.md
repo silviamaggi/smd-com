@@ -7,6 +7,8 @@ featured-image: max-van-den-oetelaar-unsplash.jpg
 ---
 I used to be everywhere. Name the social media and, most probably, I had an account. Internet’s always been a big thing for me, and a certain kind of **online presence** was good for my profession, hobbies and relationships.
 
+<!--more-->
+
 The ones I liked most were Twitter, Flickr and LinkedIn. I’ve been a fairly early adopter. Then came Facebook and Instagram, which became the main reasons why I closed most of my accounts.
 
 I’ve had a love-hate relationship with Facebook since the beginning. The first time I logged in, I hated the interface, the colours, and couldn’t understand its purpose. In fact, I closed my account right away, only to be enticed back some time later by friends because _“we’re all on there and it’s fun”_.

@@ -6,6 +6,8 @@ featured-image: after-the-rain-silviamaggi-1.jpg
 ---
 Today, after the rain, I used the tripod to take a few short videos in the garden. With time, I will set up a YouTube channel to share them.
 
+<!--more-->
+
 As _[Design, Digested](https://silviamaggidesign.com/?cat_ID=678){:target="_blank" rel="noopener"}_ went on holiday with good reasons – read why in my [latest letter](https://us10.campaign-archive.com/?u=0c9027b00ef8ad1210adae70d&id=509de179c7){:target="_blank" rel="noopener"} – I took time today to appreciate my surroundings after a rain shower.
 
 {% include pattern-figure.html image="/assets/images/after-the-rain-silviamaggi-2.jpg" caption="After the rain #2" width="1400" height="933" %}

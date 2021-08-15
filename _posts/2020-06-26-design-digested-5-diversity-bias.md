@@ -3,12 +3,11 @@ author: silvia
 title: Design, Digested 5. Diversity Bias
 categories: Books
 description: Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
+excerpt: Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
 featured-image: design-digested-5.jpg
 redirect_from:
   - /books/design-digested-5-design-diversity-problems-and-bias/
 ---
-Photo by Clay Banks on Unsplash
-
 This week: diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
 
 ## Articles
@@ -52,3 +51,5 @@ In his best-selling book _[The Design Of Everyday Things](https://www.goodreads.
 > _Invisible Women_ […] exposes the **gender data gap** – a gap in our knowledge that is at the root of perpetual, systemic **discrimination** against women, and that has created a pervasive but invisible **bias** with a profound effect on **women**’s lives.
 
 **[Read about the book](https://www.carolinecriadoperez.com/books){:target="_blank" rel="noopener"}** on Caroline Criado Perez’s website.
+
+<small>Photo by Clay Banks on Unsplash</small>

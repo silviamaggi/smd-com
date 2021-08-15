@@ -6,6 +6,8 @@ featured-image: pictures-that-make-me-happy-1.jpg
 ---
 During the past sweltering weekend, I looked for a few pictures to make my website more personal: not many other things in photography make me happy as nature and a shallow depth of field.
 
+<!--more-->
+
 {% include pattern-figure.html image="/assets/images/pictures-that-make-me-happy-2.jpg" caption="Pictures that make me happy #2" width="1400" height="933" %}
 
 As my main website is purely for introduction to my work and experience, I didn’t want big photos to steal the visitor’s attention. But they needed to represent me, which I think they do.

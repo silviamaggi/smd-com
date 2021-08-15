@@ -3,6 +3,7 @@ author: silvia
 title: Design, Digested 4. Black Women In UX, How To Foster Creativity And An Unimpressed Bowie
 categories: Creativity
 description: Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.
+excerpt: Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.
 featured-image: design-digested-4.jpg
 redirect_from:
   - /creativity/design-digested-4-black-women-in-ux-foster-creativity-bowie-scolded-mtv/

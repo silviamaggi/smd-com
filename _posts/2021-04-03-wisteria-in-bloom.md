@@ -8,6 +8,8 @@ redirect_from:
 ---
 Before the weather turned chilly again, we’ve enjoyed very mild temperatures. It’s easy to think the winter has gone, when the temperature is 22ºC and the flowers are blooming.
 
+<!--more-->
+
 {% include pattern-figure.html image="/assets/images/20210403-wisteria-in-bloom-2.jpg" caption="Wisteria in bloom" width="1400" height="934" %}
 
 Only a few days ago, the wisteria in the yard was pretty much asleep. Now, it’s giving us a hint of its beauty.

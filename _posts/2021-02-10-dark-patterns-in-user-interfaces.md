@@ -11,6 +11,8 @@ redirect_from:
 ---
 Recently, I read a couple of compelling blog post about dark patterns in user interfaces copy that I want to share with you. They’re an essential read to understand what they are, how they’re used to deceive people and how to recognise them.
 
+<!--more-->
+
 The many examples of UI dark patterns in the articles show how shady the internet has become, with the line between encouraging people to use a product and tricking them into handing over personal data or money being thinner than ever.
 
 The articles are an essential read if you are:

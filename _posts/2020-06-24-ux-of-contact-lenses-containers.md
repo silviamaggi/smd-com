@@ -7,9 +7,9 @@ featured-image: ux-of-contact-lenses-containers.jpg
 redirect_from:
   - /design/the-ux-of-contact-lenses-containers/
 ---
-Photo by David Travis on Unsplash
-
 How is the **UX** **of** **contact lenses containers**? It’s easy to overlook what we use daily, and yet everyday things are usually the ones that make us feel **frustrated**.
+
+<!--more-->
 
 A few months ago, I switched my multipurpose lens solution from a famous brand to an off-brand. Everything went smoothly, until I put the right lens into my left eye, and viceversa.
 
@@ -52,3 +52,5 @@ Did you have a similar experience with contact lenses container? Or a completely
 ---
 
 The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.
+
+<small>Photo by David Travis on Unsplash</small>

@@ -8,9 +8,9 @@ redirect_from:
   - /2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/
   - /design/how-rebranding-cost-ravelry-the-trust-of-their-community/
 ---
-Photo by Tara Evans on Unsplash
-
 Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.
+
+<!--more-->
 
 Well-known among knitters, crocheters, designers, spinners, and dyers, Ravelry is a free platform where users can organise and keep track of their projects, network with other people and sell their designs.
 
@@ -106,3 +106,5 @@ _**Update**_ – _**23 March 2021**: added an article about why overlay accessib
 * [Color accessibility: tools and resources to help you design inclusive products](https://stephaniewalter.design/blog/color-accessibility-tools-resources-to-design-inclusive-products/){:target="_blank" rel="noopener"}
 * [Why Accessibility Overlay Solutions Fail to Protect or Serve](https://www.accessibility.works/blog/avoid-accessibility-overlay-tools-toolbar-plugins/){:target="_blank" rel="noopener"}
 * [The A11Y Project – Accessibility helps everyone](https://www.a11yproject.com/){:target="_blank" rel="noopener"}
+
+<small>Photo by Tara Evans on Unsplash</small>

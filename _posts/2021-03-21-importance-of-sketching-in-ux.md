@@ -7,6 +7,8 @@ featured-image: design-digested-18.jpg
 ---
 I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is **sketching**.
 
+<!--more-->
+
 If you know how to convey your ideas and concepts through sketches, the rest follows.
 
 Unless you were hired to create a UX team from scratch, chances are you’ll have to **adapt to use** whatever software your company is using: Axure, Adobe, Figma, Sketch and so on. The one skill you’ll have to develop is the willingness to **put as many ideas as possible on paper**, and leave behind the ones that don’t work.

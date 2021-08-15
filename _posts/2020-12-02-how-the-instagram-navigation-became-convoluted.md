@@ -7,6 +7,8 @@ featured-image: lalo-hernandez-unsplash.jpg
 ---
 With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let’s briefly explore how.
 
+<!--more-->
+
 ## The reason
 
 [Announcing the changes](https://about.instagram.com/blog/announcements/introducing-reels-and-shop-tabs){:target="_blank" rel="noopener"}, Adam Mosseri, Head of Instagram, pointed out how the pandemic changed the way people use the app. Short and entertaining videos became prominent, and people started buying more online.

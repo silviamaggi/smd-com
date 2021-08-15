@@ -10,6 +10,8 @@ An announcement to my WordPress followers.
 
 Soon, I’ll be starting a process to move away from WordPress: **my website will have a new house, look, and ways to be managed**.
 
+<!--more-->
+
 This means that my blog posts won’t appear in your feed anymore and, if you’re following me via email, you’ll stop receiving them in your inbox.
 
 At the moment, I don’t have an alternative to provide, so **the best way to keep in touch would be to sign up to my mailing list using the form below**.
