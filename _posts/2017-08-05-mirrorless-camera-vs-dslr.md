@@ -3,13 +3,12 @@ author: silvia
 title: Mirrorless camera vs DSLR. My experience
 categories: Photography
 description: Mirrorless camera vs DSLR. My experience. How switching from an entry-level Canon DSLR to a mirrorless camera changed my photography mindset.
+featured-image: 20170804_edinburgh_1265.jpg
 redirect_from:
   - /photography/a-mirrorless-camera-changed-my-mindset/
   - /photography/about-fuji-and-changing-mindset/
   - /photography/about-fujifilm-and-changing-mindset/
 ---
-![Calton Hill, Edinburgh](/assets/images/20170804_edinburgh_1265.jpg)
-
 How switching from an entry-level Canon DSLR to a mirrorless camera changed my photography mindset.
 
 I bought a Fujifilm X-T20. The main reason for me to switch from an entry-level Canon
@@ -18,8 +17,6 @@ I bought a Fujifilm X-T20. The main reason for me to switch from an entry-level 
 After reading the manual, though, it became clear that the little camera would make a more profound change in the way I take and process my pictures.
 
 {% include pattern-figure.html image="/assets/images/20170729-edinburgh-1298.jpg" caption="Soap bubbles, High St, Edinburgh" width="1399" height="740" %}
-
-<!-- ![Soap bubbles, High St, Edinburgh](/assets/images/20170729-edinburgh-1298.jpg) -->
 
 ## The Test
 
@@ -33,14 +30,14 @@ I’ve decided to make good use of the help the camera can give me by using the 
 * A film simulation mode of my choice
 * RAW + JPEG
 
-![The view from Calton Hill, Edinburgh](/assets/images/20170729-silvia-1249.jpg)
+{% include pattern-figure.html image="/assets/images/20170729-silvia-1249.jpg" caption="The view from Calton Hill, Edinburgh" width="1400" height="933" %}
 
 Off I went, noticing how freeing was it not having to stop to change the settings every time the light changed, missing the moment, and the pleasure of taking pictures.
 
 The design of the camera is beautifully vintage, so it felt natural having film simulator modes to complete the experience.  
 During my days in Edinburgh, I used the _Astia Soft_.
 
-![The view from Calton Hill, Edinburgh](/assets/images/20170729-silvia-1264.jpg)
+{% include pattern-figure.html image="/assets/images/20170729-silvia-1264.jpg" caption="The view from Calton Hill, Edinburgh" width="1400" height="933" %}
 
 ## The Setback
 
@@ -50,7 +47,7 @@ The RAW files were painfully slow to import in Lightroom and, after the edits, t
 
 Even if Lightroom provides Fujifilm’s film simulation profiles, nothing I did could make the RAW files to look like the JPEGs.
 
-![Salisbury Crags and Arthur’s Seat from Calton Hill](/assets/images/20170729-silvia-12691.jpg)
+{% include pattern-figure.html image="/assets/images/20170729-silvia-12691.jpg" caption="Salisbury Crags and Arthur’s Seat from Calton Hill" width="1400" height="933" %}
 
 It seemed that by carrying on with the same process I used with the Canon, I was going to waste a lot of time.
 
@@ -68,7 +65,7 @@ What I am doing now is trying to get the best in-camera result, by modifying the
 
 Then, I import the out-of-the-camera JPGs into Lightroom and make some changes before saving them, moving the RAW files directly to an external drive.
 
-![Dean Gardens](/assets/images/20170730-silvia-1341.jpg)
+{% include pattern-figure.html image="/assets/images/20170730-silvia-1341.jpg" caption="Dean Gardens" width="1400" height="933" %}
 
 A professional photographer probably wouldn’t agree with this process, but for now, it makes a big difference for me.
 

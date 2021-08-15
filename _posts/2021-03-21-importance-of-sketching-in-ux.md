@@ -3,9 +3,8 @@ author: silvia
 title: The importance of sketching in UX and beyond
 categories: Design-Digested
 description: Sketching is one of the most important tools a UX Designer should master. Let's explore why, how, and go beyond.
+featured-image: design-digested-18.jpg
 ---
-![Design, Digested #18: Start designing for inclusion](/assets/images/design-digested-18.jpg)
-
 I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is **sketching**.
 
 If you know how to convey your ideas and concepts through sketches, the rest follows.
@@ -14,7 +13,7 @@ Unless you were hired to create a UX team from scratch, chances are you’ll hav
 
 Up until recently, drawing — or even writing something on a whiteboard — terrified me. I’m very self-conscious about my bad writing, and being left-handed often led me to present smudges to people.
 
-An article from the [Interaction Design Foundation](https://www.interaction-design.org/){:target="_blank"} convinced me to get over my fears and start sketching, even in my day-to-day life.
+An article from the Interaction Design Foundation convinced me to get over my fears and start sketching, even in my day-to-day life.
 
 Jose Rojas, the article’s author, highlights the advantages and **methods of sketching**. However, what struck me most was the following advice:
 
@@ -32,7 +31,7 @@ It can be a notebook, your phone’s camera, or both. **Observing and recording 
 
 You don’t need to be an artist to sketch effectively but there are a few techniques you should learn. If you, like me, need to have visual cues and some explaination, Matt Corrall’s video helps greatly.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vN2MFF2YZjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include pattern-video.html id="vN2MFF2YZjo" title="Sketching Techniques #1" %}
 
 I used Matt’s advice to refine storyboard and wireframes for the [Acclimatize.me case study](https://silviamaggidesign.com/portfolio/case-study-acclimatize-me/){:target="_blank"}, and I’m happy with the result.
 
@@ -66,7 +65,7 @@ If you wish to take it to next level, Dr. Betty Edwards’ _New Drawing on the R
 
 The workbook is the ideal companion of the book, where the theory behind the techniques is explained. Although, I went directly for the exercises.
 
-![The new drawing on the right side of the brain workbook](/assets/images/drawing-on-the-right-side-of-the-brain-1.jpg)
+{% include pattern-figure.html image="/assets/images/drawing-on-the-right-side-of-the-brain-1.jpg" caption="The new drawing on the right side of the brain workbook" width="458" height="630" %}
 
 * [The New Drawing on the Right Side of the Brain](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain){:target="_blank"}
 * [The New Drawing on the Right Side of the Brain Workbook: Guided Practice in the Five Basic Skills of Drawing](https://www.goodreads.com/book/show/74124.The_New_Drawing_on_the_Right_Side_of_the_Brain_Workbook){:target="_blank"}

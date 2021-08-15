@@ -3,11 +3,10 @@ author: silvia
 title: Design, Digested 1. Killing Eve Set Design, Accessibility On Social Media, Bad vs Good Design
 categories: Books
 description: First instalment of my design inspiration series. Killing Eve set design, accessibility on social media, bad design vs good design, and more.
+featured-image: design-digested-1.jpg
 redirect_from:
   - /books/design-digested-1/
 ---
-![Design, Digested #1: Killing Eve Set Design, Accessibility On Social Media, Bad vs Good Design](/assets/images/design-digested-1.jpg)
-
 Image credits: Sid Gentle and Ian Johnson Publicity, Unknown, Jorge Gonzalez / Copyright terms and licence: CC BY-SA 2.0
 
 First instalment of my design inspiration series. This week: Killing Eve set design, accessibility on social media, bad design vs good design, and more.  
@@ -42,7 +41,7 @@ Design is what determines a **good** or **bad experience** on websites and, eith
 
 Being able to critique other people’s design choices helps us to understand the reasons behind our **reactions** to **online experiences**. Most of us have websites now and, whether you’re a designer or not, there are ways to make yours a place where people are likely to **visit again**.
 
-[**Read the article**](https://www.interaction-design.org/literature/article/bad-design-vs-good-design-5-examples-we-can-learn-frombad-design-vs-good-design-5-examples-we-can-learn-from-130706?r=silvia-maggi){:target="_blank"} on the Interaction Design Foundation website.
+[**Read the article**](https://www.interaction-design.org/literature/article/bad-design-vs-good-design-5-examples-we-can-learn-frombad-design-vs-good-design-5-examples-we-can-learn-from-130706){:target="_blank"} on the Interaction Design Foundation website.
 
 ## Podcast
 

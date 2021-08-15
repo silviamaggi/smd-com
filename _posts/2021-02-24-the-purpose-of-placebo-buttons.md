@@ -2,8 +2,8 @@
 author: silvia
 categories: Design
 description: Do pedestrian buttons work? Some of them don't. They're called placebo buttons. Read about their purpose.
+featured-image: berlin-night-silviamaggi.jpg
 ---
-![The purpose of placebo buttons](/assets/images/berlin-night-silviamaggi.jpg)
 © Silvia Maggi – Berlin, 2016. No buttons here.
 
 If you ever needed to cross a busy road in any city, chances are you wondered whether pedestrian buttons _actually_ make your waiting time shorter.

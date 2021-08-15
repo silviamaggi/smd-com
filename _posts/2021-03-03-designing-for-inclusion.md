@@ -3,9 +3,8 @@ author: silvia
 title: Start designing for inclusion
 categories: Design-Digested
 description: What does it mean designing for inclusion? Inclusive design is gaining a lot of attention lately, and rightly so. Articles and resources to start.
+featured-image: design-digested-17.jpg
 ---
-![Design, Digested #17: The importance of sketching in UX and beyond](/assets/images/design-digested-17.jpg)
-
 What does it mean designing for inclusion? Inclusive design is gaining a lot of attention lately, and rightly so. The following articles and resources are a good start to understand how biases influence our work and what to pay attention to when starting a new project.
 
 For Stacie Sheldon, an American Indian UX professional, it all starts with words.

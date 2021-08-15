@@ -3,11 +3,10 @@ author: silvia
 title: Design, Digested 10. Inclusive Design, Problematic Social Media
 categories: Diversity
 description: Design inspiration series. Inclusive design, problematic social media facts, and a great music project.
+featured-image: design-digested-10.jpg
 redirect_from:
   - /diversity/design-digested-10-inclusive-design-social-media/
 ---
-![Design, Digested 10. Inclusive Design, Problematic Social Media](/assets/images/design-digested-10.jpg)
-
 Photo by [Daria Nepriakhina](https://unsplash.com/@epicantus){:target="_blank"} on [Unsplash](https://unsplash.com/){:target="_blank"}
 
 On week number 10 of my design inspiration series, I share resources about **inclusive design**, **problematic social media** facts, and a great music project.
@@ -40,7 +39,7 @@ Jason Ogle, together with Mina Markham, Farai Madzima and Derek Featherstone tou
 
 Time well spent, if you ask me.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i9mTeKl3NVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include pattern-video.html id="i9mTeKl3NVQ" title="071: Live Podcast at An Event Apart w Mina Markham, Farai Madzima, & Derek Featherstone" %}
 
 ### Social Media
 
@@ -76,6 +75,6 @@ Watch the official video of the song _A Little Boy That Santa Claus Forgot On A 
 
 ### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5M1XTw483Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include pattern-video.html id="5M1XTw483Ew" title="Minutes to Midnight - A Little Boy That Santa Claus Forgot On A B-29 [Rock] (2019) Music Video" %}
 
 Disclaimer: Minutes to Midnight is my husband. I’m sharing his music because I believe it’s a unique and touching project. Check his [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg/){:target="_blank"} to discover the entire album.

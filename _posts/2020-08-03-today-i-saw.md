@@ -2,9 +2,8 @@
 author: silvia
 categories: Today-I-Saw
 description: With the intent of staying away from social media, I started "Today I Saw", a series where I post one photo and a few thoughts about it.
+featured-image: today-i-saw-silviamaggi.jpg
 ---
-![Today I saw](/assets/images/today-i-saw-silviamaggi.jpg)
-
 It’s that itch again. Today I saw something I like but can’t take a picture. Or, I can and do, but it’s doesn’t work on Instagram.
 
 It happens a lot of times: I even wrote a post called [How Instagram Drained My Creativity](https://silviamaggidesign.com/2019/05/27/how-instagram-drained-my-creativity/){:target="_blank"}, where I described what made me appreciate photography again. More than a year later, I’ve yet to free myself from the loop of brief satisfaction of the numbers and the desire to have more.

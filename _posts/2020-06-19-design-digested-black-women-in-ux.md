@@ -3,12 +3,11 @@ author: silvia
 title: Design, Digested 4. Black Women In UX, How To Foster Creativity And An Unimpressed Bowie
 categories: Creativity
 description: Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.
+featured-image: design-digested-4.jpg
 redirect_from:
   - /creativity/design-digested-4-black-women-in-ux-foster-creativity-bowie-scolded-mtv/
   - /creativity/design-digested-4-black-women-in-ux-foster-creativity-unimpressed-bowie/
 ---
-![Design, Digested #4: Black Women In UX, How To Foster Creativity And An Unimpressed Bowie](/assets/images/design-digested-4.jpg)
-
 Credits: Ann O., Stephanie McCabe @ Unsplash
 
 ## Articles
@@ -29,13 +28,13 @@ IBM will no longer provide **facial recognition technology** to police departmen
 
 Creativity is often associated with **lightbulb** moments, strokes of **genius** and the ability to think outside the box. In reality, having a **structure** and a **routine** helps significantly in being both creative and **productive**.
 
-**[Read the article](https://www.interaction-design.org/literature/article/3-personal-habits-that-will-foster-your-creativity?r=silvia-maggi){:target="_blank"}** on Interaction Design Foundation.
+**[Read the article](https://www.interaction-design.org/literature/article/3-personal-habits-that-will-foster-your-creativity){:target="_blank"}** on Interaction Design Foundation.
 
 ### What Coronavirus Reveals About The World’s Culture
 
 If a person reveals their real **character** in a **crisis**, the same is valid for a country. This article is a compelling read that observes how various **countries** dealt with the **pandemic** and the **lockdowns**, revealing what matters to them most.
 
-**[Read the article](http://www.bbc.com/travel/story/20200327-what-coronavirus-reveals-about-the-worlds-culture?fbclid=IwAR2iwBmUn49eDLfFOHfyC2Kv7tQ5lfTUwVbX7nmXybW6E673yOSsB1mCGUM){:target="_blank"}** on BBC Travel.
+**[Read the article](http://www.bbc.com/travel/story/20200327-what-coronavirus-reveals-about-the-worlds-culture){:target="_blank"}** on BBC Travel.
 
 ## Video
 
@@ -43,4 +42,4 @@ If a person reveals their real **character** in a **crisis**, the same is valid 
 
 As a big fan of **David Bowie**’s, I was delighted to see this video widely shared on Twitter last week. Bowie becomes the interviewer while he **calls out** MTV on **racism**, but the answers he gets don’t impress him – and rightly so.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XZGiVzIr8Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include pattern-video.html id="XZGiVzIr8Qg" title="David Bowie Criticizes MTV for Not Playing Videos by Black Artists" %}

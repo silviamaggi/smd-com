@@ -3,9 +3,8 @@ title: Life off social media, six months in
 author: silvia
 categories: Social-Media
 description: I tell you what happened when I quit social media six months ago, and why I don't want to come back.
+featured-image: max-van-den-oetelaar-unsplash.jpg
 ---
-![Life off social media, six months in](/assets/images/max-van-den-oetelaar-unsplash.jpg)
-
 I used to be everywhere. Name the social media and, most probably, I had an account. Internet’s always been a big thing for me, and a certain kind of **online presence** was good for my profession, hobbies and relationships.
 
 The ones I liked most were Twitter, Flickr and LinkedIn. I’ve been a fairly early adopter. Then came Facebook and Instagram, which became the main reasons why I closed most of my accounts.
@@ -14,7 +13,7 @@ I’ve had a love-hate relationship with Facebook since the beginning. The first
 
 With Instagram, it’s been a slow burn. My love for photography should have been satysfied by the app, but it was also a moment where filters were heavily used – the other famous picture-taking app at the time was [Hipstamatic](https://hipstamatic.com/camera/){:target="_blank"} – and I preferred taking photos with a camera anyway.
 
-As the popularity of Instagram grew, together with the quality of its content, I was hooked. I never deleted my Flickr account, but I barely visited the platform: at some point, it felt like everyone migrated over the squared-pictures app. When Facebook [bought Instagram for $1 billion in 2012](https://www.businessinsider.com/facebook-buys-instagram-for-1-billion-what-you-need-to-know-2012-4?op=1&r=US&IR=T){:target="_blank"} though, its future became sadly clear.
+As the popularity of Instagram grew, together with the quality of its content, I was hooked. I never deleted my Flickr account, but I barely visited the platform: at some point, it felt like everyone migrated over the squared-pictures app. When Facebook [bought Instagram for $1 billion in 2012](https://www.businessinsider.com/facebook-buys-instagram-for-1-billion-what-you-need-to-know-2012-4){:target="_blank"} though, its future became sadly clear.
 
 Fast-forward to January 2021: [I deactivated what I once considered my precious Instagram account](https://silviamaggidesign.com/photography/deactivated-my-instagram-account/){:target="_blank"}, and closed my WhatsApp. Before that, [I closed my Twitter](https://silviamaggidesign.com/social-media/i-deleted-my-twitter-account/){:target="_blank"}, Facebook, and Pinterest accounts.
 

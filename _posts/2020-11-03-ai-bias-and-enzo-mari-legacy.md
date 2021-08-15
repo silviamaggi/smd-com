@@ -3,11 +3,11 @@ author: silvia
 title: Design, Digested 13. Fear, AI bias and Enzo Mari legacy
 categories: Design
 description: The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.
+featured-image: design-digested-13.jpg
 redirect_from:
   - /2020/11/03/design-digested-13-fear-ai-bias-and-enzo-mari-legacy/
   - /design/design-digested-13-fear-ai-bias-and-enzo-mari-legacy/
 ---
-![Design, Digested #13: fear, AI bias and Enzo Mari legacy](/assets/images/design-digested-13.jpg)
 MS. TECH; PHOTO: PIXOLOGICSTUDIO/SCIENCE PHOTO LIBRARY; .Christian Briggs, Daniel Skrok and The Interaction Design Foundation. Copyright terms and license: CC-BY-NC-SA 3.0; Ramak Fazel.
 
 On the design inspiration new instalment: the role of **fear** in our lives and how it affects decision-making, how **bias** in AI happens and the legacy of “giant” of **Italian design** Enzo Mari.
@@ -40,4 +40,4 @@ Uncompromising and prolific designer Enzo Mari stood by his political beliefs an
 
 You know Futura, you’ve seen it many times. But did you know its story?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SaX_PwxSh5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include pattern-video.html id="SaX_PwxSh5M" title="The font that escaped the Nazis and landed on the moon" %}

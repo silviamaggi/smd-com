@@ -3,11 +3,10 @@ author: silvia
 title: Design, Digested 3. Language, Mobile Approach And Responsive Design At 10
 categories: Books
 description: Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.
+featured-image: design-digested-3.jpg
 redirect_from:
   - /books/design-digested-3-language-mobile-approach-responsive-design-at-ten/
 ---
-![Design, Digested #3: Language, Mobile Approach And Responsive Design At 10](/assets/images/design-digested-3.jpg)
-
 Design inspiration series. This week: language and storytelling, usability, mobile approach, responsive design at 10 and more.
 
 ## Articles

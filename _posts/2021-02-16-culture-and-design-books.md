@@ -3,12 +3,11 @@ author: silvia
 title: Brilliant culture and design books I’m reading
 categories: Books
 description: Here are the culture and design books I'm reading. Some are ideal if you're a designer, others are either very interesting or funny – or both – for anyone.
+featured-image: recommended-reads.jpg
 redirect_from:
   - /social-media/culture-and-design-books/
   - /it/libri/libri-di-cultura-e-design/
 ---
-![Recommended reads: brilliant culture and design books I’m reading](/assets/images/recommended-reads.jpg)
-
 As a child, I always had books with me. I loved losing myself into good stories, to the point it hurt when they finished. In later years, my attention span became ridiculously short.
 
 Recently though, I was able to finish a few titles I’ve been dragging for months and start a few more. Here are the culture and design books I’m reading. Some of them are ideal if you’re a designer, others are either very interesting or funny – or both – for anyone.
@@ -17,7 +16,7 @@ Recently though, I was able to finish a few titles I’ve been dragging for mont
 
 ### by Erin Meyer
 
-![The Culture Map by Erin Meyer](/assets/images/the-culture-map.jpg)
+{% include pattern-figure.html image="/assets/images/the-culture-map.jpg" caption="The Culture Map by Erin Meyer" width="198" height="300" %}
 
 #### Status: finished
 
@@ -35,7 +34,7 @@ I believe this book is a must-read for any company employing people from differe
 
 ### by Jaron Lanier
 
-![Ten Arguments For Deleting Your Social Media Accounts Right Now by Jaron Lanier](/assets/images/jaron-lanier.jpg)
+{% include pattern-figure.html image="/assets/images/jaron-lanier.jpg" caption="Ten Arguments For Deleting Your Social Media Accounts Right Now by Jaron Lanier" width="195" height="300" %}
 
 #### Status: finished
 
@@ -58,7 +57,7 @@ I had [doubts about social media](https://silviamaggidesign.com/?cat_ID=630){:ta
 
 #### Status: in progress
 
-![Cross-Cultural Design by Senongo Akpem](/assets/images/senongo-akpem.jpg)
+{% include pattern-figure.html image="/assets/images/senongo-akpem.jpg" caption="Cross-Cultural Design by Senongo Akpem" width="194" height="300" %}
 
 I bookmarked this book in [June](https://silviamaggidesign.com/books/design-community-solidarity/){:target="_blank"} and picked it up again recently. Coupled with _The Culture Map_, it’s a fundamental read for anyone in the web field.
 
@@ -70,9 +69,9 @@ Whereas many of us think of our users as wealthy, Western people, our audience i
 
 ### by Guy Pratt
 
-![My Bass and Other Animals by Guy Pratt](/assets/images/guy-pratt.jpg)
+{% include pattern-figure.html image="/assets/images/guy-pratt.jpg" caption="My Bass and Other Animals by Guy Pratt" width="195" height="300" %}
 
-#### Status: finished
+#### Status: in progress
 
 If you don’t know him by name, chances are you heard him playing bass in many of your favourite songs. Pratt played for Pink Floyd, David Bowie, Brian Ferry, Madonna, and many more.
 
@@ -84,7 +83,7 @@ At some point, he also did stand up shows, on which this book is based. I was lu
 
 ### by Beppe Severgnini
 
-![La Testa degli Italiani by Beppe Severgnini](/assets/images/beppe-severgnini.jpg)
+{% include pattern-figure.html image="/assets/images/beppe-severgnini.jpg" caption="La Testa degli Italiani by Beppe Severgnini" width="195" height="300" %}
 
 #### Status: finished
 

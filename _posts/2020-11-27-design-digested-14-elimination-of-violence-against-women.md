@@ -3,10 +3,10 @@ author: silvia
 title: Design, Digested 14. Elimination of violence against women
 categories: Design-Digested
 description: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
+featured-image: un-women.jpg
 redirect_from:
   - /design-digested/design-digested-14-elimination-of-violence-against-women-edition/
 ---
-![Design, Digested #14: elimination of violence against women](/assets/images/un-women.jpg)
 Photo by UN Women
 
 25 November marks the **International Day for the Elimination of Violence against Women**.
@@ -29,21 +29,21 @@ _There is a pandemic of online gender-based violence emerging during Covid-19, a
 A **deepfake bot** has generated tens of thousands of **non-consensual** images of **women** and **underage girls** on the messaging platform, which is now under pressure to crack down on it.  
 Researchers also found groups devoted to **revenge porn** and the sharing of non-consensual photos that don’t involve bots.
 
-**[Read the article](https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/?mc_cid=2b8cf72753&mc_eid=afe9c57832){:target="_blank"}** on Wired.
+**[Read the article](https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/){:target="_blank"}** on Wired.
 
 ### Oxford Dictionaries amends ‘sexist’ definitions of the word ‘woman’
 
 Following the successful petition of [Maria Beatrice Giovanardi](https://twitter.com/mbgiovanardi?ref_src=twsrc%5Etfw){:target="_blank"}, Oxford Dictionaries **amended** the **sexist definitions** of the word _woman_. Other definitions remain – albeit labelled as **offensive** – failing to satisfy equality campaigners.  
 Maria Beatrice received **compliments**, **offences**, and **threats of rape**.
 
-**Read the articles**: **[in English](https://www.theguardian.com/books/2020/nov/07/oxford-university-press-updates-definitions-word-woman){:target="_blank"}** on The Guardian and, **[in Italian](https://d.repubblica.it/life/2020/11/09/news/maria_beatrice_giovanardi_italiana_vince_contro_oxford_dictionary_cambia_definizione_parola_donna-4831769/?ref=RHBT-VS-I270681067-P4-S2-T1){:target="_blank"}** on La Repubblica.
+**Read the articles**: **[in English](https://www.theguardian.com/books/2020/nov/07/oxford-university-press-updates-definitions-word-woman){:target="_blank"}** on The Guardian and, **[in Italian](https://d.repubblica.it/life/2020/11/09/news/maria_beatrice_giovanardi_italiana_vince_contro_oxford_dictionary_cambia_definizione_parola_donna-4831769/){:target="_blank"}** on La Repubblica.
 
 ### Italian state TV’s ‘sexy shopping’ tutorial for women sparks outrage
 
 On the eve of the International Day for the Elimination of Violence Against Women, _Detto Fatto_ – a daily early morning programme on the **Italian state TV** – showed tips on how to **shop for groceries** in a **sexy way** for women.   
 The outrage that followed sparked the broadcaster _Rai 2_ to **suspend** the programme, only to play a previous episode containing a **lingerie catwalk** complete with advice on **push-up** bras.
 
-**Read the articles**: **[in english](https://www.theguardian.com/world/2020/nov/26/italian-tv-show-detto-fatto-faces-inquiry-over-sexy-shopping-tutorial-for-women){:target="_blank"}**, on The Guardian and, **[in italian](https://www.repubblica.it/politica/2020/11/26/news/rai_-275888247/?ref=search){:target="_blank"}** on La Repubblica.
+**Read the articles**: **[in english](https://www.theguardian.com/world/2020/nov/26/italian-tv-show-detto-fatto-faces-inquiry-over-sexy-shopping-tutorial-for-women){:target="_blank"}**, on The Guardian and, **[in italian](https://www.repubblica.it/politica/2020/11/26/news/rai_-275888247/){:target="_blank"}** on La Repubblica.
 
 ## Video
 

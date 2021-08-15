@@ -3,11 +3,10 @@ author: silvia
 title: The Pandemic is a Massive Opportunity for Change
 categories: Design
 description: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
+featured-image: charlie-deets.jpg
 redirect_from:
   - /design/crisis-opportunity-to-shape-a-better-society/
 ---
-![The Pandemic is a Massive Opportunity for Change](/assets/images/charlie-deets.jpg)
-
 Photo by Charlie Deets on Unsplash
 
 > If somebody asked you to redesign the society of the future, what would it look like?
@@ -22,11 +21,7 @@ I [watched _Rams_](https://silviamaggidesign.com/tag/dieter-rams/){:target="_bla
 
 ## Less, But Better
 
-![Dieter Rams Braun T 3 pocket radio. Image credit: Sgustok Design](/assets/images/dieter-rams-braun-t-3-pocket-radio.jpg)
-
-<figure>
-    <figcaption>Braun T 3 Pocket Radio, 1958, by Dieter Rams. Image credit: Sgustok Design</figcaption>
-</figure>
+{% include pattern-figure.html image="/assets/images/dieter-rams-braun-t-3-pocket-radio.jpg" caption="Dieter Rams Braun T 3 pocket radio. Image credit: Sgustok Design" width="1400" height="1080" %}
 
 Rams’ design philosophy puts **function** before form. The product’s aesthetics depends on its **purpose**, not the other way round; every little detail is thought through as a sign of respect for its users. In the 70s, he published the [_Ten Principles for Good Design_](https://www.vitsoe.com/gb/about/good-design){:target="_blank"}, which are relevant today more than ever.
 
@@ -38,11 +33,7 @@ There is a bigger system at play. Within a culture of overconsumption, every sin
 
 “_Less, but better_” is Rams’ motto. He invites us to think about **what** we’re designing, **how** and **why**. As everything interacts and is dependant on other things, his message couldn’t be more appropriate today.
 
-![Vitsoe 606 Universal Shelving System, 1960, by Dieter Rams. Image credit: Sgustok Design.](/assets/images/dieter-rams-606-universal-shelving-system.jpg)
-
-<figure>
-    <figcaption>Vitsoe 606 Universal Shelving System, 1960, by Dieter Rams. Image credit: Sgustok Design.</figcaption>
-</figure>
+{% include pattern-figure.html image="/assets/images/dieter-rams-606-universal-shelving-system.jpg" caption="Vitsoe 606 Universal Shelving System, 1960, by Dieter Rams. Image credit: Sgustok Design" width="1400" height="875" %}
 
 Within our throwaway society, we are rarely concerned about what happens after we discard an object. It’s easier to replace something than repair it, most of the times because of the way it was designed.
 

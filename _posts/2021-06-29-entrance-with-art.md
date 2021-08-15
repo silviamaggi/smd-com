@@ -2,11 +2,10 @@
 author: silvia
 categories: Photography
 description: How is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.
+featured-image: 20210628-entrance-with-art.jpg
 redirect_from:
   - /it/fotografia/entrata-con-arte/
 ---
-![Entrance with art](/assets/images/20210628-entrance-with-art.jpg)
-
 Stepping into our new house for the summer, I wonder: how is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.
 
 This photo marks the first time I used my camera since 3 April, when the [wisteria started to bloom](https://silviamaggidesign.com/today-i-saw/wisteria-in-bloom/){:target="_blank"} in the seaside town.

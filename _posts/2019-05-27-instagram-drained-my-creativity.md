@@ -3,22 +3,19 @@ author: silvia
 title: How Instagram Drained My Creativity
 categories: Photography
 description: While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here's how my love for photography helped.
+featured-image: 20171218_lago_2001-silviamaggi.jpg
 redirect_from:
   - /photography/how-instagram-drained-my-creativity/
 ---
-![How Instagram Drained My Creativity](/assets/images/20171218_lago_2001-silviamaggi.jpg)
-
 While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here’s how my love for photography helped.
 
 My efforts went into keeping my Instagram grid fed with pictures, no matter what. But having to think about the do’s and don’ts of Instagram is very tiring, and my passion for photography waned.
-
-![Lago Maggiore](/assets/images/20171218_lago_1987_silviamaggi.jpg)
 
 It took me a long time to understand that I was in a loop. The gratifications I received made me believe that sticking to a specific subject and style was the right choice. Whenever I wanted to make a change, my creativity was satisfied, but Instagram’s algorithm was never on my side.
 
 Whether I posted consistently or not, commented on other people’s posts or not, kept my stories updated or not, nothing changed. The stream of _follow-to-unfollow_ accounts never stopped, and I always end up with the same number of followers.
 
-![Porta di entrata](/assets/images/20181129_arona_silviamaggi.jpg)
+{% include pattern-figure.html image="/assets/images/20181129_arona_silviamaggi.jpg" caption="Entrance door" width="1400" height="788" %}
 
 I took a step back and started taking longer breaks from the social network. I only checked in to stay in contact with dear friends I found there: they’re the main reason I didn’t close my account.
 
@@ -26,16 +23,14 @@ I took a step back and started taking longer breaks from the social network. I o
 
 A few months ago, I bought a 35mm prime lens. I thought it would have helped me achieving higher quality shots and improving storytelling; however, the new gear wasn’t as straightforward to use as I thought.
 
-![Centro storico](/assets/images/20181203_arona_silviamaggi.jpg)
-
-I read technical articles and reviews, eventually ending up watching video tutorials on how to use some [Adobe Lightroom](https://www.adobe.com/uk/products/photoshop-lightroom.html?gclid=EAIaIQobChMImfKg1JC64gIVTLTtCh3Ang4mEAAYASAAEgJk5_D_BwE&sdid=88X75SKR&mv=search&ef_id=EAIaIQobChMImfKg1JC64gIVTLTtCh3Ang4mEAAYASAAEgJk5_D_BwE:G:s&s_kwcid=AL!3085!3!340669727973!e!!g!!adobe%20lightroom){:target="_blank"} tools I didn’t even know existed.
+I read technical articles and reviews, eventually ending up watching video tutorials on how to use some [Adobe Lightroom](https://www.adobe.com/uk/products/photoshop-lightroom.html){:target="_blank"} tools I didn’t even know existed.
 
 Once again, the technical side of creativity captivated me and reminded me why I love photography. Without even fully realising it, I was reorganising my Lightroom catalogue and applying new edits to older photos.
 
-![Centro storico](/assets/images/20181203_arona_3611_silviamaggi.jpg)
-
 Our sensitivity changes over time and, as time passes, our perception of the past changes with it. Looking back and making new interpretations of older pictures is something I do once or twice a year.
 
+![Centro storico](/assets/images/20181203_arona_silviamaggi.jpg)
+![Centro storico](/assets/images/20181203_arona_3611_silviamaggi.jpg)
 ![Lago Maggiore](/assets/images/20181203_arona_3634_silvia.jpg)
 
 ## Conclusion
@@ -47,7 +42,7 @@ Having a new lens also meant that I need to learn how to use it appropriately to
 I put Instagram into perspective. It is, after all, merely one social network.  
 Focusing on numbers drains creativity and make us forget why we take and post pictures.
 
-I took the photos in this post during the past two visits to [Lake Maggiore](https://portfolio/winter-days-at-the-lake/){:target="_blank"}, Italy and applied new edits. The lens I used was still the kit one, which did a decent job anyway.
+I took the photos in this post during the past two visits to Lake Maggiore, and applied new edits. The lens I used was still the kit one, which did a decent job anyway.
 
 Below is the list of the videos I watched:
 

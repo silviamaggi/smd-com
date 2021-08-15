@@ -2,12 +2,11 @@
 author: silvia
 categories: Photography
 description: New journey and new blog for my husband and I to record our thoughts, experiences and memories on Oregano Dangereux. Follow it as we move back to Italy from the UK.
+featured-image: new-journey-new-blog.jpg
 redirect_from:
   - /photography/new-journey-new-blog/
 ---
-![New journey, new blog by Silvia Maggi](/assets/images/new-journey-new-blog.jpg)
-
-The North Sea at Cromer © Silvia Maggi
+The North Sea at Cromer &copy; Silvia Maggi
 
 New journey and new blog for my husband and I to record our thoughts, experiences and memories. After nine years since we moved to the UK, we’re going back to our home country, Italy, where we’ll stay until the pandemic is under control.
 
