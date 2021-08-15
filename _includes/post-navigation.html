@@ -1,0 +1,39 @@
+<!-- TODO: this is only temporary -->
+<style media="screen">
+  .post-navigation {
+    width: 50%;
+    padding: 24px 0;
+    border-top: 2px solid #ccc;
+  }
+  .container-previous-post {
+    float: left;
+  }
+  .container-next-post {
+    float: right;
+    text-align: right;
+  }
+  .container-previous-post::before {
+    display: block;
+    content: '← ';
+    float: left;
+  }
+  .container-next-post::after {
+    display: block;
+    content: ' →';
+    text-align: right;
+    float: right;
+  }
+</style>
+<!-- /END temporary code -->
+<div class="previous-next-post-links">
+  <div class="post-navigation container-previous-post">
+    {% if page.previous != nil %}
+    <span>Previous post: <a class="arrow arrow-left" href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a></span>
+    {% endif %}
+  </div>
+  <div class="post-navigation container-next-post">
+    {% if page.next != nil %}
+    <span>Next post: <a class="arrow arrow-right" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a></span>
+    {% endif %}
+  </div>
+</div>
