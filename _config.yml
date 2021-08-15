@@ -10,13 +10,8 @@ timezone: Europe/Rome
 author:
   name: Silvia Maggi
   email: hello@silviamaggidesign.com
-  #avatar:
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - /node_modules
+exclude: ["README.md"]
 
 defaults:
   - scope:
