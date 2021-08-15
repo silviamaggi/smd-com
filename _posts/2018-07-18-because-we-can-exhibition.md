@@ -22,13 +22,13 @@ It is with great excitement that I can say three of my pictures are part of the 
 ![Make a wish by Silvia Maggi](/assets/images/silvia-maggi_make-a-wish.jpg)
 ![Tell me a goonight story by Silvia Maggi](/assets/images/silvia-maggi_tell-me-a-goodnight-story.jpg)
 
-Read more about the exhibition on the [Shutter Hub blog](https://shutterhub.org.uk/because-we-can-exhibition-launch-and-photos/){:target="_blank"}.
+Read more about the exhibition on the [Shutter Hub blog](https://shutterhub.org.uk/because-we-can-exhibition-launch-and-photos/){:target="_blank" rel="noopener"}.
 
 ### About Shutter Hub
 
 The photography organisation providing opportunities, support and networking for creative photographers worldwide.  
-[http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank"}
+[http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank" rel="noopener"}
 
 Header picture credit © Jayne Lloyd
 
-My photos [on Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank"}.
+My photos [on Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank" rel="noopener"}.

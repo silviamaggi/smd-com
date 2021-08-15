@@ -12,11 +12,11 @@ Photo by Samuel Pettersson
 
 A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.
 
-Architecture studio [Rombout Frieling Lab](http://www.rombout.design/station-of-being.html) and [Research Institutes of Sweden](https://www.ri.se/en){:target="_blank"} have created the _Station of Being_ as a prototype bus stop in the city of Umeå, in the north of the country.
+Architecture studio [Rombout Frieling Lab](http://www.rombout.design/station-of-being.html) and [Research Institutes of Sweden](https://www.ri.se/en){:target="_blank" rel="noopener"} have created the _Station of Being_ as a prototype bus stop in the city of Umeå, in the north of the country.
 
 The bus stop intends to improve and enhance the waiting experience for people using public transport in cold weather conditions. The project can make public transport significantly more attractive.
 
-Based on what Rombout Frieling told [Deezen](https://www.dezeen.com/2019/12/11/rombout-frieling-lab-arctic-bus-stop-umea-sweden/){:target="_blank"}, and the case study on the studio’s website, the research they carried out revealed that:
+Based on what Rombout Frieling told [Deezen](https://www.dezeen.com/2019/12/11/rombout-frieling-lab-arctic-bus-stop-umea-sweden/){:target="_blank" rel="noopener"}, and the case study on the studio’s website, the research they carried out revealed that:
 
 * It is annoying to continually be on the lookout to be sure not to miss the bus.
 * People prefer to lean on something, rather than sitting when waiting for the bus in windy and snowy conditions. It can be as cold as –30º C with seats covered in snow.

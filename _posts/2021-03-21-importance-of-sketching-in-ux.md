@@ -25,7 +25,7 @@ It can be a notebook, your phone’s camera, or both. **Observing and recording 
 
 ## Read the article
 
-* [Etch A Sketch: How to Use Sketching in User Experience Design](https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design){:target="_blank"}
+* [Etch A Sketch: How to Use Sketching in User Experience Design](https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design){:target="_blank" rel="noopener"}
 
 ## Start sketching
 
@@ -33,7 +33,7 @@ You don’t need to be an artist to sketch effectively but there are a few techn
 
 {% include pattern-video.html id="vN2MFF2YZjo" title="Sketching Techniques #1" %}
 
-I used Matt’s advice to refine storyboard and wireframes for the [Acclimatize.me case study](https://silviamaggidesign.com/portfolio/case-study-acclimatize-me/){:target="_blank"}, and I’m happy with the result.
+I used Matt’s advice to refine storyboard and wireframes for the [Acclimatize.me case study](https://silviamaggidesign.com/portfolio/case-study-acclimatize-me/){:target="_blank" rel="noopener"}, and I’m happy with the result.
 
 ## Go beyond
 
@@ -47,11 +47,11 @@ Whether you’re a UX designer or not, learning how to sketch can benefit you in
 
 José also suggests you can **use drawings to illustrate your ideas in presentations** as well.
 
-He reminded me of the insightful and delightful webinar by UX designer [Morgane Peng](https://www.morganepeng.com/){:target="_blank"}, [_How to Deal with People Who Don’t “Get” Design_](https://youtu.be/jXkMWvXx3MI){:target="_blank"}. Her illustrations complement perfectly her message while making the talk enjoyable and fun.
+He reminded me of the insightful and delightful webinar by UX designer [Morgane Peng](https://www.morganepeng.com/){:target="_blank" rel="noopener"}, [_How to Deal with People Who Don’t “Get” Design_](https://youtu.be/jXkMWvXx3MI){:target="_blank" rel="noopener"}. Her illustrations complement perfectly her message while making the talk enjoyable and fun.
 
 ### Read the article
 
-* [Why should you start drawing today?](https://uxdesign.cc/why-should-you-start-drawing-today-6e7fb8956bd7){:target="_blank"}
+* [Why should you start drawing today?](https://uxdesign.cc/why-should-you-start-drawing-today-6e7fb8956bd7){:target="_blank" rel="noopener"}
 
 ---
 
@@ -67,11 +67,11 @@ The workbook is the ideal companion of the book, where the theory behind the tec
 
 {% include pattern-figure.html image="/assets/images/drawing-on-the-right-side-of-the-brain-1.jpg" caption="The new drawing on the right side of the brain workbook" width="458" height="630" %}
 
-* [The New Drawing on the Right Side of the Brain](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain){:target="_blank"}
-* [The New Drawing on the Right Side of the Brain Workbook: Guided Practice in the Five Basic Skills of Drawing](https://www.goodreads.com/book/show/74124.The_New_Drawing_on_the_Right_Side_of_the_Brain_Workbook){:target="_blank"}
+* [The New Drawing on the Right Side of the Brain](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain){:target="_blank" rel="noopener"}
+* [The New Drawing on the Right Side of the Brain Workbook: Guided Practice in the Five Basic Skills of Drawing](https://www.goodreads.com/book/show/74124.The_New_Drawing_on_the_Right_Side_of_the_Brain_Workbook){:target="_blank" rel="noopener"}
 
 ## Update
 
 As much as wanted to follow my own advice and sketch every day, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up.
 
-After reading an article, I started a new journey and wrote about it on the post [Learning to draw: a journey](https://silviamaggidesign.com/design/learning-to-draw/){:target="_blank"}.
+After reading an article, I started a new journey and wrote about it on the post [Learning to draw: a journey](https://silviamaggidesign.com/design/learning-to-draw/){:target="_blank" rel="noopener"}.

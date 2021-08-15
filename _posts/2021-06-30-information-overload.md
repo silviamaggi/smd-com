@@ -25,4 +25,4 @@ During the coming weeks, I’ll be sharing these UX sources here and on the blog
 Take care,  
 Silvia
 
-The featured image is a composite with a photo by [Flavio Amiel](https://unsplash.com/@flavioamiel){:target="_blank"} on Unsplash
+The featured image is a composite with a photo by [Flavio Amiel](https://unsplash.com/@flavioamiel){:target="_blank" rel="noopener"} on Unsplash

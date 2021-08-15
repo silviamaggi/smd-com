@@ -23,7 +23,7 @@ I took a step back and started taking longer breaks from the social network. I o
 
 A few months ago, I bought a 35mm prime lens. I thought it would have helped me achieving higher quality shots and improving storytelling; however, the new gear wasn’t as straightforward to use as I thought.
 
-I read technical articles and reviews, eventually ending up watching video tutorials on how to use some [Adobe Lightroom](https://www.adobe.com/uk/products/photoshop-lightroom.html){:target="_blank"} tools I didn’t even know existed.
+I read technical articles and reviews, eventually ending up watching video tutorials on how to use some [Adobe Lightroom](https://www.adobe.com/uk/products/photoshop-lightroom.html){:target="_blank" rel="noopener"} tools I didn’t even know existed.
 
 Once again, the technical side of creativity captivated me and reminded me why I love photography. Without even fully realising it, I was reorganising my Lightroom catalogue and applying new edits to older photos.
 
@@ -46,10 +46,10 @@ I took the photos in this post during the past two visits to Lake Maggiore, and 
 
 Below is the list of the videos I watched:
 
-* [One Tip to Improve Your Photos in Lightroom](https://www.youtube.com/watch?v=jUOOzi5gukY){:target="_blank"}
-* [Edit your Photos UPSIDE-DOWN](https://www.youtube.com/watch?v=af88_3Sgvc4){:target="_blank"}
-* [Understanding your Photography](https://www.youtube.com/watch?v=4pGlTw1rHy8){:target="_blank"}
-* [I have a PROBLEM, I love FLAT LIGHT](https://www.youtube.com/watch?v=z3s_SmWLnMA){:target="_blank"}
-* [9 Photography Tips you should IGNORE!](https://www.youtube.com/watch?v=3RNWJPbrZfo){:target="_blank"}
+* [One Tip to Improve Your Photos in Lightroom](https://www.youtube.com/watch?v=jUOOzi5gukY){:target="_blank" rel="noopener"}
+* [Edit your Photos UPSIDE-DOWN](https://www.youtube.com/watch?v=af88_3Sgvc4){:target="_blank" rel="noopener"}
+* [Understanding your Photography](https://www.youtube.com/watch?v=4pGlTw1rHy8){:target="_blank" rel="noopener"}
+* [I have a PROBLEM, I love FLAT LIGHT](https://www.youtube.com/watch?v=z3s_SmWLnMA){:target="_blank" rel="noopener"}
+* [9 Photography Tips you should IGNORE!](https://www.youtube.com/watch?v=3RNWJPbrZfo){:target="_blank" rel="noopener"}
 
 I hope you enjoy them!

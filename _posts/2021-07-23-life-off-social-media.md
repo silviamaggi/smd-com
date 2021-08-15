@@ -11,11 +11,11 @@ The ones I liked most were Twitter, Flickr and LinkedIn. I’ve been a fairly ea
 
 I’ve had a love-hate relationship with Facebook since the beginning. The first time I logged in, I hated the interface, the colours, and couldn’t understand its purpose. In fact, I closed my account right away, only to be enticed back some time later by friends because _“we’re all on there and it’s fun”_.
 
-With Instagram, it’s been a slow burn. My love for photography should have been satysfied by the app, but it was also a moment where filters were heavily used – the other famous picture-taking app at the time was [Hipstamatic](https://hipstamatic.com/camera/){:target="_blank"} – and I preferred taking photos with a camera anyway.
+With Instagram, it’s been a slow burn. My love for photography should have been satysfied by the app, but it was also a moment where filters were heavily used – the other famous picture-taking app at the time was [Hipstamatic](https://hipstamatic.com/camera/){:target="_blank" rel="noopener"} – and I preferred taking photos with a camera anyway.
 
-As the popularity of Instagram grew, together with the quality of its content, I was hooked. I never deleted my Flickr account, but I barely visited the platform: at some point, it felt like everyone migrated over the squared-pictures app. When Facebook [bought Instagram for $1 billion in 2012](https://www.businessinsider.com/facebook-buys-instagram-for-1-billion-what-you-need-to-know-2012-4){:target="_blank"} though, its future became sadly clear.
+As the popularity of Instagram grew, together with the quality of its content, I was hooked. I never deleted my Flickr account, but I barely visited the platform: at some point, it felt like everyone migrated over the squared-pictures app. When Facebook [bought Instagram for $1 billion in 2012](https://www.businessinsider.com/facebook-buys-instagram-for-1-billion-what-you-need-to-know-2012-4){:target="_blank" rel="noopener"} though, its future became sadly clear.
 
-Fast-forward to January 2021: [I deactivated what I once considered my precious Instagram account](https://silviamaggidesign.com/photography/deactivated-my-instagram-account/){:target="_blank"}, and closed my WhatsApp. Before that, [I closed my Twitter](https://silviamaggidesign.com/social-media/i-deleted-my-twitter-account/){:target="_blank"}, Facebook, and Pinterest accounts.
+Fast-forward to January 2021: [I deactivated what I once considered my precious Instagram account](https://silviamaggidesign.com/photography/deactivated-my-instagram-account/){:target="_blank" rel="noopener"}, and closed my WhatsApp. Before that, [I closed my Twitter](https://silviamaggidesign.com/social-media/i-deleted-my-twitter-account/){:target="_blank" rel="noopener"}, Facebook, and Pinterest accounts.
 
 Six months later, here’s what happened.
 
@@ -27,7 +27,7 @@ I have fewer distraction opportunities, so it gradually became easier to focus f
 
 ## The world kept turning
 
-I’m oblivious of memes, backlashes, scandals and anything that goes viral or is _trending_ on social media. Instead of experiencing [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out){:target="_blank"}, I’ve became indifferent to them.
+I’m oblivious of memes, backlashes, scandals and anything that goes viral or is _trending_ on social media. Instead of experiencing [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out){:target="_blank" rel="noopener"}, I’ve became indifferent to them.
 
 The time I used to spend following what happened online is spent elsewhere, and the best part is that I don’t feel compelled to weigh in. **I do have strong opinions – about the things I care most – but I doubt the entire world needs to know them**.
 
@@ -45,9 +45,9 @@ I’ve had good moments, met great people, but it was never enough. **As a photo
 
 When it all became too much, I switched to a personal account, hoping to solve my the issue with the tap of a button. It didn’t happen: **the numbers weren’t the real problem**.
 
-Every time I was in a [photography rut and couldn’t take pictures](https://silviamaggidesign.com/photography/instagram-drained-my-creativity/){:target="_blank"}, I’d feel guilty because I had nothing to post. **My passion for photography went from being a hobby that never let me down to a cause of anxiety and feelings of inadequacy**.
+Every time I was in a [photography rut and couldn’t take pictures](https://silviamaggidesign.com/photography/instagram-drained-my-creativity/){:target="_blank" rel="noopener"}, I’d feel guilty because I had nothing to post. **My passion for photography went from being a hobby that never let me down to a cause of anxiety and feelings of inadequacy**.
 
-Ever since I deactivated my Instagram account, I take photos whenever I feel like it. I post them [on Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank"}, or keep them to myself. It doesn’t matter much anymore, as long as I have a creative outlet.
+Ever since I deactivated my Instagram account, I take photos whenever I feel like it. I post them [on Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank" rel="noopener"}, or keep them to myself. It doesn’t matter much anymore, as long as I have a creative outlet.
 
 ## No more immediacy
 
@@ -55,7 +55,7 @@ Everytime I had something to say or show, I’d post it on some social media alm
 
 Even if it faded in recent years, I see it as a strange behaviour from my part.
 
-It could be a reflection brought up by the fact I know myself a bit more now, but **it always took me some time to assimilate concepts and form opinions**. That’s why I now prefer writing on my blog, and why I recently slowed down posting: [I’m elaborating some recent learnings and realisations](https://silviamaggidesign.com/design-digested/information-overload/){:target="_blank"}.
+It could be a reflection brought up by the fact I know myself a bit more now, but **it always took me some time to assimilate concepts and form opinions**. That’s why I now prefer writing on my blog, and why I recently slowed down posting: [I’m elaborating some recent learnings and realisations](https://silviamaggidesign.com/design-digested/information-overload/){:target="_blank" rel="noopener"}.
 
 ## Conclusion
 
@@ -63,7 +63,7 @@ It could be a reflection brought up by the fact I know myself a bit more now, bu
 
 ## Go deeper
 
-* [You Really Need to Quit Twitter](https://www.theatlantic.com/ideas/archive/2021/07/twitter-addict-realizes-she-needs-rehab/619343/){:target="_blank"} – article on The Atlantic
-* [Why you should quit social media](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media){:target="_blank"} TED Talk by Cal Newport
-* [Center for Humane Technology](https://www.humanetech.com/){:target="_blank"}
-* [We’re building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads){:target="_blank"} TED Talk by Zeynep Tufekci
+* [You Really Need to Quit Twitter](https://www.theatlantic.com/ideas/archive/2021/07/twitter-addict-realizes-she-needs-rehab/619343/){:target="_blank" rel="noopener"} – article on The Atlantic
+* [Why you should quit social media](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media){:target="_blank" rel="noopener"} TED Talk by Cal Newport
+* [Center for Humane Technology](https://www.humanetech.com/){:target="_blank" rel="noopener"}
+* [We’re building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads){:target="_blank" rel="noopener"} TED Talk by Zeynep Tufekci

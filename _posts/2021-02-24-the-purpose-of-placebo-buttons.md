@@ -12,4 +12,4 @@ Some of them probably don’t: they’re called _placebo buttons_. They do have 
 
 ## Read the article
 
-* [Illusion of control: Why the world is full of buttons that don’t work](https://edition.cnn.com/style/article/placebo-buttons-design/index.html){:target="_blank"}
+* [Illusion of control: Why the world is full of buttons that don’t work](https://edition.cnn.com/style/article/placebo-buttons-design/index.html){:target="_blank" rel="noopener"}

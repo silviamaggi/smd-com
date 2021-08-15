@@ -17,7 +17,7 @@ This little mishap prompted me to understand what went wrong. Of course, I might
 
 ## Comparing Contact Lenses Containers
 
-Something was off. After a quick [search](https://www.google.com/search?q=contact+lenses+container&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjp4vyNu5rqAhVeRxUIHdhLDDAQ_AUoAnoECCEQBA&biw=1261&bih=733&dpr=2){:target="_blank"} (the link opens a Google search window), I found out that the containers look very similar – excluding the novelty ones. They usually have two colours and one letter on at least one lid, just like the one I was using.
+Something was off. After a quick [search](https://www.google.com/search?q=contact+lenses+container&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjp4vyNu5rqAhVeRxUIHdhLDDAQ_AUoAnoECCEQBA&biw=1261&bih=733&dpr=2){:target="_blank" rel="noopener"} (the link opens a Google search window), I found out that the containers look very similar – excluding the novelty ones. They usually have two colours and one letter on at least one lid, just like the one I was using.
 
 {% include pattern-figure.html image="/assets/images/lenses-container-1.jpg" caption="Off-brand contact lenses container" width="1400" height="895" %}
 
@@ -51,4 +51,4 @@ Did you have a similar experience with contact lenses container? Or a completely
 
 ---
 
-The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.
+The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.

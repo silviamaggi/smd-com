@@ -26,7 +26,7 @@ One of the many things I noticed is people entering a restaurant or a cafe and s
 
 ## Le Miroir d’Eau
 
-Located between the Garonne and Place de la Bourse, [Le Miroir d’Eau](https://youtu.be/0s8RIkpMf8Q){:target="_blank"} is a fountain that creates special effects with water and artificial misting against the stunning 18th century’s architecture of the square. We admired the reflections and refreshing mist just like anyone else: it’s remarkable how something so simple, yet ingenious, can entertain and amuse everyone–children and adults alike.
+Located between the Garonne and Place de la Bourse, [Le Miroir d’Eau](https://youtu.be/0s8RIkpMf8Q){:target="_blank" rel="noopener"} is a fountain that creates special effects with water and artificial misting against the stunning 18th century’s architecture of the square. We admired the reflections and refreshing mist just like anyone else: it’s remarkable how something so simple, yet ingenious, can entertain and amuse everyone–children and adults alike.
 
 ![Place de la Bourse](/assets/images/20180525_bordeaux_2799.jpg)
 ![Le miroir d'Eau](/assets/images/20180525_bordeaux_2811.jpg)
@@ -35,7 +35,7 @@ Located between the Garonne and Place de la Bourse, [Le Miroir d’Eau](https://
 
 ## Palais Gallien
 
-One day, after breakfast, we went to visit the [Palais Gallien](https://archaeology-travel.com/france/bordeaux-roman-amphitheatre/){:target="_blank"}, the ruins of an ancient amphitheatre. Along the way, we wanted to stop at the Public Garden, but it was closed. The reason being weather damage.  
+One day, after breakfast, we went to visit the [Palais Gallien](https://archaeology-travel.com/france/bordeaux-roman-amphitheatre/){:target="_blank" rel="noopener"}, the ruins of an ancient amphitheatre. Along the way, we wanted to stop at the Public Garden, but it was closed. The reason being weather damage.  
 In hindsight, this was probably the hint of the things to come not long later. We spent some time in front of the Palais, knowing a storm was coming but having no idea we were going to face a violent hailstorm.
 
 The streets started to flood very quickly while we tried to get cover, failing to do so. Soaked, cold and scared, we resisted while the hailstorm went on for minutes. After this, we had to go back to our room and try to dry our clothes and shoes, to no avail. Eventually, we had to go out again and buy new shoes.
@@ -57,4 +57,4 @@ Lessons learnt: use weather apps that provide detailed international weather ale
 
 ### Update
 
-**17 March 2021.** The stay in Bordeaux inspired me to explore a design solution for travellers: [check the case study](https://silviamaggidesign.com/?p=6457){:target="_blank"}.
+**17 March 2021.** The stay in Bordeaux inspired me to explore a design solution for travellers: [check the case study](https://silviamaggidesign.com/?p=6457){:target="_blank" rel="noopener"}.

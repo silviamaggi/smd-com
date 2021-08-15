@@ -14,7 +14,7 @@ Knitting website Ravelry lost the trust of their community after their rebrandin
 
 Well-known among knitters, crocheters, designers, spinners, and dyers, Ravelry is a free platform where users can organise and keep track of their projects, network with other people and sell their designs.
 
-Ravelry’s [Wikipedia page](https://en.wikipedia.org/wiki/Ravelry){:target="_blank"} states that, as of March 2020, they had almost 9 million registered users, and approximately 1 million monthly active users.
+Ravelry’s [Wikipedia page](https://en.wikipedia.org/wiki/Ravelry){:target="_blank" rel="noopener"} states that, as of March 2020, they had almost 9 million registered users, and approximately 1 million monthly active users.
 
 ## What happened
 
@@ -36,9 +36,9 @@ Suddenly, Ravelry wasn’t anymore the **inclusive** and **friendly** website ev
 
 ## The precedent
 
-While researching this blog post, I found [an article](https://www.auckland.ac.nz/en/news/2020/07/01/the-website-making-people-sick.html){:target="_blank"} stating that this cannot be anything different than **mass hysteria**.
+While researching this blog post, I found [an article](https://www.auckland.ac.nz/en/news/2020/07/01/the-website-making-people-sick.html){:target="_blank" rel="noopener"} stating that this cannot be anything different than **mass hysteria**.
 
-But what happened in 2013 when Apple released [iOS 7](http://www.theguardian.com/technology/2013/sep/27/ios-7-motion-sickness-nausea){:target="_blank"} proves that those reactions are **genuine**. The issue with the iPhone’s operating system was clear: the newly introduced **animations** and the way they were implemented made people with [vestibular disorders](https://vestibular.org/understanding-vestibular-disorder){:target="_blank"} **sick**. In Ravelry’s case, even those who are free from these issues are **suffering** from visiting the site.
+But what happened in 2013 when Apple released [iOS 7](http://www.theguardian.com/technology/2013/sep/27/ios-7-motion-sickness-nausea){:target="_blank" rel="noopener"} proves that those reactions are **genuine**. The issue with the iPhone’s operating system was clear: the newly introduced **animations** and the way they were implemented made people with [vestibular disorders](https://vestibular.org/understanding-vestibular-disorder){:target="_blank" rel="noopener"} **sick**. In Ravelry’s case, even those who are free from these issues are **suffering** from visiting the site.
 
 The Epilepsy Foundation of America issued a **warning** and indicated what might be the **trigger** to the seizures. Follow the thread on Twitter:
 
@@ -50,7 +50,7 @@ The new branding is colourful: there are at least three bright accent colours an
 
 People tend to spend a lot of time looking for patterns and instructions: arguably, a **less** **contrasted** interface might have worked better.
 
-To avoid causing problems, I’ve created a [separate page](https://silviamaggidesign.com/how-rebranding-cost-ravelry-the-trust-of-their-community-images/){:target="_blank"} to show a couple of screenshots of the redesigned interface.
+To avoid causing problems, I’ve created a [separate page](https://silviamaggidesign.com/how-rebranding-cost-ravelry-the-trust-of-their-community-images/){:target="_blank" rel="noopener"} to show a couple of screenshots of the redesigned interface.
 
 ### The icons
 
@@ -58,7 +58,7 @@ Finally, the newly redesigned icons have many **details** that get lost in the *
 
 ---
 
-As stated in a [blog post](https://blog.ravelry.com/the-story-of-the-new-look/){:target="_blank"} published three days after the release, the team at Ravelry started the redesign in January 2019. The platform is **massive**: 800 pages that needed updating one by one. It’s a tremendous amount of work. Based on my understanding, they waited for all pages to be ready before starting to **test** the new design, a choice that **backfired**.
+As stated in a [blog post](https://blog.ravelry.com/the-story-of-the-new-look/){:target="_blank" rel="noopener"} published three days after the release, the team at Ravelry started the redesign in January 2019. The platform is **massive**: 800 pages that needed updating one by one. It’s a tremendous amount of work. Based on my understanding, they waited for all pages to be ready before starting to **test** the new design, a choice that **backfired**.
 
 ## Advantages of early testing
 
@@ -70,7 +70,7 @@ In the absence of early user testing, it might have been a good idea to roll out
 
 ## Accessibility and usability
 
-There is no other way to put it: [accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/){:target="_blank"} and usability need to be an **integral** part of the **design** since the beginning of a project.
+There is no other way to put it: [accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/){:target="_blank" rel="noopener"} and usability need to be an **integral** part of the **design** since the beginning of a project.
 
 They are concerned with different aspects of the design, but overlap. _Accessibility_ makes sure people with disabilities can **access** the web. _Usability_ ensures that a product is **effective**, **efficient** and **satisfying** while it stays accessible.
 
@@ -98,11 +98,11 @@ _**Update**_ – _**23 March 2021**: added an article about why overlay accessib
 
 ## Useful links
 
-* [Designing Safer Web Animation For Motion Sensitivity](https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity/){:target="_blank"}
-* [Accessibility, Usability, and Inclusion](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/){:target="_blank"}
-* [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/){:target="_blank"}
-* [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/){:target="_blank"}
-* [Photosensitivity and Seizures](https://www.epilepsy.com/learn/triggers-seizures/photosensitivity-and-seizures){:target="_blank"}
-* [Color accessibility: tools and resources to help you design inclusive products](https://stephaniewalter.design/blog/color-accessibility-tools-resources-to-design-inclusive-products/){:target="_blank"}
-* [Why Accessibility Overlay Solutions Fail to Protect or Serve](https://www.accessibility.works/blog/avoid-accessibility-overlay-tools-toolbar-plugins/){:target="_blank"}
-* [The A11Y Project – Accessibility helps everyone](https://www.a11yproject.com/){:target="_blank"}
+* [Designing Safer Web Animation For Motion Sensitivity](https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity/){:target="_blank" rel="noopener"}
+* [Accessibility, Usability, and Inclusion](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/){:target="_blank" rel="noopener"}
+* [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/){:target="_blank" rel="noopener"}
+* [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/){:target="_blank" rel="noopener"}
+* [Photosensitivity and Seizures](https://www.epilepsy.com/learn/triggers-seizures/photosensitivity-and-seizures){:target="_blank" rel="noopener"}
+* [Color accessibility: tools and resources to help you design inclusive products](https://stephaniewalter.design/blog/color-accessibility-tools-resources-to-design-inclusive-products/){:target="_blank" rel="noopener"}
+* [Why Accessibility Overlay Solutions Fail to Protect or Serve](https://www.accessibility.works/blog/avoid-accessibility-overlay-tools-toolbar-plugins/){:target="_blank" rel="noopener"}
+* [The A11Y Project – Accessibility helps everyone](https://www.a11yproject.com/){:target="_blank" rel="noopener"}

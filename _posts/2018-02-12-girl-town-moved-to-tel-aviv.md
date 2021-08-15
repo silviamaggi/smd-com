@@ -14,12 +14,12 @@ Originally presented at Photomonth East London International Photography Festiva
 
 Initially, the exhibition was curated on Instagram, and I’ve been proudly part of it ever since the beginning.
 
-Shutter Hub shared impressions, reactions and photos from the private view. Head over their [website to read more](https://shutterhub.org.uk/blog/girl-town-tel-aviv-shutter-hub-exhibition-launch-event-and-pictures){:target="_blank"}.
+Shutter Hub shared impressions, reactions and photos from the private view. Head over their [website to read more](https://shutterhub.org.uk/blog/girl-town-tel-aviv-shutter-hub-exhibition-launch-event-and-pictures){:target="_blank" rel="noopener"}.
 
 ### About Shutter Hub
 
 The photography organisation providing opportunities, support and networking for creative photographers worldwide.  
-[http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank"}
+[http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank" rel="noopener"}
 
 ### About Alfred Institute
 

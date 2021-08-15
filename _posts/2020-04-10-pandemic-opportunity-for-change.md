@@ -17,13 +17,13 @@ While scientists race to find a cure and a vaccine for COVID-19, we’ve been li
 
 Part of me seems to be unable to avoid checking the news, the _numbers_, in search of some certainty and comfort in a situation that can’t offer any. At the same time, as our activities are mostly indoors, entertainment became the most effective way to take our minds off the current crisis.
 
-I [watched _Rams_](https://silviamaggidesign.com/tag/dieter-rams/){:target="_blank"}, a documentary on Dieter Rams, one of the most influential designers alive. Rams’ work at Braun and Vitsœ has influenced the way most of today’s consumer products look and function.
+I [watched _Rams_](https://silviamaggidesign.com/tag/dieter-rams/){:target="_blank" rel="noopener"}, a documentary on Dieter Rams, one of the most influential designers alive. Rams’ work at Braun and Vitsœ has influenced the way most of today’s consumer products look and function.
 
 ## Less, But Better
 
 {% include pattern-figure.html image="/assets/images/dieter-rams-braun-t-3-pocket-radio.jpg" caption="Dieter Rams Braun T 3 pocket radio. Image credit: Sgustok Design" width="1400" height="1080" %}
 
-Rams’ design philosophy puts **function** before form. The product’s aesthetics depends on its **purpose**, not the other way round; every little detail is thought through as a sign of respect for its users. In the 70s, he published the [_Ten Principles for Good Design_](https://www.vitsoe.com/gb/about/good-design){:target="_blank"}, which are relevant today more than ever.
+Rams’ design philosophy puts **function** before form. The product’s aesthetics depends on its **purpose**, not the other way round; every little detail is thought through as a sign of respect for its users. In the 70s, he published the [_Ten Principles for Good Design_](https://www.vitsoe.com/gb/about/good-design){:target="_blank" rel="noopener"}, which are relevant today more than ever.
 
 Even though two of the principles define good design to be **long-lasting** and **environmental-friendly**, Dieter Rams regrets not promoting his ideas about sustainable design to the masses. Or, perhaps, they weren’t understood the right way.
 
@@ -60,5 +60,5 @@ It brings us back to Rams’ desire to be a landscape architect: looking at the 
 I believe that anyone can apply this way of thinking. We are now aware of how we are all connected; our actions and choices influence our family, neighbours and society for better or worse. Whatever our jobs or roles, we should think about the consequences of what we do, and strive for better.
 
 ---
-_Rams_ is a documentary by Gary Hustwit. You can watch it [here](https://hustwit.vhx.tv/){:target="_blank"}.
+_Rams_ is a documentary by Gary Hustwit. You can watch it [here](https://hustwit.vhx.tv/){:target="_blank" rel="noopener"}.
 ---

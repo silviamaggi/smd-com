@@ -16,25 +16,25 @@ Image credits: Shaniqwa Jarvis, Sara Wong, Emma
 
 Four years ago, as as a graduate at MIT’s Media Lab, **Joy Buolamwini** started looking at the **racial**, **skin type** and **gender imbalances** in facial recognition technologies. Her research helped persuade Amazon, IBM, and Microsoft to **put a hold on facial recognition technology**.
 
-**[Read the article](https://www.fastcompany.com/90525023/most-creative-people-2020-joy-buolamwini){:target="_blank"}** on Fast Company.
+**[Read the article](https://www.fastcompany.com/90525023/most-creative-people-2020-joy-buolamwini){:target="_blank" rel="noopener"}** on Fast Company.
 
 ### You are not your data but your data is still you
 
-We conceptualise our [personally identifiable information](https://en.wikipedia.org/wiki/Personal_data){:target="_blank"} (PII) through **privacy**, which treats it as a **property** that is **separate** from us. Although, we don’t own the data the same way we own a house: _it is us_. In the article, Tricia Wand explains how the processes that involve algorithmic decision-making over human beings can become **threats** to our lives and **communities**.
+We conceptualise our [personally identifiable information](https://en.wikipedia.org/wiki/Personal_data){:target="_blank" rel="noopener"} (PII) through **privacy**, which treats it as a **property** that is **separate** from us. Although, we don’t own the data the same way we own a house: _it is us_. In the article, Tricia Wand explains how the processes that involve algorithmic decision-making over human beings can become **threats** to our lives and **communities**.
 
-**[Read the article](https://deepdives.in/you-are-not-your-data-but-your-data-is-still-you-b41d2478ece2){:target="_blank"}** on Medium.
+**[Read the article](https://deepdives.in/you-are-not-your-data-but-your-data-is-still-you-b41d2478ece2){:target="_blank" rel="noopener"}** on Medium.
 
 ### WordPress All-women Release Squad
 
-A release squad of people who identify as **women** will ship the next stable version of [WordPress CMS](https://en.wikipedia.org/wiki/WordPress){:target="_blank"} – the 5.5. It means giving **equal opportunities**, sharing **experience** and **empowering**. Kudos for this initiative.
+A release squad of people who identify as **women** will ship the next stable version of [WordPress CMS](https://en.wikipedia.org/wiki/WordPress){:target="_blank" rel="noopener"} – the 5.5. It means giving **equal opportunities**, sharing **experience** and **empowering**. Kudos for this initiative.
 
-**[Read the article](https://make.wordpress.org/core/2020/03/11/all-women-release-squad/)** and the [release planning](https://make.wordpress.org/core/2020/08/13/wordpress-5-6-release-planning/){:target="_blank"} on WordPress.org.
+**[Read the article](https://make.wordpress.org/core/2020/03/11/all-women-release-squad/)** and the [release planning](https://make.wordpress.org/core/2020/08/13/wordpress-5-6-release-planning/){:target="_blank" rel="noopener"} on WordPress.org.
 
 ### Benevolent sexism: a feminist comic explains how it holds women back
 
 French artist Emma illustrates perfectly how certain friendly remarks can **belittle** women in the **workplace**. Reading through the comic, I found myself nodding along. As a **woman in tech**, I’ve experienced most of the situations described by Emma. Have you?
 
-**[Read the comic](https://www.theguardian.com/books/2020/aug/13/benevolent-sexism-a-feminist-comic-explains-how-it-holds-women-back){:target="_blank"}** on The Guardian.
+**[Read the comic](https://www.theguardian.com/books/2020/aug/13/benevolent-sexism-a-feminist-comic-explains-how-it-holds-women-back){:target="_blank" rel="noopener"}** on The Guardian.
 
 ### Digital artwork by Es Devlin voices accounts of atomic bomb witnesses
 
@@ -42,4 +42,4 @@ Set designer Es Devlin and design associate Machiko Weston created _I Saw The Wo
 
 {% include pattern-video.html id="MyNeu7C2ilc" title="I Saw The World End | Es Devlin and Machiko Weston" %}
 
-**[Read the article](https://www.dezeen.com/2020/08/13/es-devlin-machiko-weston-hiroshima-bombing-i-saw-the-world-end/){:target="_blank"}** on Dezeen.
+**[Read the article](https://www.dezeen.com/2020/08/13/es-devlin-machiko-weston-hiroshima-bombing-i-saw-the-world-end/){:target="_blank" rel="noopener"}** on Dezeen.

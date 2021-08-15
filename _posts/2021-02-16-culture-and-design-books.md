@@ -28,7 +28,7 @@ Even if, initially, the book might seem to be aimed at business people, I found 
 
 I believe this book is a must-read for any company employing people from different countries. Generally, employees have to understand and adapt to the culture of a company; yet, it’s much less common to have open discussions about our differences, how they impact our work and how to approach them successfully.
 
-* [**Read the book**](https://www.goodreads.com/book/show/22085568-the-culture-map){:target="_blank"}
+* [**Read the book**](https://www.goodreads.com/book/show/22085568-the-culture-map){:target="_blank" rel="noopener"}
 
 ## Ten Arguments For Deleting Your Social Media Accounts Right Now
 
@@ -40,16 +40,16 @@ I believe this book is a must-read for any company employing people from differe
 
 Even if you decide not to delete your social media accounts, this book is a compelling read.
 
-Jaron Lanier is a Silicon Valley pioneer, and a [founder of the field of virtual reality](https://en.wikipedia.org/wiki/Jaron_Lanier){:target="_blank"}, who tells us why social media are dangerous.  
+Jaron Lanier is a Silicon Valley pioneer, and a [founder of the field of virtual reality](https://en.wikipedia.org/wiki/Jaron_Lanier){:target="_blank" rel="noopener"}, who tells us why social media are dangerous.  
 If you saw _The Social Dilemma_, you know him as one of the interviewees.
 
 Within their current business models, the tech giants manipulate our behaviour to sell us something. While their clients are happy, we’re prodded and inundated with ads. He provides powerfully argued reasons to leave the social networks, suggesting life is better off them.
 
 Lanier explains how algorithms work in general – pointing out how the ones built by Big Tech are among the best-kept secrets in the world – and why it’s almost impossible to discuss with people holding different views.
 
-I had [doubts about social media](https://silviamaggidesign.com/?cat_ID=630){:target="_blank"} well before reading the book, but some of the arguments convinced me to finally act.
+I had [doubts about social media](https://silviamaggidesign.com/?cat_ID=630){:target="_blank" rel="noopener"} well before reading the book, but some of the arguments convinced me to finally act.
 
-* [**Read the book**](https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now){:target="_blank"}
+* [**Read the book**](https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now){:target="_blank" rel="noopener"}
 
 ## Cross-Cultural Design
 
@@ -59,11 +59,11 @@ I had [doubts about social media](https://silviamaggidesign.com/?cat_ID=630){:ta
 
 {% include pattern-figure.html image="/assets/images/senongo-akpem.jpg" caption="Cross-Cultural Design by Senongo Akpem" width="194" height="300" %}
 
-I bookmarked this book in [June](https://silviamaggidesign.com/books/design-community-solidarity/){:target="_blank"} and picked it up again recently. Coupled with _The Culture Map_, it’s a fundamental read for anyone in the web field.
+I bookmarked this book in [June](https://silviamaggidesign.com/books/design-community-solidarity/){:target="_blank" rel="noopener"} and picked it up again recently. Coupled with _The Culture Map_, it’s a fundamental read for anyone in the web field.
 
 Whereas many of us think of our users as wealthy, Western people, our audience is much more diverse. So we better design for them too.
 
-* [**Read the book**](https://www.goodreads.com/book/show/50655833-cross-cultural-design){:target="_blank"}
+* [**Read the book**](https://www.goodreads.com/book/show/50655833-cross-cultural-design){:target="_blank" rel="noopener"}
 
 ## My Bass and Other Animals
 
@@ -77,7 +77,7 @@ If you don’t know him by name, chances are you heard him playing bass in many 
 
 At some point, he also did stand up shows, on which this book is based. I was lucky enough to both see him playing live and hear his recollection of his almost-encounter with Michael Jackson. Expect a very entertaining, funny read.
 
-* [**Read the book**](https://www.goodreads.com/book/show/2822087-my-bass-and-other-animals){:target="_blank"}
+* [**Read the book**](https://www.goodreads.com/book/show/2822087-my-bass-and-other-animals){:target="_blank" rel="noopener"}
 
 ## La Testa degli Italiani
 
@@ -91,9 +91,9 @@ _The Culture Map_ prompted to ask myself what it means to be Italian. When I mov
 
 Before clarifying how the mediation happened — what was instrinsically mine and what I absorbed — I need to understand what makes me Italian.
 
-Servegnini is a respected journalist, whose column, _[Italians](https://italians.corriere.it/){:target="_blank"},_ I used to follow many years ago. He wrote _La Testa degli Italiani_ with a lot of sense of humour, so you should approach the book as a semi-serious portrait of a country that is often romanticised or condemned.
+Servegnini is a respected journalist, whose column, _[Italians](https://italians.corriere.it/){:target="_blank" rel="noopener"},_ I used to follow many years ago. He wrote _La Testa degli Italiani_ with a lot of sense of humour, so you should approach the book as a semi-serious portrait of a country that is often romanticised or condemned.
 
-* [**Read the book in Italian**](https://www.goodreads.com/book/show/1564625.La_testa_degli_italiani){:target="_blank"}
-* [**Read the book in English**](https://www.goodreads.com/book/show/581712.La_Bella_Figura){:target="_blank"}
+* [**Read the book in Italian**](https://www.goodreads.com/book/show/1564625.La_testa_degli_italiani){:target="_blank" rel="noopener"}
+* [**Read the book in English**](https://www.goodreads.com/book/show/581712.La_Bella_Figura){:target="_blank" rel="noopener"}
 
-Featured image is a composite with a photo by [Drew Coffman](https://unsplash.com/@drewcoffman){:target="_blank"} on [Unsplash](https://unsplash.com/){:target="_blank"}
+Featured image is a composite with a photo by [Drew Coffman](https://unsplash.com/@drewcoffman){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/){:target="_blank" rel="noopener"}

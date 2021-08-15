@@ -13,7 +13,7 @@ In this inspiration series: a well-known website lost community trust with a red
 
 Something important took space in my mind during the past week: **web accessibility**.
 
-In a moment when people spend more time at home and need to _be_ and _feel_ **connected**, we realise what a privilege it is to have a good internet connection. Tim Berners-Lee, who invented the World Wide Web, made it clearer than ever: [access to the internet should be a **universal right**](https://www.theguardian.com/commentisfree/2020/jun/04/covid-19-internet-universal-right-lockdown-online){:target="_blank"}.
+In a moment when people spend more time at home and need to _be_ and _feel_ **connected**, we realise what a privilege it is to have a good internet connection. Tim Berners-Lee, who invented the World Wide Web, made it clearer than ever: [access to the internet should be a **universal right**](https://www.theguardian.com/commentisfree/2020/jun/04/covid-19-internet-universal-right-lockdown-online){:target="_blank" rel="noopener"}.
 
 But it doesn’t stop there: websites need to be accessible to **everyone**, **regardless of disability**. It seems surreal to have to say this in 2020, but a website designed with accessibility in mind benefits everyone.
 
@@ -23,4 +23,4 @@ I wrote a blog post about this detailing what happened and explaining what are t
 
 It’s up to us, designers and developers, to build **accessible** websites. It’s up to all of us to call out companies that don’t do it. We are all **responsible** for making the web **accessible**, **usable** and **inclusive**.
 
-[Read the blog post](https://silviamaggidesign.com/2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/){:target="_blank"}
+[Read the blog post](https://silviamaggidesign.com/2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/){:target="_blank" rel="noopener"}

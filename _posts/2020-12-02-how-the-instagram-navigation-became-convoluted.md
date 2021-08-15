@@ -9,7 +9,7 @@ With the introduction of significant layout changes – the tabs Reel and Shop �
 
 ## The reason
 
-[Announcing the changes](https://about.instagram.com/blog/announcements/introducing-reels-and-shop-tabs){:target="_blank"}, Adam Mosseri, Head of Instagram, pointed out how the pandemic changed the way people use the app. Short and entertaining videos became prominent, and people started buying more online.
+[Announcing the changes](https://about.instagram.com/blog/announcements/introducing-reels-and-shop-tabs){:target="_blank" rel="noopener"}, Adam Mosseri, Head of Instagram, pointed out how the pandemic changed the way people use the app. Short and entertaining videos became prominent, and people started buying more online.
 
 **Young people** and **creators** are at the centre of Instagram’s focus, which is the reason behind the positioning of the two new tabs in the bottom navigation.
 
@@ -61,13 +61,13 @@ In the meantime, if you updated the app and felt lost, know that it’s not you.
 ## Conclusions
 
 The products we design or use can get **complicated** over time, mainly when they become established. It happens when users ask for more **features** or when they **change** the way they use it.  
-See [Design, Digested #12 – Struggling with growth](https://silviamaggidesign.com/2020/10/26/design-digested-12-social-media-issues-complicated-products-and-redesigning-capitalism/){:target="_blank"}.
+See [Design, Digested #12 – Struggling with growth](https://silviamaggidesign.com/2020/10/26/design-digested-12-social-media-issues-complicated-products-and-redesigning-capitalism/){:target="_blank" rel="noopener"}.
 
 Sometimes it happens when the **business model** changes: if the goal is to keep people **engaged** – and watching reels and looking for things to buy do it – then these actions need to take **priority** on the screen.
 
 ## Useful links
 
-* [The Thumb Zone: Designing For Mobile Users by Samantha Ingram](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/){:target="_blank"}
-* [Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative? by Arturas Leonovas](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/){:target="_blank"}
-* [Basic Patterns for Mobile Navigation: A Primer](https://www.nngroup.com/articles/mobile-navigation-patterns/){:target="_blank"}
-* [UX Design for Mobile: Bottom Navigation](https://uxplanet.org/perfect-bottom-navigation-for-mobile-app-effabbb98c0f){:target="_blank"}
+* [The Thumb Zone: Designing For Mobile Users by Samantha Ingram](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/){:target="_blank" rel="noopener"}
+* [Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative? by Arturas Leonovas](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/){:target="_blank" rel="noopener"}
+* [Basic Patterns for Mobile Navigation: A Primer](https://www.nngroup.com/articles/mobile-navigation-patterns/){:target="_blank" rel="noopener"}
+* [UX Design for Mobile: Bottom Navigation](https://uxplanet.org/perfect-bottom-navigation-for-mobile-app-effabbb98c0f){:target="_blank" rel="noopener"}

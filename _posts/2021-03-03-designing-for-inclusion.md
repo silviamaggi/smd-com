@@ -21,11 +21,11 @@ Designing for inclusion also means thinking about how the design of content can 
 
 ## Read the articles
 
-* [From scientific racism to inclusive design](https://uxdesign.cc/from-scientific-racism-to-inclusive-design-c8b43a4b757d){:target="_blank"}
-* [Designing Inclusive Content Models](https://alistapart.com/article/designing-inclusive-content-models/){:target="_blank"}
+* [From scientific racism to inclusive design](https://uxdesign.cc/from-scientific-racism-to-inclusive-design-c8b43a4b757d){:target="_blank" rel="noopener"}
+* [Designing Inclusive Content Models](https://alistapart.com/article/designing-inclusive-content-models/){:target="_blank" rel="noopener"}
 
 ### Further resources
 
-* [Microsoft Design: Inclusive Design Principles](https://www.microsoft.com/design/inclusive/){:target="_blank"}
-* [52 UX Cards to Discover Cognitive Biases](https://stephaniewalter.design/blog/52-ux-cards-to-discover-cognitive-biases/){:target="_blank"}
-* [The Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX](https://growth.design/psychology/){:target="_blank"}
+* [Microsoft Design: Inclusive Design Principles](https://www.microsoft.com/design/inclusive/){:target="_blank" rel="noopener"}
+* [52 UX Cards to Discover Cognitive Biases](https://stephaniewalter.design/blog/52-ux-cards-to-discover-cognitive-biases/){:target="_blank" rel="noopener"}
+* [The Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX](https://growth.design/psychology/){:target="_blank" rel="noopener"}

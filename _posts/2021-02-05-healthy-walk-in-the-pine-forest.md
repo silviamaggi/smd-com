@@ -17,4 +17,4 @@ The pine forest features that stillness I used to feel in the mountains. Even if
 
 Today I saw the pine forest, but I also inhaled it and felt it.
 
-* Take a look at [my pictures on Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank"}
+* Take a look at [my pictures on Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank" rel="noopener"}

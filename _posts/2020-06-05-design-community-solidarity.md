@@ -17,19 +17,19 @@ Design inspiration series. This week: design community solidarity, designing for
 
 Harrison Wheeler invites the **design community** to use their power to question systems that are not right. We work with **empathy**, **reasearch** and **solution**-based approaches every day. It’s time we use the same techniques to find better ways to **support** and **uplift** our black neighbours, friends and colleagues.
 
-[**Read the article**](https://uxdesign.cc/the-design-community-must-not-stay-silent-10a4acb0acfb){:target="_blank"} on Medium.
+[**Read the article**](https://uxdesign.cc/the-design-community-must-not-stay-silent-10a4acb0acfb){:target="_blank" rel="noopener"} on Medium.
 
 ### Designing For Belonging: Why Image Localization Matters
 
 Music can be a **unifying** experience. But it’s also a **personal** and **localized** one, explains Nora Ahlenius. How do you make a global product feel **inclusive** and **relevant** for people all over the world? Spotify does **representation** well, through research, involving local experts, and by questioning **bias**.
 
-[**Read the article**](https://spotify.design/article/designing-for-belonging-why-image-localization-matters){:target="_blank"} on Spotify Design.
+[**Read the article**](https://spotify.design/article/designing-for-belonging-why-image-localization-matters){:target="_blank" rel="noopener"} on Spotify Design.
 
 ### Blast Off: Visionary Vintage Children’s Book Celebrates Equality, Diversity, and Space Exploration
 
 _“For as long as she could remember, Regina Williams wanted to become an astronaut,”_ the story begins. Regina is a black girl with a passion for space exploration and is the protagonist of “Blast Off”, an **inspiring** and **imaginative** book from 1973.  
 
-[**Read the article**](https://www.brainpickings.org/2014/05/08/blast-off/){:target="_blank"} on Brain Pickings.
+[**Read the article**](https://www.brainpickings.org/2014/05/08/blast-off/){:target="_blank" rel="noopener"} on Brain Pickings.
 
 ## Books
 
@@ -37,18 +37,18 @@ _“For as long as she could remember, Regina Williams wanted to become an astro
 
 The web has always been **worldwide**, and yet this concept is **relevant** today more than ever. Our designs should be able to create rich experiences for **everyone**, regardless of location, language or identity.  If you’re curious about how our Western **assumptions** bias our design choices, this book is for you.
 
-[**Read more**](https://abookapart.com/products/cross-cultural-design){:target="_blank"} on A Book Apart.
+[**Read more**](https://abookapart.com/products/cross-cultural-design){:target="_blank" rel="noopener"} on A Book Apart.
 
 ### The Culture Map: Breaking Through The Invisible Boundaries Of Global Business by Erin Meyer
 
 Following on the topic of an ever more globalised world, this book is not much about design per se, but it helps navigate and decode the **cultural differences** within the context of **business**. Since work is likely to become **remote** for many in the design field, it is also plausible to spawn **multicultural** teams. A great opportunity to **expand** our **mindset**.
 
-[**Read more**](https://www.goodreads.com/book/show/22085568-the-culture-map){:target="_blank"} on Goodreads.
+[**Read more**](https://www.goodreads.com/book/show/22085568-the-culture-map){:target="_blank" rel="noopener"} on Goodreads.
 
 ## Podcast
 
 ### About Race with Reni Eddo-Lodge
 
-Reni Eddo-Logde is the author of the book [_Why I’m Not Longer_ _Talking To White People About Race_](http://renieddolodge.co.uk/books/){:target="_blank"}. Her 2018 podcast takes the **conversation** further, by looking at recent history that lead to the **politics** of today.
+Reni Eddo-Logde is the author of the book [_Why I’m Not Longer_ _Talking To White People About Race_](http://renieddolodge.co.uk/books/){:target="_blank" rel="noopener"}. Her 2018 podcast takes the **conversation** further, by looking at recent history that lead to the **politics** of today.
 
-[**Listen here**](https://www.aboutracepodcast.com/){:target="_blank"} or on your favourite podcast platform.
+[**Listen here**](https://www.aboutracepodcast.com/){:target="_blank" rel="noopener"} or on your favourite podcast platform.

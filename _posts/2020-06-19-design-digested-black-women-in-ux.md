@@ -16,25 +16,25 @@ Credits: Ann O., Stephanie McCabe @ Unsplash
 
 Product Designer Ann O. shares her experience as a **black woman** in **UX**. White people designed the world for white people, and now it’s the right time for a redesign. It starts with **empathy** and **representation**.
 
-**[Read the article](https://www.linkedin.com/pulse/black-women-ux-world-designed-us-can-redesigned-ann-oduwaiye/){:target="_blank"}** on LinkedIn.
+**[Read the article](https://www.linkedin.com/pulse/black-women-ux-world-designed-us-can-redesigned-ann-oduwaiye/){:target="_blank" rel="noopener"}** on LinkedIn.
 
 ### IBM Abandons Facial Recognition Products, Condemns Racially Biased Surveillance
 
 IBM will no longer provide **facial recognition technology** to police departments for **mass surveillance** and **racial profiling**, Arvind Krishna, IBM’s chief executive, wrote in a letter to Congress. A bold move: will other big companies follow?
 
-**[Read the article](https://www.npr.org/2020/06/09/873298837/ibm-abandons-facial-recognition-products-condemns-racially-biased-surveillance?t=1592513695449){:target="_blank"}** on NPR.
+**[Read the article](https://www.npr.org/2020/06/09/873298837/ibm-abandons-facial-recognition-products-condemns-racially-biased-surveillance?t=1592513695449){:target="_blank" rel="noopener"}** on NPR.
 
 ### 3 Personal Habits That Will Foster Your Creativity
 
 Creativity is often associated with **lightbulb** moments, strokes of **genius** and the ability to think outside the box. In reality, having a **structure** and a **routine** helps significantly in being both creative and **productive**.
 
-**[Read the article](https://www.interaction-design.org/literature/article/3-personal-habits-that-will-foster-your-creativity){:target="_blank"}** on Interaction Design Foundation.
+**[Read the article](https://www.interaction-design.org/literature/article/3-personal-habits-that-will-foster-your-creativity){:target="_blank" rel="noopener"}** on Interaction Design Foundation.
 
 ### What Coronavirus Reveals About The World’s Culture
 
 If a person reveals their real **character** in a **crisis**, the same is valid for a country. This article is a compelling read that observes how various **countries** dealt with the **pandemic** and the **lockdowns**, revealing what matters to them most.
 
-**[Read the article](http://www.bbc.com/travel/story/20200327-what-coronavirus-reveals-about-the-worlds-culture){:target="_blank"}** on BBC Travel.
+**[Read the article](http://www.bbc.com/travel/story/20200327-what-coronavirus-reveals-about-the-worlds-culture){:target="_blank" rel="noopener"}** on BBC Travel.
 
 ## Video
 
