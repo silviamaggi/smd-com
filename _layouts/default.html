@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
-{% include default-meta.html %}
-{% include seo.html %}
-{% include favicons.html %}
+{%- include default-meta.html -%}
+{%- include seo.html -%}
+{%- include favicons.html -%}
 </head>
 <body class="layout-{{ page.layout }} {% if page.is_post %}post-{{ page.title | slugify }}{% else %}page-{{ page.title | slugify }}{% endif %}" id="top">
-{% include navigation.html %}
+{%- include navigation.html -%}
 {{ content }}
 </body>
 </html>

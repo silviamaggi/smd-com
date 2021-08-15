@@ -2,7 +2,9 @@
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
-  {% if page.is_post %}"@type": "BlogPosting",{% else %}"@type": "WebSite",{% endif %}
+  {% if page.is_post %}
+  "@type": "BlogPosting",{% else %}"@type": "WebSite",
+  {% endif -%}
   "name": "{% if page.url == "/" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.title }} {{ site.tagline }}{% endif %}",
   "headline": "{% if page.url == "/" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.title }} {{ site.tagline }}{% endif %}",
   "url": "{{ site.url }}",
@@ -25,7 +27,7 @@
     "https://github.com/silviamaggi",
     "https://www.flickr.com/photos/silvia-m/"
   ],
-  {% if page.image %}
+  {%- if page.image -%}
   "image": {
     "@type": "ImageObject",
     "width": {{ page.img_width | default: site.img_width }},
