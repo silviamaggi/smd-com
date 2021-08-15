@@ -13,8 +13,12 @@ redirect_from:
 </div>
 {% endfor -%}
 
+<br>
+
 <nav class="nav nav-paginator">
   {% if paginator.previous_page -%}<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination pagination-previous">&larr; Newer</a>{%- endif %}
   <span class="pagination pagination-counter">Page: <strong>{{ paginator.page }} of {{ paginator.total_pages }}</strong></span>
   {% if paginator.next_page %}<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination pagination-next">Older &rarr;</a>{% endif %}
 </nav>
+
+<br>

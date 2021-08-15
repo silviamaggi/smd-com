@@ -6,6 +6,8 @@ featured-image: 20180524_bordeaux_2793_post-header.jpg
 ---
 A few weeks ago, my husband and I travelled outside the UK for a different reason other than visiting family and friends: we spent four days in Bordeaux.
 
+<!--more-->
+
 Our accommodation was in Chartrons, a beautiful part of the city—in particular, a street famous for its antiquity shops. Without a plan or a travel card, we walked around and visited without any pressure.
 
 The architecture is astonishing. It’s got all the Parisian charm with a warm twist, thanks to the limestone used in most of the buildings.

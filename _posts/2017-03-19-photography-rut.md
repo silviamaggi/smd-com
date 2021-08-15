@@ -9,6 +9,8 @@ redirect_from:
 ---
 Having an ongoing photo project is good, as it helps seeing things around us with a different perspective and noticing details usually overlooked in our day-to-day life.
 
+<!--more-->
+
 My ongoing project is about the changes in nature and sky on my way to work with my bicycle. It began in July 2016, around the time I started a new job in Cambridge.
 
 {% include pattern-figure.html image="/assets/images/20170307-img_1724.jpg" caption="Longer Days on River Cam" width="1400" height="1050" %}

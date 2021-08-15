@@ -3,12 +3,11 @@ author: silvia
 title: The Pandemic is a Massive Opportunity for Change
 categories: Design
 description: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
+excerpt: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
 featured-image: charlie-deets.jpg
 redirect_from:
   - /design/crisis-opportunity-to-shape-a-better-society/
 ---
-Photo by Charlie Deets on Unsplash
-
 > If somebody asked you to redesign the society of the future, what would it look like?
 
 ## The pandemic brought our lives to a halt
@@ -62,3 +61,5 @@ I believe that anyone can apply this way of thinking. We are now aware of how we
 ---
 _Rams_ is a documentary by Gary Hustwit. You can watch it [here](https://hustwit.vhx.tv/){:target="_blank" rel="noopener"}.
 ---
+
+<small>Photo by Charlie Deets on Unsplash</small>

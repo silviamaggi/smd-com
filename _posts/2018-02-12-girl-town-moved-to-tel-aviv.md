@@ -2,11 +2,12 @@
 author: silvia
 categories: Photography
 description: Girl Town moved to Tel Aviv, Israel. The exhibition celebrates the culture of the female in the 21th century. By Shutter Hub, hosted at Albert Gallery.
+excerpt: The exhibition celebrates the culture of the female in the 21th century. By Shutter Hub, hosted at Albert Gallery.
 featured-image: girl-town-silviamaggi-header.jpg
 redirect_from:
   - /photography/girl-town-tel-aviv/
 ---
-## GIRL TOWN moved to Tel Aviv, Israel, where it run from 8 February to 9 March 2018 at the Alfred Gallery.
+## GIRL TOWN moved to Tel Aviv, Israel, where it ran from 8 February to 9 March 2018 at the Alfred Gallery.
 
 Originally presented at Photomonth East London International Photography Festival in 2016, the show celebrates the culture of the female in the 21th century.
 

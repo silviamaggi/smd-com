@@ -11,6 +11,8 @@ redirect_from:
 ---
 How switching from an entry-level Canon DSLR to a mirrorless camera changed my photography mindset.
 
+<!--more-->
+
 I bought a Fujifilm X-T20. The main reason for me to switch from an entry-level Canon
 <abbr title="Digital Single-Lense Reflex">DSLR</abbr> to a mirrorless camera was initially to carry less weight around.
 
