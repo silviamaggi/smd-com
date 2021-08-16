@@ -1,3 +1,15 @@
+---
+title: About
+description: Silvia Maggi is a UX Designer striving to create meaningful, user-centric experiences.
+permalink: /about-silviamaggi-ux-designer/
+redirect_from:
+  - /resume-silviamaggi/
+  - /about-silviamaggi/
+  - /about/
+  - /it/sono-una-ux-designer/
+---
+# {{ page.title }}
+
 ## I’m a UX designer striving to create meaningful, user-centric experiences
 
 {% include pattern-figure.html image="/assets/images/silviamaggi-avatar.png" width="250" height="250" %}

@@ -3,14 +3,13 @@ author: silvia
 title: Design, Digested 6. Anti-Racist Lessons, Empathic Design And The Misogyny Of The Workforce
 categories: Design
 description: Design inspiration series. Four anti-racist lessons, problems with empathic design and the misogyny of the workforce.
-excerpt: Design inspiration series. Four anti-racist lessons, problems with empathic design and the misogyny of the workforce.
 featured-image: design-digested-6.jpg
 redirect_from:
   - /design/design-digested-6-anti-racist-lessons-empathic-design-misogyny-of-the-workforce/
 ---
-Credits: Angelina Bambina/Adobe Stock, XD Ideas, Vox
-
 Design inspiration series. This week: four anti-racism lessons, Don Norman doesn’t believe in empathic design and working in tech as a woman.
+
+<!--more-->
 
 ## Articles
 
@@ -45,3 +44,5 @@ Jess Vergara’s message is simple: stop contributing to the **misogyny** of the
 Let’s finish this week’s digest with a smile. I recently rediscovered the pleasure of playing **video games** and how they can take our minds off the news and the current uncertain times we’re living. _Super Mario Bros._ is still one of my favourite games. The very first screen is the perfect example of how to explain a game without manuals: all you need to know is there, the rest you can learn along the way — something to keep in mind when it comes to **onboarding** experiences of digital products/websites.
 
 {% include pattern-video.html id="K-NBcP0YUQI" title="How the inventor of Mario designs a game" %}
+
+Credits: Angelina Bambina/Adobe Stock, XD Ideas, Vox

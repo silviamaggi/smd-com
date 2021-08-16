@@ -7,5 +7,17 @@ redirect_from:
   - /contacts-silviamaggi/
   - /it/contatti/
 ---
-<h1>{{ page.title }}</h1>
-{%- include markdownifier.html -%}
+# {{ page.title }}
+
+## Write me a message
+
+I’ll reply in one/two working days.
+
+(Form here)
+
+## Connect with me
+
+* [LinkedIn](https://www.linkedin.com/in/silviamaggi/)
+* [Flickr](https://www.flickr.com/photos/silvia-m/)
+
+## Join the mailing list
