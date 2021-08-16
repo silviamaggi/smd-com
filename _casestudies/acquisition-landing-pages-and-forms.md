@@ -1,6 +1,7 @@
 ---
 title: Acquisition Landing Pages and Forms
 description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
+excerpt: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
 ---
 # Acquisition Landing Pages and Forms
 
