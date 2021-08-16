@@ -12,28 +12,27 @@
     float: right;
     text-align: right;
   }
-  .container-previous-post::before {
-    display: block;
-    content: '← ';
-    float: left;
-  }
-  .container-next-post::after {
-    display: block;
-    content: ' →';
-    text-align: right;
-    float: right;
-  }
 </style>
 <!-- /END temporary code -->
 <div class="previous-next-post-links">
   <div class="post-navigation container-previous-post">
-    {% if page.previous != nil %}
-    <span>Previous post: <a class="arrow arrow-left" href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a></span>
+    {% if page.previous.url %}
+    <a class="arrow arrow-left" href="{{ site.baseurl }}{{ page.previous.url }}">&larr;&nbsp;{{ page.previous.title }}</a>
     {% endif %}
   </div>
   <div class="post-navigation container-next-post">
-    {% if page.next != nil %}
-    <span>Next post: <a class="arrow arrow-right" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a></span>
+    {% if page.next.url %}
+    <a class="arrow arrow-right" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}&nbsp;&rarr;</a>
     {% endif %}
   </div>
 </div>
+
+{% capture tags %}
+  {% for tag in site.tags %}
+    {{ tag[0] }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedtags = tags | split:' ' | sort %}
+{% for tag in sortedtags %}
+    <p>{{ tag }}</p>
+{% endfor %}
