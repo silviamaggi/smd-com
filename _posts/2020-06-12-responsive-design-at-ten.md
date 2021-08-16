@@ -2,6 +2,7 @@
 author: silvia
 title: Design, Digested 3. Language, Mobile Approach And Responsive Design At 10
 categories: Books
+tags: [design digested, responsive web design, usability, mobile first]
 description: Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.
 excerpt: Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.
 featured-image: design-digested-3.jpg
@@ -18,7 +19,7 @@ redirect_from:
 
 ### Glossier’s Mobile Navigation
 
-This week’s first article is about **challenging assumptions**. [Glossier](https://www.glossier.com/){:target="_blank" rel="noopener"}’s user experience department studied how people **navigate** their site and found that the very commonly used **hamburger** menu on mobile didn’t work for them. It’s an old article, and in the meantime they redesigned the navigation, but it’s still a good read.
+This article is about **challenging assumptions**. [Glossier](https://www.glossier.com/){:target="_blank" rel="noopener"}’s user experience department studied how people **navigate** their site and found that the very commonly used **hamburger** menu on mobile didn’t work for them. It’s an old article, and in the meantime they redesigned the navigation, but it’s still a good read.
 
 [**Read the article**](https://medium.com/glossier/glossiers-mobile-navigation-4a944e65b0b7){:target="_blank" rel="noopener"} on Medium.
 
@@ -26,7 +27,7 @@ This week’s first article is about **challenging assumptions**. [Glossier](htt
 
 Released in the year 2000, _Don’t Make Me Think_ is still one of the **defining texts** for anyone who works in the **web** industry. It’s the short, and to-the-point book that set my career firmly towards **usability** and **UX**. The article explains its key points.
 
-[**Read the article**](https://www.interaction-design.org/literature/article/don-t-make-me-think-key-learning-points-for-ux-design-for-the-web?r=silvia-maggi){:target="_blank" rel="noopener"} on Interaction Design Foundation.
+[**Read the article**](https://www.interaction-design.org/literature/article/don-t-make-me-think-key-learning-points-for-ux-design-for-the-web){:target="_blank" rel="noopener"} on Interaction Design Foundation.
 
 ### Responsive Web Design Turns Ten
 

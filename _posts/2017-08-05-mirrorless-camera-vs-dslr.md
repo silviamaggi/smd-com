@@ -2,6 +2,7 @@
 author: silvia
 title: Mirrorless camera vs DSLR. My experience
 categories: Photography
+tags: [photography, edinburgh, fujifilm]
 description: Mirrorless camera vs DSLR. My experience. How switching from an entry-level Canon DSLR to a mirrorless camera changed my photography mindset.
 featured-image: 20170804_edinburgh_1265.jpg
 redirect_from:

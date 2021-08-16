@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: Learning to draw. A journey
+tags: [drawing, drawabox, design]
 categories: Design
 description: As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey.
 featured-image: sam-rios-unsplash.jpg

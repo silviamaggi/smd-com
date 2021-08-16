@@ -2,6 +2,7 @@
 author: silvia
 title: I deactivated my Instagram account. What now?
 categories: Photography
+tags: [social media, instagram, photography]
 description: I deactivated my Instagram account. What now? If it sounds like a big a deal, it's because it is. My first week post-Instagram.
 featured-image: deactivated-instagram-account.jpg
 redirect_from:

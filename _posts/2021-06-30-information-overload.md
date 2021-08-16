@@ -1,6 +1,7 @@
 ---
 author: silvia
 categories: Design-Digested
+tags: [design digested, letter, UX, design]
 description: On information overload and my plans for the newsletter Design, Digested.
 featured-image: smd-blog-featured-image_lettera.jpg
 redirect_from:

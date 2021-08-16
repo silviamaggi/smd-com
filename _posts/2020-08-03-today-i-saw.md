@@ -1,6 +1,7 @@
 ---
 author: silvia
 categories: Today-I-Saw
+tags: [photography, instagram, social media]
 description: With the intent of staying away from social media, I started "Today I Saw", a series where I post one photo and a few thoughts about it.
 featured-image: today-i-saw-silviamaggi.jpg
 ---

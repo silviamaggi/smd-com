@@ -2,6 +2,7 @@
 author: silvia
 title: The Station of Being Bus Stop Experience
 categories: Design
+tags: [design, ux, sweden]
 description: A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.
 featured-image: station-of-being-samuel-pettersson.jpg
 redirect_from:

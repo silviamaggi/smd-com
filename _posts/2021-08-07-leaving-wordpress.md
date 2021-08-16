@@ -1,6 +1,7 @@
 ---
 author: silvia
 categories: Personal
+tags: [wordpress, jekyll, github pages, personal]
 description: An announcement to my WordPress followers.
 featured-image: marco-chilese-unsplash.jpg
 redirect_from:
