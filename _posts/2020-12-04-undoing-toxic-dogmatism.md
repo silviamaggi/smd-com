@@ -2,6 +2,7 @@
 author: silvia
 title: Undoing toxic dogmatism; designing less; be more effective
 categories: Design
+tags: [design digested, dogmatism, privacy, design, photography]
 description: Design, Digested 15. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.
 excerpt: Design, Digested 15. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.
 featured-image: design-digested-15.jpg

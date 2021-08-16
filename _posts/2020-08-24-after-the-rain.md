@@ -1,6 +1,7 @@
 ---
 author: silvia
 categories: Today-I-Saw
+tags: [photography, cambridge, fujifilm]
 description: Today I took time to appreciate my surroundings. After the rain shower, I shot a few pictures in my garden.
 featured-image: after-the-rain-silviamaggi-1.jpg
 ---

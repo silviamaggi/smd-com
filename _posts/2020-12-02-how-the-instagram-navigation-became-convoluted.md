@@ -2,6 +2,7 @@
 author: silvia
 title: How the Instagram navigation became convoluted
 categories: Design
+tags: [instagram, navigation, UX]
 description: With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let's briefly explore how.
 featured-image: lalo-hernandez-unsplash.jpg
 ---

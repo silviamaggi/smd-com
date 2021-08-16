@@ -2,6 +2,7 @@
 author: silvia
 title: Design, Digested 9. Facebook Can’t Beat Hate, The Uncensored Library and ‘Get Bad News’
 categories: Social-Media
+tags: [design digested, disinformation, reporters without borders, facebook, world wide web]
 description: Design inspiration series. Why Facebook can’t beat hate, a safe haven for press freedom, a game to recognise disinformation.
 excerpt: Design inspiration series. Why Facebook can’t beat hate, a safe haven for press freedom, a game to recognise disinformation.
 featured-image: design-digested-9.jpg

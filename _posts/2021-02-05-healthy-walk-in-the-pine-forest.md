@@ -2,6 +2,7 @@
 author: silvia
 title: A healthy walk in the pine forest
 categories: Photography
+tags: [photography, pine forest, italy]
 description: Today I took a few pictures of the pine forest with my phone. It's a great feature to have close to home as an alternative to walking on the beach.
 featured-image: healthy-walk-pine-forest-1.jpg
 ---

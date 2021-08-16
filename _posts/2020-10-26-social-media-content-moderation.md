@@ -2,6 +2,7 @@
 author: silvia
 title: Design, Digested 12. Social media content moderation issues and complicated products
 categories: Social-Media
+tags: [design digested, facebook, algorithm, growth, capitalism]
 description: This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.
 excerpt: This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.
 featured-image: design-digested-12.jpg

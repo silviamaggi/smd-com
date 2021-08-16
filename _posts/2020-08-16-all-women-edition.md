@@ -2,6 +2,7 @@
 author: silvia
 title: Design, Digested 11. All-women edition
 categories: Diversity
+tags: [design digested, facial recognition, sexism, racial bias, wordpress]
 description: Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.
 excerpt: Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.
 featured-image: design-digested-11-all-women-edition.jpg

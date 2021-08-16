@@ -2,6 +2,7 @@
 author: silvia
 title: Design, Digested 13. Fear, AI bias and Enzo Mari legacy
 categories: Design
+tags: [design digested, enzo mari, ai bias, futura, ethical design]
 description: The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.
 excerpt: The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.
 featured-image: design-digested-13.jpg
