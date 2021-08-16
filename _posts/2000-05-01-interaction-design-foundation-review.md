@@ -1,9 +1,9 @@
 ---
 author: silvia
-title: My experience with the Interaction Design Foundation
+title: Interaction Design Foundation review
 categories: Design
-redirection: https://www.interaction-design.org/
 hidden: true
+redirection: https://www.interaction-design.org/
 ---
 ## This page has moved
 
