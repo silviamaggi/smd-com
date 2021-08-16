@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
-{%- include default-redirect.html -%}
-{%- include default-meta.html -%}
+{%- include site-redirect.html -%}
+{%- include site-meta.html -%}
 {%- include seo.html -%}
 {%- include favicons.html -%}
 </head>
 <body class="layout-{{ page.layout }} {% if page.is_post %}post-{{ page.title | slugify }}{% else %}page-{{ page.title | slugify }}{% endif %}" id="top">
-{%- include navigation.html -%}
+{% include site-header.html %}
 {{ content }}
+{%- include site-footer.html -%}
 </body>
 </html>
