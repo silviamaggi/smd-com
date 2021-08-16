@@ -30,6 +30,14 @@ defaults:
     values:
       layout: "default"
 
+collections:
+  casestudies:
+    output: true
+    permalink: /_casestudies/:path/
+  sideprojects:
+    output: true
+    permalink: /_sideprojects/:path/
+
 paginate: 9
 paginate_path: "/blog/page:num/"
 
