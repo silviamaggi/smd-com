@@ -11,7 +11,7 @@ redirect_from:
 
 Originally presented at Photomonth East London International Photography Festival in 2016, the show celebrates the culture of the female in the 21th century.
 
-{% include pattern-figure.html image="/assets/images/girl-town-silviamaggi-entry.jpg" caption="Girl Town – Back from the office, silvia Maggi" width="768" height="1024" %}
+{% include pattern-figure.html image="/assets/images/girl-town-silviamaggi-entry.jpg" caption="Girl Town – Back from the office, &copy; Silvia Maggi" width="768" height="1024" %}
 
 Initially, the exhibition was curated on Instagram, and I’ve been proudly part of it ever since the beginning.
 

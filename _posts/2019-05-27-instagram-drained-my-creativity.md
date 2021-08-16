@@ -55,3 +55,5 @@ Below is the list of the videos I watched:
 * [9 Photography Tips you should IGNORE!](https://www.youtube.com/watch?v=3RNWJPbrZfo){:target="_blank" rel="noopener"}
 
 I hope you enjoy them!
+
+All pictures &copy; Silvia Maggi

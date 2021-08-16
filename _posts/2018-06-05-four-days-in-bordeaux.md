@@ -55,6 +55,8 @@ We won’t forget our adventure in Bordeaux. The food, the wine, the limestone b
 
 Lessons learnt: use weather apps that provide detailed international weather alerts, and always bring a change of trousers and shoes, even when travelling light.
 
+<small>All pictures &copy; Silvia Maggi</small>
+
 ---
 
 ### Update
