@@ -9,24 +9,14 @@ redirect_from:
 
 <h2>Case studies</h2>
 
-{% for casestudies in site.casestudies %}
-
-<a href="{{ casestudies.url | prepend: site.baseurl }}">
-  <h3>{{ casestudies.title }}</h3>
-</a>
-
-<p class="post-excerpt">{{ casestudies.description | markdownify }}</p>
-
+{% for casestudy in site.casestudies %}
+<a href="{{ casestudy.url }}" title="View: {{ casestudy.title }}"><h3>{{ casestudy.title }}</h3></a>
+<p class="post-excerpt">{{ casestudy.description | markdownify }}</p>
 {% endfor %}
 
 <h2>Side projects</h2>
 
-{% for sideprojects in site.sideprojects %}
-
-<a href="{{ sideprojects.url | prepend: site.baseurl }}">
-  <h3>{{ sideprojects.title }}</h3>
-</a>
-
-<p class="post-excerpt">{{ sideprojects.description | markdownify }}</p>
-
+{% for sideproject in site.sideprojects %}
+<a href="{{ sideproject.url }}" title="View: {{ sideproject.title }}"><h3>{{ sideproject.title }}</h3></a>
+<p class="post-excerpt">{{ sideproject.description | markdownify }}</p>
 {% endfor %}

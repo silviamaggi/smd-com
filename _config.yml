@@ -33,10 +33,10 @@ defaults:
 collections:
   casestudies:
     output: true
-    permalink: /_casestudies/:path/
+    permalink: /portfolio/:path/
   sideprojects:
     output: true
-    permalink: /_sideprojects/:path/
+    permalink: /portfolio/:path/
 
 paginate: 9
 paginate_path: "/blog/page:num/"
