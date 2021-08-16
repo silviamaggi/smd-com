@@ -1,10 +1,10 @@
 ---
+layout: post
 title: Acquisition Landing Pages and Forms
 description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
+featured-image: unicredit-case-study-featured-img.png
 excerpt: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
 ---
-# Acquisition Landing Pages and Forms
-
 **Skills**: User interviews, Content Strategy, User flows, Wireframing, HTML& CSS, Prototyping, UI  
 **Tools**: Sketch app, UI Farm framework
 
