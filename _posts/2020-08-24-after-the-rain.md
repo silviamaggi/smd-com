@@ -19,4 +19,4 @@ During the last few weeks, I neglected taking care of my body and started to fee
 I’m writing this post after a short restorative yoga session and can feel the difference already.
 
 ––  
-All pictures © Silvia Maggi
+<small>All photos by Silvia Maggi</small>

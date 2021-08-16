@@ -26,4 +26,4 @@ In the meantime, take care.
 
 Should you have any questions, [get in touch](https://silviamaggidesign.com/get-in-touch-silviamaggi/){:target="_blank" rel="noopener"}.
 
-<small>Photo by [Marco Chilese](https://unsplash.com/@chmarco){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/s/photos/leaving){:target="_blank" rel="noopener"}</small>
+<small>Photo by [Marco Chilese](https://unsplash.com/@chmarco){:target="_blank" rel="noopener"} on Unsplash</small>

@@ -18,3 +18,5 @@ Sun, mild temperatures, fresh air, face masks. It feels surreal, but it’s been
 ![Learning to sail](/assets/images/at-the-beach-silviamaggi-5.jpeg)
 
 [Check my pictures on Flick](https://www.flickr.com/photos/silvia-m/){:target="_blank" rel="noopener"}.
+
+<small>All photos by Silvia Maggi</small>

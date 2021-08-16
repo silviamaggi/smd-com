@@ -9,8 +9,6 @@ redirect_from:
   - /2020/08/16/design-digested-11-all-women-edition/
   - /diversity/design-digested-11-all-women-edition/
 ---
-Image credits: Shaniqwa Jarvis, Sara Wong, Emma
-
 ## Articles
 
 ### Meet the computer scientist and activist who got Big Tech to stand down
@@ -44,3 +42,5 @@ Set designer Es Devlin and design associate Machiko Weston created _I Saw The Wo
 {% include pattern-video.html id="MyNeu7C2ilc" title="I Saw The World End | Es Devlin and Machiko Weston" %}
 
 **[Read the article](https://www.dezeen.com/2020/08/13/es-devlin-machiko-weston-hiroshima-bombing-i-saw-the-world-end/){:target="_blank" rel="noopener"}** on Dezeen.
+
+<small>Image credits: Shaniqwa Jarvis, Sara Wong, Emma</small>

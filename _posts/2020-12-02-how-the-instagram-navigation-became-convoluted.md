@@ -73,3 +73,5 @@ Sometimes it happens when the **business model** changes: if the goal is to keep
 * [Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative? by Arturas Leonovas](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/){:target="_blank" rel="noopener"}
 * [Basic Patterns for Mobile Navigation: A Primer](https://www.nngroup.com/articles/mobile-navigation-patterns/){:target="_blank" rel="noopener"}
 * [UX Design for Mobile: Bottom Navigation](https://uxplanet.org/perfect-bottom-navigation-for-mobile-app-effabbb98c0f){:target="_blank" rel="noopener"}
+
+<small>Photo by [Lalo Hernandez](https://unsplash.com/photos/r34cKhbEDCU){:target="_blank" rel="noopener"} on Unsplash</small>

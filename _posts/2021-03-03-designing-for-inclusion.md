@@ -31,3 +31,5 @@ Designing for inclusion also means thinking about how the design of content can 
 * [Microsoft Design: Inclusive Design Principles](https://www.microsoft.com/design/inclusive/){:target="_blank" rel="noopener"}
 * [52 UX Cards to Discover Cognitive Biases](https://stephaniewalter.design/blog/52-ux-cards-to-discover-cognitive-biases/){:target="_blank" rel="noopener"}
 * [The Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX](https://growth.design/psychology/){:target="_blank" rel="noopener"}
+
+<small>Photo and design by Silvia Maggi</small>

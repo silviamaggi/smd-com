@@ -8,8 +8,6 @@ featured-image: design-digested-10.jpg
 redirect_from:
   - /diversity/design-digested-10-inclusive-design-social-media/
 ---
-Photo by [Daria Nepriakhina](https://unsplash.com/@epicantus){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/){:target="_blank" rel="noopener"}
-
 On week number 10 of my design inspiration series, I share resources about **inclusive design**, **problematic social media** facts, and a great music project.
 
 ### Inclusive Design
@@ -79,3 +77,5 @@ Watch the official video of the song _A Little Boy That Santa Claus Forgot On A 
 {% include pattern-video.html id="5M1XTw483Ew" title="Minutes to Midnight - A Little Boy That Santa Claus Forgot On A B-29 [Rock] (2019) Music Video" %}
 
 Disclaimer: Minutes to Midnight is my husband. I’m sharing his music because I believe it’s a unique and touching project. Check his [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg/){:target="_blank" rel="noopener"} to discover the entire album.
+
+<small>Photo by [Daria Nepriakhina](https://unsplash.com/@epicantus){:target="_blank" rel="noopener"} on Unsplash</small>

@@ -9,8 +9,6 @@ redirect_from:
   - /creativity/design-digested-4-black-women-in-ux-foster-creativity-bowie-scolded-mtv/
   - /creativity/design-digested-4-black-women-in-ux-foster-creativity-unimpressed-bowie/
 ---
-Credits: Ann O., Stephanie McCabe @ Unsplash
-
 ## Articles
 
 ### Black Women In UX: The World Was Not Designed For us, But It Can Be Redesigned
@@ -44,3 +42,5 @@ If a person reveals their real **character** in a **crisis**, the same is valid 
 As a big fan of **David Bowie**’s, I was delighted to see this video widely shared on Twitter last week. Bowie becomes the interviewer while he **calls out** MTV on **racism**, but the answers he gets don’t impress him – and rightly so.
 
 {% include pattern-video.html id="XZGiVzIr8Qg" title="David Bowie Criticizes MTV for Not Playing Videos by Black Artists" %}
+
+<small>Image credits: Ann O., [Stephanie McCabe](https://unsplash.com/photos/suZyHko1JEs){:target="_blank" rel="noopener"} on Unsplash</small>

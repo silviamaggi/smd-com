@@ -32,5 +32,6 @@ I’m still mostly isolating and avoiding all unnecessary activities. Neverthele
 ![Isolation photo diary](/assets/images/isolation-photo-diary-silviamaggi-8.jpg)
 ![Isolation photo diary](/assets/images/isolation-photo-diary-silviamaggi-9.jpg)
 
+My Photos [on Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank" rel="noopener"}
 
-My Photos [on Flickr](https://www.flickr.com/photos/silvia-m/)
+<small>All photos by Silvia Maggi</small>

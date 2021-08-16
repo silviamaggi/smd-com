@@ -50,4 +50,4 @@ I could see where I lost focus and, more importantly, **I could see progress bet
 
 Let the journey begin!
 
-Featured photo by [Sam Rios](https://unsplash.com/@samr1os_official){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/){:target="_blank" rel="noopener"}.
+<small>Photo by [Sam Rios](https://unsplash.com/@samr1os_official){:target="_blank" rel="noopener"} on Unsplash</small>

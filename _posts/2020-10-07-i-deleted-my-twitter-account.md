@@ -19,4 +19,4 @@ In other news, I’ve been silent on my blog because my husband and I **moved ou
 
 Watch this space.
 
-<small>Photo by [Chris J. Davis](https://unsplash.com/@chrisjdavis){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/s/photos/twitter){:target="_blank" rel="noopener"}</small>
+<small>Photo by [Chris J. Davis](https://unsplash.com/@chrisjdavis){:target="_blank" rel="noopener"} on Unsplash</small>

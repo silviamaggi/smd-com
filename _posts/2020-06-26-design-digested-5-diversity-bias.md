@@ -52,4 +52,4 @@ In his best-selling book _[The Design Of Everyday Things](https://www.goodreads.
 
 **[Read about the book](https://www.carolinecriadoperez.com/books){:target="_blank" rel="noopener"}** on Caroline Criado Perez’s website.
 
-<small>Photo by Clay Banks on Unsplash</small>
+<small>Photo by [Clay Banks](https://unsplash.com/photos/LjqARJaJotc){:target="_blank" rel="noopener"} on Unsplash</small>

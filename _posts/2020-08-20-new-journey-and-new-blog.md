@@ -14,4 +14,4 @@ It feels like hitting the reset button: a much-needed pause to regroup and under
 
 I’d be glad if you’d like to accompany us on this journey.
 
-<small>Photo &copy; Silvia Maggi - The North Sea at Cromer.</small>
+<small>Photo by Silvia Maggi</small>

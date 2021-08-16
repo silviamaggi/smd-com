@@ -69,4 +69,4 @@ As a person who likes almost everything digital and tech, I was surprised to rea
 
 Did you find anything interesting? Let me know in the comments or [via email](https://silviamaggidesign.com/get-in-touch-silviamaggi/).
 
-The featured image is a composite with a photo by [Flavio Amiel](https://unsplash.com/@flavioamiel){:target="_blank" rel="noopener"} on Unsplash
+<small>Photo by [Flavio Amiel](https://unsplash.com/@flavioamiel){:target="_blank" rel="noopener"} on Unsplash, design by Silvia Maggi</small>

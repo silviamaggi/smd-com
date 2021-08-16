@@ -25,3 +25,5 @@ The articles are an essential read if you are:
 
 * [We Value Your Privacy (At About $0.50): Dark Patterns in UI Copy](https://prototypr.io/post/we-value-your-privacy-at-about-0-50-dark-patterns-in-ui-copy/){:target="_blank" rel="noopener"}, by Graeme Fulton.   
 * [Dark Patterns in Your Everyday App](https://uxplanet.org/dark-design-patterns-in-your-everyday-apps-3627e439a8a1){:target="_blank" rel="noopener"}, by Mariana Vargas
+
+<small>Photo and design by Silvia Maggi</small>

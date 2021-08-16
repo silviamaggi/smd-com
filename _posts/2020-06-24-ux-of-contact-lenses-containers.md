@@ -53,4 +53,4 @@ Did you have a similar experience with contact lenses container? Or a completely
 
 The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.
 
-<small>Photo by David Travis on Unsplash</small>
+<small>Photo by [David Travis](https://unsplash.com/photos/WC6MJ0kRzGw){:target="_blank" rel="noopener"} on Unsplash</small>

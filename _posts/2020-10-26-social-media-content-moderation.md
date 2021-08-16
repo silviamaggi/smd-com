@@ -9,8 +9,6 @@ redirect_from:
   - /2020/10/26/design-digested-12-social-media-issues-complicated-products-and-redesigning-capitalism/
   - /social-media/design-digested-12-social-media-issues-complicated-products-and-redesigning-capitalism/
 ---
-Photo by [Ryoji Iwata](https://unsplash.com/@ryoji__iwata){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/s/photos/humans){:target="_blank" rel="noopener"}
-
 After a two-month [hiatus](https://silviamaggidesign.com/today-i-saw/after-the-rain/){:target="_blank" rel="noopener"}, the design inspiration series is back with a focus on social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.
 
 ## Social Media
@@ -48,3 +46,5 @@ The products we design and use can get **complicated** over time. The co-founder
 Nina Montgomery, the author of the newsletter _Reimagining Capitalism_, studied how a dozen of forward-looking companies are rethinking the way they **generate value** and **who** they serve.
 
 * [**Read the article**](https://www.ideo.com/journal/capitalism-needs-a-redesign-but-where-do-we-start){:target="_blank" rel="noopener"} on IDEO.
+
+<small>Photo by [Ryoji Iwata](https://unsplash.com/@ryoji__iwata){:target="_blank" rel="noopener"} on Unsplash</small>

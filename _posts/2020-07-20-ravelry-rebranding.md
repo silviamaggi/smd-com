@@ -107,4 +107,4 @@ _**Update**_ – _**23 March 2021**: added an article about why overlay accessib
 * [Why Accessibility Overlay Solutions Fail to Protect or Serve](https://www.accessibility.works/blog/avoid-accessibility-overlay-tools-toolbar-plugins/){:target="_blank" rel="noopener"}
 * [The A11Y Project – Accessibility helps everyone](https://www.a11yproject.com/){:target="_blank" rel="noopener"}
 
-<small>Photo by Tara Evans on Unsplash</small>
+<small>Photo by [Tara Evans](https://unsplash.com/photos/IcvR0jFbsz0){:target="_blank" rel="noopener"} on Unsplash</small>

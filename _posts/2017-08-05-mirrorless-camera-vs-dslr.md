@@ -75,4 +75,4 @@ I spent too long not taking pictures because the camera was a heavy object to ca
 
 Surely the various film simulator modes allow for great creativity, and I only briefly tried the Helios-M44 on it, so I can’t wait to test it properly!
 
-<small>All pictures &copy; Silvia Maggi</small>
+<small>All photo by Silvia Maggi</small>

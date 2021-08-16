@@ -8,8 +8,6 @@ featured-image: design-digested-2.jpg
 redirect_from:
   - /books/design-digested-2-design-solidarity/
 ---
-Image credits: C. Daniela Shapiro (@cds.art ), Leo and Diane Dillon, Spotify
-
 Design inspiration series. This week: design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.
 
 ## Articles
@@ -53,3 +51,5 @@ Following on the topic of an ever more globalised world, this book is not much a
 Reni Eddo-Logde is the author of the book [_Why I’m Not Longer_ _Talking To White People About Race_](http://renieddolodge.co.uk/books/){:target="_blank" rel="noopener"}. Her 2018 podcast takes the **conversation** further, by looking at recent history that lead to the **politics** of today.
 
 [**Listen here**](https://www.aboutracepodcast.com/){:target="_blank" rel="noopener"} or on your favourite podcast platform.
+
+<small>Image credits: C. Daniela Shapiro (@cds.art ), Leo and Diane Dillon, Spotify</small>

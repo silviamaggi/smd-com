@@ -77,3 +77,5 @@ The workbook is the ideal companion of the book, where the theory behind the tec
 As much as wanted to follow my own advice and sketch every day, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up.
 
 After reading an article, I started a new journey and wrote about it on the post [Learning to draw: a journey](https://silviamaggidesign.com/design/learning-to-draw/){:target="_blank" rel="noopener"}.
+
+<small>Photo and design by Silvia Maggi</small>
