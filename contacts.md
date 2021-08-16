@@ -11,9 +11,7 @@ redirect_from:
 
 ## Write me a message
 
-I’ll reply in one/two working days.
-
-(Form here)
+<div data-tf-widget="pLyazv5E" data-tf-hide-headers style="width:100%;height:400px;"></div><script src="https://embed.typeform.com/next/embed.js"></script>
 
 ## Connect with me
 

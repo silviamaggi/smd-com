@@ -30,10 +30,6 @@ defaults:
     values:
       layout: "default"
 
-collections:
-  authors:
-    output: true
-
 paginate: 9
 paginate_path: "/blog/page:num/"
 
