@@ -15,7 +15,10 @@ redirect_from:
 
 ## Connect with me
 
-* [LinkedIn](https://www.linkedin.com/in/silviamaggi/)
-* [Flickr](https://www.flickr.com/photos/silvia-m/)
+<ul class="navigation navigation-social">
+{% for item in site.data.social -%}
+<li><a href="{{ item.link }}" title="Visit my {{ item.name }} profile">{{ item.name }}</a></li>
+{% endfor -%}
+</ul>
 
 ## Join the mailing list
