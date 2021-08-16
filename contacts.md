@@ -17,7 +17,7 @@ redirect_from:
 
 <ul class="navigation navigation-social">
 {% for item in site.data.social -%}
-<li><a href="{{ item.link }}" title="Visit my {{ item.name }} profile">{{ item.name }}</a></li>
+<li><a href="{{ item.link }}" title="Visit my {{ item.name }} profile" target="_blank" rel="noopener">{{ item.name }}</a></li>
 {% endfor -%}
 </ul>
 
