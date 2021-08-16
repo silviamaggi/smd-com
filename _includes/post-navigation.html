@@ -16,13 +16,13 @@
 <!-- /END temporary code -->
 <div class="previous-next-post-links">
   <div class="post-navigation container-previous-post">
-    {% if page.previous.url %}
+    {% if page.previous.url %}{% unless page.previous.hidden %}
     <a class="arrow arrow-left" href="{{ site.baseurl }}{{ page.previous.url }}">&larr;&nbsp;{{ page.previous.title }}</a>
-    {% endif %}
+    {% endunless %}{% endif %}
   </div>
   <div class="post-navigation container-next-post">
-    {% if page.next.url %}
+    {% if page.next.url %}{% unless page.next.hidden %}
     <a class="arrow arrow-right" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}&nbsp;&rarr;</a>
-    {% endif %}
+    {% endunless %}{% endif %}
   </div>
 </div>
