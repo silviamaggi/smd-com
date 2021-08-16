@@ -1,6 +1,7 @@
 ---
 layout: post
 title: After 1989. A Trip To Freedom
+date: 2021-04-14 15:00
 description: After 1989. A trip to freedom is my Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.
 excerpt: After 1989. A trip to freedom is my Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.
 featured-image: after1989videos-featured-img.jpg
