@@ -56,4 +56,4 @@ Below is the list of the videos I watched:
 
 I hope you enjoy them!
 
-All pictures &copy; Silvia Maggi
+<small>All photos by Silvia Maggi</small>

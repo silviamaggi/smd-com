@@ -45,4 +45,4 @@ Let’s finish this week’s digest with a smile. I recently rediscovered the pl
 
 {% include pattern-video.html id="K-NBcP0YUQI" title="How the inventor of Mario designs a game" %}
 
-Credits: Angelina Bambina/Adobe Stock, XD Ideas, Vox
+<small>Image credits: Angelina Bambina/Adobe Stock, XD Ideas, Vox</small>

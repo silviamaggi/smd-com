@@ -50,4 +50,4 @@ I re-started from there, without feeling the urge to post something.
 * [Flickr, About](https://www.flickr.com/about){:target="_blank" rel="noopener"}
 * [Flickr Blog](https://blog.flickr.net/en){:target="_blank" rel="noopener"}
 
-Cover photo credits: [Prateek Katyal](https://unsplash.com/@prateekkatyal){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/s/photos/instagram){:target="_blank" rel="noopener"}
+<small>Photo by [Prateek Katyal](https://unsplash.com/@prateekkatyal){:target="_blank" rel="noopener"} on Unsplash</small>

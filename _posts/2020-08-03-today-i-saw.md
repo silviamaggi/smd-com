@@ -21,3 +21,5 @@ I will write more about this choice but, in the meantime, let me tell you more a
 ## What I Like About Today’s Photo
 
 I saw it yesterday, while out in the garden. I liked the shimmers of light on the abandoned cobweb and the fact that it is attached to our now dry flowers. It’s a stark contrast to [the way they looked a few months ago](https://silviamaggidesign.com/creativity/isolation-photo-diary/){:target="_blank" rel="noopener"}.
+
+<small>Photo by Silvia Maggi</small>

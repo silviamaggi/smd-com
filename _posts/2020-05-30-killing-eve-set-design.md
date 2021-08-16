@@ -8,8 +8,6 @@ featured-image: design-digested-1.jpg
 redirect_from:
   - /books/design-digested-1/
 ---
-Image credits: Sid Gentle and Ian Johnson Publicity, Unknown, Jorge Gonzalez / Copyright terms and licence: CC BY-SA 2.0
-
 First instalment of my design inspiration series. This week: Killing Eve set design, accessibility on social media, bad design vs good design, and more.  
 
 ## Articles
@@ -63,3 +61,5 @@ I’m reading the compelling and powerful book that [IDEO](http://www.ideo.com/)
 If you, like me, have even thought you were not creative enough, this book is for you. You’ll have the confidence to believe that what you do can affect the world.
 
 [**Read more about the book**](https://www.creativeconfidence.com/){:target="_blank" rel="noopener"} on the Creative Confidence website.
+
+<small>Image credits: Sid Gentle and Ian Johnson Publicity, Unknown, Jorge Gonzalez / Copyright terms and licence: CC BY-SA 2.0</small>

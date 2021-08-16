@@ -41,3 +41,5 @@ Debbie Levitt, CEO of Delta CX, CX and UX strategist, designer, and trainer sinc
 CX (Customer Experience) and UX (User Experience) professionals already use the User-Centred Design process (UCD): evangelising Design Thinking over-simplifies complex professions and leads to poorly designed products.
 
 * Read the article [on CMS Wire](https://www.cmswire.com/digital-experience/design-thinking-isnt-user-experience/){:target="_blank" rel="noopener"}
+
+<small>Photo and design by Silvia Maggi</small>

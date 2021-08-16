@@ -69,3 +69,5 @@ It could be a reflection brought up by the fact I know myself a bit more now, bu
 * [Why you should quit social media](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media){:target="_blank" rel="noopener"} TED Talk by Cal Newport
 * [Center for Humane Technology](https://www.humanetech.com/){:target="_blank" rel="noopener"}
 * [We’re building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads){:target="_blank" rel="noopener"} TED Talk by Zeynep Tufekci
+
+<small>Photo by [Max van den Oetelaar](https://unsplash.com/photos/buymYm3RQ3U) on Unsplash</small>

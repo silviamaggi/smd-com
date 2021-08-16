@@ -98,4 +98,4 @@ Servegnini is a respected journalist, whose column, _[Italians](https://italians
 * [**Read the book in Italian**](https://www.goodreads.com/book/show/1564625.La_testa_degli_italiani){:target="_blank" rel="noopener"}
 * [**Read the book in English**](https://www.goodreads.com/book/show/581712.La_Bella_Figura){:target="_blank" rel="noopener"}
 
-Featured image is a composite with a photo by [Drew Coffman](https://unsplash.com/@drewcoffman){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/){:target="_blank" rel="noopener"}
+<small>Photo by [Drew Coffman](https://unsplash.com/@drewcoffman){:target="_blank" rel="noopener"} on Unsplash, design by Silvia Maggi</small>

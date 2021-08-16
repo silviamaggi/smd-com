@@ -36,4 +36,4 @@ So today I equipped my camera with a delightful Helios-44M lens, pointed it to t
 
 A change of scenery might get me out of the photography rut.
 
-<small>All pictures &copy; Silvia Maggi</small>
+<small>All photos by Silvia Maggi</small>

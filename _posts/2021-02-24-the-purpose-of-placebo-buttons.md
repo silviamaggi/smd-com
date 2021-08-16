@@ -14,4 +14,4 @@ Some of them probably don’t: they’re called _placebo buttons_. They do have 
 
 * [Illusion of control: Why the world is full of buttons that don’t work](https://edition.cnn.com/style/article/placebo-buttons-design/index.html){:target="_blank" rel="noopener"}
 
-Photo: &copy; Silvia Maggi – Berlin, 2016. No buttons here.
+<small>Photo by Silvia Maggi</small>

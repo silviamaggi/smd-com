@@ -56,5 +56,4 @@ During his 70-year long career, Elliot Erwitt witnessed some of the **most notab
 
 **[Read the article](https://www.theguardian.com/artanddesign/2020/nov/09/elliott-erwitt-interview-photographer){:target="_blank" rel="noopener"}** on The Guardian.
 
-
-Photo by [NEW DATA SERVICES](https://unsplash.com/@new_data_services){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/){:target="_blank" rel="noopener"}
+<small>Photo by [NEW DATA SERVICES](https://unsplash.com/@new_data_services){:target="_blank" rel="noopener"} on Unsplash</small>

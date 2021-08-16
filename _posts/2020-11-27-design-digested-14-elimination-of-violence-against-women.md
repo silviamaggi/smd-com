@@ -8,8 +8,6 @@ featured-image: un-women.jpg
 redirect_from:
   - /design-digested/design-digested-14-elimination-of-violence-against-women-edition/
 ---
-Photo by UN Women
-
 25 November marks the **International Day for the Elimination of Violence against Women**.
 
 This year the day is even more important as data and reports show that violence against women and girls **intensified during the pandemic**.
@@ -53,3 +51,5 @@ The outrage that followed sparked the broadcaster _Rai 2_ to **suspend** the pro
 I’ve enjoyed this **talk** between digital sociologist [Silvia Semenzin](https://www.instagram.com/silviasemenzin_/){:target="_blank" rel="noopener"}, influencer [Camihawke](https://www.instagram.com/camihawke/){:target="_blank" rel="noopener"}, and presenter [Sofia Viscardi](https://www.instagram.com/sofiaviscardi/){:target="_blank" rel="noopener"} about what happens when our **faces** and **bodies** are **online**. They touch on **privacy**, **misogyny**, **sex education** and more.
 
 **[Watch the talk](https://video.repubblica.it/dossier/basement-cafe-3/basement-cafe-camihawke-e-silvia-semenzin-cosa-succede-quando-il-tuo-corpo-e-digitale/370941/371549){:target="_blank" rel="noopener"}** (in Italian).
+
+<small>Photo by UN Women</small>
