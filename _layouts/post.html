@@ -5,8 +5,9 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
+{%- include post-meta.html -%}
 {%- include post-categories.html -%}
 {%- include post-tags.html -%}
-{%- include post-meta.html -%}
+<hr>
 {{ content }}
 {%- include post-navigation.html -%}
