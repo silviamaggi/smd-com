@@ -1,31 +1,9 @@
-name: Generate Jekyll Archives
-# description: Generate categories, tags and years archive files.
-on:
-  workflow_dispatch:
-  push:
-    paths:
-      - "_posts/**"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: Generate Jekyll Archives
-        uses: silviamaggi/smd-com@main
-        with:
-          archive_url: "/archives/archivedata"
-          archive_folder_path: "_archives"
-
-      - name: setup git config
-        run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
-
-      - name: commit
-        run: |
-          git add --all
-          git commit -m "Created and updated archive files." || echo "No changes to commit."
-          git push origin main || echo "No changes to push."
-
+- name: Jekyll Blog Archive
+  # You may pin to the exact commit or the version.
+  # uses: kannansuresh/jekyll-blog-archive-workflow@da01bda05e6c93f36cbb782d2cabd9c8734c846d
+  uses: kannansuresh/jekyll-blog-archive-workflow@v1.0.3
+  with:
+    # Url to archive data of the blog. To delete archive folders, pass delete_archives.
+    archive_url: /archives/archivedata
+    # Path to the _archives folder of the blog.
+    archive_folder_path: '_archives'
