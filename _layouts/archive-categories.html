@@ -1,0 +1,19 @@
+---
+layout: default
+title: Archives
+---
+<section class="recent-posts">
+<div>
+    <h2>{{ page.title }}</span></h2>
+</div>
+<div class="listrecent">
+
+{% for post in site.posts %}
+{% if post.categories contains page.category or post.category == page.category %}
+    {% include postbox.html %}
+{% endif %}
+
+{% endfor %}
+
+</div>
+</section>

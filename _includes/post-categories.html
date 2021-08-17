@@ -4,6 +4,6 @@
   {% assign categories = post.categories %}
   {% else %}
   {% assign categories = page.categories %}{% endif %}
-  <p>Categories: {% for category in categories -%}<a href="{{ category.url | slugify }}"><strong>{{ category }}</strong></a>{%- unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</p>
+  <p>Categories: {% for category in categories -%}<a href="{{ site.baseurl }}/category/{{ post.categories[0] | replace: " ","-" | replace: ".","-" | replace: "#","sharp" | downcase }}"><strong>{{ post.categories[0] }}</strong></a>{%- unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</p>
 </div>
 {% endunless %}
