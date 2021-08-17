@@ -23,7 +23,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      is_post: true # automatically set is_post=true for all posts
+      is_post: true
       layout: "post"
   - scope:
       path: ""
@@ -37,9 +37,6 @@ collections:
   sideprojects:
     output: true
     permalink: /portfolio/:path/
-  categories:
-    output: true
-    permalink: /categories/:path/
 
 paginate: 9
 paginate_path: "/blog/page/:num/"

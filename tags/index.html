@@ -1,0 +1,31 @@
+---
+layout: default
+title: Tags page
+robots: noindex
+sitemap: false
+---
+<h1>All Tags</h1>
+
+<ol class="tags">
+{% for tag in site.tags %}
+{% assign t = tag | first %}
+{% assign posts = tag | last %}
+  <li><code><strong>{{ t | upcase }}</strong></code> has {{ posts | size }} posts</li>
+{% endfor %}
+</ol>
+
+<hr>
+
+{% for tag in site.tags %}
+{% assign t = tag | first %}
+{% assign posts = tag | last %}
+<h2>Tag: <code>{{ t | upcase }}</code></h2>
+<ol>
+{% for post in posts %}
+  {% if post.tags contains t %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> &ndash; <span class="date"><time itemprop="dateCreated" datetime="{{post.date}}">{{ post.date | date: "%-d %B %Y" }}</time></span></li>
+  {% endif %}
+{% endfor %}
+</ol>
+<hr>
+{% endfor %}

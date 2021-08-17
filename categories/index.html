@@ -1,0 +1,31 @@
+---
+layout: default
+title: Categories page
+robots: noindex
+sitemap: false
+---
+<h1>All Categories</h1>
+
+<ol class="categories">
+{% for category in site.categories %}
+{% assign c = category | first %}
+{% assign posts = category | last %}
+  <li><code><strong>{{ c | upcase }}</strong></code> has {{ posts | size }} posts</li>
+{% endfor %}
+</ol>
+
+<hr>
+
+{% for category in site.categories %}
+{% assign c = category | first %}
+{% assign posts = category | last %}
+<h2>Category: <code>{{ c | upcase | replace:"-"," " }}</code></h2>
+<ol>
+{% for post in posts %}
+  {% if post.categories contains c %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> &ndash; <span class="date"><time itemprop="dateCreated" datetime="{{post.date}}">{{ post.date | date: "%-d %B %Y" }}</time></span></li>
+  {% endif %}
+{% endfor %}
+</ol>
+<hr>
+{% endfor %}
