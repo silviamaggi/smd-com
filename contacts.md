@@ -15,10 +15,6 @@ redirect_from:
 
 ## Connect with me
 
-<ul class="navigation navigation-social">
-{% for item in site.data.social -%}
-<li><a href="{{ item.link }}" title="Visit my {{ item.name }} profile" target="_blank" rel="noopener">{{ item.name }}</a></li>
-{% endfor -%}
-</ul>
+{% include navigation-social.html %}
 
 ## Join the mailing list
