@@ -37,12 +37,9 @@ collections:
   sideprojects:
     output: true
     permalink: /portfolio/:path/
-
-# Archives
-collections:
-  archives:
+  categories:
     output: true
-    permalink: /archives/:path/
+    permalink: /categories/:path/
 
 paginate: 9
 paginate_path: "/blog/page/:num/"
