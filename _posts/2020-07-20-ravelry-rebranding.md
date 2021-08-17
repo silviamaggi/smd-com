@@ -1,10 +1,14 @@
 ---
 author: silvia
 title: How Rebranding Cost Ravelry the Trust of Their Community
-categories: Design
-tags: [accessibility, ravelry, UX]
+categories: [Design, Accessibility, Inclusion]
+tags:
+  - accessibility
+  - ravelry
+  - UX
 description: Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several usersadverse side effects from browsing the site. Let's explore what went wrong.
 featured-image: ravelry-rebranding.jpg
+permalink: /design/:title/
 redirect_from:
   - /2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/
   - /design/how-rebranding-cost-ravelry-the-trust-of-their-community/

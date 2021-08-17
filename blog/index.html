@@ -9,7 +9,7 @@ redirect_from:
 <div class="blogroll blogroll-post">
   <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
   <p class="post-meta">{{ post.date | date_to_string }}</p>
-  <div class="content">{{ post.excerpt | markdownify }}<div><a class="button" href="{{ post.url }}" title="Read the entire post">Read more</a></div></div>
+  <div class="content">{{ post.excerpt | markdownify | strip_html }}<div><a class="button" href="{{ post.url }}" title="Read the entire post">Read more</a></div></div>
 </div>
 {% endfor -%}
 

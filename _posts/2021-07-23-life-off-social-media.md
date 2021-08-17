@@ -1,8 +1,7 @@
 ---
 title: Life off social media, six months in
 author: silvia
-permalink: /social-media/:title/
-categories: [Social media]
+categories: social-media
 tags:
   - social media
   - personal

@@ -1,10 +1,14 @@
 ---
 author: silvia
-categories: Creativity
-tags: [photography, isolation, lockdown]
+categories: [Photography, Creativity]
+tags:
+  - photography
+  - isolation
+  - lockdown
 description: After the initial shock, the lockdown and subsequent isolation prompted me to point the lens to my emotions and immediate surroundings. Here I present my isolation photo diary.
 excerpt: Between the ups and downs of the global **pandemic** and **lockdown**, I kept taking pictures. I intended to have a **photo diary** to describe my take on **isolation** and the extraordinary circumstances we’re living.
 featured-image: isolation-photo-diary-silviamaggi-1.jpg
+permalink: /creativity/:title/
 ---
 {% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-1.jpg" caption="Isolation #1" width="1280" height="853" %}
 

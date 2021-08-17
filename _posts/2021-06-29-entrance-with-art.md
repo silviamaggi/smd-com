@@ -1,7 +1,9 @@
 ---
 author: silvia
 categories: Photography
-tags: [photography, italy]
+tags:
+  - photography
+  - italy
 description: How is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.
 featured-image: 20210628-entrance-with-art.jpg
 redirect_from:

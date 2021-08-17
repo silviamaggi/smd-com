@@ -1,11 +1,16 @@
 ---
 author: silvia
 title: Design, Digested 5. Diversity Bias
-categories: Books
-tags: [design digested, diversity, anti-racism, gender data gap]
+categories: [design-digested, Books, UX]
+tags:
+  - design digested
+  - diversity
+  - anti-racism
+  - gender data gap
 description: Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
 excerpt: Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
 featured-image: design-digested-5.jpg
+permalink: /books/:title/
 redirect_from:
   - /books/design-digested-5-design-diversity-problems-and-bias/
 ---

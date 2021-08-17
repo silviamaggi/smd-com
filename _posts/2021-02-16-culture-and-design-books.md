@@ -2,7 +2,10 @@
 author: silvia
 title: Brilliant culture and design books I’m reading
 categories: Books
-tags: [books, culture, design]
+tags:
+  - books
+  - culture
+  - social media
 description: Here are the culture and design books I'm reading. Some are ideal if you're a designer, others are either very interesting or funny – or both – for anyone.
 featured-image: recommended-reads.jpg
 redirect_from:

@@ -1,10 +1,14 @@
 ---
 author: silvia
 title: Because We Can Exhibition at Festival Pil’Ours
-categories: Exhibition
-tags: [photography, exhibition, france]
+categories: [Exhibition, Photography]
+tags:
+  - photography
+  - exhibition
+  - france
 description: I'm presenting three of my pictures as part of the Because We Can exhibition by Shutter Hub at Festival Pil'Ours.
 featured-image: jayne_180718_7765-header.jpg
+permalink: /exhibition/:title/
 redirect_from:
   - /because-we-can-shutter-hub-exhibition-festival-pilours/
   - /exhibition/because-we-can-exhibition-festival-pilours/

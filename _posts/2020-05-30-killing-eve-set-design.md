@@ -1,11 +1,16 @@
 ---
 author: silvia
 title: Design, Digested 1. Killing Eve Set Design, Accessibility On Social Media, Bad vs Good Design
-categories: Books
-tags: [design digested, accessibility, inspiration, creativity]
+categories: [design-digested, Accessibility, Books, Inclusion]
+tags:
+  - design digested
+  - accessibility
+  - inspiration
+  - creativity
 description: First instalment of my design inspiration series. Killing Eve set design, accessibility on social media, bad design vs good design, and more.
 excerpt: First instalment of my design inspiration series. Killing Eve set design, accessibility on social media, bad design vs good design, and more.
 featured-image: design-digested-1.jpg
+permalink: /books/:title/
 redirect_from:
   - /books/design-digested-1/
 ---

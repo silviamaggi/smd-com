@@ -1,7 +1,10 @@
 ---
 author: silvia
 categories: Design
-tags: [design, psychology, buttons]
+tags:
+  - design
+  - psychology
+  - buttons
 description: Do pedestrian buttons work? Some of them don't. They're called placebo buttons. Read about their purpose.
 featured-image: berlin-night-silviamaggi.jpg
 ---

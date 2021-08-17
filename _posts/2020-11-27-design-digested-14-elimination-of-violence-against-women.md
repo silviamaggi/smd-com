@@ -1,8 +1,12 @@
 ---
 author: silvia
 title: Design, Digested 14. Elimination of violence against women
-categories: Design-Digested
-tags: [design digested, sexism, online violence, generationequality]
+categories: design-digested
+tags:
+  - design digested
+  - sexism
+  - online violence
+  - generationequality
 description: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
 excerpt: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
 featured-image: un-women.jpg

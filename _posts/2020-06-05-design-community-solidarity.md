@@ -1,11 +1,16 @@
 ---
 author: silvia
 title: Design, Digested 2. Design Community Solidarity
-categories: Books
-tags: [design digested, diversity, equality, solidarity]
+categories: [design-digested, Books]
+tags:
+  - design digested
+  - diversity
+  - equality
+  - solidarity
 description: Design inspiration series. Design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.
 excerpt: Design inspiration series. Design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.
 featured-image: design-digested-2.jpg
+permalink: /books/:title/
 redirect_from:
   - /books/design-digested-2-design-solidarity/
 ---

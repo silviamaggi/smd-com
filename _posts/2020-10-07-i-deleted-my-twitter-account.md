@@ -1,10 +1,14 @@
 ---
 author: silvia
 title: I deleted my Twitter account and an update
-categories: Social-Media
-tags: [social media, twitter, personal]
+categories: [social-media, Personal]
+tags:
+  - social media
+  - twitter
+  - personal
 description: Today I tell you why I deleted my Twitter account and give you an update on why I've been silent on my blog lately.
 featured-image: i-deleted-my-twitter-account.jpg
+permalink: /social-media/:title/
 redirect_from:
   - /social-media/why-i-deleted-my-twitter-account-and-an-update/
 ---

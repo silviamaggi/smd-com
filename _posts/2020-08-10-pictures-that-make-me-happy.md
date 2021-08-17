@@ -1,7 +1,10 @@
 ---
 author: silvia
 categories: Photography
-tags: [photography, fujifilm, meadow]
+tags:
+  - photography
+  - fujifilm
+  - meadow
 description: Nature and a shallow depth of field create one of my favourite photography style. Here I present four pictures that make me happy.
 featured-image: pictures-that-make-me-happy-1.jpg
 ---

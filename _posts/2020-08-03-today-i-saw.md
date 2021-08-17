@@ -1,9 +1,13 @@
 ---
 author: silvia
-categories: Today-I-Saw
-tags: [photography, instagram, social media]
+categories: [today-i-saw, Photography]
+tags:
+  - photography
+  - instagram
+  - social media
 description: With the intent of staying away from social media, I started "Today I Saw", a series where I post one photo and a few thoughts about it.
 featured-image: today-i-saw-silviamaggi.jpg
+permalink: /today-i-saw/:title/
 ---
 It’s that itch again. Today I saw something I like but can’t take a picture. Or, I can and do, but it’s doesn’t work on Instagram.
 

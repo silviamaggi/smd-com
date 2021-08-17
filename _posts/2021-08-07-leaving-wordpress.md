@@ -1,8 +1,6 @@
 ---
 author: silvia
-categories:
-  - Personal
-  - UX
+categories: [UX, Personal]
 tags:
   - wordpress
   - jekyll

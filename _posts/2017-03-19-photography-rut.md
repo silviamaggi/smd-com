@@ -1,13 +1,14 @@
 ---
 author: silvia
 title: Photography rut and little things in my garden
-categories: Creativity
+categories: [Photography, Creativity]
 tags:
   - photography
   - cambridge
   - canon
 description: Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.
 featured-image: 20170319-img_4269.jpg
+permalink: /creativity/:title/
 redirect_from:
   - /creativity/photography-rut-and-little-things-in-my-garden/
 ---
