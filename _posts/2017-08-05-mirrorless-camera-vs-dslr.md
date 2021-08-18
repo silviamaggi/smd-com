@@ -6,6 +6,7 @@ tags:
   - photography
   - edinburgh
   - fujifilm
+  - travel
 description: Mirrorless camera vs DSLR. My experience. How switching from an entry-level Canon DSLR to a mirrorless camera changed my photography mindset.
 featured-image: 20170804_edinburgh_1265.jpg
 permalink: /photography/:title/

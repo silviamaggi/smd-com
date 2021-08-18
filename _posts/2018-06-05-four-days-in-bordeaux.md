@@ -5,6 +5,7 @@ tags:
   - photography
   - bordeaux
   - travel
+  - france
 description: My husband and I spent four days in Bordeaux, France. Read about what we saw and did, and look at the photos I took in this beautiful city.
 featured-image: 20180524_bordeaux_2793_post-header.jpg
 permalink: /photography/:title/
