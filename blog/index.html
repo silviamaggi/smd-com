@@ -6,19 +6,38 @@ redirect_from:
 ---
 <h1>Blog</h1>
 {% for post in paginator.posts %}
+<h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
 <div class="blogroll blogroll-post">
-  <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-  <p class="post-meta">{{ post.date | date_to_string }}</p>
-  <div class="content">{{ post.excerpt | markdownify | strip_html }}<div><a class="button" href="{{ post.url }}" title="Read the entire post">Read more</a></div></div>
+  {%- assign categories = post.categories %}
+  <p class="post-meta">
+    {{ post.date | date_to_string }} &ndash; <span>Filed under:</span> <strong>{% for category in categories %}<a href="/categories/{{ category | slugify }}/">{{ category | downcase | replace:"-"," " }}</a>{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong>
+  </p>
+  <div class="content">
+    <p>{{ post.excerpt | markdownify | strip_html }}</p>
+    <div><a class="button" href="{{ post.url }}" title="Read the entire post">Read more</a></div>
+  </div>
 </div>
 {% endfor -%}
-
 <br>
-
 <nav class="nav nav-paginator">
-  {% if paginator.previous_page -%}<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination pagination-previous">&larr; Newer</a>{%- endif %}
+  {%- assign lastPage = paginator.total_pages -%}
+  {%- assign secondToLast = lastPage | minus: 1 -%}
+  {%- assign firstPage = 1 -%}
+  {%- assign secondPage = firstPage | plus: 1 -%}
+  {%- unless paginator.page == firstPage %}
+  <a href="{{ site.url }}/blog/" class="pagination pagination-first">&#8676; First</a>
+  {%- endunless -%}
+  {%- if paginator.previous_page %}{%- unless paginator.page == secondPage %}
+  <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination pagination-previous">&larr; Previous</a>
+  {%- endunless -%}
+  {%- endif %}
   <span class="pagination pagination-counter">Page: <strong>{{ paginator.page }} of {{ paginator.total_pages }}</strong></span>
-  {% if paginator.next_page %}<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination pagination-next">Older &rarr;</a>{% endif %}
+  {% if paginator.next_page -%}{%- unless paginator.page == secondToLast -%}
+  <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination pagination-next">Next &rarr;</a>
+  {% endunless -%}{%- endif -%}
+  {%- unless paginator.page == lastPage -%}
+  <a href="{{ site.url }}/{{ page.title | slugify }}/page/{{ paginator.total_pages }}/" class="pagination pagination-last">Last &#8677;</a>
+  {% endunless -%}
 </nav>
 
 <br>
