@@ -1,1 +1,9 @@
-<p class="post-meta">{{ page.date | date_to_string }}</p>
+<p class="post-meta">{{ page.date | date_to_string }} &ndash; <span class="reading-time" title="Estimated read time"><strong>Reading time</strong>:
+  {% assign words = content | number_of_words -%}
+  {%- if words < 360 -%}
+    1 min
+  {%- else -%}
+    {{ words | divided_by:180 }} mins
+  {%- endif %}
+  </span>
+</p>
