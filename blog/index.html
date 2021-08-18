@@ -10,7 +10,7 @@ redirect_from:
 <div class="blogroll blogroll-post">
   {%- assign categories = post.categories %}
   <p class="post-meta">
-    {{ post.date | date_to_string }} &ndash; <span>Filed under:</span> <strong>{% for category in categories %}<a href="/categories/{{ category | slugify }}/">{{ category | downcase | replace:"-"," " }}</a>{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong>
+    <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated" class="time">{{ post.date | date_to_string }}</time> &ndash; <span>Filed under:</span> <strong>{% for category in categories %}<a href="/categories/{{ category | slugify }}/">{{ category | downcase | replace:"-"," " }}</a>{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong>
   </p>
   <div class="content">
     <p>{{ post.excerpt | markdownify | strip_html }}</p>
