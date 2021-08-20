@@ -1,10 +1,10 @@
 ---
 author: silvia
-categories: [design-digested, Books, Photography]
+categories: design-digested
 tags:
   - design digested
-  - letter
   - books
+  - letter
   - photography
 description: Every couple of weeks, I write a letter to the nice people subscribed to Design, Digested. This is the one where I didn't know what to write.
 featured-image: smd-blog-featured-image_lettera.jpg

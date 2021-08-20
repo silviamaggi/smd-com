@@ -1,11 +1,11 @@
 ---
 author: silvia
 title: The UX of Contact Lenses Containers
-categories: [the-ux-of, Design, Usability, UX]
+categories: UX
 tags:
   - UX
-  - everyday things
   - design
+  - usability
 description: Everyday things affects our lives, sometimes making us feel frustrated. This time I analyse the UX of contact lenses containers.
 featured-image: ux-of-contact-lenses-containers.jpg
 permalink: /design/:title/

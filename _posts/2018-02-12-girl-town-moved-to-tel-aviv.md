@@ -1,6 +1,6 @@
 ---
 author: silvia
-categories: [Exhibition, Photography]
+categories: Photography
 tags:
   - photography
   - exhibition

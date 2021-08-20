@@ -1,11 +1,12 @@
 ---
 author: silvia
-categories: [design-digested, UX]
+categories: design-digested
 tags:
   - design digested
+  - dark patterns
   - ethical design
   - privacy
-  - dark patterns
+  - UX
 description: As the line between encouraging people to use a product and tricking them is thinner than ever, I share a compelling article about dark patterns in UI to help you recognise them.
 featured-image: design-digested-16.jpg
 permalink: /design/:title/

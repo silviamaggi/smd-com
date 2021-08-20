@@ -1,6 +1,6 @@
 ---
 author: silvia
-categories: [today-i-saw, Photography]
+categories: Photography
 tags:
 - photography
 - cambridge

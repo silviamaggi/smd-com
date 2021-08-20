@@ -1,13 +1,12 @@
 ---
 author: silvia
-categories: [UX, Personal]
+categories: Personal
 tags:
-  - wordpress
+  - personal
   - jekyll
   - github pages
-  - personal
+  - wordpress
 description: An announcement to my WordPress followers.
-permalink: personal/:title
 featured-image: marco-chilese-unsplash.jpg
 redirect_from:
   - /it/personale/lascio-wordpress/

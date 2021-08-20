@@ -1,12 +1,12 @@
 ---
 author: silvia
 title: Design, Digested 3. Language, Mobile Approach And Responsive Design At 10
-categories: [design-digested, Usability, Books]
+categories: design-digested
 tags:
   - design digested
+  - books
   - responsive web design
   - usability
-  - mobile first
 description: Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.
 excerpt: Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.
 featured-image: design-digested-3.jpg

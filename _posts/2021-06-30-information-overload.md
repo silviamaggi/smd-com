@@ -3,9 +3,10 @@ author: silvia
 categories: [design-digested, UX]
 tags:
   - design digested
-  - letter
-  - UX
   - design
+  - letter
+  - personal
+  - UX
 description: On information overload and my plans for the newsletter Design, Digested.
 featured-image: smd-blog-featured-image_lettera.jpg
 redirect_from:

@@ -1,8 +1,9 @@
 ---
 author: silvia
-categories: [Photography, Creativity]
+categories: Photography
 tags:
   - photography
+  - personal
   - isolation
   - lockdown
 description: After the initial shock, the lockdown and subsequent isolation prompted me to point the lens to my emotions and immediate surroundings. Here I present my isolation photo diary.

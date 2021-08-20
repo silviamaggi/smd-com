@@ -1,9 +1,9 @@
 ---
 author: silvia
-categories: [Personal, Photography]
+categories: Personal
 tags:
   - blog
-  - expat
+  - personal
   - oregano dangereux
 description: New journey and new blog for my husband and I to record our thoughts, experiences and memories on Oregano Dangereux. Follow it as we move back to Italy from the UK.
 featured-image: new-journey-new-blog.jpg

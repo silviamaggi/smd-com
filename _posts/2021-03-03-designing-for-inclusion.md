@@ -1,11 +1,11 @@
 ---
 author: silvia
 title: Start designing for inclusion
-categories: [design-digested, Inclusion, UX]
+categories: design-digested
 tags:
   - design digested
-  - inclusion
   - cognitive bias
+  - inclusion
   - UX
 description: What does it mean designing for inclusion? Inclusive design is gaining a lot of attention lately, and rightly so. Articles and resources to start.
 featured-image: design-digested-17.jpg

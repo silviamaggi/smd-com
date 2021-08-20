@@ -3,7 +3,6 @@ author: silvia
 categories: Photography
 tags:
   - photography
-  - winter
   - italy
 description: People, face masks, sun, mild temperatures. Pictures I took today at the beach in Marina di Ravenna.
 featured-image: at-the-beach-silviamaggi-1.jpg

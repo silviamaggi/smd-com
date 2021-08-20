@@ -1,12 +1,15 @@
 ---
 author: silvia
 title: Design, Digested 10. Inclusive Design, Problematic Social Media
-categories: [design-digested, Diversity, Inclusion]
+categories: design-digested
 tags:
   - design digested
-  - world war II
+  - accessibility
   - after 1989
+  - inclusion
+  - facebook
   - UX
+  - world war II
 description: Design inspiration series. Inclusive design, problematic social media facts, and a great music project.
 excerpt: Design inspiration series. Inclusive design, problematic social media facts, and a great music project.
 featured-image: design-digested-10.jpg
