@@ -1,6 +1,6 @@
 ---
 author: silvia
-categories: [design-digested, UX]
+categories: [Design Digested]
 tags:
   - design digested
   - design
@@ -13,6 +13,7 @@ redirect_from:
   - /design/information-overload/
   - /it/design-it/sovraccarico-di-informazioni/
   - /it/design-digested-it/sovraccarico-di-informazioni/
+permalink: /design-digested/:title/
 ---
 On the latest letter I sent out on 20 June, I set out my plans for the next few months. Ever felt overwhelmed by the quantity of information found on the internet? Then you’ll know what I’m talking about.
 
