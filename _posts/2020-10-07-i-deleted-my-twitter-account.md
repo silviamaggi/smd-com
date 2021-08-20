@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: I deleted my Twitter account and an update
+featured-post: false
 categories: Personal
 tags:
   - personal

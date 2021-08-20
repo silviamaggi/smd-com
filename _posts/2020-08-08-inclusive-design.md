@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: Design, Digested 10. Inclusive Design, Problematic Social Media
+featured-post: false
 categories:
   - Design Digested
 tags:

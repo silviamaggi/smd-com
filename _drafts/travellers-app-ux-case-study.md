@@ -7,6 +7,7 @@ parent_id: '0'
 published: false
 password: ''
 status: draft
+featured-post: false
 categories:
 - Design
 - UX

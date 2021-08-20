@@ -1,5 +1,6 @@
 ---
 author: silvia
+featured-post: false
 categories: Drawing
 title: Learning to draw. A journey
 tags:

@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: Design, Digested 2. Design Community Solidarity
+featured-post: false
 categories:
   - Design Digested
 tags:

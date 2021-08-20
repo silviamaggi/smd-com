@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: A healthy walk in the pine forest
+featured-post: false
 categories: Photography
 tags:
   - photography

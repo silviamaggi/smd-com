@@ -2,6 +2,7 @@
 layout: post
 title: Purple and Orange
 # date:
+featured-post: false
 categories: Photography
 tags:
   - photography

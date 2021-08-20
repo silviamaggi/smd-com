@@ -2,6 +2,7 @@
 layout: post
 title: Photo Project: The Change Of Seasons, Part 1 – Summer
 # date:
+featured-post: false
 categories: Photography
 tags:
   - photography

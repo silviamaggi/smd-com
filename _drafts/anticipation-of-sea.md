@@ -2,6 +2,7 @@
 layout: post
 title: Anticipation of Sea
 # date:
+featured-post: false
 categories: Photography
 tags:
   - photography

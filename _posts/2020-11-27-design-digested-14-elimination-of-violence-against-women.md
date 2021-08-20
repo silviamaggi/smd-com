@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: Design, Digested 14. Elimination of violence against women
+featured-post: false
 categories:
   - Design Digested
 tags:

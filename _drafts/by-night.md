@@ -3,6 +3,7 @@ layout: post
 title: By Night
 # date:
 type: post
+featured-post: false
 categories: Photography
 tags:
   - photography

@@ -2,6 +2,7 @@
 layout: post
 title: I Have a Thing for Trees
 # date:
+featured-post: false
 categories: Photography
 tags:
   - photography

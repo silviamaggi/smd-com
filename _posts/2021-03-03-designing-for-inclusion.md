@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: Start designing for inclusion
+featured-post: false
 categories:
   - Design Digested
 tags:

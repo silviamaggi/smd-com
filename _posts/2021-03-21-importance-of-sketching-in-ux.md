@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: The importance of sketching in UX and beyond
+featured-post: false
 categories:
   - Design Digested
 tags:

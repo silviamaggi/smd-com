@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: How the Instagram navigation became convoluted
+featured-post: false
 categories: UX
 tags:
   - instagram
