@@ -24,7 +24,7 @@
     {% if sameTagCount >= minCommonTags %}
       <div class="related-post">
         <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-        <img src="/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}">
+        <img src="/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="200" height="200">
         <small>{{ post.excerpt }}</small>
       </div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
