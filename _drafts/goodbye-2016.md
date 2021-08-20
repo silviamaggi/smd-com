@@ -2,8 +2,7 @@
 layout: post
 title: Goodbye, 2016
 #date:
-categories:
-  - Photography
+categories: Photography
 tags:
   - 2016
   - Cambridge

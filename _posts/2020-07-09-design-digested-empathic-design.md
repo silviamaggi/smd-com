@@ -7,7 +7,7 @@ tags:
   - anti-racism
   - empathy
   - videogames
-  - UX
+  - ux
 description: Design inspiration series. Four anti-racist lessons, problems with empathic design and the misogyny of the workforce.
 featured-image: design-digested-6.jpg
 permalink: /design/:title/

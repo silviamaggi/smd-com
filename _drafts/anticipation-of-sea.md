@@ -2,15 +2,10 @@
 layout: post
 title: Anticipation of Sea
 # date:
-categories:
-  - Photography
+categories: Photography
 tags:
-  - Cromer
-  - Featured
-  - Norfolk
-  - Photo
-  - Sea
-  - Summer
+  - photography
+  - uk
 # permalink:
 ---
 As a child, the biggest event of the year was waking up incredibly early to reach the southern regions of Italy for almost a month long holiday.

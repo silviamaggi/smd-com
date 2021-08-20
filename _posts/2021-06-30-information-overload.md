@@ -6,7 +6,7 @@ tags:
   - design
   - letter
   - personal
-  - UX
+  - ux
 description: On information overload and my plans for the newsletter Design, Digested.
 featured-image: smd-blog-featured-image_lettera.jpg
 redirect_from:

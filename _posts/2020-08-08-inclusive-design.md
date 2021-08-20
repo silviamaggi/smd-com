@@ -8,7 +8,7 @@ tags:
   - after 1989
   - inclusion
   - facebook
-  - UX
+  - ux
   - world war II
 description: Design inspiration series. Inclusive design, problematic social media facts, and a great music project.
 excerpt: Design inspiration series. Inclusive design, problematic social media facts, and a great music project.

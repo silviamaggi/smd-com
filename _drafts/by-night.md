@@ -3,19 +3,11 @@ layout: post
 title: By Night
 # date:
 type: post
-categories:
-  - Photography
+categories: Photography
 tags:
-  - Cambridge
-  - Canon
-  - Fog
-  - Gallery
-  - Long exposure
-  - Night
-  - Photos
-  - Sigma lens
-  - Tripod
-  - Winter
+  - photography
+  - cambridge
+  - long exposure
 # permalink:
 ---
 With days shorter and colder, sometimes it's difficult to find the right time to go out and take some pictures.

@@ -2,14 +2,11 @@
 layout: post
 title: Hot Numbers Open Exhibition
 # date:
-categories:
-  - Photography
+categories: Photography
 tags:
-  - Italy
-  - Marina di Ravenna
-  - Photo
-  - Sea
-  - Summer
+  - photography
+  - exhibition
+  - cambridge
 # permalink:
 ---
 Starting 12 December 2016, until 22 January 2017, one of my photos is part of the [Hot Numbers](http://hotnumberscoffee.co.uk/){:target="_blank" rel="noopener"} Open Exhibition in Cambridge.

@@ -7,7 +7,7 @@ tags:
   - ai bias
   - enzo mari
   - ethical design
-  - UX
+  - ux
 description: The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.
 excerpt: The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.
 featured-image: design-digested-13.jpg
