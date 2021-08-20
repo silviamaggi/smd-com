@@ -13,7 +13,7 @@ redirect_from:
 ---
 An announcement to my WordPress followers.
 
-Soon, I’ll be starting a process to move away from WordPress: **my website will have a new house, look, and ways to be managed**.
+Soon, I’ll be starting a process to move away from the platform: **my website will have a new house, look, and ways to be managed**.
 
 <!--more-->
 
