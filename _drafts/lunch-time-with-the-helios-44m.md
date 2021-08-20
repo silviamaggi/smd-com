@@ -2,16 +2,11 @@
 layout: post
 title: Lunch time with the Helios-44m
 # date:
-categories:
-  - Photography
+categories: Photography
 tags:
-  - Blossoms
-  - Cambridge
-  - Digital
-  - Helios-44m
-  - Lunchtime
-  - Science Park
-  - Spring
+  - photography
+  - cambridge
+  - helios-44m
 # permalink:
 ---
 I'm pretty pleased with the results of the Helios-44M, and by the fact that I can easily bring the camera to work without carrying too much weight.

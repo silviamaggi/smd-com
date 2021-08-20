@@ -2,14 +2,12 @@
 layout: post
 title: Photo Project: The Change Of Seasons, Part 1 – Summer
 # date:
-categories:
-  - Photography
+categories: Photography
 tags:
-  - Cambridge
-  - iPhone
-  - My commute
-  - On my bicycle
-  - Summer
+  - photography
+  - cambridge
+  - camera phone
+  - my commute
 # permalink:
 excerpt: For months, almost daily, I published photos of my commute on my Instagram account. I wanted to have a recollection of the views, always the same but always changing. This is an ongoing project, tracking the change of seasons. It starts with Summer.
 ---

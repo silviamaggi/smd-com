@@ -2,22 +2,12 @@
 layout: post
 title: I Have a Thing for Trees
 # date:
-categories:
-  - Photography
+categories: Photography
 tags:
-  - Anglesey Abbey
-  - Blossoms
-  - Brandenburg
-  - Concentration camps
-  - Germany
-  - Nature
-  - Oranienburg
-  - Photo story
-  - Sachsenhausen
-  - Sachsenhausen concentration camp
-  - Trees
-  - UK
-  - Vegetation
+  - photography
+  - concentration camp
+  - germany
+  - uk
 # permalink:
 excerpt: Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo.
 ---

@@ -7,6 +7,7 @@ tags:
   - photography
   - exhibition
   - cambridge
+  - uk
 # permalink:
 ---
 Starting 12 December 2016, until 22 January 2017, one of my photos is part of the [Hot Numbers](http://hotnumberscoffee.co.uk/){:target="_blank" rel="noopener"} Open Exhibition in Cambridge.

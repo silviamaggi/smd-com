@@ -2,16 +2,12 @@
 layout: post
 title: Purple and Orange
 # date:
-categories:
-  - Photography
+categories: Photography
 tags:
-  - Bluebells
-  - Bokeh
-  - Cambridge
-  - Canon
-  - Helios-44m
-  - Sigma lens
-  - UK
+  - photography
+  - cambridge
+  - helios-44m
+  - uk
 # permalink:
 ---
 
