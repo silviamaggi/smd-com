@@ -9,7 +9,7 @@ redirect_from:
   <h1>Blog</h1>
   {% for post in paginator.posts %}
   <div class="blogroll-post">
-    <img src="/assets/images/highlighted/highlighted-{{ post.featured-image }}" alt="{{ post.title }}">
+    <img src="/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}">
     <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
     {%- assign categories = post.categories %}
     <p class="post-meta">
