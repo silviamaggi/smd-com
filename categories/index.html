@@ -7,7 +7,8 @@ sitemap: false
 <h1>All Categories</h1>
 
 <ol class="categories">
-{% for category in site.categories %}
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
 {% assign c = category | first %}
 {% assign posts = category | last %}
   <li><code><strong>{{ c | upcase }}</strong></code> has {{ posts | size }} posts</li>
@@ -16,7 +17,7 @@ sitemap: false
 
 <hr>
 
-{% for category in site.categories %}
+{% for category in sorted_cats %}
 {% assign c = category | first %}
 {% assign posts = category | last %}
 <h2>Category: <code>{{ c | upcase | replace:"-"," " }}</code></h2>
