@@ -1,6 +1,6 @@
 ---
 author: silvia
-categories: design-digested
+categories: [Design Digested]
 tags:
   - design digested
   - books

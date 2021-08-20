@@ -1,7 +1,7 @@
 ---
 author: silvia
 title: Design, Digested 2. Design Community Solidarity
-categories: design-digested
+categories: [Design Digested]
 tags:
   - design digested
   - books

@@ -1,7 +1,7 @@
 ---
 author: silvia
 title: Design, Digested 3. Language, Mobile Approach And Responsive Design At 10
-categories: design-digested
+categories: [Design Digested]
 tags:
   - design digested
   - books
