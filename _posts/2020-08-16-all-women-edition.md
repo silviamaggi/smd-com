@@ -1,7 +1,8 @@
 ---
 author: silvia
 title: Design, Digested 11. All-women edition
-categories: [Design Digested]
+categories:
+  - Design Digested
 tags:
   - design digested
   - facial recognition

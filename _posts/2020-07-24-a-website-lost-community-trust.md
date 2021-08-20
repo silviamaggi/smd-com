@@ -1,7 +1,8 @@
 ---
 author: silvia
 title: Design, Digested 8. How a Website Lost Community Trust
-categories: [Design Digested]
+categories:
+  - Design Digested
 tags:
   - design digested
   - accessibility

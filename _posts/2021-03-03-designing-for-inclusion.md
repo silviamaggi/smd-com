@@ -1,7 +1,8 @@
 ---
 author: silvia
 title: Start designing for inclusion
-categories: [Design Digested]
+categories:
+  - Design Digested
 tags:
   - design digested
   - cognitive bias

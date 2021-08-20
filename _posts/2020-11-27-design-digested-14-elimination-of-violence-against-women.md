@@ -1,7 +1,8 @@
 ---
 author: silvia
 title: Design, Digested 14. Elimination of violence against women
-categories: [Design Digested]
+categories:
+  - Design Digested
 tags:
   - design digested
   - sexism

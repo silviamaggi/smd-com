@@ -1,7 +1,8 @@
 ---
 author: silvia
 title: Design, Digested 6. Anti-Racist Lessons, Empathic Design And The Misogyny Of The Workforce
-categories: [Design Digested]
+categories:
+  - Design Digested
 tags:
   - design digested
   - anti-racism

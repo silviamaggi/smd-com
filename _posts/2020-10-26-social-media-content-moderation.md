@@ -1,7 +1,8 @@
 ---
 author: silvia
 title: Design, Digested 12. Social media content moderation issues and complicated products
-categories: [Design Digested]
+categories:
+  - Design Digested
 tags:
   - design digested
   - algorithm

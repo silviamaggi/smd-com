@@ -1,7 +1,8 @@
 ---
 author: silvia
 title: Design, Digested 5. Diversity Bias
-categories: [Design Digested]
+categories:
+  - Design Digested
 tags:
   - design digested
   - anti-racism
