@@ -6,7 +6,7 @@ tags:
   - design digested
   - creativity
   - facial recognition
-  - UX
+  - ux
 description: Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.
 excerpt: Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.
 featured-image: design-digested-4.jpg

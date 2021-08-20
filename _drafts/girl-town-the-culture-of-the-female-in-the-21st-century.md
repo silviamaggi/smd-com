@@ -2,13 +2,11 @@
 layout: post
 title: GIRL TOWN – Celebrating the Culture of the Female in the 21st Century – Exhibition
 # date:
-categories:
-  - Photography
+categories: Photography
 tags:
-  - GirltownPM
-  - London
-  - Old Girls' Club
-  - Photo
+  - photopgraphy
+  - exhibition
+  - london
   - Photomonth
 # permalink:
 excerpt: On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched GIRL TOWN at London Photomonth, and I’m very proudly part of it.

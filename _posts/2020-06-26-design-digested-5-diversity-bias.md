@@ -7,7 +7,7 @@ tags:
   - anti-racism
   - books
   - diversity
-  - UX
+  - ux
 description: Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
 excerpt: Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
 featured-image: design-digested-5.jpg
