@@ -6,7 +6,7 @@ tags:
   - personal
   - social media
 description: Today I tell you why I deleted my Twitter account and give you an update on why I've been silent on my blog lately.
-featured-image: i-deleted-my-twitter-account.jpg
+featured-image: feat-i-deleted-my-twitter-account.jpg
 permalink: /social-media/:title/
 redirect_from:
   - /social-media/why-i-deleted-my-twitter-account-and-an-update/

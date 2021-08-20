@@ -8,7 +8,7 @@ tags:
   - ravelry
   - ux
 description: Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several usersadverse side effects from browsing the site. Let's explore what went wrong.
-featured-image: ravelry-rebranding.jpg
+featured-image: feat-ravelry-rebranding.jpg
 permalink: /design/:title/
 redirect_from:
   - /2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/

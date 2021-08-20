@@ -10,7 +10,7 @@ tags:
   - social media
 description: This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.
 excerpt: This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.
-featured-image: design-digested-12.jpg
+featured-image: feat-design-digested-12.jpg
 permalink: /social-media/:title/
 redirect_from:
   - /2020/10/26/design-digested-12-social-media-issues-complicated-products-and-redesigning-capitalism/

@@ -4,7 +4,7 @@ title: After 1989. A Trip To Freedom
 date: 2021-04-14 15:00
 description: After 1989. A trip to freedom is my Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.
 excerpt: After 1989. A trip to freedom is my Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.
-featured-image: after1989videos-featured-img.jpg
+featured-image: feat-after1989videos-featured-img.jpg
 ---
 While working on his debut solo album, my husband [Simone](https://minutestomidnight.co.uk/){:target="_blank" rel="noopener"} embarked on an emotional journey. He retraced his grandfather’s steps going back to Berlin, where he was imprisoned for four years during World War II.
 

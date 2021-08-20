@@ -11,7 +11,7 @@ tags:
   - wordpress
 description: Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.
 excerpt: Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.
-featured-image: design-digested-11-all-women-edition.jpg
+featured-image: feat-design-digested-11-all-women-edition.jpg
 permalink: /diversity/:title/
 redirect_from:
   - /2020/08/16/design-digested-11-all-women-edition/

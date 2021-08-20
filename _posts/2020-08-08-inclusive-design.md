@@ -13,7 +13,7 @@ tags:
   - world war II
 description: Design inspiration series. Inclusive design, problematic social media facts, and a great music project.
 excerpt: Design inspiration series. Inclusive design, problematic social media facts, and a great music project.
-featured-image: design-digested-10.jpg
+featured-image: feat-design-digested-10.jpg
 permalink: /diversity/:title/
 redirect_from:
   - /diversity/design-digested-10-inclusive-design-social-media/

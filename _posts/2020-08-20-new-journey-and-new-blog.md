@@ -6,7 +6,7 @@ tags:
   - personal
   - oregano dangereux
 description: New journey and new blog for my husband and I to record our thoughts, experiences and memories on Oregano Dangereux. Follow it as we move back to Italy from the UK.
-featured-image: new-journey-new-blog.jpg
+featured-image: feat-new-journey-new-blog.jpg
 permalink: /photography/:title/
 redirect_from:
   - /photography/new-journey-new-blog/

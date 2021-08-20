@@ -10,7 +10,7 @@ tags:
   - usability
 description: Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.
 excerpt: Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.
-featured-image: design-digested-3.jpg
+featured-image: feat-design-digested-3.jpg
 permalink: /books/:title/
 redirect_from:
   - /books/design-digested-3-language-mobile-approach-responsive-design-at-ten/

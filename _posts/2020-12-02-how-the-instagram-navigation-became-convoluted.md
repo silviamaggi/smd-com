@@ -7,7 +7,7 @@ tags:
   - navigation
   - ux
 description: With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let's briefly explore how.
-featured-image: lalo-hernandez-unsplash.jpg
+featured-image: feat-lalo-hernandez-unsplash.jpg
 permalink: /design/:title/
 ---
 With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let’s briefly explore how.

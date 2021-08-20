@@ -7,7 +7,7 @@ tags:
   - github pages
   - wordpress
 description: An announcement to my WordPress followers.
-featured-image: marco-chilese-unsplash.jpg
+featured-image: feat-marco-chilese-unsplash.jpg
 redirect_from:
   - /it/personale/lascio-wordpress/
 ---

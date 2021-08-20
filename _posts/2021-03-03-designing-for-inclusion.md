@@ -9,7 +9,7 @@ tags:
   - inclusion
   - ux
 description: What does it mean designing for inclusion? Inclusive design is gaining a lot of attention lately, and rightly so. Articles and resources to start.
-featured-image: design-digested-17.jpg
+featured-image: feat-design-digested-17.jpg
 permalink: /design-digested/:title/
 ---
 What does it mean designing for inclusion? Inclusive design is gaining a lot of attention lately, and rightly so. The following articles and resources are a good start to understand how biases influence our work and what to pay attention to when starting a new project.

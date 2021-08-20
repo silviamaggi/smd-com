@@ -4,7 +4,7 @@ title: Acclimatize.me. Notification app for travellers
 date: 2021-02-18 15:00
 description: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
 excerpt: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
-featured-image: acclimatize-case-study-featured-img.png
+featured-image: feat-acclimatize-case-study-featured-img.png
 ---
 **Skills**: User interviews, Sketches, Storyboard, User flows, Wireframing, Prototyping, UI  
 **Tools**: Pen and Paper, Miro, Figma

@@ -6,7 +6,7 @@ tags:
 - cambridge
 - fujifilm
 description: Today I took time to appreciate my surroundings. After the rain shower, I shot a few pictures in my garden.
-featured-image: after-the-rain-silviamaggi-1.jpg
+featured-image: feat-after-the-rain-silviamaggi-1.jpg
 permalink: /today-i-saw/:title/
 ---
 Today, after the rain, I used the tripod to take a few short videos in the garden. With time, I will set up a YouTube channel to share them.

@@ -8,7 +8,7 @@ tags:
   - letter
   - photography
 description: Every couple of weeks, I write a letter to the nice people subscribed to Design, Digested. This is the one where I didn't know what to write.
-featured-image: smd-blog-featured-image_lettera.jpg
+featured-image: feat-smd-blog-featured-image_lettera.jpg
 permalink: /design/:title/
 redirect_from:
   - /it/design-it/una-lettera/

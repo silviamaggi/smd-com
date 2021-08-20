@@ -5,7 +5,7 @@ tags:
   - photography
   - fujifilm
 description: Nature and a shallow depth of field create one of my favourite photography style. Here I present four pictures that make me happy.
-featured-image: pictures-that-make-me-happy-1.jpg
+featured-image: feat-pictures-that-make-me-happy-1.jpg
 ---
 During the past sweltering weekend, I looked for a few pictures to make my website more personal: not many other things in photography make me happy as nature and a shallow depth of field.
 

@@ -5,7 +5,7 @@ tags:
   - photography
   - italy
 description: People, face masks, sun, mild temperatures. Pictures I took today at the beach in Marina di Ravenna.
-featured-image: at-the-beach-silviamaggi-1.jpg
+featured-image: feat-at-the-beach-silviamaggi-1.jpg
 redirect_from:
   - /it/fotografia/in-spiaggia/
 ---

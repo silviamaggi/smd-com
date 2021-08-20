@@ -7,7 +7,7 @@ tags:
   - design
   - usability
 description: Everyday things affects our lives, sometimes making us feel frustrated. This time I analyse the UX of contact lenses containers.
-featured-image: ux-of-contact-lenses-containers.jpg
+featured-image: feat-ux-of-contact-lenses-containers.jpg
 permalink: /design/:title/
 redirect_from:
   - /design/the-ux-of-contact-lenses-containers/

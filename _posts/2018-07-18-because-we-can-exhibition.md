@@ -7,7 +7,7 @@ tags:
   - exhibition
   - france
 description: I'm presenting three of my pictures as part of the Because We Can exhibition by Shutter Hub at Festival Pil'Ours.
-featured-image: jayne_180718_7765-header.jpg
+featured-image: feat-jayne_180718_7765-header.jpg
 permalink: /exhibition/:title/
 redirect_from:
   - /because-we-can-shutter-hub-exhibition-festival-pilours/

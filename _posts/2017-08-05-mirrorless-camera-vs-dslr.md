@@ -8,7 +8,7 @@ tags:
   - fujifilm
   - travel
 description: Mirrorless camera vs DSLR. My experience. How switching from an entry-level Canon DSLR to a mirrorless camera changed my photography mindset.
-featured-image: 20170804_edinburgh_1265.jpg
+featured-image: feat-20170804_edinburgh_1265.jpg
 permalink: /photography/:title/
 redirect_from:
   - /photography/a-mirrorless-camera-changed-my-mindset/

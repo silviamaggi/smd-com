@@ -9,7 +9,7 @@ tags:
   - personal
   - ux
 description: On information overload and my plans for the newsletter Design, Digested.
-featured-image: smd-blog-featured-image_lettera.jpg
+featured-image: feat-smd-blog-featured-image_lettera.jpg
 redirect_from:
   - /design/information-overload/
   - /it/design-it/sovraccarico-di-informazioni/

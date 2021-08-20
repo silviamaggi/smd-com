@@ -10,7 +10,7 @@ tags:
   - ux
 description: Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.
 excerpt: Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.
-featured-image: design-digested-4.jpg
+featured-image: feat-design-digested-4.jpg
 permalink: /creativity/:title/
 redirect_from:
   - /creativity/design-digested-4-black-women-in-ux-foster-creativity-bowie-scolded-mtv/

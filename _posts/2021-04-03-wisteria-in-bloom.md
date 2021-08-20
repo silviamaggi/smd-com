@@ -5,7 +5,7 @@ tags:
   - photography
   - italy
 description: As the weather warms, the wisteria in the yard is blooming. I took a couple of pictures of it.
-featured-image: 20210403-wisteria-in-bloom-1.jpg
+featured-image: feat-20210403-wisteria-in-bloom-1.jpg
 permalink: /today-i-saw/:title/
 redirect_from:
   - /it/oggi-ho-visto/glicine-in-fiore/
