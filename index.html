@@ -27,7 +27,7 @@ redirect_from:
 <div class="recent-posts">
   <h3>Recent Posts</h3>
   {% assign recentPosts = site.posts %}
-  {% for post in recentPosts limit:3 %}
+  {% for post in recentPosts limit:4 %}
   <div class="recent-post">
     <img src="/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="150" height="150">
     <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
@@ -38,4 +38,6 @@ redirect_from:
   </div>
   <hr>
   {% endfor -%}
+  <div class="button-readmore"><a class="button" href="/blog/" title="Check out all the posts">Go to the blog</a></div>
+  <hr>
 </div>
