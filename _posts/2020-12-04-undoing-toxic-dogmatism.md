@@ -7,7 +7,6 @@ categories:
 tags:
   - design digested
   - design
-  - dogmatism
   - photography
   - privacy
 description: Design, Digested 15. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.
