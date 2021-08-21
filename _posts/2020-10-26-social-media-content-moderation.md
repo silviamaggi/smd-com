@@ -10,14 +10,15 @@ tags:
   - facebook
   - social media
 description: This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.
-excerpt: This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.
 featured-image: feat-design-digested-12.jpg
-permalink: /social-media/:title/
 redirect_from:
   - /2020/10/26/design-digested-12-social-media-issues-complicated-products-and-redesigning-capitalism/
   - /social-media/design-digested-12-social-media-issues-complicated-products-and-redesigning-capitalism/
+  - /social-media/social-media-content-moderation/
 ---
 After a two-month [hiatus](https://silviamaggidesign.com/today-i-saw/after-the-rain/){:target="_blank" rel="noopener"}, the design inspiration series is back with a focus on social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.
+
+<!--more-->
 
 ## Social Media
 

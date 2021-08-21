@@ -8,9 +8,9 @@ tags:
   - social media
 description: Today I tell you why I deleted my Twitter account and give you an update on why I've been silent on my blog lately.
 featured-image: feat-i-deleted-my-twitter-account.jpg
-permalink: /social-media/:title/
 redirect_from:
   - /social-media/why-i-deleted-my-twitter-account-and-an-update/
+  - /social-media/i-deleted-my-twitter-account/
 ---
 Today I **deleted** my Twitter account, and it felt good. Lately, I’ve visited to keep up to date with other UX professional but it’s impossible to avoid retweets about **politics** and other topics.
 

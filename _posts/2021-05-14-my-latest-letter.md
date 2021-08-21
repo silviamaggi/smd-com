@@ -1,5 +1,6 @@
 ---
 author: silvia
+title: My latest letter
 featured-post: false
 categories:
   - Design Digested
@@ -10,9 +11,9 @@ tags:
   - photography
 description: Every couple of weeks, I write a letter to the nice people subscribed to Design, Digested. This is the one where I didn't know what to write.
 featured-image: feat-smd-blog-featured-image_lettera.jpg
-permalink: /design/:title/
 redirect_from:
   - /it/design-it/una-lettera/
+  - /design/my-latest-letter
 ---
 Every couple of weeks, I write a letter to the nice people subscribed to [_Design, Digested_](https://silviamaggidesign.com/design-inspiration-newsletter-silvia-maggi/){:target="_blank" rel="noopener"}. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.
 

@@ -1,8 +1,8 @@
 ---
 author: silvia
+title: Learning to draw. A journey
 featured-post: false
 categories: Drawing
-title: Learning to draw. A journey
 tags:
   - drawing
   - drawabox
@@ -10,7 +10,8 @@ tags:
   - personal
 description: As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey.
 featured-image: feat-sam-rios-unsplash.jpg
-permalink: /design/:title/
+redirect_from:
+  - /design/learning-to-draw/
 ---
 In my latest _Design, Digested_ post titled [The importance of sketching in UX and beyond](https://silviamaggidesign.com/design-digested/importance-of-sketching-in-ux/){:target="_blank" rel="noopener"}, I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up.
 

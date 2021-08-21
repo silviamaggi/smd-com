@@ -1,5 +1,6 @@
 ---
 author: silvia
+title: New journey and new blog
 featured-post: false
 categories: Personal
 tags:
@@ -8,9 +9,9 @@ tags:
   - oregano dangereux
 description: New journey and new blog for my husband and I to record our thoughts, experiences and memories on Oregano Dangereux. Follow it as we move back to Italy from the UK.
 featured-image: feat-new-journey-new-blog.jpg
-permalink: /photography/:title/
 redirect_from:
   - /photography/new-journey-new-blog/
+  - /photography/new-journey-and-new-blog/
 ---
 New journey and new blog for my husband and I to record our thoughts, experiences and memories. After nine years since we moved to the UK, we’re going back to our home country, Italy, where we’ll stay until the pandemic is under control.
 

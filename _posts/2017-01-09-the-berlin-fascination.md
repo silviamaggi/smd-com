@@ -1,5 +1,6 @@
 ---
 layout: post
+title: The Berlin fascination
 categories:
   - Photography
 tags:
@@ -7,6 +8,7 @@ tags:
   - berlin
   - germany
   - travel
+description: Berlin is well known for being a fresh ever-changing city. By walking around, you see it's headed somewhere. Only, the destination is unknown and nobody is running.
 excerpt: Berlin is well known for being a fresh ever-changing city. By walking around, you see it's headed somewhere. Only, the destination is unknown and nobody is running.
 featured-image: feat_berlin_4132.jpg
 ---

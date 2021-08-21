@@ -12,7 +12,6 @@ tags:
 description: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
 excerpt: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
 featured-image: feat-un-women.jpg
-permalink: /design-digested/:title/
 redirect_from:
   - /design-digested/design-digested-14-elimination-of-violence-against-women-edition/
 ---

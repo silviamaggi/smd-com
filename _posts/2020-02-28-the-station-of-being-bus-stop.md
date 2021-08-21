@@ -1,6 +1,6 @@
 ---
 author: silvia
-title: The Station of Being Bus Stop Experience
+title: The Station of being bus Stop experience
 featured-post: false
 categories: Design
 tags:

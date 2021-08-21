@@ -1,15 +1,16 @@
 ---
 author: silvia
-title: Instagram’s Camera On Bug
+title: Instagram’s camera on bug
 featured-post: false
-categories: Design
+categories: UX
 tags:
   - instagram
   - privacy
   - social media
 description: Instagram is reportedly fixing the camera on bug, which was discovered by a user while testing Apple’s iOS 14 beta version.
 featured-image: feat-instagram-bug.jpg
-permalink: /social-media/:title/
+redirect_from:
+  - /social-media/instagrams-camera-on-bug/
 ---
 Instagram is reportedly fixing the camera on bug, which was discovered by a user while testing Apple’s iOS 14 beta version.
 

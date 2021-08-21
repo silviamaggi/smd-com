@@ -1,5 +1,6 @@
 ---
 author: silvia
+title: Leaving WordPress
 featured-post: false
 categories: Personal
 tags:

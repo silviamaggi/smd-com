@@ -1,12 +1,13 @@
 ---
 layout: post
+title: I have a thing for trees
 categories: Photography
 tags:
   - photography
   - cambridge
   - germany
   - uk
-# permalink:
+description: Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo.
 excerpt: Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo.
 featured-image: feat-201701-angleseyabbey_2366.jpg
 ---

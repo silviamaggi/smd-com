@@ -6,6 +6,7 @@ tags:
   - photography
   - cromer
   - uk
+description: A short holiday in Cromer, and the excitement of getting to the sea, reminded me of my childhood summer holidays.
 excerpt: A short holiday in Cromer, and the excitement of getting to the sea, reminded me of my childhood summer holidays.
 featured-image: feat-20161223_cromer_3312.jpg
 ---

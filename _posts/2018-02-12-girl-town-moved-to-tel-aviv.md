@@ -1,5 +1,6 @@
 ---
 author: silvia
+title: Girl Town moved to Tel Aviv
 featured-post: false
 categories: Photography
 tags:
@@ -9,7 +10,6 @@ tags:
 description: Girl Town moved to Tel Aviv, Israel. The exhibition celebrates the culture of the female in the 21th century. By Shutter Hub, hosted at Albert Gallery.
 excerpt: The exhibition celebrates the culture of the female in the 21th century. By Shutter Hub, hosted at Albert Gallery.
 featured-image: feat-20160916_girltown-empty-3502.jpg
-permalink: /photography/:title/
 redirect_from:
   - /photography/girl-town-tel-aviv/
 ---

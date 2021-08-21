@@ -1,5 +1,6 @@
 ---
 author: silvia
+title: At the beach
 featured-post: false
 categories: Photography
 tags:

@@ -1,5 +1,6 @@
 ---
 author: silvia
+title: Isolation photo diary
 featured-post: true
 categories: Photography
 tags:
@@ -10,7 +11,8 @@ tags:
 description: After the initial shock, the lockdown and subsequent isolation prompted me to point the lens to my emotions and immediate surroundings. Here I present my isolation photo diary.
 excerpt: Between the ups and downs of the global **pandemic** and **lockdown**, I kept taking pictures. I intended to have a **photo diary** to describe my take on **isolation** and the extraordinary circumstances we’re living.
 featured-image: feat-isolation-photo-diary-silviamaggi.jpg
-permalink: /creativity/:title/
+redirect_from:
+  - /creativity/isolation-photo-diary/
 ---
 {% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-1.jpg" caption="Isolation #1" width="1280" height="853" %}
 

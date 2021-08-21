@@ -1,6 +1,6 @@
 ---
 author: silvia
-title: The Pandemic is a Massive Opportunity for Change
+title: The pandemic is a massive opportunity for change
 featured-post: true
 categories: Design
 tags:
@@ -10,7 +10,6 @@ tags:
 description: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
 excerpt: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
 featured-image: feat-charlie-deets.jpg
-permalink: /design/:title/
 redirect_from:
   - /design/crisis-opportunity-to-shape-a-better-society/
 ---
