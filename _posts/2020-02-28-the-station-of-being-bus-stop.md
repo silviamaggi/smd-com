@@ -17,7 +17,7 @@ A deep understanding of users’ needs allows for great design and innovation. T
 
 <!--more-->
 
-Architecture studio [Rombout Frieling Lab](http://www.rombout.design/station-of-being.html) and [Research Institutes of Sweden](https://www.ri.se/en){:target="_blank" rel="noopener"} have created the _Station of Being_ as a prototype bus stop in the city of Umeå, in the north of the country.
+Architecture studio [Rombout Frieling Lab](http://www.rombout.design/station-of-being.html){:target="_blank" rel="noopener"} and [Research Institutes of Sweden](https://www.ri.se/en){:target="_blank" rel="noopener"} have created the _Station of Being_ as a prototype bus stop in the city of Umeå, in the north of the country.
 
 The bus stop intends to improve and enhance the waiting experience for people using public transport in cold weather conditions. The project can make public transport significantly more attractive.
 
