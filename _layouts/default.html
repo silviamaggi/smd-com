@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
-{%- include site-redirect.html -%}
+{%- if page.redirection -%}
+<meta http-equiv="refresh" content="0;url='{{ page.redirection }}'" />
+{%- endif -%}
 {%- include site-meta.html -%}
 <link rel="stylesheet" href="{{ site.url }}/assets/css/styles.css">
 {%- include seo.html -%}
 {%- include favicons.html -%}
 </head>
-<body class="layout-{{ page.layout }} {% if page.is_post %}post-{{ page.title | slugify }}{% else %}page-{{ page.title | slugify }}{% endif %}" id="top">
+<body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
 {% include site-header.html %}
 {{ content }}
 {%- include site-footer.html -%}
