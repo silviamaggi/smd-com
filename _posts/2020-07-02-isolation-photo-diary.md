@@ -1,5 +1,6 @@
 ---
 author: silvia
+featured-post: true
 categories: Photography
 tags:
   - photography

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Shutter Hub Open Exhibition 2017 At Retina Photography Festival
+featured-post: false
 categories: Photography
 tags:
   - photography

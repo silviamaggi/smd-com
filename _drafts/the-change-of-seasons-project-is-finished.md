@@ -2,6 +2,7 @@
 layout: post
 title: The Change of Seasons Project is Finished
 # date:
+featured-post: false
 categories:
   - Photography
 tags:

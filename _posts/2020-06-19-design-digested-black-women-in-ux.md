@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: Design, Digested 4. Black Women In UX, How To Foster Creativity And An Unimpressed Bowie
+featured-post: false
 categories:
   - Design Digested
 tags:

@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: The Pandemic is a Massive Opportunity for Change
+featured-post: true
 categories: Design
 tags:
   - design

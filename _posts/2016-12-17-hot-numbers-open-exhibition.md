@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hot Numbers Open Exhibition
+# date:
+featured-post: false
 categories: Photography
 tags:
   - photography

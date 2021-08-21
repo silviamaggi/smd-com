@@ -2,6 +2,7 @@
 layout: post
 title: Lunch time with the Helios-44m
 # date:
+featured-post: false
 categories: Photography
 tags:
   - photography

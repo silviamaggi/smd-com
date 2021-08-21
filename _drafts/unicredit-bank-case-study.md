@@ -1,5 +1,6 @@
 ---
 layout: post
+title: UniCredit Bank case study
 # date:
 categories:
   - UX

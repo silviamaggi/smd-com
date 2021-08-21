@@ -1,0 +1,15 @@
+---
+layout: default
+title: Tags archive
+permalink: /tags/
+---
+<h1>Tags</h1>
+
+<ol class="archives">
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+{% assign t = tag | first %}
+{% assign posts = tag | last %}
+  <li><a href="/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
+{% endfor %}
+</ol>

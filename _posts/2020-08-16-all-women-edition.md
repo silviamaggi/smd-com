@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: Design, Digested 11. All-women edition
+featured-post: false
 categories:
   - Design Digested
 tags:

@@ -10,7 +10,8 @@
   {% else %}
   {% assign categories = page.categories %}
   {% endif %}
-  <p>Categories: <strong>{% for category in categories %}<a href="/categories/{{ category | slugify }}/">{{ category | capitalize | replace:"-"," " }}</a>{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong></p>
+  <p>featured-post: false
+categories: <strong>{% for category in categories %}<a href="/category/{{ category | slugify }}/">{{ category | capitalize | replace:"-"," " }}</a>{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong></p>
 </div>
 {% endunless %}
 {% comment %}
@@ -25,6 +26,6 @@
   {% else %}
   {% assign tags = page.tags %}
   {% endif %}
-  <p>Tags: <small><strong>{% for tag in tags %}<a href="/tags/{{ tag | slugify }}/">{{ tag | upcase }}</a>{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong></small></p>
+  <p>Tags: <small><strong>{% for tag in tags %}<a href="/tag/{{ tag | slugify }}/">{{ tag | upcase }}</a>{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong></small></p>
 </div>
 {% endunless %}

@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Travellers' app UX case study
 # date: 2021-03-16 18:28
 categories:
   - UX

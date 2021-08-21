@@ -1,5 +1,6 @@
 ---
 layout: post
+title: The Day I Glimpsed Inside Your Soul – Photo Project
 # date:
 categories:
   - Photography

@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: Undoing toxic dogmatism; designing less; be more effective
+featured-post: false
 categories:
   - Design Digested
 tags:

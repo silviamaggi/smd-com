@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: Design, Digested 9. Facebook Can’t Beat Hate, The Uncensored Library and ‘Get Bad News’
+featured-post: false
 categories:
   - Design Digested
 tags:

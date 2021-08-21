@@ -2,6 +2,7 @@
 layout: post
 title: Goodbye, 2016
 #date:
+featured-post: false
 categories: Photography
 tags:
   - 2016

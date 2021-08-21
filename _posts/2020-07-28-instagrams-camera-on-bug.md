@@ -1,6 +1,7 @@
 ---
 author: silvia
 title: Instagram’s Camera On Bug
+featured-post: false
 categories: Design
 tags:
   - instagram

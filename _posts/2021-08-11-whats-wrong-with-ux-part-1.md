@@ -1,6 +1,7 @@
 ---
 title: What's wrong with UX – Part 1
 author: silvia
+featured-post: false
 categories:
   - Design Digested
 tags:
