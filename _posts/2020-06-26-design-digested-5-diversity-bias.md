@@ -12,6 +12,7 @@ tags:
   - ux
 description: Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
 featured-image: feat-design-digested-5.jpg
+permalink: /design-digested/:title/
 redirect_from:
   - /books/design-digested-5-design-diversity-problems-and-bias/
   - /books/design-digested-5-diversity-bias/

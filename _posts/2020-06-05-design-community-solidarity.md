@@ -12,6 +12,7 @@ tags:
   - solidarity
 description: Design inspiration series. Design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.
 featured-image: feat-design-digested-2.jpg
+permalink: /design-digested/:title/
 redirect_from:
   - /books/design-digested-2-design-solidarity/
   - /books/design-community-solidarity/

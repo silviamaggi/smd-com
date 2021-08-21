@@ -13,6 +13,7 @@ tags:
   - inspiration
 description: First instalment of my design inspiration series. Killing Eve set design, accessibility on social media, bad design vs good design, and more.
 featured-image: feat-design-digested-1.jpg
+permalink: /design-digested/:title/
 redirect_from:
   - /books/design-digested-1/
   - /books/killing-eve-set-design/
