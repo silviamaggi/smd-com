@@ -2,7 +2,7 @@
 author: silvia
 title: Interaction Design Foundation review
 featured-post: false
-categories: Design
+#categories: Design
 hidden: true
 redirection: https://www.interaction-design.org/
 ---

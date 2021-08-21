@@ -2,7 +2,7 @@
 author: silvia
 title: My experience with the Interaction Design Foundation
 featured-post: false
-categories: Design
+#categories: Design
 hidden: true
 redirection: https://www.interaction-design.org/
 ---
