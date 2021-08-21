@@ -9,11 +9,11 @@ redirect_from:
   <h1>Blog</h1>
   {% for post in paginator.posts %}
   <div class="blogroll-post">
-    <img src="/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}">
+    <img src="/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="200" height="200">
     <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
     {%- assign categories = post.categories %}
     <p class="post-meta">
-      <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated" class="time">{{ post.date | date_to_string }}</time> &ndash; <span>Filed under:</span> <strong>{% for category in categories %}<a href="/category/{{ category | slugify }}/">{{ category | downcase | replace:"-"," " }}</a>{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong>
+      {% include post-meta.html date=page %} &ndash; {% include pattern-readingtime.html content=post.content -%}
     </p>
     <div class="content">
       <p>{{ post.excerpt | markdownify | strip_html }}</p>

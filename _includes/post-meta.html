@@ -1,9 +1,6 @@
-<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated" class="time">{{ page.date | date_to_string }}</time> &ndash; <span class="reading-time" title="Estimated read time"><strong>Reading time</strong>:
-  {% assign words = content | number_of_words -%}
-  {%- if words < 360 -%}
-    1 min
-  {%- else -%}
-    {{ words | divided_by:180 }} mins
-  {%- endif %}
-  </span>
-</p>
+{% if post %}
+{% assign date = post.date %}
+{% elsif page %}
+{% assign date = page.date %}
+{% endif %}
+<time datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated" class="time">{{ date | date_to_string }}</time>
