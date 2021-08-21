@@ -5,7 +5,7 @@ layout: default
 <ul class="archive-posts">
   {% for post in page.posts %}
     <li>
-      <img src="/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}">
+      <img src="/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="150" height="150">
       <h2>{{ post.title }}</h2>
       <div class="blurb-content">
         <p>{%- include post-meta.html %} &ndash; {% include pattern-readingtime.html content=post.content -%}</p>
