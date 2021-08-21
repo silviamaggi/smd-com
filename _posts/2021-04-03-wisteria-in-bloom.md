@@ -3,6 +3,7 @@ author: silvia
 categories: Photography
 tags:
   - photography
+  - wisteria
   - italy
 description: As the weather warms, the wisteria in the yard is blooming. I took a couple of pictures of it.
 featured-image: feat-20210403-wisteria-in-bloom-1.jpg

@@ -12,7 +12,7 @@ featured-image: feat-the-day-i-glimpsed-inside-your-soul.jpg
 ---
 I am excited and honoured to announce that my photo _The Day I Glimpsed Inside Your Soul_ will be part of the **Shutter Hub Open Exhibition 2017**, at the **Retina Scottish International Photography Festival**.
 
-{% include pattern-figure.html image="/assets/images/the-day-i-glimpsed-inside-your-soul.jpg" caption="The Day I Glimpsed Inside Your Soul" width="1400" height="933" %}
+{% include pattern-figure.html image="/assets/images/20161122_silviamaggi_glimpsedsoul_3926.jpg" caption="The Day I Glimpsed Inside Your Soul" width="1400" height="933" %}
 
 The photo tells the story of thousands of people who walked through the gate of the Sachsenhausen concentration camp in Oranienburg, on the outskirts of Berlin.
 
@@ -26,7 +26,7 @@ Both men turned their back to the gate and never looked back, 71 years apart.
 
 The exhibition runs from 1st – 30th of July 2017, in beautiful Edinburgh.
 
-{% include pattern-figure.html image="/assets/shutterhub_open-flyer-2017.jpg" caption="Shutter Hub Open Flyer 2017" width="332" height="1024" %}
+{% include pattern-figure.html image="/assets/images/shutterhub_open-flyer-2017.jpg" caption="Shutter Hub Open Flyer 2017" width="332" height="1024" %}
 
 ## About Shutter Hub
 

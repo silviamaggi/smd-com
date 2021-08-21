@@ -6,6 +6,7 @@ tags:
   - instagram
   - personal
   - social media
+  - uk
 description: With the intent of staying away from social media, I started "Today I Saw", a series where I post one photo and a few thoughts about it.
 featured-image: feat-today-i-saw-silviamaggi.jpg
 permalink: /today-i-saw/:title/

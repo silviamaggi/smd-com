@@ -6,7 +6,7 @@ tags:
   - photography
   - italy
 description: Today I took a few pictures of the pine forest with my phone. It's a great feature to have close to home as an alternative to walking on the beach.
-featured-image: feat-healthy-walk-pine-forest-1.jpg
+featured-image: feat-healthy-walk-pine-forest.jpg
 ---
 A pine forest looks and smells so good it’s impossible to resist it. It’s a great feature to have close to home as an alternative to walking on the beach or staring at a screen.
 
