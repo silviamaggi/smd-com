@@ -1,6 +1,6 @@
 ---
-title: Life off social media, six months in
 author: silvia
+title: Life off social media, six months in
 featured-post: false
 categories: Personal
 tags:
@@ -8,7 +8,8 @@ tags:
   - personal
 description: I tell you what happened when I quit social media six months ago, and why I don't want to come back.
 featured-image: feat-max-van-den-oetelaar-unsplash.jpg
-permalink: /social-media/:title/
+redirect_from:
+  - /social-media/life-off-social-media/
 ---
 I used to be everywhere. Name the social media and, most probably, I had an account. Internet’s always been a big thing for me, and a certain kind of **online presence** was good for my profession, hobbies and relationships.
 

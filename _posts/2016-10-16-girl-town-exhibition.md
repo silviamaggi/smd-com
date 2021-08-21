@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GIRL TOWN – Celebrating the Culture of the Female in the 21st Century – Exhibition
+title: GIRL TOWN Exhibition – Celebrating the culture of the female in the 21st century
 featured-post: false
 categories: Photography
 tags:
@@ -8,6 +8,7 @@ tags:
   - exhibition
   - london
   - uk
+description: On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched GIRL TOWN at London Photomonth, and I’m proudly part of it.
 excerpt: On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched GIRL TOWN at London Photomonth, and I’m proudly part of it.
 featured-image: feat-20160916_girltown-empty-3502.jpg
 ---
@@ -23,7 +24,7 @@ GIRL TOWN is also a series of talks, meetups, films screenings.
 
 Programme and other information [here](http://shutterhub.org.uk/blog/girltownpm){:target="_blank" rel="noopener"}.
 
-The exhibition already got [very good press](http://www.whitechapelgallery.org/first-thursdays/){:target="_blank" rel="noopener"} and, the night of the opening, it was announced that next year it’ll be going to Tel Aviv.
+The exhibition already got very good press and, the night of the opening, it was announced that next year it’ll be going to Tel Aviv.
 
 I couldn’t have imagined a better result!
 
@@ -36,5 +37,3 @@ Shutter Hub is a community and online resource for photographers, providing oppo
 ### About the Old Girls’ Club
 
 The Old Girl’s Club is committed to supporting women in photography and lens-based creative media.
-
-&rarr; [http://theoldgirlsclub.uk](http://theoldgirlsclub.uk){:target="_blank" rel="noopener"}

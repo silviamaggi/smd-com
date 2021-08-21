@@ -1,5 +1,6 @@
 ---
 author: silvia
+title: After the rain
 featured-post: false
 categories: Photography
 tags:
@@ -9,7 +10,8 @@ tags:
 - uk
 description: Today I took time to appreciate my surroundings. After the rain shower, I shot a few pictures in my garden.
 featured-image: feat-after-the-rain-silviamaggi.jpg
-permalink: /today-i-saw/:title/
+redirect_from:
+  - /today-i-saw/after-the-rain/
 ---
 Today, after the rain, I used the tripod to take a few short videos in the garden. With time, I will set up a YouTube channel to share them.
 

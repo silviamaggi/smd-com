@@ -1,5 +1,6 @@
 ---
 author: silvia
+title: Dark patterns in user interfaces
 featured-post: false
 categories:
   - Design Digested
@@ -17,6 +18,7 @@ redirect_from:
   - /it/design-it/dark-pattern-web/
   - /it/design/dark-patterns-web/
   - /it/uncategorized-it/dark-patterns-web/
+  - /design/dark-patterns-in-user-interfaces/
 ---
 Recently, I read a couple of compelling blog post about dark patterns in user interfaces copy that I want to share with you. They’re an essential read to understand what they are, how they’re used to deceive people and how to recognise them.
 

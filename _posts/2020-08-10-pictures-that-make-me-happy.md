@@ -1,5 +1,6 @@
 ---
 author: silvia
+title: Pictures that make me happy
 featured-post: false
 categories: Photography
 tags:

@@ -1,5 +1,6 @@
 ---
 author: silvia
+title: The purpose of placebo buttons
 featured-post: false
 categories: Design
 tags:

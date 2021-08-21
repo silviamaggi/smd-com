@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shutter Hub OPEN Exhibition 2016
+title: Shutter Hub Open Exhibition 2016
 featured-post: false
 categories: Photography
 tags:
@@ -8,10 +8,12 @@ tags:
   - exhibition
   - cambridge
   - uk
-excerpt: Starting 24 June 2016, for a month, one of my photos was part of the Shutter Hub OPEN Exhibition 2016 at Hot Numbers Coffee, Cambridge.
+description: Starting 24 June 2016, for a month, one of my photos was part of the Shutter Hub OPEN Exhibition 2016 at Hot Numbers Coffee, Cambridge.
 featured-image: feat-gonville-and-caius-silviamaggi.jpg
 ---
 Starting 24 June 2016, for a month, one of my photos was part of the [Shutter Hub OPEN Exhibition 2016](http://shutterhub.org.uk/blog/its-a-wrap-a-round-up-of-the-shutter-hub-open-2016){:target="_blank" rel="noopener"} at the [Hot Numbers Coffee](http://hotnumberscoffee.co.uk/){:target="_blank" rel="noopener"}, in Cambridge.
+
+<!--more-->
 
 {% include pattern-figure.html image="/assets/images/gonville-and-caius-silviamaggi.jpg" caption="The Gonville and Caius Gate at Night" width="682" height="1024" %}
 

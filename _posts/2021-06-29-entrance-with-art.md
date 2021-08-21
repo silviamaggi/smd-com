@@ -1,5 +1,6 @@
 ---
 author: silvia
+title: Entrance with art
 featured-post: false
 categories: Photography
 tags:

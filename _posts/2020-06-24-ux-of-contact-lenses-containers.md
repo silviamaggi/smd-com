@@ -1,6 +1,6 @@
 ---
 author: silvia
-title: The UX of Contact Lenses Containers
+title: The UX of contact lenses containers
 featured-post: false
 categories: UX
 tags:
@@ -9,9 +9,9 @@ tags:
   - usability
 description: Everyday things affects our lives, sometimes making us feel frustrated. This time I analyse the UX of contact lenses containers.
 featured-image: feat-ux-of-contact-lenses-containers.jpg
-permalink: /design/:title/
 redirect_from:
   - /design/the-ux-of-contact-lenses-containers/
+  - /design/ux-of-contact-lenses-containers/
 ---
 How is the **UX** **of** **contact lenses containers**? It’s easy to overlook what we use daily, and yet everyday things are usually the ones that make us feel **frustrated**.
 

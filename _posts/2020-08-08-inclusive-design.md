@@ -1,6 +1,6 @@
 ---
 author: silvia
-title: Design, Digested 10. Inclusive Design, Problematic Social Media
+title: Design, Digested 10. Inclusive design, problematic social media
 featured-post: false
 categories:
   - Design Digested
@@ -13,13 +13,14 @@ tags:
   - ux
   - world war II
 description: Design inspiration series. Inclusive design, problematic social media facts, and a great music project.
-excerpt: Design inspiration series. Inclusive design, problematic social media facts, and a great music project.
 featured-image: feat-design-digested-10.jpg
-permalink: /diversity/:title/
 redirect_from:
   - /diversity/design-digested-10-inclusive-design-social-media/
+  - /diversity/inclusive-design/
 ---
 On week number 10 of my design inspiration series, I share resources about **inclusive design**, **problematic social media** facts, and a great music project.
+
+<!--more-->
 
 ### Inclusive Design
 
