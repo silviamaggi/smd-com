@@ -1,0 +1,46 @@
+---
+layout: default
+title: Tags page
+permalink: /tags/
+---
+<h1>All Tags</h1>
+
+<style media="screen">
+  .archives {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  .archives li {
+    display: inline-block;
+    margin: 16px 8px;
+    padding: 0;
+    text-align: center;
+  }
+  .archives li a {
+    display: block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+  }
+  .archives li a:hover {
+    background-color: #ccc;
+  }
+  .archives li a sup {
+    font-weight: bold;
+    color: blue;
+  }
+</style>
+
+<ol class="archives">
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+{% assign t = tag | first %}
+{% assign posts = tag | last %}
+  <li><a href="/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
+{% endfor %}
+</ol>

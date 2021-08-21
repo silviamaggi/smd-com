@@ -1,0 +1,46 @@
+---
+layout: default
+title: Categories page
+permalink: /categories/
+---
+<h1>All Categories</h1>
+
+<style media="screen">
+  .archives {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  .archives li {
+    display: inline-block;
+    margin: 16px 8px;
+    padding: 0;
+    text-align: center;
+  }
+  .archives li a {
+    display: block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+  }
+  .archives li a:hover {
+    background-color: #ccc;
+  }
+  .archives li a sup {
+    font-weight: bold;
+    color: blue;
+  }
+</style>
+
+<ol class="archives">
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
+{% assign c = category | first %}
+{% assign posts = category | last %}
+  <li><a href="/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
+{% endfor %}
+</ol>

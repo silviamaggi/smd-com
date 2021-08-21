@@ -12,6 +12,7 @@ author:
   email: hello@silviamaggidesign.com
 
 exclude: ["README.md"]
+include: ["_pages"]
 
 defaults:
   - scope:
@@ -38,6 +39,16 @@ collections:
     output: true
     permalink: /portfolio/:path/
 
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+  slug_mode: latin
+
 paginate: 9
 paginate_path: "/blog/page/:num/"
 
@@ -49,6 +60,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-archives
 
 # Server
 host: 0.0.0.0
