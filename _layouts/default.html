@@ -9,7 +9,7 @@
 {%- include seo.html -%}
 {%- include favicons.html -%}
 </head>
-<body class="layout-{{ page.layout }} {% if page.is_post %}post-{{ page.title | slugify }}{% else %}page-{{ page.title | slugify }}{% endif %}" id="top">
+<body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
 {% include site-header.html %}
 {{ content }}
 {%- include site-footer.html -%}

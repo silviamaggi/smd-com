@@ -7,7 +7,9 @@
 <title>
   {%- if page.url == "/" -%}
   {{ site.title }} - {{ site.tagline }}
+  {%- elsif page.type == 'category' or page.type == 'tag' -%}
+  {{ page.type | capitalize }}: {{ page.title | capitalize }} - {{ site.title }} {{ site.tagline }}
   {%- else -%}
-  {{ page.title }} - {{ site.title }} {{ site.tagline }}
+  {{ page.title }} &ndash; {{ site.title }} {{ site.tagline }}
   {%- endif -%}</title>
 {% feed_meta %}
