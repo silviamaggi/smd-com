@@ -9,14 +9,21 @@ redirect_from:
 
 <h2>Case studies</h2>
 
-{% for casestudy in site.casestudies %}
-<a href="{{ casestudy.url }}" title="View: {{ casestudy.title }}"><h3>{{ casestudy.title }}</h3></a>
-<p class="post-excerpt">{{ casestudy.description | markdownify }}</p>
-{% endfor %}
+<div class="case-studies">
+  {% for casestudy in site.casestudies %}
+  <img src="/assets/images/highlights/highlighted-{{ casestudy.featured-image }}" alt="{{ post.title }}" width="300" height="169">
+  <a href="{{ casestudy.url }}" title="View: {{ casestudy.title }}"><h3>{{ casestudy.title }}</h3></a>
+  <p class="post-excerpt">{{ casestudy.description | markdownify }}</p>
+  {% endfor %}
+</div>
 
 <h2>Side projects</h2>
 
-{% for sideproject in site.sideprojects %}
-<a href="{{ sideproject.url }}" title="View: {{ sideproject.title }}"><h3>{{ sideproject.title }}</h3></a>
-<p class="post-excerpt">{{ sideproject.description | markdownify }}</p>
-{% endfor %}
+
+<div class="side-projects">
+  {% for sideproject in site.sideprojects %}
+  <img src="/assets/images/highlights/highlighted-{{ sideproject.featured-image }}" alt="{{ post.title }}" width="300" height="169">
+  <a href="{{ sideproject.url }}" title="View: {{ sideproject.title }}"><h3>{{ sideproject.title }}</h3></a>
+  <p class="post-excerpt">{{ sideproject.description | markdownify }}</p>
+  {% endfor %}
+</div>

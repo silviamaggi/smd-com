@@ -4,8 +4,7 @@ layout: default
 {%- include pattern-featured.html -%}
 
 <h1>{{ page.title }}</h1>
-
-<p>{%- include post-meta.html place=page %} &ndash; {% include pattern-readingtime.html content=content -%}</p>
+<p>{%- include post-meta.html place=page %} {% unless page.collection == 'casestudies' or page.collection == 'sideprojects' %}&ndash; {% include pattern-readingtime.html content=content -%}{%- endunless -%}</p>
 {%- include post-taxonomy.html -%}
 <hr>
 {{ content }}
