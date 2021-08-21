@@ -5,7 +5,7 @@ permalink: /privacy-policy/
 redirect_from:
   - /it/privacy-policy/
 ---
-<h1>{{ page.title }}</h1>
+# {{ page.title }}
 
 ## Who I am
 
