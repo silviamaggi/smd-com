@@ -1,7 +1,7 @@
 ---
 author: silvia
 title: Isolation photo diary
-featured-post: true
+featured-post: false
 categories: Photography
 tags:
   - photography

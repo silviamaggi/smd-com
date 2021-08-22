@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Acclimatize.me. Notification app for travellers
+featured-post: true
 date: 2021-02-18 15:00
 description: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
 excerpt: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?

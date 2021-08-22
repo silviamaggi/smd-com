@@ -10,18 +10,22 @@ redirect_from:
 
 <div class="featured-posts">
   <h3>Featured Posts</h3>
-  {% assign postFeat = site.posts | where: 'featured-post', 'true' %}
-  {% for post in postFeat limit:3 %}
+
+  {%- assign postFeat = site.posts | where: 'featured-post', 'true' -%}
+  {%- assign caseFeat = site.casestudies | where: 'featured-post', 'true' -%}
+  {%- assign featured = postFeat | concat: caseFeat -%}
+
+  {% for post in featured limit:3 %}
   <div class="featured-post">
-    <img src="/assets/images/highlights/highlighted-{{ post.featured-image }}" alt="{{ post.title }}" width="300" height="169">
-    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+    <img src="/assets/images/highlights/highlighted-{%- if postFeat -%}{{ post.featured-image }}{%- elsif caseFeat -%}{{ casestudy.featured-image }}{%- endif -%}" alt="{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}" width="300" height="169">
+    <h4><a href="{%- if postFeat -%}{{ post.url }}{%- elsif caseFeat -%}{{ casestudy.url }}{%- endif -%}">{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}</a></h4>
     <div class="post-meta">
-      <p>{% include post-meta.html %}&nbsp;&ndash;&nbsp;{% include pattern-readingtime.html content=post.content %}</p>
+      <p>{%- include post-meta.html -%}</p>
     </div>
-    {{ post.excerpt | markdownify | strip_html }}
+    <p class="featured-post-excerpt">{%- if postFeat -%}{{ post.excerpt | markdownify | strip_html }}{%- elsif caseFeat -%}{{ casestudy.excerpt | markdownify | strip_html }}{%- endif -%}</p>
   </div>
   <hr>
-  {% endfor %}
+  {%- endfor -%}
 </div>
 
 <div class="recent-posts">

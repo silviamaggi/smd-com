@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Acquisition Landing Pages and Forms
+featured-post: true
 date: 2021-04-13 15:00
 description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg

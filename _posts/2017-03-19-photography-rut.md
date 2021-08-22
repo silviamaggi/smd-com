@@ -1,7 +1,7 @@
 ---
 author: silvia
 title: Photography rut and little things in my garden
-featured-post: true
+featured-post: false
 categories: Photography
 tags:
   - photography

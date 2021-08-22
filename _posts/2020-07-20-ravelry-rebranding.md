@@ -1,7 +1,7 @@
 ---
 author: silvia
 title: How Rebranding cost Ravelry the trust of their community
-featured-post: false
+featured-post: true
 categories: Design
 tags:
   - accessibility
