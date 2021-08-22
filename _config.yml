@@ -17,11 +17,6 @@ include: ["_pages"]
 defaults:
   - scope:
       path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
       type: "posts"
     values:
       is_post: true
