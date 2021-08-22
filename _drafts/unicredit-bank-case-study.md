@@ -32,6 +32,6 @@ Working on case studies is not just something UX designers have to do, it’s a 
 
 Reminiscing about the work done for UniCredit **boosted my confidence and energy**. If you have the time to read it, I hope you enjoy it.
 
-&arr; Check the [UniCredit Bank landing pages and forms case study](https://silviamaggidesign.com/portfolio/unicredit-landing-pages-and-forms/){:target="_blank" rel="noopener"}.
+&rarr; Check the [UniCredit Bank landing pages and forms case study](https://silviamaggidesign.com/portfolio/unicredit-landing-pages-and-forms/){:target="_blank" rel="noopener"}.
 
-&arr; [Get in touch](https://silviamaggidesign.com/contacts-silviamaggi/){:target="_blank" rel="noopener"} for comments, feedback or if you wish to work with me.
+&rarr; [Get in touch](https://silviamaggidesign.com/contacts-silviamaggi/){:target="_blank" rel="noopener"} for comments, feedback or if you wish to work with me.

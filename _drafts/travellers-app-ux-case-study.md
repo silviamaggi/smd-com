@@ -23,6 +23,6 @@ As I went through the UX process, I noticed my interest towards this question in
 
 My motivation for solving this specific problem for travellers stems from the personal experience of [a stay in Bordeaux](https://silviamaggidesign.com/photography/four-days-in-bordeaux/){:target="_blank" rel="noopener"} a few years ago. Everything was great, with the exception of the weather event that caught us off guard.
 
-&arr; Check the [Acclimatize.me case study](https://silviamaggidesign.com/portfolio/case-study-acclimatize-me/){:target="_blank" rel="noopener"}
+&rarr; Check the [Acclimatize.me case study](https://silviamaggidesign.com/portfolio/case-study-acclimatize-me/){:target="_blank" rel="noopener"}
 
-&arr; [Get in touch](https://silviamaggidesign.com/contacts-silviamaggi/) for comments, feedback or if you wish to work with me.
+&rarr; [Get in touch](https://silviamaggidesign.com/contacts-silviamaggi/) for comments, feedback or if you wish to work with me.
