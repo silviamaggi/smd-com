@@ -1,5 +1,5 @@
 <nav class="navigation navigation-social" aria-label="social media and feed">
   {% for item in site.data.nav-social -%}
-  <li><a href="{{ item.link }}" title="Visit my {{ item.name }} profile" target="_blank" rel="noopener">{{ item.name }}</a></li>
+  <a href="{{ item.link }}" title="Visit my {{ item.name }} profile" target="_blank" rel="noopener">{{ item.name }}</a>
   {% endfor -%}
 </nav>

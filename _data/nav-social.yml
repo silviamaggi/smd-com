@@ -4,3 +4,5 @@
   link: https://github.com/silviamaggi
 - name: Flickr
   link: https://www.flickr.com/photos/silvia-m/
+- name: RSS feed
+  link: /feed.xml

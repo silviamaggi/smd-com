@@ -6,7 +6,10 @@
   border-bottom: 2px solid #ccc;
 }
 
-// Active class for navigation menus
+// Navigation
+.navigation-social {
+  display: inline-block;
+}
 .current {
   color: green;
 }
