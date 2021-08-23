@@ -24,7 +24,7 @@
     {%- if page.url contains "blog" -%}
     <li>&rarr; Articles</li>
     {%- endif -%}
-    {% if page.id %}{% unless page.url contains "/portfolio/" %}
+    {% if page.id %}{% unless page.url contains "portfolio" %}
     <li>&rarr; <a href="{{ site.url }}/blog/">Articles</a></li>
     <li>&rarr; <a href="{{ site.url }}/categories/">Categories</a></li>
     {% endunless %}
