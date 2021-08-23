@@ -3,11 +3,10 @@
 {% else %}
 {% assign categories = page.categories %}
 {% endif %}
+{%- unless page.title contains "homepage" -%}
 <div class="breadcrumbs">
   <ol>
-    {%- if page.title contains "homepage" -%}
-    <li>Homepage</li>{%- else -%}<li><a href="{{ site.url }}">Homepage</a></li>
-    {% endif %}
+    <li><a href="{{ site.url }}">Homepage</a></li>
     {% if page.url contains "/category/" %}
     <li>&rarr; <a href="{{ site.url }}/blog/">Articles</a></li>
     <li>&rarr; <a href="{{ site.url }}/categories/">Categories</a></li>
@@ -35,3 +34,4 @@
     {% endunless %}{% endunless %}
   </ol>
 </div>
+{%- endunless -%}

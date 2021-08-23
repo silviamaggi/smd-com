@@ -1,3 +1,5 @@
+- name: Search
+  link: /search/
 - name: Categories
   link: /categories/
 - name: Tags
