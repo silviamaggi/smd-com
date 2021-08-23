@@ -23,22 +23,24 @@ redirect_from:
       <p>{%- include post-meta.html -%}</p>
     </div>
     <p class="featured-post-excerpt">{%- if postFeat -%}{{ post.excerpt | markdownify | strip_html }}{%- elsif caseFeat -%}{{ casestudy.excerpt | markdownify | strip_html }}{%- endif -%}</p>
+    <div><a class="button" href="{{ post.url }}" title="Read the entire post">Read more</a></div>
   </div>
   <hr>
   {%- endfor -%}
 </div>
 
-<div class="recent-posts">
-  <h3>Recent Posts</h3>
+<div class="latest-posts">
+  <h3>Latest Posts</h3>
   {% assign recentPosts = site.posts %}
   {% for post in recentPosts limit:4 %}
-  <div class="recent-post">
+  <div class="latest-post">
     <img src="/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="150" height="150">
     <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
     <div class="post-meta">
       <p>{% include post-meta.html %}&nbsp;&ndash;&nbsp;{% include pattern-readingtime.html content=post.content %}</p>
     </div>
-    {{ post.excerpt | markdownify | strip_html }}
+    <p class="latest-post-excerpt">{{ post.excerpt | markdownify | strip_html }}</p>
+    <div><a class="button" href="{{ post.url }}" title="Read the entire post">Read more</a></div>
   </div>
   <hr>
   {% endfor -%}
