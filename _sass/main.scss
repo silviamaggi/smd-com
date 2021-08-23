@@ -31,6 +31,11 @@
   }
 }
 
+// Intro
+.intro img {
+  float: left;
+}
+
 // Featured image
 .featured-image {
   width: 100%;
@@ -115,4 +120,9 @@
   position: absolute;
   width: 1px;
   word-wrap: normal!important;
+}
+
+// Utility
+.clearfix {
+  clear: both;
 }
