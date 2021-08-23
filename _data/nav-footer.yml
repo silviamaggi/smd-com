@@ -1,2 +1,6 @@
+- name: Categories
+  link: /categories/
+- name: Tags
+  link: /tags/
 - name: Privacy Policy
   link: /privacy-policy/

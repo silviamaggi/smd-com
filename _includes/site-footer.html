@@ -1,7 +1,7 @@
 <footer class="site-footer">
   <div class="container">
-    <div class="copyright"><small class="small">&copy; {{ site.time | date: '%Y' }} &ndash; {{ site.title }}</small></div>
+    <span class="site-footer-copyright"><small>&copy; {{ site.time | date: '%Y' }} &ndash; {{ site.title }}</small></span>
     {%- include navigation-footer.html %}
+    <div class="site-footer-scrolltop"><a href="{{ page.url }}#top">&#8613;&nbsp;Back to top</a></div>
   </div>
-  <a href="{{ page.url }}#top">&#8613;&nbsp;Back to top</a>
 </footer>
