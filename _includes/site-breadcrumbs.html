@@ -1,0 +1,37 @@
+{% if post %}
+{% assign categories = post.categories %}
+{% else %}
+{% assign categories = page.categories %}
+{% endif %}
+<div class="breadcrumbs">
+  <ol>
+    {%- if page.title contains "homepage" -%}
+    <li>Homepage</li>{%- else -%}<li><a href="{{ site.url }}">Homepage</a></li>
+    {% endif %}
+    {% if page.url contains "/category/" %}
+    <li>&rarr; <a href="{{ site.url }}/blog/">Blog</a></li>
+    <li>&rarr; <a href="{{ site.url }}/categories/">Categories</a></li>
+    {% elsif page.url contains "/categories/" %}
+    <li>&rarr; <a href="{{ site.url }}/blog/">Blog</a></li>
+    {% elsif page.url contains "/tag/" %}
+    <li>&rarr; <a href="{{ site.url }}/blog/">Blog</a></li>
+    <li>&rarr; <a href="{{ site.url }}/tags/">Tags</a></li>
+    {% elsif page.url contains "/tags/" %}
+    <li>&rarr; <a href="{{ site.url }}/blog/">Blog</a></li>
+    {% elsif page.url contains "/portfolio/" %}
+    <li>&rarr; <a href="{{ site.url }}/portfolio/">Portfolio</a></li>
+    {% endif %}
+    {%- if page.url contains "blog" -%}
+    <li>&rarr; Blog</li>
+    {%- endif -%}
+    {% if page.id %}{% unless page.url contains "/portfolio/" %}
+    <li>&rarr; <a href="{{ site.url }}/blog/">Blog</a></li>
+    <li>&rarr; <a href="{{ site.url }}/categories/">Categories</a></li>
+    {% endunless %}
+    <li>{% for category in categories %}&rarr; <a href="/category/{{ category | slugify }}/">{{ category | capitalize | replace:"-"," " }}</a>{% endfor %}</li>
+    {% endif %}
+    {% unless page.title contains 'Blog' -%}{%- unless page.title contains 'homepage' %}
+    <li>&rarr; {{ page.title | replace:"archive","" }}</li>
+    {% endunless %}{% endunless %}
+  </ol>
+</div>

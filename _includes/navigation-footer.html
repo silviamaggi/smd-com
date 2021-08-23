@@ -1,4 +1,4 @@
-<nav class="navigation navigation-footer">
+<nav class="navigation navigation-footer" aria-label="secondary">
   {% for item in site.data.nav-footer -%}
   <a href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
   {% endfor -%}
