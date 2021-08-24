@@ -22,6 +22,8 @@ A mobile app that gives people access to accurate weather information about thei
 
 Solo project, based on a  where I explored the process from finding the users’ needs to visual design.
 
+{% include toc.md %}
+
 ## End users
 
 **Travellers** who want to be able to enjoy their trips in full.

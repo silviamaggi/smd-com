@@ -22,6 +22,8 @@ I designed the interaction for a mobile app that allows turtle scientists to **r
 
 This is a design challenge from[ UX Rescue](https://www.uxrescue.org/){:target="_blank" rel="noopener"}. Based on a definition of the **user group, their needs, user stories, and the data recorded,** I proposed wireframes and a live prototype.
 
+{% include toc.md %}
+
 ## Overview
 
 The African Marine Mammal Conservation Organization (AMMC) has created Siren, an open science software platform that helps local coastal communities, scientists, governments and NGOs understand data about marine mammal populations and solve conservation problems.

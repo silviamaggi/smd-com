@@ -34,7 +34,7 @@ Within a single codebase, we **created custom experiences** for smartphone, tabl
 
 Continue reading to know the _how_, _why_, and see more.
 
-### Table of content here
+{% include toc.md %}
 
 ## The context
 
