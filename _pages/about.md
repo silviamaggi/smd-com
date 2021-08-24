@@ -1,4 +1,5 @@
 ---
+layout: page
 title: About
 description: Silvia Maggi is a UX Designer striving to create meaningful, user-centric experiences.
 permalink: /about-silviamaggi-ux-designer/
@@ -50,20 +51,20 @@ Being close to nature is important to me. It’s where I can clear my mind, get 
 
 ## Workshops
 
-**Generating Big Ideas with Design Thinking**  
+**Generating Big Ideas with Design Thinking**
 UX Conference – Nielsen Norman Group
 
-**The Human Mind and Usability**  
+**The Human Mind and Usability**
 UX Conference – Nielsen Norman Group
 
 ## Exhibitions
 
-Date  | Exhibition
---|--
-**Oct 2018**  | Shutter Hub OPEN 2018 at Photomonth East London International Photography Festival, contributor. London, UK.
-**Jul-Aug 2018**  | [Because We Can!](https://silviamaggidesign.com/2018/07/29/because-we-can-shutter-hub-exhibition-festival-pilours/) exhibition at Festival Pil’Ours, contributor. Saint Gilles Croix de Vie, France.
-**Feb-Mar 2018**  | [GIRL TOWN – Celebrating the Culture of the Female in the 21st Century](https://silviamaggidesign.com/2018/02/12/girl-town-tel-aviv/), contributor. Tel Aviv, Israel.
-**Jul 2017**  | Shutter Hub Open Exhibition 2017 at Retina Photography Festival, contributor. Edinburgh, Scotland.
-**Dec 2016-Jan 2017**  | Hot Numbers Open Exhibition, contributor. Cambridge, UK.  
-**Oct-Nov 2016**  | GIRL TOWN – Celebrating the Culture of the Female in the 21st Century, contributor. London, UK.
-**Jun-Jul 2016**  | Shutter Hub Open Exhibition 2016, contributor. Cambridge UK.
+|Date   |Exhibition   |
+|:--|:--|
+|**Oct 2018**   |Shutter Hub OPEN 2018 at Photomonth East London International Photography Festival, contributor. London, UK.   |
+|**Jul-Aug 2018**   |[Because We Can!](https://silviamaggidesign.com/2018/07/29/because-we-can-shutter-hub-exhibition-festival-pilours/) exhibition at Festival Pil’Ours, contributor. Saint Gilles Croix de Vie, France.   |
+|**Feb-Mar 2018**   |[GIRL TOWN – Celebrating the Culture of the Female in the 21st Century](https://silviamaggidesign.com/2018/02/12/girl-town-tel-aviv/), contributor. Tel Aviv, Israel.   |
+|**Jul 2017**   |Shutter Hub Open Exhibition 2017 at Retina Photography Festival, contributor. Edinburgh, Scotland.   |
+|**Dec 2016-Jan 2017**   |Hot Numbers Open Exhibition, contributor. Cambridge, UK.    |
+|**Oct-Nov 2016**   |GIRL TOWN – Celebrating the Culture of the Female in the 21st Century, contributor. London, UK.   |
+|**Jun-Jul 2016**   |Shutter Hub Open Exhibition 2016, contributor. Cambridge UK.   |

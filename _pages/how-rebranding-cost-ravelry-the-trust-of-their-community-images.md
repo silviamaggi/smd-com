@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How Rebranding Cost Ravelry the Trust of Their Community. Images
 description:
 permalink: /how-rebranding-cost-ravelry-the-trust-of-their-community-images/

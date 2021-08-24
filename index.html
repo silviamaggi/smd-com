@@ -6,49 +6,12 @@ redirect_from:
   - /it/
 ---
 <div class="intro">
-  <img src="{{ site.url }}/assets/images/silviamaggi-avatar.png" alt="Silvia Maggi portrait">
-  <h1>Hi, I’m Silvia</h1>
-  <h2>A UX Designer striving to create meaningful digital experiences through User-Centred Design.</h2>
+  {% include pattern-avatar.html alt="Silvia Maggi portrait" width="120" height="120" %}
+  <h1>{{ site.brand.smd_tagline }}</h1>
+  <h2>{{ site.brand.smd_pitch }}</h2>
 </div>
 
 <hr class="clearfix">
 
-<div class="featured-posts">
-  <h3>Featured Posts</h3>
-
-  {%- assign postFeat = site.posts | where: 'featured-post', 'true' -%}
-  {%- assign caseFeat = site.casestudies | where: 'featured-post', 'true' -%}
-  {%- assign featured = postFeat | concat: caseFeat -%}
-
-  {% for post in featured limit:3 %}
-  <div class="featured-post">
-    <img src="{{ site.url }}/assets/images/highlights/highlighted-{%- if postFeat -%}{{ post.featured-image }}{%- elsif caseFeat -%}{{ casestudy.featured-image }}{%- endif -%}" alt="{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}" width="300" height="169">
-    <h4><a href="{%- if postFeat -%}{{ post.url }}{%- elsif caseFeat -%}{{ casestudy.url }}{%- endif -%}">{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}</a></h4>
-    <div class="post-meta">
-      <p>{%- include post-meta.html -%}</p>
-    </div>
-    <p class="featured-post-excerpt">{%- if postFeat -%}{{ post.excerpt | markdownify | strip_html }}{%- elsif caseFeat -%}{{ casestudy.excerpt | markdownify | strip_html }}{%- endif -%}</p>
-    <div><a class="button" href="{{ post.url }}" title="Read the entire post">Read more</a></div>
-  </div>
-  <hr>
-  {%- endfor -%}
-</div>
-
-<div class="latest-posts">
-  <h3>Latest Posts</h3>
-  {% assign recentPosts = site.posts %}
-  {% for post in recentPosts limit:4 %}
-  <div class="latest-post">
-    <img src="{{ site.url }}/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="150" height="150">
-    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-    <div class="post-meta">
-      <p>{% include post-meta.html %}&nbsp;&ndash;&nbsp;{% include pattern-readingtime.html content=post.content %}</p>
-    </div>
-    <p class="latest-post-excerpt">{{ post.excerpt | markdownify | strip_html }}</p>
-    <div><a class="button" href="{{ post.url }}" title="Read the entire post">Read more</a></div>
-  </div>
-  <hr>
-  {% endfor -%}
-  <div class="button-readmore"><a class="button" href="/blog/" title="Check out all the posts">Go to the blog</a></div>
-  <hr>
-</div>
+{% include pattern-featured-posts.html %}
+{% include pattern-latest-posts.html %}

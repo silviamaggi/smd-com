@@ -25,7 +25,7 @@ function displayResults() {
       </li>`;
   }).join('');
   if ((resultsArray.length == 0) || (this.value == '')) {
-    resultsList.innerHTML = `<p>Sorry, nothing was found</p>`;
+    resultsList.innerHTML = `<p>Sorry, nothing was found.</p>`;
   } else {
     resultsList.innerHTML = html;
   }

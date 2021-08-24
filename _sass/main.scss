@@ -3,7 +3,11 @@
   text-align: center;
   padding: 12px 0 24px 0;
   margin-bottom: 24px;
-  border-bottom: 2px solid #ccc;
+}
+
+// Top sidebar
+.top-sidebar {
+  text-align: center;
 }
 
 // Navigation
@@ -32,7 +36,7 @@
 }
 
 // Intro
-.intro img {
+.avatar {
   float: left;
 }
 

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Privacy Policy
 description: I am Silvia Maggi, and this is the privacy policy for my website. By default, the website does not collect any personal data about visitors.
 permalink: /privacy-policy/
