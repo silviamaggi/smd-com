@@ -1,6 +1,6 @@
 ---
-author: silvia
 title: Design, Digested 3. Language, mobile approach and responsive design at 10
+last_modified_at: 
 featured-post: false
 categories:
   - Design Digested

@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Hot Numbers Open Exhibition
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - exhibition

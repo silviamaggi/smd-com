@@ -5,3 +5,8 @@
     <div class="site-footer-scrolltop"><a href="{{ page.url }}#top">&#8613;&nbsp;Back to top</a></div>
   </div>
 </footer>
+{% if page.url contains 'search' %}
+<script type="text/javascript" src="{{ site.url }}/assets/js/fetch.js" }}"></script>
+<script type="text/javascript" src="{{ site.url }}/assets/js/search.js" }}"></script>
+<script type="text/javascript" src="{{ site.url }}/assets/js/smd-search.js" }}"></script>
+{% endif %}

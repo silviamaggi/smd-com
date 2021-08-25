@@ -2,7 +2,8 @@
 layout: post
 title: Turtle nest monitoring app
 featured-post: false
-date: 2021-08-09 15:00
+date: 2021-08-09 18:14:09
+last_modified_at:
 description: Scientists need to monitor turtle nests and record their status to measure the effectiveness of strategies to protect the aquatic megafauna and their habitats.
 excerpt: Scientists need to monitor turtle nests and record their status to measure the effectiveness of strategies to protect the aquatic megafauna and their habitats.
 featured-image: feat-turtle-nest-monitoring-app-featured-img.jpg

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+date: 2020-02-27 18:02:39
+last_modified_at:
 description: Silvia Maggi is a UX Designer striving to create meaningful, user-centric experiences.
 permalink: /about-silviamaggi-ux-designer/
 redirect_from:
@@ -23,9 +25,9 @@ My mission is to **help creating interactions that serve people best**, through 
 
 At the end of 2019, I took a career break – disrupted by the pandemic and an international move – to deepen my knowledge and become a better, more conscious, UX designer.
 
-Visit my [LinkedIn page](https://www.linkedin.com/in/silviamaggi){:target="_blank" rel="noopener"} for more information about my work and to connect.
+Visit my [LinkedIn page]({{ site.data.nav-social[0].link }}){:target="_blank" rel="noopener"} for more information about my work and to connect.
 
-🔗 [Check my portfolio](https://silviamaggidesign.com/silvia-maggi-portfolio/){:target="_blank" rel="noopener"}.
+🔗 [Check my portfolio]({{ site.data.nav-site[1].link }}).
 
 ## Newsletter
 

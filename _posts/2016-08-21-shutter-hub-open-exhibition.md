@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Shutter Hub Open Exhibition 2016
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - exhibition

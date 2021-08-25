@@ -1,6 +1,6 @@
 ---
-author: silvia
 title: The importance of sketching in UX and beyond
+last_modified_at: 
 featured-post: false
 categories:
   - Design Digested
@@ -63,9 +63,7 @@ He reminded me of the insightful and delightful webinar by UX designer [Morgane 
 
 * [Why should you start drawing today?](https://uxdesign.cc/why-should-you-start-drawing-today-6e7fb8956bd7){:target="_blank" rel="noopener"}
 
----
-
-If you wish to take it to next level, Dr. Betty Edwards’ _New Drawing on the Right Side of the Brain_ workbook offers **effective exercises** that reinforce the five basic skills of drawing:
+---If you wish to take it to next level, Dr. Betty Edwards’ _New Drawing on the Right Side of the Brain_ workbook offers **effective exercises** that reinforce the five basic skills of drawing:
 
 * The perception of edges.
 * The perception of spaces.

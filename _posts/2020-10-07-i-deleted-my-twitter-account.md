@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: I deleted my Twitter account and an update
+last_modified_at: 
 featured-post: false
-categories: Personal
+categories:
+  - Personal
 tags:
   - personal
   - social media

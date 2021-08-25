@@ -1,6 +1,6 @@
 ---
-author: silvia
 title: What's wrong with UX – Part 1
+last_modified_at: 
 featured-post: false
 categories:
   - Design Digested

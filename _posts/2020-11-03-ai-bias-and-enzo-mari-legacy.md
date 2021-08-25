@@ -1,6 +1,6 @@
 ---
-author: silvia
 title: Design, Digested 13. Fear, AI bias and Enzo Mari legacy
+last_modified_at: 
 featured-post: false
 categories:
   - Design Digested

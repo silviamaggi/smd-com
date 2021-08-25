@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: Brilliant culture and design books I’m reading
+last_modified_at: 
 featured-post: false
-categories: Books
+categories:
+  - Books
 tags:
   - books
   - design

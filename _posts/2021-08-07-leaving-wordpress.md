@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: Leaving WordPress
+last_modified_at: 
 featured-post: false
-categories: Personal
+categories:
+  - Personal
 tags:
   - personal
   - jekyll

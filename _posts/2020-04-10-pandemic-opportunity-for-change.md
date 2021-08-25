@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: The pandemic is a massive opportunity for change
+last_modified_at: 
 featured-post: false
-categories: Design
+categories:
+  - Design
 tags:
   - design
   - dieter rams
@@ -65,6 +66,4 @@ I believe that anyone can apply this way of thinking. We are now aware of how we
 
 ---
 _Rams_ is a documentary by Gary Hustwit. You can watch it [here](https://hustwit.vhx.tv/){:target="_blank" rel="noopener"}.
----
-
-<small>Photo by [Charlie Deets](https://unsplash.com/photos/rTgUvY1mbcI){:target="_blank" rel="noopener"} on Unsplash</small>
+---<small>Photo by [Charlie Deets](https://unsplash.com/photos/rTgUvY1mbcI){:target="_blank" rel="noopener"} on Unsplash</small>

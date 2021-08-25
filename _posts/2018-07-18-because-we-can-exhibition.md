@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: Because We Can Exhibition at Festival Pil’Ours
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - exhibition

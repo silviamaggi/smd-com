@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: A healthy walk in the pine forest
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - italy

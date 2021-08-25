@@ -2,16 +2,19 @@
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
-  {% if page.is_post %}
+  {% if page.is_post -%}
   "@type": "BlogPosting",{% else %}"@type": "WebSite",
-  {% endif -%}
+  {% endif %}
   "name": "{% if page.url == "/" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.title }} {{ site.tagline }}{% endif %}",
   "headline": "{% if page.url == "/" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.title }} {{ site.tagline }}{% endif %}",
-  "url": "{{ site.url }}",
+  "url": "{{ site.url }}{{ page.url }}",
   "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
   "keywords": "{% if page.tags %}{{ page.tags | join: ',' }}{% else %}{{ site.keywords }}{% endif %}",
+  {%- assign tagArchive = page.type | where: 'post.type', 'tag' -%}
+  {% unless tagArchive %}
   "datePublished": "{{ page.date }}",
-  "dateModified": "{{ page.last_modified_at | default: page.date }}",
+  "dateModified": "{{ page.date }}",
+  {% endunless -%}
   "author": {
     "@type": "Person",
     "name": "Silvia Maggi",
@@ -27,13 +30,19 @@
     "https://github.com/silviamaggi",
     "https://www.flickr.com/photos/silvia-m/"
   ],
-  {%- if page.image -%}
+  {%- if page.featured-image %}
   "image": {
     "@type": "ImageObject",
-    "width": {{ page.img_width | default: site.img_width }},
-    "height": {{ page.img_height | default: site.img_height }},
-    "url": "{{ site.url }}{{ page.img_url | default: site.img_url }}"
+    "width": "1200",
+    "height": "500",
+    "url": "{{ site.url }}/assets/images/{{ page.featured-image | default: site.logo }}"
   }
+  {% else %}
+  "image": {
+    "@type": "ImageObject",
+    "width": "1200",
+    "height": "628",
+    "url": "{{ site.url }}/assets/images/{{ site.logo }}"
   {% endif %}
 }
 </script>

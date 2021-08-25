@@ -1,8 +1,9 @@
 ---
-layout: post
 title: GIRL TOWN Exhibition – Celebrating the culture of the female in the 21st century
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - exhibition

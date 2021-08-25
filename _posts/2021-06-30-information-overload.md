@@ -1,6 +1,6 @@
 ---
-author: silvia
 title: Information overload
+last_modified_at: 
 featured-post: false
 categories:
   - Design Digested

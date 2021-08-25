@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: Four days in Bordeaux
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - bordeaux
@@ -64,8 +65,6 @@ Lessons learnt: use weather apps that provide detailed international weather ale
 
 <small>All photos by Silvia Maggi</small>
 
----
-
-### Update
+---### Update
 
 **17 March 2021.** The stay in Bordeaux inspired me to explore a design solution for travellers: [check the case study](https://silviamaggidesign.com/?p=6457){:target="_blank" rel="noopener"}.

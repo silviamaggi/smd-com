@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: The Station of being bus Stop experience
+last_modified_at: 
 featured-post: false
-categories: Design
+categories:
+  - Design
 tags:
   - design
   - ux

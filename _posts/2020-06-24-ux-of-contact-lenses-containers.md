@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: The UX of contact lenses containers
+last_modified_at: 
 featured-post: false
-categories: UX
+categories:
+  - UX
 tags:
   - ux
   - design
@@ -51,12 +52,8 @@ Always give people **more than one way** to achieve their goals, and avoid relyi
 
 Sometimes, sticking to pre-existing **conventions** is good, but it doesn’t necessarily mean never to **innovate**. Give people enough **clues** and test, test, test.
 
----
+---Did you have a similar experience with contact lenses container? Or a completely different one? Let me know in the comments section!
 
-Did you have a similar experience with contact lenses container? Or a completely different one? Let me know in the comments section!
-
----
-
-The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.
+---The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.
 
 <small>Photo by [David Travis](https://unsplash.com/photos/WC6MJ0kRzGw){:target="_blank" rel="noopener"} on Unsplash</small>

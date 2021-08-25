@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: How Instagram drained my creativity
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - creativity

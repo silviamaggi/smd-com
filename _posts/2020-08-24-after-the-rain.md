@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: After the rain
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
 - photography
 - cambridge

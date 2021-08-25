@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: Wisteria in bloom
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - wisteria

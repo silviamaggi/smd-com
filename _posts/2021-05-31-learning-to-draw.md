@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: Learning to draw. A journey
+last_modified_at: 
 featured-post: false
-categories: Drawing
+categories:
+  - Drawing
 tags:
   - drawing
   - drawabox
