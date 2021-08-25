@@ -1,6 +1,6 @@
 ---
 title: Mirrorless camera vs DSLR. My experience in Edinburgh
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Photography
@@ -29,7 +29,7 @@ After reading the manual, though, it became clear that the little camera would m
 
 ## The Test
 
-A visit to Edinburgh, where a photo of mine was exhibited at the [Shutter Hub Open exhibition at Retina Festival](https://0.0.7.225/06/14/shutter-hub-open-exhibition-2017-at-retina-photography-festival/){:target="_blank" rel="noopener"}, seemed the right occasion for trying out the new entry.
+A visit to Edinburgh, where a photo of mine was exhibited at the _[Shutter Hub Open exhibition at Retina Festival]({{ site.url }}/photography/shutter-hub-open-retina-festival/)_, seemed the right occasion for trying out the new entry.
 
 I’ve decided to make good use of the help the camera can give me by using the following settings:
 

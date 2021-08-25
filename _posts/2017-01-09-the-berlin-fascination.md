@@ -1,6 +1,6 @@
 ---
 title: The Berlin fascination
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Photography
@@ -31,7 +31,7 @@ Berlin is well known for being a cool ever-changing city. By just walking around
 
 Changes and renovations didn’t erase the memories of Berlin’s history and legacy. Sections of the Wall, memorials and museums are a constant reminder of the past.
 
-Stories and facts are still discussed, and passed on to the younger generations. We even participated in a fascinating [talk](https://www.circus-berlin.de/de/Veranstaltung/the-circus-talks-4/?instance_id=367){:target="_blank" rel="noopener"} at the hotel we stayed.
+Stories and facts are still discussed, and passed on to the younger generations. We even participated in a fascinating talk at the hotel we stayed.
 
 I can’t put into words what I like so much about Berlin; probably I’ll figure it out one day.
 

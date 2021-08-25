@@ -1,6 +1,6 @@
 ---
 title: My latest letter
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Design Digested
@@ -16,7 +16,7 @@ redirect_from:
   - /it/design-it/una-lettera/
   - /design/my-latest-letter
 ---
-Every couple of weeks, I write a letter to the nice people subscribed to [_Design, Digested_](https://silviamaggidesign.com/design-inspiration-newsletter-silvia-maggi/){:target="_blank" rel="noopener"}. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.
+Every couple of weeks, I write a letter to the nice people subscribed to [_Design, Digested_](https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8){:target="_blank" rel="noopener"}. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.
 
 <!--more-->
 
@@ -69,7 +69,7 @@ A TV series friends recommended years ago, that I watched only recently. **Six b
 
 As a person who likes almost everything digital and tech, I was surprised to read of **the study that suggests to use paper notebooks for information we need to learn or memorise**. Noted.
 
-* **[Read the article _Stronger Brain Activity After Writing on Paper Than on Tablet or Smartphone_](https://neurosciencenews.com/hand-writing-brain-activity-18069/)**
+* **[Read the article _Stronger Brain Activity After Writing on Paper Than on Tablet or Smartphone_](https://neurosciencenews.com/hand-writing-brain-activity-18069/)*{:target="_blank" rel="noopener"}*
 
 ### Digital indigestion
 
@@ -77,6 +77,6 @@ As a person who likes almost everything digital and tech, I was surprised to rea
 
 * **[Read the article _Digital photography is “too much to digest” says Simone Bossi_ on Dezeen](https://www.dezeen.com/2021/03/12/simone-bossi-architecture-photography-interview/){:target="_blank" rel="noopener"}**
 
-Did you find anything interesting? Let me know in the comments or [via email](https://silviamaggidesign.com/get-in-touch-silviamaggi/).
+Did you find anything interesting? Let me know in the comments or [via email]({{ site.url }}/get-in-touch-silviamaggi/).
 
 <small>Photo by [Flavio Amiel](https://unsplash.com/@flavioamiel){:target="_blank" rel="noopener"} on Unsplash, design by Silvia Maggi</small>

@@ -1,6 +1,6 @@
 ---
 title: The UX of contact lenses containers
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - UX
@@ -24,7 +24,7 @@ This little mishap prompted me to understand what went wrong. Of course, I might
 
 ## Comparing Contact Lenses Containers
 
-Something was off. After a quick [search](https://www.google.com/search?q=contact+lenses+container&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjp4vyNu5rqAhVeRxUIHdhLDDAQ_AUoAnoECCEQBA&biw=1261&bih=733&dpr=2){:target="_blank" rel="noopener"} (the link opens a Google search window), I found out that the containers look very similar – excluding the novelty ones. They usually have two colours and one letter on at least one lid, just like the one I was using.
+Something was off. After a quick [search](https://duckduckgo.com/?q=contact+lenses+container&t=ffab&atb=v281-1&iar=images&iax=images&ia=images){:target="_blank" rel="noopener"} (the link opens a DuckDuckGo search window), I found out that the containers look very similar – excluding the novelty ones. They usually have two colours and one letter on at least one lid, just like the one I was using.
 
 {% include pattern-figure.html image="/assets/images/lenses-container-1.jpg" caption="Off-brand contact lenses container" width="1400" height="895" %}
 

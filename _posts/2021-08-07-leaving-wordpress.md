@@ -1,6 +1,6 @@
 ---
 title: Leaving WordPress
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Personal
@@ -32,6 +32,6 @@ I don’t have a precise timeline, but the switch will probably happen in a mont
 
 In the meantime, take care.
 
-Should you have any questions, [get in touch](https://silviamaggidesign.com/get-in-touch-silviamaggi/){:target="_blank" rel="noopener"}.
+Should you have any questions, [get in touch]({{ site.url }}/get-in-touch-silviamaggi/).
 
 <small>Photo by [Marco Chilese](https://unsplash.com/@chmarco){:target="_blank" rel="noopener"} on Unsplash</small>

@@ -1,6 +1,6 @@
 ---
 title: Four days in Bordeaux
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Photography
@@ -64,7 +64,3 @@ We won’t forget our adventure in Bordeaux. The food, the wine, the limestone b
 Lessons learnt: use weather apps that provide detailed international weather alerts, and always bring a change of trousers and shoes, even when travelling light.
 
 <small>All photos by Silvia Maggi</small>
-
----### Update
-
-**17 March 2021.** The stay in Bordeaux inspired me to explore a design solution for travellers: [check the case study](https://silviamaggidesign.com/?p=6457){:target="_blank" rel="noopener"}.

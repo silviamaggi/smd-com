@@ -1,6 +1,6 @@
 ---
 title: Girl Town moved to Tel Aviv
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Photography
@@ -32,4 +32,4 @@ The photography organisation providing opportunities, support and networking for
 ### About Alfred Institute
 
 Alfred Gallery is a cooperative space that welcomes international exhibitions and collaborative projects in Simtat Shlush.  
-[http://www.alfredinstitute.org/eng/alfred-institute-welcome](http://www.alfredinstitute.org/eng/alfred-institute-welcome)
+[http://www.alfredinstitute.org/eng/alfred-institute-welcome](http://www.alfredinstitute.org/eng/alfred-institute-welcome){:target="_blank" rel="noopener"}

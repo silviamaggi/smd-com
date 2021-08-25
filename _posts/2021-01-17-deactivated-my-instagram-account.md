@@ -1,6 +1,6 @@
 ---
 title: I deactivated my Instagram account. What now?
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Personal
@@ -37,7 +37,7 @@ Instagram’s **new terms and conditions** gave me the push I needed. Nothing is
 
 A week in, I feel **lighter** **and** **unburdened** by the thought of what to post next, at what time, and what hashtags to use. The set of ever-changing “rules” to follow to make sure that posts get engagement, are **plainly obscure,** now that I see them from the outside. A mere pretext to keep people **browsing**.
 
-Even if this blog never received much traffic from Instagram – except for the article about [Ravelry’s redesign](https://silviamaggidesign.com/2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/){:target="_blank" rel="noopener"} — fewer people are going to see this post.
+Even if this blog never received much traffic from Instagram – except for the article about [Ravelry’s redesign]({{ site.url }}/design/ravelry-rebranding/) — fewer people are going to see this post.
 
 I miss the people and **feeling** **part of something**, even if sometimes it was about venting our frustrations with Instagram itself. It shows how the app’s design is successful: it **triggers** **emotions**, whether good or bad, and it keeps people there because that’s what creates a **community**.
 

@@ -1,6 +1,6 @@
 ---
 title: Design, Digested 8. How a website lost community trust
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Design Digested
@@ -32,6 +32,6 @@ I wrote a blog post about this detailing what happened and explaining what are t
 
 It’s up to us, designers and developers, to build **accessible** websites. It’s up to all of us to call out companies that don’t do it. We are all **responsible** for making the web **accessible**, **usable** and **inclusive**.
 
-[Read the blog post](https://silviamaggidesign.com/2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/){:target="_blank" rel="noopener"}
+[Read the blog post]({{ site.url }}/design/ravelry-rebranding/)
 
 <small>Photo by [Tara Evans](https://unsplash.com/photos/IcvR0jFbsz0){:target="_blank" rel="noopener"} on Unsplash, design by Silvia Maggi</small>
