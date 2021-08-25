@@ -1,6 +1,6 @@
 ---
 title: Design, Digested 5. Diversity bias
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Design Digested
@@ -43,7 +43,7 @@ Morgane Peng introduces us to the **UX Efficient Frontier** concept for business
 
 ### Anti-racist Reading List For Designers
 
-The design industry is [_71% White_](https://designcensus.org/). Lexi Namer listed books and articles aimed at designers with the intent of starting a **dialogue** about our **privilege**, **assumption** and **biases** as designers.
+The design industry is [_71% White_](https://designcensus.org/){:target="_blank" rel="noopener"}. Lexi Namer listed books and articles aimed at designers with the intent of starting a **dialogue** about our **privilege**, **assumption** and **biases** as designers.
 
 **[Read the article](https://uxdesign.cc/anti-racist-reading-list-for-designers-e51b3ac4bd0){:target="_blank" rel="noopener"}** on Medium.
 

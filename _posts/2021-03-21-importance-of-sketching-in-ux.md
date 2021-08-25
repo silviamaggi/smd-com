@@ -1,6 +1,6 @@
 ---
 title: The importance of sketching in UX and beyond
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Design Digested
@@ -43,7 +43,7 @@ You don’t need to be an artist to sketch effectively but there are a few techn
 
 {% include pattern-video.html id="vN2MFF2YZjo" title="Sketching Techniques #1" %}
 
-I used Matt’s advice to refine storyboard and wireframes for the [Acclimatize.me case study](https://silviamaggidesign.com/portfolio/case-study-acclimatize-me/){:target="_blank" rel="noopener"}, and I’m happy with the result.
+I used Matt’s advice to refine storyboard and wireframes for the [Acclimatize.me case study]({{ site.url }}/portfolio/case-study-acclimatize-me/), and I’m happy with the result.
 
 ## Go beyond
 
@@ -82,6 +82,6 @@ The workbook is the ideal companion of the book, where the theory behind the tec
 
 As much as wanted to follow my own advice and sketch every day, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up.
 
-After reading an article, I started a new journey and wrote about it on the post [Learning to draw: a journey](https://silviamaggidesign.com/design/learning-to-draw/){:target="_blank" rel="noopener"}.
+After reading an article, I started a new journey and wrote about it on the post [Learning to draw: a journey]({{ site.url }}/drawing/learning-to-draw/).
 
 <small>Photo and design by Silvia Maggi</small>

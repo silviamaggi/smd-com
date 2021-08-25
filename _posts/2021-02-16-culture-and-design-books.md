@@ -1,6 +1,6 @@
 ---
 title: Brilliant culture and design books I’m reading
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Books
@@ -55,7 +55,7 @@ Within their current business models, the tech giants manipulate our behaviour t
 
 Lanier explains how algorithms work in general – pointing out how the ones built by Big Tech are among the best-kept secrets in the world – and why it’s almost impossible to discuss with people holding different views.
 
-I had [doubts about social media](https://silviamaggidesign.com/?cat_ID=630){:target="_blank" rel="noopener"} well before reading the book, but some of the arguments convinced me to finally act.
+I had doubts about social media well before reading the book, but some of the arguments convinced me to finally act.
 
 * [**Read the book**](https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now){:target="_blank" rel="noopener"}
 

@@ -1,6 +1,6 @@
 ---
 title: I have a thing for trees
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Photography
@@ -15,7 +15,7 @@ featured-image: feat-201701-angleseyabbey_2366.jpg
 ---
 <!-- =================== CHECK THE FOLLOWING LINK! -->
 
-The last time I was out and about with the intention of taking pictures, was in November 2016, in <a href="https://2017/01/09/the-berlin-fascination/">Berlin</a>.
+The last time I was out and about with the intention of taking pictures, was in November 2016, in [Berlin]({{ site.url }}/photography/the-berlin-fascination/).
 
 {% include pattern-figure.html image="/assets/images/20160319-img_2361.jpg" caption="Anglesey Abbey, March 2016" width="1400" height="933" %}
 

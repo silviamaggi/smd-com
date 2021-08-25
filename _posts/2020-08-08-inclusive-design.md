@@ -1,6 +1,6 @@
 ---
 title: Design, Digested 10. Inclusive design, problematic social media
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Design Digested
@@ -31,7 +31,7 @@ On week number 10 of my design inspiration series, I share resources about **inc
 
 Karishma Patel takes us through her journey to integrate **accessibility** and **inclusive** design in **UX** work, and the barriers she encouters.
 
-She shares valuable resources and, if you’re interested in more, check the links at the bottom of my article “[How Rebranding Cost Ravelry the Trust of Their Community](https://silviamaggidesign.com/2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/){:target="_blank" rel="noopener"}“.
+She shares valuable resources and, if you’re interested in more, check the links at the bottom of my article _[How Rebranding Cost Ravelry the Trust of Their Community]({{ site.url }}design/ravelry-rebranding/)_.
 
 **[Read the article](https://uxdesign.cc/why-is-designing-for-inclusion-still-treated-as-optional-c3f9fd759c03){:target="_blank" rel="noopener"}** on Medium.
 

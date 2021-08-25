@@ -8,21 +8,22 @@ tags:
   - photography
   - exhibition
   - girl town
+  - photomonth
   - london
   - uk
 description: 'On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched GIRL TOWN at London Photomonth, and I’m proudly part of it.'
 excerpt: 'On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched GIRL TOWN at London Photomonth, and I’m proudly part of it.'
 featured-image: feat-20160916_girltown-empty-3502.jpg
 ---
-On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched GIRL TOWN at London Photomonth, and I’m very proudly part of it.
+On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched _GIRL TOWN_ at London Photomonth, and I’m very proudly part of it.
 
 {% include pattern-figure.html image="/assets/images/girl-town-silviamaggi-entry.jpg" caption="Girl Town – Back from the office, &copy; Silvia Maggi" width="768" height="1024" %}
 
-GIRL TOWN is a selected exhibition of photography celebrating the culture of the female in the 21st Century. It’s been curated through Instagram, so it is possible to see all the entries by exploring the hashtag [#girltownPM](https://www.instagram.com/explore/tags/girltownpm/){:target="_blank" rel="noopener"}.
+_GIRL TOWN_ is a selected exhibition of photography celebrating the culture of the female in the 21st Century. It’s been curated through Instagram, so it is possible to see all the entries by exploring the hashtag #girltownPM.
 
 The selected 200 photos are visible at the lovely St Margaret’s House, London, until 1st November 2016.
 
-GIRL TOWN is also a series of talks, meetups, films screenings.
+_GIRL TOWN_ is also a series of talks, meetups, films screenings.
 
 Programme and other information [here](http://shutterhub.org.uk/blog/girltownpm){:target="_blank" rel="noopener"}.
 

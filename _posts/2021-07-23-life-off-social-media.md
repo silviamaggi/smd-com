@@ -1,6 +1,6 @@
 ---
 title: Life off social media, six months in
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Personal
@@ -24,7 +24,7 @@ With Instagram, it’s been a slow burn. My love for photography should have bee
 
 As the popularity of Instagram grew, together with the quality of its content, I was hooked. I never deleted my Flickr account, but I barely visited the platform: at some point, it felt like everyone migrated over the squared-pictures app. When Facebook [bought Instagram for $1 billion in 2012](https://www.businessinsider.com/facebook-buys-instagram-for-1-billion-what-you-need-to-know-2012-4){:target="_blank" rel="noopener"} though, its future became sadly clear.
 
-Fast-forward to January 2021: [I deactivated what I once considered my precious Instagram account](https://silviamaggidesign.com/photography/deactivated-my-instagram-account/){:target="_blank" rel="noopener"}, and closed my WhatsApp. Before that, [I closed my Twitter](https://silviamaggidesign.com/social-media/i-deleted-my-twitter-account/){:target="_blank" rel="noopener"}, Facebook, and Pinterest accounts.
+Fast-forward to January 2021: [I deactivated what I once considered my precious Instagram account]({{ site.url }}/personal/deactivated-my-instagram-account/), and closed my WhatsApp. Before that, [I closed my Twitter]({{ site.url }}/personal/i-deleted-my-twitter-account/), Facebook, and Pinterest accounts.
 
 Six months later, here’s what happened.
 
@@ -54,7 +54,7 @@ I’ve had good moments, met great people, but it was never enough. **As a photo
 
 When it all became too much, I switched to a personal account, hoping to solve my the issue with the tap of a button. It didn’t happen: **the numbers weren’t the real problem**.
 
-Every time I was in a [photography rut and couldn’t take pictures](https://silviamaggidesign.com/photography/instagram-drained-my-creativity/){:target="_blank" rel="noopener"}, I’d feel guilty because I had nothing to post. **My passion for photography went from being a hobby that never let me down to a cause of anxiety and feelings of inadequacy**.
+Every time I was in a [photography rut and couldn’t take pictures]({{ site.url }}/photography/photography-rut/), I’d feel guilty because I had nothing to post. **My passion for photography went from being a hobby that never let me down to a cause of anxiety and feelings of inadequacy**.
 
 Ever since I deactivated my Instagram account, I take photos whenever I feel like it. I post them [on Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank" rel="noopener"}, or keep them to myself. It doesn’t matter much anymore, as long as I have a creative outlet.
 
@@ -64,7 +64,7 @@ Everytime I had something to say or show, I’d post it on some social media alm
 
 Even if it faded in recent years, I see it as a strange behaviour from my part.
 
-It could be a reflection brought up by the fact I know myself a bit more now, but **it always took me some time to assimilate concepts and form opinions**. That’s why I now prefer writing on my blog, and why I recently slowed down posting: [I’m elaborating some recent learnings and realisations](https://silviamaggidesign.com/design-digested/information-overload/){:target="_blank" rel="noopener"}.
+It could be a reflection brought up by the fact I know myself a bit more now, but **it always took me some time to assimilate concepts and form opinions**. That’s why I now prefer writing on my blog, and why I recently slowed down posting: [I’m elaborating some recent learnings and realisations]({{ site.url }}/design-digested/information-overload/).
 
 ## Conclusion
 

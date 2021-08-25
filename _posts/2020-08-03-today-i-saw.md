@@ -1,6 +1,6 @@
 ---
 title: Today I saw
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Photography
@@ -19,7 +19,7 @@ It’s that itch again. Today I saw something I like but can’t take a picture.
 
 <!--more-->
 
-It happens a lot of times: I even wrote a post called [How Instagram Drained My Creativity](https://silviamaggidesign.com/2019/05/27/how-instagram-drained-my-creativity/){:target="_blank" rel="noopener"}, where I described what made me appreciate photography again. More than a year later, I’ve yet to free myself from the loop of brief satisfaction of the numbers and the desire to have more.
+It happens a lot of times: I even wrote a post called [How Instagram Drained My Creativity]({{ site.url }}/photography/instagram-drained-my-creativity/), where I described what made me appreciate photography again. More than a year later, I’ve yet to free myself from the loop of brief satisfaction of the numbers and the desire to have more.
 
 ## Breaking The Loop
 
@@ -31,6 +31,6 @@ I will write more about this choice but, in the meantime, let me tell you more a
 
 ## What I Like About Today’s Photo
 
-I saw it yesterday, while out in the garden. I liked the shimmers of light on the abandoned cobweb and the fact that it is attached to our now dry flowers. It’s a stark contrast to [the way they looked a few months ago](https://silviamaggidesign.com/creativity/isolation-photo-diary/){:target="_blank" rel="noopener"}.
+I saw it yesterday, while out in the garden. I liked the shimmers of light on the abandoned cobweb and the fact that it is attached to our now dry flowers. It’s a stark contrast to [the way they looked a few months ago]({{ site.url }}/photography/isolation-photo-diary/).
 
 <small>Photo by Silvia Maggi</small>

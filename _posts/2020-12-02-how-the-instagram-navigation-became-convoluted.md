@@ -1,6 +1,6 @@
 ---
 title: How the Instagram navigation became convoluted
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - UX
@@ -71,7 +71,7 @@ In the meantime, if you updated the app and felt lost, know that it’s not you.
 ## Conclusions
 
 The products we design or use can get **complicated** over time, mainly when they become established. It happens when users ask for more **features** or when they **change** the way they use it.  
-See [Design, Digested #12 – Struggling with growth](https://silviamaggidesign.com/2020/10/26/design-digested-12-social-media-issues-complicated-products-and-redesigning-capitalism/){:target="_blank" rel="noopener"}.
+See [Design, Digested #12 – Struggling with growth]({{ site.url }}/design-digested/social-media-content-moderation/).
 
 Sometimes it happens when the **business model** changes: if the goal is to keep people **engaged** – and watching reels and looking for things to buy do it – then these actions need to take **priority** on the screen.
 

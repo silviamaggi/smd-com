@@ -268,5 +268,5 @@ Read more about [UI Farm’s workflow for the multi-device Web](https://medium.c
 
 ## Contact
 
-✒️ [Get in touch](https://silviamaggidesign.com/contacts-silviamaggi/){:target="_blank" rel="noopener"} for comments, feedback or if you wish to work with me.
+✒️ [Get in touch]({{ site.url }}/get-in-touch-silviamaggi/) for comments, feedback or if you wish to work with me.
 

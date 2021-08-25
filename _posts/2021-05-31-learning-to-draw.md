@@ -1,6 +1,6 @@
 ---
 title: Learning to draw. A journey
-last_modified_at: 
+last_modified_at:
 featured-post: false
 categories:
   - Drawing
@@ -14,7 +14,7 @@ featured-image: feat-sam-rios-unsplash.jpg
 redirect_from:
   - /design/learning-to-draw/
 ---
-In my latest _Design, Digested_ post titled [The importance of sketching in UX and beyond](https://silviamaggidesign.com/design-digested/importance-of-sketching-in-ux/){:target="_blank" rel="noopener"}, I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up.
+In my latest _Design, Digested_ post titled [The importance of sketching in UX and beyond]({{ site.url }}design-digested/importance-of-sketching-in-ux/), I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up.
 
 <!--more-->
 
