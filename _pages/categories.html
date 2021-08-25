@@ -2,7 +2,7 @@
 layout: page
 title: Categories archive
 date: 2021-08-20 13:00
-last_modified_at:
+last_modified_at: 2021-08-25T17:45:22
 permalink: /categories/
 ---
 <h1>Categories</h1>
@@ -12,6 +12,6 @@ permalink: /categories/
 {% for category in sorted_cats %}
 {% assign c = category | first %}
 {% assign posts = category | last %}
-  <li><a href="/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
+  <li><a href="{{ site.url }}/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
 {% endfor %}
 </ol>
