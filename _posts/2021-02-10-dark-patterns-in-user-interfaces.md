@@ -1,6 +1,6 @@
 ---
-author: silvia
 title: Dark patterns in user interfaces
+last_modified_at: 
 featured-post: false
 categories:
   - Design Digested

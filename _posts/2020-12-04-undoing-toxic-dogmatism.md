@@ -1,6 +1,6 @@
 ---
-author: silvia
 title: Undoing toxic dogmatism; designing less; be more effective
+last_modified_at: 
 featured-post: false
 categories:
   - Design Digested
@@ -26,34 +26,26 @@ If you read only one design article this week, this should be it.
 
 **[Read the article](https://lisa-angela-fftv.medium.com/undoing-the-toxic-dogmatism-of-digital-design-4bda8c4a4eba){:target="_blank" rel="noopener"}** on Medium.
 
----
-
-### Designing the smallest possible thing
+---### Designing the smallest possible thing
 
 _If designers want to work agilely and still design great, user-centred products, we need to stop designing faster and learn how to start designing less_, explains Laura Klein in an article I wish I read years ago.  
 **Designing small** has a lot of advantages and doesn’t mean sacrificing **quality**.
 
 **[Read the article](https://www.interaction-design.org/literature/article/designing-the-smallest-possible-thing){:target="_blank" rel="noopener"}** on Interaction Design Foundation.
 
----
-
-### The Pareto Principle and how to be more effective
+---### The Pareto Principle and how to be more effective
 
 _80% of our output comes from 20% of our efforts_. Rikke Friis Dam explains how to apply the principle to **any** area of **business**, and to our **lives**.
 
 **[Read the article](https://www.interaction-design.org/literature/article/the-pareto-principle-and-how-to-be-more-effective){:target="_blank" rel="noopener"}** on Interaction Design Foundation.
 
----
-
-### Six reasons why Google Maps is the creepiest app on your phone
+---### Six reasons why Google Maps is the creepiest app on your phone
 
 _Google Maps knows everything_. Read about the reasons to adjust your **privacy settings** and to consider how much of your **privacy** you’re willing to **sacrifice**.
 
 **[Read the article](https://www.vice.com/en/article/3an84b/six-reasons-why-google-maps-is-the-creepiest-app-on-your-phone){:target="_blank" rel="noopener"}** on Vice.
 
----
-
-### The three ways that good design makes you happy
+---### The three ways that good design makes you happy
 
 In his book _The Design of Everyday Things_, Donald A. Norman showed us how it’s not our fault if we couldn’t use the **most common products** in our lives. In this video, he explains how **good design** makes us happy.
 

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: I have a thing for trees
-categories: Photography
+last_modified_at: 
+featured-post: false
+categories:
+  - Photography
 tags:
   - photography
   - cambridge
@@ -11,7 +13,6 @@ description: Going through last year's photos, I found quite a few of them have 
 excerpt: Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo.
 featured-image: feat-201701-angleseyabbey_2366.jpg
 ---
-
 <!-- =================== CHECK THE FOLLOWING LINK! -->
 
 The last time I was out and about with the intention of taking pictures, was in November 2016, in <a href="https://2017/01/09/the-berlin-fascination/">Berlin</a>.

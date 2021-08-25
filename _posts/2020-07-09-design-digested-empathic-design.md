@@ -1,6 +1,6 @@
 ---
-author: silvia
 title: Design, Digested 6. Anti-Racist lessons, empathic design and the misogyny of the workforce
+last_modified_at: 
 featured-post: false
 categories:
   - Design Digested

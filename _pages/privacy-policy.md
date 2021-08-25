@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Privacy Policy
+date: 2020-02-27 16:38:23
+last_modified_at:
 description: I am Silvia Maggi, and this is the privacy policy for my website. By default, the website does not collect any personal data about visitors.
 permalink: /privacy-policy/
 redirect_from:

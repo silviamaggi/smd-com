@@ -1,7 +1,9 @@
 ---
-layout: post
 title: A glimpse of the sea
-categories: Photography
+last_modified_at: 
+featured-post: false
+categories:
+  - Photography
 tags:
   - photography
   - cromer

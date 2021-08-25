@@ -1,6 +1,6 @@
 ---
-author: silvia
 title: Design, Digested 8. How a website lost community trust
+last_modified_at: 
 featured-post: false
 categories:
   - Design Digested

@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: Mirrorless camera vs DSLR. My experience in Edinburgh
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - edinburgh

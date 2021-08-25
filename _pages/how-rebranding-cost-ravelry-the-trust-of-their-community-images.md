@@ -1,6 +1,8 @@
 ---
 layout: page
 title: How Rebranding Cost Ravelry the Trust of Their Community. Images
+date: 2020-07-20 13:00
+last_modified_at:
 description:
 permalink: /how-rebranding-cost-ravelry-the-trust-of-their-community-images/
 ---

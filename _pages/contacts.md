@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Contacts
+date: 2020-02-27 17:03:58
+last_modified_at:
 description: Get in touch by filling out a simple form. Follow or connect on social media such as LinkedIn and Flickr. Subscribe to my newsletter.
 permalink: /get-in-touch-silviamaggi/
 redirect_from:

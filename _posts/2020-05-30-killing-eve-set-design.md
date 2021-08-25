@@ -1,6 +1,6 @@
 ---
-author: silvia
 title: Design, Digested 1. Killing Eve set design, accessibility on social media, bad vs good design
+last_modified_at: 
 featured-post: false
 categories:
   - Design Digested

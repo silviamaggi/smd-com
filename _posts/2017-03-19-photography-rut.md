@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: Photography rut and little things in my garden
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - cambridge

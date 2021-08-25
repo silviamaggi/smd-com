@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: New journey and new blog
+last_modified_at: 
 featured-post: false
-categories: Personal
+categories:
+  - Personal
 tags:
   - blog
   - personal

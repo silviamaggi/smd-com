@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: Entrance with art
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - italy

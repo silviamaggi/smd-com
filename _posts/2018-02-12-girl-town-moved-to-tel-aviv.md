@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: Girl Town moved to Tel Aviv
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - exhibition

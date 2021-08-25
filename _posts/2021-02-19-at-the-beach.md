@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: At the beach
+last_modified_at: 
 featured-post: false
-categories: Photography
+categories:
+  - Photography
 tags:
   - photography
   - italy

@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: The purpose of placebo buttons
+last_modified_at: 
 featured-post: false
-categories: Design
+categories:
+  - Design
 tags:
   - design
   - psychology

@@ -1,6 +1,6 @@
 ---
-author: silvia
 title: My latest letter
+last_modified_at: 
 featured-post: false
 categories:
   - Design Digested

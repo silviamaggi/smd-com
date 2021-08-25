@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
-{%- if page.redirection -%}
+{% if page.redirection -%}
 <meta http-equiv="refresh" content="0;url='{{ page.redirection }}'" />
 {%- endif -%}
-{%- include site-meta.html -%}
+{% include site-meta.html -%}
 <link rel="stylesheet" href="{{ site.url }}/assets/css/styles.css">
 {%- include seo.html -%}
-{%- include favicons.html -%}
+{%- include site-favicons.html %}
 </head>
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
 {% include site-header.html %}

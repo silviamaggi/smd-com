@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: How Rebranding cost Ravelry the trust of their community
+last_modified_at: 
 featured-post: true
-categories: Design
+categories:
+  - Design
 tags:
   - accessibility
   - inclusion
@@ -63,9 +64,7 @@ To avoid causing problems, I’ve created a [separate page](https://silviamaggid
 
 Finally, the newly redesigned icons have many **details** that get lost in the **small** rendering on the page: a 16px square that seems to be a code legacy. Thus, the icons are not conveying their true function, adding yet another **challenge**.
 
----
-
-As stated in a [blog post](https://blog.ravelry.com/the-story-of-the-new-look/){:target="_blank" rel="noopener"} published three days after the release, the team at Ravelry started the redesign in January 2019. The platform is **massive**: 800 pages that needed updating one by one. It’s a tremendous amount of work. Based on my understanding, they waited for all pages to be ready before starting to **test** the new design, a choice that **backfired**.
+---As stated in a [blog post](https://blog.ravelry.com/the-story-of-the-new-look/){:target="_blank" rel="noopener"} published three days after the release, the team at Ravelry started the redesign in January 2019. The platform is **massive**: 800 pages that needed updating one by one. It’s a tremendous amount of work. Based on my understanding, they waited for all pages to be ready before starting to **test** the new design, a choice that **backfired**.
 
 ## Advantages of early testing
 
@@ -97,9 +96,7 @@ Ever since the first release, Ravelry made some changes to the interface, but th
 
 Even more important now is for communities, online and not, to be more **inclusive** than ever.
 
----
-
-_**Corrections**: the text has been corrected to delete inaccuracies about when the old design will be retired (there will be a six-month notice) and the fact that screen reader software didn’t work correctly with the old version, too._
+---_**Corrections**: the text has been corrected to delete inaccuracies about when the old design will be retired (there will be a six-month notice) and the fact that screen reader software didn’t work correctly with the old version, too._
 
 _**Update**_ – _**23 March 2021**: added an article about why overlay accessibility solutions don’t work and shouldn’t be used._
 

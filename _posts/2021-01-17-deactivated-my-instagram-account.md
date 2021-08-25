@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: I deactivated my Instagram account. What now?
+last_modified_at: 
 featured-post: false
-categories: Personal
+categories:
+  - Personal
 tags:
   - instagram
   - personal

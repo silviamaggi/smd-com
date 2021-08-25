@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Tags archive
+date: 2021-08-16 13:40
+last_modified_at: 2021-08-25T17:45:22
 permalink: /tags/
 ---
 <h1>Tags</h1>
@@ -10,6 +12,6 @@ permalink: /tags/
 {% for tag in sorted_tags %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
-  <li><a href="/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
+  <li><a href="{{ site.url }}/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
 {% endfor %}
 </ol>

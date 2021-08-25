@@ -1,8 +1,9 @@
 ---
-author: silvia
 title: Instagram’s camera on bug
+last_modified_at: 
 featured-post: false
-categories: UX
+categories:
+  - UX
 tags:
   - instagram
   - privacy

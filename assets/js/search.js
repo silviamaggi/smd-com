@@ -26,16 +26,16 @@ class jekyllSearch {
     const html = results.map(item => {
       return `
         <li class="result">
-            <article class="result__article  article">
+            <article class="result-article article">
                 <h4>
-                  <a href="${this.siteURL + item.url}">${item.title}</a>
+                  <a href="${this.siteURL + item.url}" title="${item.title}">${item.title}</a>
                 </h4>
                 <p>${item.excerpt}</p>
             </article>
         </li>`
     }).join('')
     if ((results.length == 0) || (this.searchField.value == '')) {
-      this.resultsList.innerHTML = `<p>Sorry, nothing was found</p>`
+      this.resultsList.innerHTML = `<p>Sorry, nothing was found.</p>`
     } else {
       this.resultsList.innerHTML = html
     }
