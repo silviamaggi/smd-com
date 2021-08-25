@@ -33,7 +33,7 @@ redirect_from:
     {%- assign firstPage = 1 -%}
     {%- assign secondPage = firstPage | plus: 1 -%}
     {%- unless paginator.page == firstPage %}
-    <a href="{{ site.url }}/blog/" class="pagination pagination-first">&#8676; First</a>
+    <a href="{{ site.url }}{{ site.data.nav-site[2].link }}" class="pagination pagination-first">&#8676; First</a>
     {%- endunless -%}
     {%- if paginator.previous_page %}{%- unless paginator.page == secondPage %}
     <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination pagination-previous">&larr; Previous</a>
@@ -44,7 +44,7 @@ redirect_from:
     <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination pagination-next">Next &rarr;</a>
     {% endunless -%}{%- endif -%}
     {%- unless paginator.page == lastPage -%}
-    <a href="{{ site.url }}/{{ page.title | slugify }}/page/{{ paginator.total_pages }}/" class="pagination pagination-last">Last &#8677;</a>
+    <a href="{{ site.url }}{{ site.data.nav-site[2].link }}page/{{ paginator.total_pages }}/" class="pagination pagination-last">Last &#8677;</a>
     {% endunless -%}
   </nav>
 
