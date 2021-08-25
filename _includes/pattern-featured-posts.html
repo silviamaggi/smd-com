@@ -1,4 +1,4 @@
-<div class="featured-posts">
+<section class="featured-posts">
 
   <h3>Featured Posts</h3>
 
@@ -7,7 +7,7 @@
   {%- assign featured = postFeat | concat: caseFeat -%}
 
   {% for post in featured limit:3 %}
-  <div class="featured-post">
+  <article class="featured-post">
     <img src="{{ site.url }}/assets/images/highlights/highlighted-{%- if postFeat -%}{{ post.featured-image }}{%- elsif caseFeat -%}{{ casestudy.featured-image }}{%- endif -%}" alt="{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}" width="300" height="169">
     <h4><a href="{%- if postFeat -%}{{ post.url }}{%- elsif caseFeat -%}{{ casestudy.url }}{%- endif -%}">{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}</a></h4>
     <div class="post-meta">
@@ -15,8 +15,8 @@
     </div>
     <p class="featured-post-excerpt">{%- if postFeat -%}{{ post.excerpt | markdownify | strip_html }}{%- elsif caseFeat -%}{{ casestudy.excerpt | markdownify | strip_html }}{%- endif -%}</p>
     <div><a class="button" href="{{ post.url }}" title="Read the entire post">Read more</a></div>
-  </div>
+  </article>
   <hr>
   {% endfor %}
 
-</div>
+</section>

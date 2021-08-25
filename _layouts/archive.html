@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: default
 ---
+{% include site-sidebar.html %}
+{% include site-breadcrumbs.html %}
+
 <h1>{%- if page.type == "tag" -%}Tag: {% endif -%}{{ page.title | capitalize }}</h1>
-<ul class="archive-posts">
+<section class="archive-posts">
   {% for post in page.posts %}
-    <li>
+    <article>
       <img src="/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="150" height="150">
       <h2>{{ post.title }}</h2>
       <div class="blurb-content">
@@ -12,7 +15,6 @@ layout: page
         <p>{{ post.excerpt | markdownify | strip_html }}</p>
         <div><a class="button" href="{{ post.url | relative_url }}">Read more</a></div>
       </div>
-    </li>
-    <hr>
+    </article>
   {% endfor %}
-</ul>
+</section>

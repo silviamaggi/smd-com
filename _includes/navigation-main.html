@@ -1,4 +1,4 @@
-<nav class="navigation navigation-main" aria-label="primary">
+<nav class="navigation navigation-main" role="navigation" aria-label="Primary">
   {% for item in site.data.nav-site -%}
   <a href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
   {% endfor -%}
