@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+{%- include site-meta.html -%}
+{%- include seo.html -%}
+{%- include favicons.html -%}
+</head>
+<body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}">
+{{ content }}
+</body>
+</html>

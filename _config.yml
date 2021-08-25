@@ -47,6 +47,9 @@ collections:
   sideprojects:
     output: true
     permalink: /portfolio/:path/
+  jeremybearimies:
+    output: true
+    permalink: /jeremybearimy/:path/
 
 jekyll-archives:
   enabled:

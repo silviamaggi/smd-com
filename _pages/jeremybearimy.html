@@ -1,0 +1,19 @@
+---
+layout: page
+title: Jeremy Bearimy
+description: This is Jeremy Bearimy.
+permalink: /jeremybearimy/
+---
+<h1>{{ page.title }}</h1>
+
+<p>This is a place where time flows differently. A place for <abbr title="Cascading Style Sheets">CSS</abbr> experiments and creativity.</p>
+
+<small>I borrowed the Jeremy Bearimy concept from <a href="https://www.imdb.com/title/tt4955642/" title="Read about the TV series on IMDb" target="_blank" rel="noopener">The Good Place</a></small>
+
+<hr>
+
+<div class="jeremy-bearimy">
+  {% for jeremybearimy in site.jeremybearimies %}
+  <a href="{{ jeremybearimy.url }}" title="Read: {{ jeremybearimy.title }}"><h3>{{ jeremybearimy.title }}</h3></a>
+  {% endfor %}
+</div>
