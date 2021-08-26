@@ -1,6 +1,6 @@
 ---
 title: At the beach
-last_modified_at: '2021-08-26T18:45:41.223Z'
+last_modified_at: '2021-08-26T20:49:10.440Z'
 featured-post: false
 categories:
   - Photography
@@ -18,7 +18,7 @@ In a couple of days, the Emilia-Romagna region is going to see stricter Covid-19
 
 Sun, mild temperatures, fresh air, face masks. It feels surreal, but it’s been almost a year.
 
-<!-- Gallery At the beach HERE-->
+{% include pattern-imagegallery.html folder="/assets/images/gallery-at-the-beach/thumb/" %}
 
 [Check my pictures on Flick](https://www.flickr.com/photos/silvia-m/){:target="_blank" rel="noopener"}.
 

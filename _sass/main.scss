@@ -47,6 +47,17 @@
   background-size: cover;
 }
 
+// Temp image gallery
+.image-gallery-picture {
+  display: block; 
+  float: left; 
+  margin-right: 1em;
+
+  p {
+    text-align: center;
+  }
+}
+
 // Archive pages (tags and categories)
 .archives {
   list-style-type: none;
