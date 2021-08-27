@@ -3,6 +3,7 @@
   {% if file.path contains include.folder %}
   {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
   {% assign filenameparts = file.path | split: "/" %}
+  {% if file.path contains 'thumb-' %}
   {% assign filename = filenameparts | last | replace: file.extname,"" | replace: '-',' ' %}
   <div class="image-gallery-picture">
     <a href="#" title="{{ filename }}">
@@ -10,6 +11,7 @@
       <p><small>{{ filename }}</small></p>
     </a>
   </div>
+  {% endif %}
   {% endif %}
   {% endif %}
   {% endfor %}
