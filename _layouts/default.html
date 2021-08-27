@@ -5,7 +5,11 @@
 <meta http-equiv="refresh" content="0;url='{{ page.redirection }}'" />
 {%- endif -%}
 {% include site-meta.html -%}
-<link rel="stylesheet" href="{{ site.url }}/assets/css/styles.css">
+{% if jekyll.environment == "production" %}
+<link rel="stylesheet" href="{{ site.url }}/assets/css/smd.min.css">
+{% else %}
+<link rel="stylesheet" href="{{ site.url }}/assets/css/smd.css">
+{% endif %}
 {%- include seo.html -%}
 {%- include site-favicons.html %}
 </head>

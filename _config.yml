@@ -20,7 +20,14 @@ brand:
   smd_pitch: A UX Designer striving to create meaningful digital experiences through User-Centred Design.
   smd_latestposts_limit: 4
 
-exclude: ["README.md"]
+exclude: 
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - build
+  - js
+  - sass
 include: ["_pages"]
 
 # Defaults

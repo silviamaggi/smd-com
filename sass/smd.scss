@@ -1,0 +1,98 @@
+/*!
+ * Custom SCSS, based on Bootstrap
+ * No copyright 2021 - Silvia Maggi
+ */
+
+// ------------------------------------------------ \\
+// $REQUIRED functions
+// ------------------------------------------------ //
+@import "bootstrap/functions";
+
+// ------------------------------------------------ \\
+// $CUSTOM VARIABLE OVERRIDES
+// ------------------------------------------------ //
+$primary: blue;
+$secondary: pink;
+$nav-link-color: tint-color($secondary, 14%);
+$nav-link-hover-color: white;
+$nav-link-padding-x: 0.5rem;
+$nav-pills-link-active-bg: shade-color($primary, 10%);
+$font-weight-black: 900;
+
+// ------------------------------------------------ \\
+// $REQUIRED Bootstrap
+// ------------------------------------------------ //
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/utilities";
+
+// ------------------------------------------------ \\
+// $CUSTOM - Colors
+// ------------------------------------------------ //
+// Remove default colors
+$theme-colors: map-remove($theme-colors, "success", "info", "warning", "danger", "dark");
+// Colors map
+// $custom-colors: (
+//   "nsd-primary":#c52525
+// );
+// // Merge the maps
+// $theme-colors: map-merge($theme-colors, $custom-colors);
+// $HELP - Tint or shade to mix colors w/ white or black
+// color: tint-color($primary, 10%);
+// color: shade-color($danger, 30%);
+
+// ------------------------------------------------ \\
+// $CUSTOM - Variables
+// ------------------------------------------------ //
+$initialism-font-size: $font-size-base;
+$letter-spacing-wide-1: 1px;
+$letter-spacing-wide-2: 2px;
+$letter-spacing-shrink: -1px;
+
+// ------------------------------------------------ \\
+// $OPTIONAL Bootstrap components
+// ------------------------------------------------ //
+// Layout & components
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/type";
+@import "bootstrap/images";
+@import "bootstrap/containers";
+@import "bootstrap/grid";
+@import "bootstrap/tables";
+@import "bootstrap/forms";
+@import "bootstrap/buttons";
+@import "bootstrap/transitions";
+@import "bootstrap/dropdown";
+@import "bootstrap/button-group";
+@import "bootstrap/nav";
+@import "bootstrap/navbar";
+@import "bootstrap/card";
+@import "bootstrap/accordion";
+@import "bootstrap/breadcrumb";
+@import "bootstrap/pagination";
+@import "bootstrap/badge";
+@import "bootstrap/alert";
+@import "bootstrap/progress";
+@import "bootstrap/list-group";
+@import "bootstrap/close";
+@import "bootstrap/toasts";
+@import "bootstrap/modal";
+@import "bootstrap/tooltip";
+@import "bootstrap/popover";
+@import "bootstrap/carousel";
+@import "bootstrap/spinners";
+@import "bootstrap/offcanvas";
+
+// Helpers
+@import "bootstrap/helpers";
+
+// Utilities
+@import "bootstrap/utilities/api";
+
+// ------------------------------------------------ \\
+// $CUSTOM additional code
+// ------------------------------------------------ //
+@import "smd-functions";
+@import "smd-mixins";
+@import "smd-theme";
