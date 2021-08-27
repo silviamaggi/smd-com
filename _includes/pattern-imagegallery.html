@@ -7,7 +7,7 @@
   {% assign filename = filenameparts | last | replace: file.extname,"" | replace: 'thumb', '' | replace: '-',' ' %}
   <div class="image-gallery-picture">
     <a href="#" title="{{ filename }}">
-      <img src="{{ file.path | relative_url }}" alt="{{ filename }}" title="{{ filename }}" />
+      <img loading="lazy" src="{{ file.path | relative_url }}" alt="{{ filename }}" title="{{ filename }}">
       <p><small>{{ filename }}</small></p>
     </a>
   </div>
