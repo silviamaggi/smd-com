@@ -1,6 +1,6 @@
 ---
 title: Because We Can Exhibition at Festival Pil’Ours
-last_modified_at:
+last_modified_at: '2021-08-27T12:22:12.094Z'
 featured-post: false
 categories:
   - Photography
@@ -8,7 +8,7 @@ tags:
   - photography
   - exhibition
   - france
-description: I’m presenting three pictures at the Because We Can! exhibition by Shutter Hub, part of Festival Pil’Ours.
+description: 'I’m presenting three pictures at the Because We Can! exhibition by Shutter Hub, part of Festival Pil’Ours.'
 featured-image: feat-jayne_180718_7765-header.jpg
 redirect_from:
   - /because-we-can-shutter-hub-exhibition-festival-pilours/
@@ -27,9 +27,7 @@ It is with great excitement that I can say three of my pictures are part of the 
 
 ### My entries
 
-![You had blonde hair by Silvia Maggi](/assets/images/silvia-maggi_you-had-blonde-hair.jpg)
-![Make a wish by Silvia Maggi](/assets/images/silvia-maggi_make-a-wish.jpg)
-![Tell me a goonight story by Silvia Maggi](/assets/images/silvia-maggi_tell-me-a-goodnight-story.jpg)
+{% include pattern-imagegallery.html folder="/assets/images/gallery-because-we-can-exhibition/" %}
 
 Read more about the exhibition on the [Shutter Hub blog](https://shutterhub.org.uk/because-we-can-exhibition-launch-and-photos/){:target="_blank" rel="noopener"}.
 

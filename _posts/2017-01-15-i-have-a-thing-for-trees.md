@@ -1,6 +1,6 @@
 ---
 title: I have a thing for trees
-last_modified_at:
+last_modified_at: '2021-08-27T13:46:38.404Z'
 featured-post: false
 categories:
   - Photography
@@ -9,8 +9,8 @@ tags:
   - cambridge
   - germany
   - uk
-description: Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo.
-excerpt: Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo.
+description: "Trees are fascinating and elegant, no matter the season. They can easily\_set\_the mood\_of a photo."
+excerpt: "Going through last year's photos, I found quite a few of them have trees as a subject.\_Trees are fascinating and elegant, no matter the season. They can easily\_set\_the mood\_of a photo."
 featured-image: feat-201701-angleseyabbey_2366.jpg
 ---
 <!-- =================== CHECK THE FOLLOWING LINK! -->
@@ -25,16 +25,8 @@ After that, it took me some time to organise and process the work I came back w
 
 Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can set the mood of a photo.
 
-<!-- =================== CHECK THE FOLLOWING GALLERY! -->
-
-![Something’s brewing – Cambridge](/assets/images/20160326-img_2505.jpg)
-![Golden droplets – Cambridge](/assets/images/20160326-img_2548.jpg)
-![Reflections – Anglesey Abbey](/assets/images/20160319-img_2422.jpg)
+{% include pattern-imagegallery.html folder="/assets/images/gallery-trees/gallery-1/" %}
 
 Some are more striking than others, like the ones at [Sachsenhausen Concentration Camp](http://www.stiftung-bg.de/gums/en/){:target="_blank" rel="noopener"}. They're beautiful figures in a former place of terror and death, and probably their falling leaves and autumnal aspect contributed to the disturbing atmosphere.
 
-<!-- =================== CHECK THE FOLLOWING GALLERY! -->
-
-![The Entrance, Sachsenhausen Concentration Camp – Oranienburg, Germany](/assets/images/20161122-img_3923.jpg)
-![Autumnal Tree, Sachsenhausen Concentration Camp – Oranienburg, Germany](/assets/images/20161122-img_3973.jpg)
-![Autumnal Tree, Sachsenhausen Concentration Camp – Oranienburg, Germany](/assets/images/20161122-img_3974.jpg)
+{% include pattern-imagegallery.html folder="/assets/images/gallery-trees/gallery-2/" %}

@@ -1,6 +1,6 @@
 ---
 title: Today I saw
-last_modified_at:
+last_modified_at: '2021-08-27T12:04:08.385Z'
 featured-post: false
 categories:
   - Photography
@@ -10,7 +10,7 @@ tags:
   - personal
   - social media
   - uk
-description: With the intent of staying away from social media, I started "Today I Saw", a series where I post one photo and a few thoughts about it.
+description: 'With the intent of staying away from social media, I started "Today I Saw", a series where I post one photo and a few thoughts about it.'
 featured-image: feat-today-i-saw-silviamaggi.jpg
 redirect_from:
   - /today-i-saw/today-i-saw/

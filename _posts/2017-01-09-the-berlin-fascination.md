@@ -1,6 +1,6 @@
 ---
 title: The Berlin fascination
-last_modified_at:
+last_modified_at: '2021-08-27T13:51:20.704Z'
 featured-post: false
 categories:
   - Photography
@@ -9,8 +9,8 @@ tags:
   - berlin
   - germany
   - travel
-description: Berlin is well known for being a fresh ever-changing city. By walking around, you see it's headed somewhere. Only, the destination is unknown and nobody is running.
-excerpt: Berlin is well known for being a fresh ever-changing city. By walking around, you see it's headed somewhere. Only, the destination is unknown and nobody is running.
+description: 'By walking around Berlin, you see it''s headed somewhere. Only, the destination is unknown and nobody is running.'
+excerpt: "Berlin is well known for being a fresh ever-changing city. By walking around, you see\_it's headed\_somewhere. Only, the destination is unknown and nobody is running."
 featured-image: feat_berlin_4132.jpg
 ---
 Watching the documentary [“David Bowie: The Last Five Years”](http://www.bbc.co.uk/iplayer/episode/b088ktm6/david-bowie-the-last-five-years){:target="_blank" rel="noopener"} the other night, I realised there still were two excellent albums for me to discover. I somehow lost _The Next Day_––which, I was sure, I bought and saved it somewhere––and, knowing it was supposed to be his parting gift, I’ve never been able to fully listen to _Blackstar_.
@@ -34,9 +34,4 @@ Changes and renovations didn’t erase the memories of Berlin’s history and le
 Stories and facts are still discussed, and passed on to the younger generations. We even participated in a fascinating talk at the hotel we stayed.
 
 I can’t put into words what I like so much about Berlin; probably I’ll figure it out one day.
-
-![A building from another country in Brunnenstraße](/assets/images/20161121-berlin-img_3801.jpg)
-![Detail of Wall at Berlin Wall Memorial](/assets/images/20161121-berlin-img_3812.jpg)
-![Sections of Wall at Berlin Wall Memorial](/assets/images/20161121-berlin-img_3827.jpg)
-![Sections of Wall at Berlin Wall Memorial](/assets/images/20161121-berlin-img_3815.jpg)
-![Memorial to the Murdered Jews of Europe](/assets/images/20161121-berlin-img_3863.jpg)
+{% include pattern-imagegallery.html folder="/assets/images/gallery-berlin-fascination/" %}

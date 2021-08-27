@@ -1,6 +1,6 @@
 ---
-title: Design, Digested 3. Language, mobile approach and responsive design at 10
-last_modified_at: 
+title: 'Design, Digested 3. Responsive design at 10'
+last_modified_at: '2021-08-27T12:00:54.385Z'
 featured-post: false
 categories:
   - Design Digested
@@ -9,10 +9,10 @@ tags:
   - books
   - responsive web design
   - usability
-description: Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.
-excerpt: Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.
+description: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'
+excerpt: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'
 featured-image: feat-design-digested-3.jpg
-permalink: /design-digested/:title/
+permalink: '/design-digested/:title/'
 redirect_from:
   - /books/design-digested-3-language-mobile-approach-responsive-design-at-ten/
   - /books/responsive-design-at-ten/

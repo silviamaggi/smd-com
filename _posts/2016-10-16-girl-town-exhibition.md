@@ -1,5 +1,5 @@
 ---
-title: GIRL TOWN Exhibition – Celebrating the culture of the female in the 21st century
+title: GIRL TOWN Exhibition
 last_modified_at: '2021-08-25T22:38:14.078Z'
 featured-post: false
 categories:
