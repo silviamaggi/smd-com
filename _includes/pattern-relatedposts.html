@@ -24,7 +24,7 @@
   {% if sameTagCount >= minCommonTags %}
   <article class="related-post">
     <h5><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h5>
-    <img src="{{ site.url }}/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" title="{{ post.title }}" width="200" height="200">
+    <img loading="lazy" src="{{ site.url }}/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" title="{{ post.title }}" width="200" height="200">
     {{ post.excerpt }}
   </article>
 

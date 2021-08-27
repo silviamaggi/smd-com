@@ -6,7 +6,7 @@
 
   {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
   <div class="latest-post">
-    <img src="{{ site.url }}/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="150" height="150">
+    <img loading="lazy" src="{{ site.url }}/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="150" height="150">
     <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
     <div class="post-meta">
       <p>{% include post-meta.html %}&nbsp;&ndash;&nbsp;{% include pattern-readingtime.html content=post.content %}</p>
