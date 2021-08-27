@@ -1,5 +1,5 @@
 ---
-title: Design, Digested 10. Inclusive design, problematic social media
+title: Design, Digested 10. Inclusive design
 last_modified_at:
 featured-post: false
 categories:

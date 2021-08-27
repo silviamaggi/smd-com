@@ -1,6 +1,6 @@
 ---
 title: Photography rut and little things in my garden
-last_modified_at: 
+last_modified_at: '2021-08-27T13:28:21.561Z'
 featured-post: false
 categories:
   - Photography
@@ -8,8 +8,8 @@ tags:
   - photography
   - cambridge
   - uk
-description: Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.
-excerpt: Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.
+description: 'Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.'
+excerpt: 'Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.'
 featured-image: feat-20170319-img_4269.jpg
 redirect_from:
   - /creativity/photography-rut-and-little-things-in-my-garden/
@@ -33,12 +33,7 @@ To try to get out of it, I’m bringing the camera with me at work. This alone d
 
 So today I equipped my camera with a delightful Helios-44M lens, pointed it to the small things in my garden, and saw beautiful colours.
 
-![Bamboo](/assets/images/20170319-img_4275.jpg)
-![Daffoldil](/assets/images/20170319-img_4273.jpg)
-![Rosemary](/assets/images/20170319-img_4267.jpg)
-![Red leaves](/assets/images/20170319-img_4268.jpg)
-![Daffoldils](/assets/images/20170319-img_4277.jpg)
-![Berries](/assets/images/20170319-img_4286.jpg)
+{% include pattern-imagegallery.html folder="/assets/images/gallery-photography-rut/" %}
 
 A change of scenery might get me out of the photography rut.
 

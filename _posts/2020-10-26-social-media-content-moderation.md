@@ -1,5 +1,5 @@
 ---
-title: Design, Digested 12. Social media content moderation issues and complicated products
+title: Design, Digested 12. Social media content moderation issues
 last_modified_at:
 featured-post: false
 categories:

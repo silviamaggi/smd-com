@@ -1,6 +1,6 @@
 ---
-title: Design, Digested 4. Black women in UX, how to foster creativity and an unimpressed Bowie
-last_modified_at: 
+title: 'Design, Digested 4. Black women in UX, foster creativity'
+last_modified_at: '2021-08-27T12:01:25.740Z'
 featured-post: false
 categories:
   - Design Digested
@@ -9,10 +9,10 @@ tags:
   - creativity
   - facial recognition
   - ux
-description: Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.
-excerpt: Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.
+description: 'Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.'
+excerpt: 'Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.'
 featured-image: feat-design-digested-4.jpg
-permalink: /design-digested/:title/
+permalink: '/design-digested/:title/'
 redirect_from:
   - /creativity/design-digested-4-black-women-in-ux-foster-creativity-bowie-scolded-mtv/
   - /creativity/design-digested-4-black-women-in-ux-foster-creativity-unimpressed-bowie/

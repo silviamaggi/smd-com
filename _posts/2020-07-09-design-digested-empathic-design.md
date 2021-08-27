@@ -1,6 +1,6 @@
 ---
-title: Design, Digested 6. Anti-Racist lessons, empathic design and the misogyny of the workforce
-last_modified_at: 
+title: 'Design, Digested 6. Anti-Racism, misogyny of the workforce'
+last_modified_at: '2021-08-27T12:02:01.094Z'
 featured-post: false
 categories:
   - Design Digested
@@ -10,9 +10,9 @@ tags:
   - empathy
   - videogames
   - ux
-description: Design inspiration series. Four anti-racist lessons, problems with empathic design and the misogyny of the workforce.
+description: 'Design inspiration series. Four anti-racist lessons, problems with empathic design and the misogyny of the workforce.'
 featured-image: feat-design-digested-6.jpg
-permalink: /design-digested/:title/
+permalink: '/design-digested/:title/'
 redirect_from:
   - /design/design-digested-6-anti-racist-lessons-empathic-design-misogyny-of-the-workforce/
   - /design/design-digested-empathic-design/

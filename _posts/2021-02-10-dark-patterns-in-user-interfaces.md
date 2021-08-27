@@ -10,7 +10,7 @@ tags:
   - ethical design
   - privacy
   - ux
-description: As the line between encouraging people to use a product and tricking them is thinner than ever, I share a compelling article about dark patterns in UI to help you recognise them.
+description: I share a compelling article about dark patterns in UI to help you recognise them.
 featured-image: feat-design-digested-16.jpg
 permalink: /design-digested/:title/
 redirect_from:

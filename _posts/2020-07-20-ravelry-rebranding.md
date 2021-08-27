@@ -1,6 +1,6 @@
 ---
 title: How Rebranding cost Ravelry the trust of their community
-last_modified_at: 
+last_modified_at: '2021-08-27T12:03:16.207Z'
 featured-post: true
 categories:
   - Design
@@ -9,9 +9,9 @@ tags:
   - inclusion
   - ravelry
   - ux
-description: Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several usersadverse side effects from browsing the site. Let's explore what went wrong.
+description: Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.
 featured-image: feat-ravelry-rebranding.jpg
-permalink: /design/:title/
+permalink: '/design/:title/'
 redirect_from:
   - /2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/
   - /design/how-rebranding-cost-ravelry-the-trust-of-their-community/
