@@ -12,7 +12,7 @@ redirect_from:
   <h1>{{ page.title }}</h1>
   {% for post in paginator.posts %}
   <div class="blogroll-post">
-    <img src="/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="150" height="150">
+    <img loading="lazy" src="{{ site.url }}/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="150" height="150">
     <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
     {%- assign categories = post.categories %}
     <p class="post-meta">

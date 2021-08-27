@@ -177,7 +177,7 @@ Caption: App visual design and flow in Figma
 
 ## Prototype
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2F2UOI7kiE7NHy3jpxTwmbXx%2FAcclimatize.me-App%3Fnode-id%3D221%253A499" allowfullscreen=""></iframe>
+<iframe loading="lazy" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2F2UOI7kiE7NHy3jpxTwmbXx%2FAcclimatize.me-App%3Fnode-id%3D221%253A499" allowfullscreen=""></iframe>
 
 
 
