@@ -2,8 +2,8 @@
 layout: post
 title: Acquisition Landing Pages and Forms
 featured-post: true
-date: 2021-04-13 16:05:42
-last_modified_at:
+date: 2021-04-13T16:05:42.000Z
+last_modified_at: '2021-08-27T14:30:34.332Z'
 description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 excerpt: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
@@ -22,18 +22,6 @@ Within a single codebase, we **created custom experiences** for smartphone, tabl
 ## My role
 
 **I led the project and worked on the UX and final designs**. My two colleagues at UI Farm provided valuable feedback, collaborating to devise the best content strategy. Their expertise completed the project with state-of-the-art frontend and backend development.
-
-## Sneak peek: the process in pictures
-
-### (Gallery)
-![Landing page final design, desktop](/assets/images/unicredit-landing-final_desktop.png)
-![Forms final design, desktop](/assets/images/unicredit-acquisition-forms_desktop.png)
-![Eager Marco journey map](/assets/images/customer-journey-map_marco_small.png)
-![Content analysis](/assets/images/unicredit-content-analysis_full.png)
-![Form flow](/assets/images/unicredit-forms-flow_2_small.jpg)
-![Landing page, desktop wireframes](/assets/images/unicredit-landingpages-wireframes_desktop.jpg)
-
-Continue reading to know the _how_, _why_, and see more.
 
 {% include toc.md %}
 
@@ -89,9 +77,11 @@ A UniCredit client with growing curiosity about internet banking, despite online
 
 The customer journey maps follow the actions the personas take to reach their goals. I chose them over user flows because they **highlight thoughts and emotions**, useful to identify a journey’s pain points.
 
-![Eager Marco journey map](/assets/images/customer-journey-map_marco.png)
-![Inquisitive Elisa journey map](/assets/images/customer-journey-map_elisa.png)
-![Cautious Giulio journey map](/assets/images/customer-journey-map_giulio.png)
+{% include pattern-figure.html image="/assets/images/customer-journey-map_marco.png" caption="Eager Marco customer journey map" width="1754" height="1150" %}
+
+{% include pattern-figure.html image="/assets/images/customer-journey-map_elisa.png" caption="Inquisitive Elisa customer journey map" width="1920" height="1130" %}
+
+{% include pattern-figure.html image="/assets/images/customer-journey-map_giulio.png" caption="Cautious Giulio customer journey map" width="1754" height="1142" %}
 
 ## Content analysis
 
@@ -176,8 +166,9 @@ After UniCredit signed off a modified proposal, I proceeded to prepare the wiref
 * At UniCredit’s request, each block contains the Calls to Actions. The product PDF is visible in one place only, between the product features and the process steps.
 * Tapping the free number will initiate a phone call to the support team, thanks to **the adaptive capabilities of our framework**.
 
-![Landing page, mobile wireframes](/assets/images/unicredit-landingpages-mobile.png)
-![Landing page, desktop wireframes](/assets/images/unicredit-landingpages-wireframes_desktop.jpg)
+{% include pattern-figure.html image="/assets/images/unicredit-landingpages-mobile.png" caption="UniCredit landing pages wireframes mobile" width="84" height="735" %}
+
+{% include pattern-figure.html image="/assets/images/unicredit-landingpages-wireframes_desktop.jpg" caption="UniCredit landing pages wireframes desktop" width="368" height="1024" %}
 
 > My colleagues and I wanted the work for UniCredit to be something to be proud of for years to come.
 
@@ -189,10 +180,9 @@ We sat down together to find a solution that was technically feasible, elegant, 
 
 The solution, which UniCredit approved, is a dynamic sticky header.
 
-![On mobile with Call to Actions](/assets/images/mobile-sticky-header-CTAs.png)
-![On mobile with free number button](/assets/images/mobile-sticky-header-free-number.png)
-![On tablet](/assets/images/tablet-sticky-header-cta.png)
-![On desktop](/assets/images/desktop-sticky-header.png)
+{% include pattern-figure.html image="/assets/images/mobile-sticky-header-CTAs.png" caption="On mobile with Call to Actions" width="640" height="1308" %}
+
+{% include pattern-figure.html image="/assets/images/mobile-sticky-header-free-number.png" caption="On mobile with free number button" width="640" height="988" %}
 
 When the Call to Actions are visible in the page, the sticky header shows the Free number button instead.
 
@@ -206,13 +196,13 @@ When users click on the Call to Action _Request it online_, they land on the Uni
 
 On a landing page, click on _Request it online_, wait to receive an email from UniCredit. This choice works as security verification.
 
-![Form flow, first interaction](/assets/images/unicredit-forms-flow_1.jpg)
+{% include pattern-figure.html image="/assets/images/unicredit-forms-flow_1.jpg" caption="Form flow, first interaction" width="2560" height="947" %}
 
 #### Form flow
 
 Click on the link received via email and start the request process.
 
-![Form flow](/assets/images/unicredit-forms-flow_2.jpg)
+{% include pattern-figure.html image="/assets/images/unicredit-forms-flow_2.jpg" caption="Form flow" width="2560" height="820" %}
 
 ### Wireframes
 
@@ -222,7 +212,7 @@ We applied the same principles to the forms, except we couldn’t implement the 
 
 Of great importance is the the lock icon at the top right: together with the browser icon for secure connections, it will reassure users this is a safe procedure.
 
-![Forms wireframes, mobile](/assets/images/unicredit-forms-wireframes_mobile.png)
+{% include pattern-figure.html image="/assets/images/unicredit-forms-wireframes_mobile.png" caption="Forms wireframes, mobile" width="79" height="736" %}
 
 ## Final result
 
