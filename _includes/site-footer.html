@@ -6,8 +6,9 @@
   </div>
 </footer>
 <script type="text/javascript" src="{{ site.url }}/assets/js/bootstrap.min.js"></script>
-{% if page.url contains 'search' %}
+{% if page.url contains 'search' or page.url contains '404.html' %}
 <script type="text/javascript" src="{{ site.url }}/assets/js/fetch.js" }}"></script>
 <script type="text/javascript" src="{{ site.url }}/assets/js/search.js" }}"></script>
 <script type="text/javascript" src="{{ site.url }}/assets/js/smd-search.js" }}"></script>
+<noscript>Please enable JavaScript to use the search form.</noscript>
 {% endif %}

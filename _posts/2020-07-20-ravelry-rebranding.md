@@ -50,7 +50,7 @@ But what happened in 2013 when Apple released [iOS 7](http://www.theguardian.com
 
 The Epilepsy Foundation of America issued a **warning** and indicated what might be the **trigger** to the seizures. Follow the thread on Twitter:
 
-https://twitter.com/EpilepsyFdn/status/1278735302622875648?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1278735302622875648%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fsilviamaggidesign.com%2Fdesign%2Fravelry-rebranding%2F
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Members of our epilepsy community have expressed concerns about content on knitting &amp; crocheting community Ravelry. From what we understand, Ravelry recently made changes to their user interface which, according to some users, may be affecting people w/photosensitivity. [1/6] <a href="https://t.co/nCVTcr2fi8">pic.twitter.com/nCVTcr2fi8</a></p>&mdash; Epilepsy Foundation of America (@EpilepsyFdn) <a href="https://twitter.com/EpilepsyFdn/status/1278735302622875648?ref_src=twsrc%5Etfw">July 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## The design
 

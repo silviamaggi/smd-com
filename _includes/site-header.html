@@ -1,9 +1,11 @@
-<header class="site-header">
+<header class="site-header sticky-md-top">
   <div class="container">
     {% include site-logo.html %}
     {%- include navigation-main.html %}
     {%- include navigation-social.html %}
     {%- include pattern-newsletter-sub.html %}
+    {%- if page.id -%}{%- unless page.url contains "portfolio" -%}
     {%- include pattern-buymeacoffee.html %}
+    {%- endunless -%}{%- endif -%}
   </div>
 </header>
