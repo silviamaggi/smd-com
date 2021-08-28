@@ -91,6 +91,7 @@
     "url": "https://opencollective.com/bootstrap"
   },
   "dependencies": {
+    "jekyll": "^3.0.0-beta1",
     "purgecss": "^4.0.3"
   },
   "peerDependencies": {
