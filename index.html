@@ -6,12 +6,24 @@ redirect_from:
   - /it/
 ---
 <section class="intro">
-  {% include pattern-avatar.html alt="Silvia Maggi portrait" width="120" height="120" %}
-  <h1>{{ site.brand.smd_tagline }}</h1>
-  <h2>{{ site.brand.smd_pitch }}</h2>
+  <div class="container">
+    <div class="row">
+      <div class="col-9 mx-auto pt-5 pb-3">
+        <div class="container">
+          <div class="row">
+            <h1 class="text-center text-white mb-4 smd-text-rotate"><span class="bg-dark px-3 py-2">{{ site.brand.smd_tagline }}</span></h1>
+            <div class="col-3">
+              {% include pattern-avatar.html alt="Silvia Maggi portrait" width="120" height="120" %}
+            </div>
+            <div class="col-9">
+              <h2>{{ site.brand.smd_pitch }}</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
-
-<hr class="clearfix">
 
 {% include pattern-featured-posts.html %}
 {% include pattern-latest-posts.html %}

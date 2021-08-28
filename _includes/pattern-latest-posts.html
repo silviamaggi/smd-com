@@ -1,25 +1,34 @@
 <section class="latest-posts">
 
-  <h3>Latest Posts</h3>
+  <h3 class="text-center my-4">Latest Posts</h3>
 
   {%- assign recentPosts = site.posts -%}
 
-  {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
-  <div class="latest-post">
-    <img loading="lazy" src="{{ site.url }}/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="150" height="150">
-    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-    <div class="post-meta">
-      <p>{% include post-meta.html %}&nbsp;&ndash;&nbsp;{% include pattern-readingtime.html content=post.content %}</p>
+  <div class="container">
+    <div class="row g-3">
+      {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
+      <div class="col-6">
+        <div class="latest-post">
+          <div class="row">
+            <div class="col-3">
+              <img loading="lazy" src="{{ site.url }}/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="120" height="120">
+            </div>
+            <div class="col-9 ps-4">
+              <h4><a class="text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></h4>
+              <div class="post-meta">
+                <p>{% include post-meta.html %}&nbsp;&ndash;&nbsp;{% include pattern-readingtime.html content=post.content %}</p>
+                <p class="latest-post-excerpt">{{ post.excerpt | markdownify | strip_html }}</p>
+                <div><a href="{{ post.url }}" title="Read the entire post">Read more</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor -%}
     </div>
-    <p class="latest-post-excerpt">{{ post.excerpt | markdownify | strip_html }}</p>
-    <div><a class="button" href="{{ post.url }}" title="Read the entire post">Read more</a></div>
+    <div class="my-5 text-center">
+      <a class="btn btn-primary btn-lg" href="{{ site.data.nav-site[2].link }}" title="Check out all the articles">Read all the articles</a>
+    </div>
   </div>
-  <hr>
-  {% endfor -%}
-  <div class="button-readmore">
-    <a class="button" href="{{ site.data.nav-site[2].link }}" title="Check out all the articles">Read all the articles</a>
-  </div>
-
-  <hr>
 
 </section>

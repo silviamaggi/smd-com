@@ -14,10 +14,18 @@
 {%- include site-favicons.html %}
 </head>
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
-{% include site-header.html %}
-<main>
-{{ content }}
-</main>
+  <main>
+    <div class="container">
+      <div class="row">
+        <div class="col-3">
+          {% include site-header.html %}
+        </div>
+        <div class="col-9">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </main>
 {%- include site-footer.html -%}
 </body>
 </html>
