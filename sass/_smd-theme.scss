@@ -1,3 +1,13 @@
+html {
+  background-color: #FEFCFA;
+  border: 1rem solid #fff;
+}
+
+body {
+  background: url('/assets/images/smd-bg-texture.jpg') no-repeat bottom left;
+  background-size: 100% auto;
+}
+
 .smd-text-rotate {
   transform: rotate(359deg);
 }
@@ -103,7 +113,6 @@
   clear: both;
   padding: 12px 0;
   margin-top: 24px;
-  background-color: #f5f5f5;
 
   .container {
     text-align: left; // <======================= TEMPORARY
