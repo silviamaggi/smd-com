@@ -4,7 +4,7 @@ html {
   border: 1rem solid #fff;
 }
 body {
-  background: url('/assets/images/smd-bg-texture.jpg') no-repeat bottom left;
+  background: url('/assets/images/smd-bg-texture.jpg') no-repeat fixed bottom left;
   background-size: 100% auto;
   min-height: calc(100vh - 2rem);
 }
@@ -21,22 +21,37 @@ body {
   transform: rotate(359deg);
 }
 
-.smd-btn-link {
-  position: relative;
-  text-decoration: none;
-  border-bottom: 2px solid rgb(163, 163, 238);
-
-  &::before {
-    height: 4px;
-    position: absolute;
-    background: turquoise;
-    content: "";
-    width: 100%;
-    bottom: -3px;
-    z-index: -1;
-    transition: transform 0.1s ease 0s;
-    transform: skew(20deg) rotate(-1.64deg) scaleX(1);
+// Single post navigation
+.previous-next-post-links {
+  a {
+    border-bottom: none;
+    background-color: #f6f6f6;
+    &:hover {
+      background-color: #ccc;
+    }
   }
+}
+
+// Images
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+// iframe
+.iframe-container {
+  overflow: hidden;
+  /* 16:9 aspect ratio */
+  padding-top: 56.25%;
+  position: relative;
+}
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
 }
 
 // Adjust to breakpoints <========================

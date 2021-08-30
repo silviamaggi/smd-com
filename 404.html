@@ -11,8 +11,10 @@ permalink: /404.html
 
 <h1>{{ page.title }}</h1>
 
-{% include pattern-figure.html image="/assets/images/404-vincent.png" alt="Vincent Vega confused" width="450" height="340" %}
+<p class="lead">There seems to be nothing here.</p>  
 
-<p>There seems to be nothing here. You can go back to the <a href="{{ site.url }}/" title="go back to the Homepage">Homepage</a>, or search for something using the form below.</p>
+<img class="img-fluid d-block mx-auto my-4" src="{{ site.url }}/assets/images/404-vincent.png" alt="Vincent Vega confused" width="450" height="340">
+
+<p>You can go back to the <a href="{{ site.url }}/" title="go back to the Homepage">Homepage</a>, or search for something using the form below.</p>
 
 {% include pattern-search.html %}

@@ -1,12 +1,23 @@
-<div class="previous-next-post-links">
-  <div class="post-navigation container-previous-post">
-    {% if page.previous.url %}{% unless page.previous.hidden %}
-    <a class="arrow arrow-left" href="{{ site.url }}{{ page.previous.url }}">&larr;&nbsp;{{ page.previous.title }}</a>
-    {% endunless %}{% endif %}
+<div class="previous-next-post-links mt-5">
+
+  <div class="row justify-content-between align-items-center flex-wrap">
+
+    <div class="d-flex col-6 post-navigation">
+      {% if page.previous.url %}{% unless page.previous.hidden %}
+      <a class="py-3 text-decoration-none" href="{{ site.url }}{{ page.previous.url }}"><span class="px-3"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-square" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm11.5 5.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/>
+      </svg>&nbsp;{{ page.previous.title }}</span></a>
+      {% endunless %}{% endif %}
+    </div>
+
+    <div class="d-flex col-6 post-navigation justify-content-end">
+      {% if page.next.url %}{% unless page.next.hidden %}
+      <a class="py-3 text-end text-decoration-none" href="{{ site.url }}{{ page.next.url }}"><span class="px-3">{{ page.next.title }}&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-square" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm4.5 5.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/>
+      </svg></span></a>
+      {% endunless %}{% endif %}
+    </div>
+
   </div>
-  <div class="post-navigation container-next-post">
-    {% if page.next.url %}{% unless page.next.hidden %}
-    <a class="arrow arrow-right" href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }}&nbsp;&rarr;</a>
-    {% endunless %}{% endif %}
-  </div>
+
 </div>

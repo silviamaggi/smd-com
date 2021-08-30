@@ -24,7 +24,7 @@
   {% if sameTagCount >= minCommonTags %}
   <article class="related-post my-4">
     <h5><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h5>
-    {{ post.excerpt }}
+    <div class="small">{{ post.excerpt }}</div>
   </article>
 
   {%- assign maxRelatedCounter = maxRelatedCounter | plus: 1 -%}

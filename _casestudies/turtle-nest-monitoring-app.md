@@ -2,8 +2,8 @@
 layout: post
 title: Turtle nest monitoring app
 featured-post: false
-date: 2021-08-09 18:14:09
-last_modified_at:
+date: 2021-08-09T18:14:09.000Z
+last_modified_at: '2021-08-30T21:12:46.289Z'
 description: Scientists need to monitor turtle nests and record their status to measure the effectiveness of strategies to protect the aquatic megafauna and their habitats.
 excerpt: Scientists need to monitor turtle nests and record their status to measure the effectiveness of strategies to protect the aquatic megafauna and their habitats.
 featured-image: feat-turtle-nest-monitoring-app-featured-img.jpg
@@ -62,4 +62,4 @@ After receiving the notification, the scientist can fill in the latest data reco
 
 ## Prototype
 
-<iframe loading="lazy" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FpNyDsJ0tQXauivuJeXJDc3%2FSIREN-Mobile-application-%E2%80%93-Exercise%3Fnode-id%3D2%253A2" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe loading="lazy" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FpNyDsJ0tQXauivuJeXJDc3%2FSIREN-Mobile-application-%E2%80%93-Exercise%3Fnode-id%3D2%253A2" allowfullscreen=""></iframe></div>

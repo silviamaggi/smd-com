@@ -1,6 +1,6 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2021-08-27T12:03:16.207Z'
+last_modified_at: '2021-08-30T20:48:48.127Z'
 featured-post: true
 categories:
   - Design
@@ -64,7 +64,9 @@ To avoid causing problems, I’ve created a [separate page](https://silviamaggid
 
 Finally, the newly redesigned icons have many **details** that get lost in the **small** rendering on the page: a 16px square that seems to be a code legacy. Thus, the icons are not conveying their true function, adding yet another **challenge**.
 
----As stated in a [blog post](https://blog.ravelry.com/the-story-of-the-new-look/){:target="_blank" rel="noopener"} published three days after the release, the team at Ravelry started the redesign in January 2019. The platform is **massive**: 800 pages that needed updating one by one. It’s a tremendous amount of work. Based on my understanding, they waited for all pages to be ready before starting to **test** the new design, a choice that **backfired**.
+---
+
+As stated in a [blog post](https://blog.ravelry.com/the-story-of-the-new-look/){:target="_blank" rel="noopener"} published three days after the release, the team at Ravelry started the redesign in January 2019. The platform is **massive**: 800 pages that needed updating one by one. It’s a tremendous amount of work. Based on my understanding, they waited for all pages to be ready before starting to **test** the new design, a choice that **backfired**.
 
 ## Advantages of early testing
 

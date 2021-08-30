@@ -17,9 +17,9 @@ function displayResults() {
   const resultsArray = findResults(this.value, pages);
   const html = resultsArray.map(item => {
     return `
-      <li class="list-result">
+      <li class="list-result my-4">
         <article class="article">
-          <h4><a href="${item.url}" title="Read ${item.title}">${item.title}</a></h4>
+          <h4><a class="text-decoration-none" href="${item.url}" title="Read ${item.title}">${item.title}</a></h4>
           <p>${item.excerpt}</p>
         </article>
       </li>`;

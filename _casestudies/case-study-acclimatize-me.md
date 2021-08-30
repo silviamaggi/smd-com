@@ -2,8 +2,8 @@
 layout: post
 title: Acclimatize.me. Notification app for travellers
 featured-post: true
-date: 2021-02-18 21:39:15
-last_modified_at:
+date: 2021-02-18T21:39:15.000Z
+last_modified_at: '2021-08-30T21:12:23.012Z'
 description: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
 excerpt: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
 featured-image: feat-acclimatize-case-study-featured-img.jpg
@@ -177,8 +177,7 @@ Caption: App visual design and flow in Figma
 
 ## Prototype
 
-<iframe loading="lazy" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2F2UOI7kiE7NHy3jpxTwmbXx%2FAcclimatize.me-App%3Fnode-id%3D221%253A499" allowfullscreen=""></iframe>
-
+<div class="iframe-container"><iframe loading="lazy" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2F2UOI7kiE7NHy3jpxTwmbXx%2FAcclimatize.me-App%3Fnode-id%3D221%253A499" allowfullscreen=""></iframe></div>
 
 
 
