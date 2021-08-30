@@ -6,7 +6,7 @@
   {% else %}
   {% assign categories = page.categories %}
   {% endif %}
-  <p>Categories: <strong>{% for category in categories %}<a href="{{ site.url }}/category/{{ category | slugify | append: '/' }}">{{ category | capitalize | replace:"-"," " }}</a>{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong></p>
+  <p class="small">Categories: <strong>{% for category in categories %}<a href="{{ site.url }}/category/{{ category | slugify | append: '/' }}">{{ category | capitalize | replace:"-"," " }}</a>{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong></p>
 </div>
 {% endunless %}
 {% comment %} --- Tags --- {% endcomment %}
@@ -17,6 +17,6 @@
   {% else %}
   {% assign tags = page.tags %}
   {% endif %}
-  <p>Tags: <small><strong>{% for tag in tags %}<a href="{{ site.url }}/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a>{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong></small></p>
+  <p class="small">Tags: <small><strong>{% for tag in tags %}<a href="{{ site.url }}/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a>{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</strong></small></p>
 </div>
 {% endunless %}
