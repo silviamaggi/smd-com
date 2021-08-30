@@ -1,34 +1,23 @@
-<section class="latest-posts">
+<section class="latest-posts mt-5">
 
   <h3 class="text-center my-4">Latest Posts</h3>
 
   {%- assign recentPosts = site.posts -%}
 
-  <div class="container">
-    <div class="row g-3">
-      {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
-      <div class="col-6">
-        <div class="latest-post">
-          <div class="row">
-            <div class="col-3">
-              <img loading="lazy" src="{{ site.url }}/assets/images/thumbs/thumb-{{ post.featured-image }}" alt="{{ post.title }}" width="120" height="120">
-            </div>
-            <div class="col-9 ps-4">
-              <h4><a class="text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></h4>
-              <div class="post-meta">
-                <p>{% include post-meta.html %}&nbsp;&ndash;&nbsp;{% include pattern-readingtime.html content=post.content %}</p>
-                <p class="latest-post-excerpt">{{ post.excerpt | markdownify | strip_html }}</p>
-                <div><a href="{{ post.url }}" title="Read the entire post">Read more</a></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      {% endfor -%}
+  {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
+  <div class="latest-post my-5">
+    <h4><a class="text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></h4>
+    <div class="post-meta">
+      <p class="small">{% include post-meta.html %}&nbsp;&ndash;&nbsp;{% include pattern-readingtime.html content=post.content %}</p>
+      <p class="latest-post-excerpt">{{ post.excerpt | markdownify | strip_html }}</p>
+      <div><a class="smd-btn-link" href="{{ post.url }}" title="Read the entire post">Read more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-right" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/>
+      </svg></a></div>
     </div>
-    <div class="my-5 text-center">
-      <a class="btn btn-primary btn-lg" href="{{ site.data.nav-site[2].link }}" title="Check out all the articles">Read all the articles</a>
-    </div>
+  </div>
+  {% endfor -%}
+  <div class="my-5 text-center">
+    <a class="btn btn-primary btn-lg" href="{{ site.data.nav-site[2].link }}" title="Check out all the articles">Read all the articles</a>
   </div>
 
 </section>
