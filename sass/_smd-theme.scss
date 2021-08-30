@@ -6,6 +6,7 @@ html {
 body {
   background: url('/assets/images/smd-bg-texture.jpg') no-repeat bottom left;
   background-size: 100% auto;
+  min-height: calc(100vh - 2rem);
 }
 
 // Tagline heading rotation
@@ -14,7 +15,13 @@ body {
 }
 
 
-// TO BE EVALUATED
+// Adjust to breakpoints <========================
+main {
+  min-height: calc(100vh - 2rem - 72px);
+}
+
+
+// TO BE EVALUATED ===================
 
 // Header
 .site-header {
