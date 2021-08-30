@@ -1,11 +1,14 @@
-<header class="site-header sticky-md-top">
-  <div class="container">
-    {% include site-logo.html %}
-    {%- include navigation-main.html %}
-    {%- include navigation-social.html %}
-    {%- include pattern-newsletter-sub.html %}
-    {%- if page.id -%}{%- unless page.url contains "portfolio" -%}
-    {%- include pattern-buymeacoffee.html %}
-    {%- endunless -%}{%- endif -%}
+<header class="site-header sticky-md-top px-2 py-4">
+  {% include site-logo.html %}
+  {% unless page.url contains "about" or page.title contains "homepage" %}
+  <div class="mini-tagline mt-3">
+    <p>{{ site.brand.smd_pitch }}</p>
   </div>
+  {% endunless %}
+  {%- include navigation-main.html %}
+  {%- include navigation-social.html %}
+  {%- include pattern-newsletter-sub.html %}
+  {%- if page.id -%}{%- unless page.url contains "portfolio" -%}
+  {%- include pattern-buymeacoffee.html %}
+  {%- endunless -%}{%- endif -%}
 </header>
