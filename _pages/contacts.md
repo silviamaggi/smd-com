@@ -2,7 +2,7 @@
 layout: page
 title: Contacts
 date: 2020-02-27T17:03:58.000Z
-last_modified_at: '2021-08-30T11:12:31.606Z'
+last_modified_at: '2021-08-30T13:53:56.713Z'
 description: 'Get in touch via email, connect on LinkedIn, Flickr, and GitHub. You can also subscribe to my RSS feed or newsletter.'
 permalink: /get-in-touch-silviamaggi/
 redirect_from:
@@ -10,13 +10,11 @@ redirect_from:
   - /contacts-silviamaggi/
   - /it/contatti/
 ---
+{%- assign socialnav = site.data.nav-social -%}
+
 # {{ page.title }}
 
-Have a question or simply want to get in touch? Feel free to [email me](mailto:contacts@silviamaggidesign.com) or connect on LinkedIn, Flickr and GitHub. You can also subscribe to my RSS feed or newsletter.
-
-## Connect with me
-
-{% include navigation-social.html %}
+Have a question or simply want to get in touch? Feel free to [email me](mailto:contacts@silviamaggidesign.com) or connect on <a href="{{ socialnav[0].link }}" target="_blank" rel="noopener">{{ socialnav[0].name }}</a>, <a href="{{ socialnav[2].link }}" target="_blank" rel="noopener">{{ socialnav[2].name }}</a> and <a href="{{ socialnav[1].link }}" target="_blank" rel="noopener">{{ socialnav[1].name }}</a>. You can also <a href="{{ socialnav[3].link }}">subscribe to my {{ socialnav[3].name }}</a>.
 
 ## Join the mailing list
 
