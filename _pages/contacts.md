@@ -15,7 +15,3 @@ redirect_from:
 # {{ page.title }}
 
 Have a question or simply want to get in touch? Feel free to [email me](mailto:contacts@silviamaggidesign.com) or connect on <a href="{{ socialnav[0].link }}" target="_blank" rel="noopener">{{ socialnav[0].name }}</a>, <a href="{{ socialnav[2].link }}" target="_blank" rel="noopener">{{ socialnav[2].name }}</a> and <a href="{{ socialnav[1].link }}" target="_blank" rel="noopener">{{ socialnav[1].name }}</a>. You can also <a href="{{ socialnav[3].link }}">subscribe to my {{ socialnav[3].name }}</a>.
-
-## Join the mailing list
-
-{% include pattern-newsletter-sub.html %}

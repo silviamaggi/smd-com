@@ -9,6 +9,13 @@ body {
   min-height: calc(100vh - 2rem);
 }
 
+// Header: newsletter
+.site-header {
+  .newsletter-subscription {
+    padding-top: 0.5rem;
+  }
+}
+
 // Tagline heading rotation
 .smd-text-rotate {
   transform: rotate(359deg);
