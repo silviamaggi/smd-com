@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Contacts
-date: 2020-02-27 17:03:58
-last_modified_at:
-description: Get in touch by filling out a simple form. Follow or connect on social media such as LinkedIn and Flickr. Subscribe to my newsletter.
+date: 2020-02-27T17:03:58.000Z
+last_modified_at: '2021-08-30T11:12:31.606Z'
+description: 'Get in touch via email, connect on LinkedIn, Flickr, and GitHub. You can also subscribe to my RSS feed or newsletter.'
 permalink: /get-in-touch-silviamaggi/
 redirect_from:
   - /contact/
@@ -12,7 +12,7 @@ redirect_from:
 ---
 # {{ page.title }}
 
-Have a question? Feel free to [email me](mailto:hello@silviamaggidesign.com?subject=Contact from Silvia Maggi website) or connect on social media.
+Have a question or simply want to get in touch? Feel free to [email me](mailto:contacts@silviamaggidesign.com) or connect on LinkedIn, Flickr and GitHub. You can also subscribe to my RSS feed or newsletter.
 
 ## Connect with me
 
