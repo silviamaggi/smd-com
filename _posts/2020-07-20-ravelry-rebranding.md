@@ -1,5 +1,5 @@
 ---
-title: How Rebranding cost Ravelry the trust of their community
+title: How rebranding cost Ravelry the trust of their community
 last_modified_at: '2021-08-27T12:03:16.207Z'
 featured-post: true
 categories:
