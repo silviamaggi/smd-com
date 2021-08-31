@@ -9,6 +9,11 @@ body {
   min-height: calc(100vh - 2rem);
 }
 
+// Adjust to breakpoints <========================
+main {
+  min-height: calc(100vh - 2rem - 72px);
+}
+
 // Header: newsletter
 .site-header {
   .newsletter-subscription {
@@ -54,11 +59,9 @@ img {
    width: 100%;
 }
 
-// Adjust to breakpoints <========================
-main {
-  min-height: calc(100vh - 2rem - 72px);
+.smd-footer-wrapper {
+  background: rgba($color: #fff, $alpha: .4);
 }
-
 
 // TO BE EVALUATED ===================
 
@@ -124,26 +127,16 @@ main {
   border-radius: 4px;
 }
 
-// Footer
-.site-footer {
-  clear: both;
-  padding: 12px 0;
-  margin-top: 24px;
+// // Footer
+// .site-footer {
+//   clear: both;
+//   padding: 12px 0;
+//   margin-top: 24px;
 
-  .container {
-    text-align: left; // <======================= TEMPORARY
-  }
-}
-.site-footer-copyright {
-  display: inline-block;
-  margin-right: 1rem;
-}
-.site-footer-navigation {
-  display: inline-block;
-}
-.site-footer-scrolltop {
-  float: right;
-}
+//   .container {
+//     text-align: left; // <======================= TEMPORARY
+//   }
+// }
 
 // Accessibility
 .screen-reader-text {
