@@ -7,10 +7,31 @@
 // $REQUIRED functions
 // ------------------------------------------------ //
 @import "bootstrap/functions";
+@import "smd-typography";
 
 // ------------------------------------------------ \\
 // $CUSTOM VARIABLE OVERRIDES
 // ------------------------------------------------ //
+$enable-transitions: true;
+$enable-rfs: true;
+// Typography
+$headings-font-family: 'FiraSansBold', serif;
+$lead-font-size: 1.3rem;
+$lead-font-weight: normal;
+$h1-font-size: 3rem;
+$h2-font-size: 1.8rem;
+$h3-font-size: 1.5rem;
+$h4-font-size: 1.4rem;
+$h5-font-size: 1.1rem;
+$h6-font-size: 1rem;
+$headings-margin-bottom: 1.7rem;
+// $display-font-weight
+// $blockquote-margin-y
+// $blockquote-font-size
+// $blockquote-footer-font-size
+// $blockquote-footer-color
+
+// Colors
 $primary: blue;
 $secondary: pink;
 $light: #f5f5f5;

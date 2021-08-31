@@ -9,11 +9,11 @@ permalink: /categories/
 
 <h1>Categories</h1>
 
-<ol class="archives">
+<ol class="list-unstyled list-inline">
 {% assign sorted_cats = site.categories | sort %}
 {% for category in sorted_cats %}
 {% assign c = category | first %}
 {% assign posts = category | last %}
-  <li><a href="{{ site.url }}/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
+  <li class="list-inline-item mb-4 me-4"><a class="btn btn-secondary" href="{{ site.url }}/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
 {% endfor %}
 </ol>

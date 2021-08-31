@@ -5,35 +5,35 @@
   {% assign categories = page.categories %}
   {% endif %}
   {%- unless page.title contains "homepage" -%}
-  <div class="breadcrumbs">
-    <ol class="list-unstyled list-inline small">
-      <li class="list-inline-item me-0"><a href="{{ site.url }}">Homepage</a></li>
+  <nav class="small" style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='gray'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="{{ site.url }}">Homepage</a></li>
       {% if page.url contains "/category/" %}
-      <li class="list-inline-item me-0"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg>&nbsp;<a href="{{ site.url }}/blog/">Blog</a></li>
-      <li class="list-inline-item me-0"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg>&nbsp;<a href="{{ site.url }}/categories/">Categories</a></li>
+      <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
+      <li class="breadcrumb-item"><a href="{{ site.url }}/categories/">Categories</a></li>
       {% elsif page.url contains "/categories/" %}
-      <li class="list-inline-item me-0"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg>&nbsp;<a href="{{ site.url }}/blog/">Blog</a></li>
+      <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
       {% elsif page.url contains "/tag/" %}
-      <li class="list-inline-item me-0"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg>&nbsp;<a href="{{ site.url }}/blog/">Blog</a></li>
-      <li class="list-inline-item me-0"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg>&nbsp;<a href="{{ site.url }}/tags/">Tags</a></li>
+      <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
+      <li class="breadcrumb-item"><a href="{{ site.url }}/tags/">Tags</a></li>
       {% elsif page.url contains "/tags/" %}
-      <li class="list-inline-item me-0"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg>&nbsp;<a href="{{ site.url }}/blog/">Blog</a></li>
+      <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
       {% elsif page.url contains "/portfolio/" %}
-      <li class="list-inline-item me-0"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg>&nbsp;<a href="{{ site.url }}/silvia-maggi-portfolio/">Work</a></li>
+      <li class="breadcrumb-item"><a href="{{ site.url }}/silvia-maggi-portfolio/">Work</a></li>
       {% endif %}
       {%- if page.url contains "blog" -%}
-      <li class="list-inline-item me-0"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg>&nbsp;Blog</li>
+      <li class="breadcrumb-item">Blog</li>
       {%- endif -%}
       {% if page.id %}{% unless page.url contains "portfolio" %}
-      <li class="list-inline-item me-0"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg>&nbsp;<a href="{{ site.url }}/blog/">Blog</a></li>
-      <li class="list-inline-item me-0"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg>&nbsp;<a href="{{ site.url }}/categories/">Categories</a></li>
+      <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
+      <li class="breadcrumb-item"><a href="{{ site.url }}/categories/">Categories</a></li>
       {% endunless %}
-      <li class="list-inline-item me-0">{% for category in categories %}<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg>&nbsp;<a href="/category/{{ category | slugify }}/">{{ category | capitalize | replace:"-"," " }}</a>{% endfor %}</li>
+      <li class="breadcrumb-item">{% for category in categories %}<a href="/category/{{ category | slugify }}/">{{ category | capitalize | replace:"-"," " }}</a>{% endfor %}</li>
       {% endif %}
       {% unless page.title contains 'Blog' -%}{%- unless page.title contains 'homepage' %}
-      <li class="list-inline-item"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg>&nbsp;{{ page.title | replace:"archive","" }}</li>
+      <li class="breadcrumb-item" aria-current="page">{{ page.title | replace:"archive","" }}</li>
       {% endunless %}{% endunless %}
     </ol>
-  </div>
+  </nav>
   {%- endunless -%}
 </aside>

@@ -1,6 +1,6 @@
 <section class="related-posts my-5 px-5 py-5 rounded">
 
-  <h4 class="fw-bold">You May Also Enjoy</h4>
+  <h4 class="fw-bold mt-0">You May Also Enjoy</h4>
 
 {%- assign maxRelated = 3 -%}
 {%- assign minCommonTags =  1 -%}
@@ -23,7 +23,7 @@
 
   {% if sameTagCount >= minCommonTags %}
   <article class="related-post">
-    <h5><a class="text-decoration-none" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h5>
+    <h5 class="mb-2"><a class="text-decoration-none" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h5>
     {{ post.excerpt | strip_html }}
   </article>
 

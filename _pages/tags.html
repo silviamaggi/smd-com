@@ -9,11 +9,11 @@ permalink: /tags/
 
 <h1>Tags</h1>
 
-<ol class="archives">
+<ol class="list-unstyled list-inline">
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
-  <li><a href="{{ site.url }}/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
+  <li class="list-inline-item mb-4 me-4"><a class="btn btn-secondary" href="{{ site.url }}/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
 {% endfor %}
 </ol>

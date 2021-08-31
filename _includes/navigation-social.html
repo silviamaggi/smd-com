@@ -1,5 +1,5 @@
 <nav class="navigation navigation-social mb-4" role="navigation" aria-label="Social media and feed">
   {% for item in site.data.nav-social -%}
-  <a class="pe-3" href="{{ item.link }}" title="Visit my {{ item.name }} profile" target="_blank" rel="noopener">{{ item.icon }}<span class="screen-reader-text">{{ item.name }}</span></a>
+  <a class="pe-3" href="{{ item.link }}" title="Visit my {{ item.name }} profile" target="_blank" rel="noopener">{{ item.icon }}<span class="visually-hidden">{{ item.name }}</span></a>
   {% endfor -%}
 </nav>
