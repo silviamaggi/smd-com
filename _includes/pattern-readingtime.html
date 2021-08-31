@@ -1,4 +1,4 @@
-<span class="reading-time" title="Estimated read time">
+<span class="reading-time small" title="Estimated read time">
     {%- assign words = include.content | strip_html | number_of_words -%}
     {%- assign minutes = words | divided_by: 180 | plus: 1 -%}
     <strong>Reading time</strong>: {{ minutes }} {% if minutes == 1 %}min{% else %}mins{%- endif -%}.

@@ -3,4 +3,4 @@
 {% elsif page %}
 {% assign date = page.date %}
 {% endif %}
-<time class="time" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time>
+<time class="time small" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time>

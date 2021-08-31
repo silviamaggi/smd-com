@@ -6,7 +6,7 @@
   {% else %}
   {% assign categories = page.categories %}
   {% endif %}
-  <span class="small me-2">Filed under: {% for category in categories %}<a class="post-taxonomy-label d-inline-block rounded text-decoration-none" href="{{ site.url }}/category/{{ category | slugify | append: '/' }}"><strong class="small">{{ category | upcase | replace:"-"," " }}</strong></a>{% unless forloop.last %}{% endunless %}{% endfor %}</span>
+  <span class="small me-1">Filed under: {% for category in categories %}<a class="post-taxonomy-label d-inline-block rounded text-decoration-none" href="{{ site.url }}/category/{{ category | slugify | append: '/' }}"><strong class="small">{{ category | upcase | replace:"-"," " }}</strong></a>{% unless forloop.last %}{% endunless %}{% endfor %}</span>
 {% endunless %}
 {% comment %} --- Tags --- {% endcomment %}
 {% unless page.tags == empty %}
