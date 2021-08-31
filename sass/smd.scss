@@ -25,6 +25,7 @@ $h4-font-size: 1.4rem;
 $h5-font-size: 1.1rem;
 $h6-font-size: 1rem;
 $headings-margin-bottom: 1.7rem;
+$font-weight-black: 900;
 // $display-font-weight
 // $blockquote-margin-y
 // $blockquote-font-size
@@ -32,16 +33,20 @@ $headings-margin-bottom: 1.7rem;
 // $blockquote-footer-color
 
 // Colors
-$primary: blue;
-$secondary: pink;
-$light: #f5f5f5;
+$primary: #98D1DD;
+$secondary: #014C5D;
+$light: #F3AEE5;
+$info: #CFE1E5;
 // $success: ;
 // $warning: ;
-$nav-link-color: tint-color($secondary, 14%);
-$nav-link-hover-color: white;
+// $dark: ;
+$link-color: #053F4C;
+
+// Navigation
+$nav-link-font-weight: bold;
+$nav-link-hover-color: $info;
 $nav-link-padding-x: 0.5rem;
-$nav-pills-link-active-bg: shade-color($primary, 10%);
-$font-weight-black: 900;
+$nav-link-padding-x: 0;
 
 // ------------------------------------------------ \\
 // $REQUIRED Bootstrap
@@ -54,7 +59,7 @@ $font-weight-black: 900;
 // $CUSTOM - Colors
 // ------------------------------------------------ //
 // Remove default colors
-$theme-colors: map-remove($theme-colors, "info", "danger", "dark");
+$theme-colors: map-remove($theme-colors, "danger");
 // Colors map
 // $custom-colors: (
 //   "nsd-primary":#c52525
