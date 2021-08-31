@@ -2,7 +2,7 @@
 layout: page
 title: About
 date: 2020-02-27T18:02:39.000Z
-last_modified_at: '2021-08-31T14:06:21.674Z'
+last_modified_at: '2021-08-31T14:07:20.147Z'
 description: 'Silvia Maggi is a UX Designer striving to create meaningful, user-centric experiences.'
 permalink: /about-silviamaggi-ux-designer/
 redirect_from:
