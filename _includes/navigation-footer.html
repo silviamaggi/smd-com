@@ -1,5 +1,5 @@
-<nav class="navigation site-footer-navigation" role="navigation" aria-label="Secondary">
+<nav class="mb-0" role="navigation" aria-label="Secondary">
   {% for item in site.data.nav-footer -%}
-  <a href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
+  <a class="px-2 text-decoration-none{% if page.url == item.link %} current{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
   {% endfor -%}
 </nav>
