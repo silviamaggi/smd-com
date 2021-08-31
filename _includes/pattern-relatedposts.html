@@ -1,6 +1,6 @@
-<section class="related-posts mt-5">
+<section class="related-posts my-5 px-5 py-5 rounded">
 
-  <h4>You May Also Enjoy</h4>
+  <h4 class="fw-bold">You May Also Enjoy</h4>
 
 {%- assign maxRelated = 3 -%}
 {%- assign minCommonTags =  1 -%}
@@ -22,9 +22,9 @@
   {% endfor %}
 
   {% if sameTagCount >= minCommonTags %}
-  <article class="related-post my-4">
-    <h5><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h5>
-    <div class="small">{{ post.excerpt }}</div>
+  <article class="related-post">
+    <h5><a class="text-decoration-none" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h5>
+    {{ post.excerpt | strip_html }}
   </article>
 
   {%- assign maxRelatedCounter = maxRelatedCounter | plus: 1 -%}

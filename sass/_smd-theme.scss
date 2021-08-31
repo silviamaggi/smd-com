@@ -8,6 +8,12 @@ body {
   background-size: 100% auto;
   min-height: calc(100vh - 2rem);
 }
+hr {
+  height: 2px !important;
+  width: 15%;
+  text-align: center;
+  margin: 2rem auto;
+}
 
 // Adjust to breakpoints <========================
 main {
@@ -24,17 +30,6 @@ main {
 // Tagline heading rotation
 .smd-text-rotate {
   transform: rotate(359deg);
-}
-
-// Single post navigation
-.previous-next-post-links {
-  a {
-    border-bottom: none;
-    background-color: #f6f6f6;
-    &:hover {
-      background-color: #ccc;
-    }
-  }
 }
 
 // Images
@@ -59,6 +54,45 @@ img {
    width: 100%;
 }
 
+// Single post
+.entry {
+  p {
+    &:first-child {
+      font-size: 125%;
+      line-height: 1.4;
+    }
+  }
+  blockquote { // < ====== TEMPORARY
+    border-left: 2px solid #ccc;
+    padding-left: 12px;
+    p {
+      font-size: 100% !important; // < ===== FIX THIS
+    }
+  }
+}
+
+// Post meta
+.post-taxonomy-label {
+  background: #ccc;
+  padding: 0 8px;
+}
+
+// Related posts
+.related-posts {
+  background: rgba($color: rgb(235, 213, 201), $alpha: .3);
+}
+.related-post {
+  margin: 1.5rem 0;
+  &:last-child {
+    margin-bottom: 0;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+}
+
+// Footer
 .smd-footer-wrapper {
   background: rgba($color: #fff, $alpha: .4);
 }

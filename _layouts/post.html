@@ -3,11 +3,17 @@ layout: default
 ---
 {% include site-breadcrumbs.html %}
 
-<article>
-<h1>{{ page.title }}</h1>
-<p class="small">{%- include post-meta.html %} {% unless page.collection == 'casestudies' or page.collection == 'sideprojects' %}&ndash; {% include pattern-readingtime.html content=content -%}{%- endunless -%}</p>
-{%- include post-taxonomy.html -%}
+<article class="post-entry">
+<h1 class="fw-bold">{{ page.title }}</h1>
+<div class="post-meta mt-4 mb-4 px-3 border-start border-5">
+  {%- include post-meta.html %}{% unless page.collection == 'casestudies' or page.collection == 'sideprojects' %}&nbsp;/&nbsp;{% include pattern-readingtime.html content=content -%}{%- endunless -%}
+  <div class="post-taxonomy">
+    {%- include post-taxonomy.html -%}
+  </div>  
+</div>
+<div class="entry">
 {{ content }}
+</div>
 </article>
 
 {%- include post-navigation.html -%}
