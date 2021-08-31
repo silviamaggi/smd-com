@@ -1,6 +1,6 @@
 ---
-title: The Station of being bus Stop experience
-last_modified_at: 
+title: The Station of being bus stop experience
+last_modified_at: '2021-08-31T09:02:23.629Z'
 featured-post: false
 categories:
   - Design
@@ -19,6 +19,8 @@ A deep understanding of users’ needs allows for great design and innovation. T
 <!--more-->
 
 Architecture studio [Rombout Frieling Lab](http://www.rombout.design/station-of-being.html){:target="_blank" rel="noopener"} and [Research Institutes of Sweden](https://www.ri.se/en){:target="_blank" rel="noopener"} have created the _Station of Being_ as a prototype bus stop in the city of Umeå, in the north of the country.
+
+{% include pattern-figure.html image="/assets/images/station-of-being-samuel-pettersson.jpg" caption="<em>The station of being</em> - Photo by Samuel Pettersson" width="1024" height="682" %}
 
 The bus stop intends to improve and enhance the waiting experience for people using public transport in cold weather conditions. The project can make public transport significantly more attractive.
 
@@ -41,5 +43,3 @@ During the first couple of weeks after the opening, the studio observed a 35% in
 Take a look at the video below, what do you think?
 
 {% include pattern-video.html id="GsdXOyJvnZM" title="Station of Being is an interactive Arctic bus stop" %}
-
-<small>Photo by Samuel Pettersson</small>
