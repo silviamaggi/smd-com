@@ -1,6 +1,6 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2021-08-30T20:48:48.127Z'
+last_modified_at: '2021-08-31T23:25:05.576Z'
 featured-post: true
 categories:
   - Design
@@ -16,7 +16,9 @@ redirect_from:
   - /2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/
   - /design/how-rebranding-cost-ravelry-the-trust-of-their-community/
 ---
-Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.
+{% include pattern-figure.html image="/assets/images/feat-ravelry-rebranding.jpg" alt="Ravelry lost the trust of their community" width="1200" height="500" caption="Photo by Tara Evans on Unsplash" %}
+
+<p class="lead">Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.</p>
 
 <!--more-->
 
@@ -58,7 +60,7 @@ The new branding is colourful: there are at least three bright accent colours an
 
 People tend to spend a lot of time looking for patterns and instructions: arguably, a **less** **contrasted** interface might have worked better.
 
-To avoid causing problems, I’ve created a [separate page](https://silviamaggidesign.com/how-rebranding-cost-ravelry-the-trust-of-their-community-images/){:target="_blank" rel="noopener"} to show a couple of screenshots of the redesigned interface.
+To avoid causing problems, I’ve created a [separate page]({{ site.url }}/how-rebranding-cost-ravelry-the-trust-of-their-community-images) to show a couple of screenshots of the redesigned interface.
 
 ### The icons
 
@@ -104,13 +106,13 @@ _**Update**_ – _**23 March 2021**: added an article about why overlay accessib
 
 ## Useful links
 
-* [Designing Safer Web Animation For Motion Sensitivity](https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity/){:target="_blank" rel="noopener"}
-* [Accessibility, Usability, and Inclusion](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/){:target="_blank" rel="noopener"}
-* [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/){:target="_blank" rel="noopener"}
-* [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/){:target="_blank" rel="noopener"}
-* [Photosensitivity and Seizures](https://www.epilepsy.com/learn/triggers-seizures/photosensitivity-and-seizures){:target="_blank" rel="noopener"}
-* [Color accessibility: tools and resources to help you design inclusive products](https://stephaniewalter.design/blog/color-accessibility-tools-resources-to-design-inclusive-products/){:target="_blank" rel="noopener"}
-* [Why Accessibility Overlay Solutions Fail to Protect or Serve](https://www.accessibility.works/blog/avoid-accessibility-overlay-tools-toolbar-plugins/){:target="_blank" rel="noopener"}
-* [The A11Y Project – Accessibility helps everyone](https://www.a11yproject.com/){:target="_blank" rel="noopener"}
-
-<small>Photo by [Tara Evans](https://unsplash.com/photos/IcvR0jFbsz0){:target="_blank" rel="noopener"} on Unsplash</small>
+<ul class="smd-ul">
+<li><a href="https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity/" target="_blank" rel="noopener">Designing Safer Web Animation For Motion Sensitivity</a></li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/" target="_blank" rel="noopener">Accessibility, Usability, and Inclusion</a></li>
+<li><a href="https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/" target="_blank" rel="noopener">Designing For Accessibility And Inclusion</a></li>
+<li><a href="https://www.w3.org/WAI/older-users/" target="_blank" rel="noopener">Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users</a></li>
+<li><a href="https://www.epilepsy.com/learn/triggers-seizures/photosensitivity-and-seizures" target="_blank" rel="noopener">Photosensitivity and Seizures</a></li>
+<li><a href="https://stephaniewalter.design/blog/color-accessibility-tools-resources-to-design-inclusive-products/" target="_blank" rel="noopener">Color accessibility: tools and resources to help you design inclusive products</a></li>
+<li><a href="https://www.accessibility.works/blog/avoid-accessibility-overlay-tools-toolbar-plugins/" target="_blank" rel="noopener">Why Accessibility Overlay Solutions Fail to Protect or Serve</a></li>
+<li><a href="https://www.a11yproject.com/" target="_blank" rel="noopener">The A11Y Project – Accessibility helps everyone</a></li>
+</ul>

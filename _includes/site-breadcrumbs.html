@@ -1,4 +1,4 @@
-<aside class="py-4">
+<aside class="pt-4 pb-2">
   {% if post %}
   {% assign categories = post.categories %}
   {% else %}
@@ -31,7 +31,7 @@
       <li class="breadcrumb-item">{% for category in categories %}<a href="/category/{{ category | slugify }}/">{{ category | capitalize | replace:"-"," " }}</a>{% endfor %}</li>
       {% endif %}
       {% unless page.title contains 'Blog' -%}{%- unless page.title contains 'homepage' %}
-      <li class="breadcrumb-item" aria-current="page">{{ page.title | replace:"archive","" }}</li>
+      <li class="breadcrumb-item" aria-current="page">{{ page.title | replace:"archive","" | truncate: 35 }}</li>
       {% endunless %}{% endunless %}
     </ol>
   </nav>
