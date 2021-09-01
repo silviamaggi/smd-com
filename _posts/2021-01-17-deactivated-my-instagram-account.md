@@ -1,15 +1,14 @@
 ---
 title: I deactivated my Instagram account. What now?
-last_modified_at:
+last_modified_at: '2021-09-01T22:39:15.685Z'
 featured-post: false
 categories:
   - Personal
 tags:
   - instagram
-  - personal
   - photography
   - social media
-description: I deactivated my Instagram account. What now? If it sounds like a big a deal, it's because it is. My first week post-Instagram.
+description: 'I deactivated my Instagram account. What now? If it sounds like a big a deal, it''s because it is. My first week post-Instagram.'
 featured-image: feat-deactivated-instagram-account.jpg
 redirect_from:
   - /i-deactivated-my-instagram-account-what-now/
@@ -17,9 +16,8 @@ redirect_from:
   - /photography/i-deactivated-my-instagram-account/
   - /photography/deactivated-my-instagram-account/
 ---
-Last weekend, I deactivated my Instagram account
-
-If it sounds like a **big deal**, it’s because it is. For someone passionate about photography, deciding to break with one of the most **popular social networks** might seem counter-productive.
+<p class="lead">Last weekend, I deactivated my Instagram account.
+If it sounds like a <strong>big deal</strong>, it’s because it is. For someone passionate about photography, deciding to break with one of the most <strong>popular social networks</strong> might seem counter-productive.</p>
 
 <!--more-->
 
@@ -53,9 +51,11 @@ I re-started from there, without feeling the urge to post something.
 
 ## Useful links
 
-* [This is Your Brain on Instagram: Effects of Social Media on the Brain](https://now.northropgrumman.com/this-is-your-brain-on-instagram-effects-of-social-media-on-the-brain/){:target="_blank" rel="noopener"}
-* [Instagram is supposed to be friendly. So why is it making people so miserable?](http://www.theguardian.com/technology/2018/sep/17/instagram-is-supposed-to-be-friendly-so-why-is-it-making-people-so-miserable){:target="_blank" rel="noopener"}
-* [Flickr, About](https://www.flickr.com/about){:target="_blank" rel="noopener"}
-* [Flickr Blog](https://blog.flickr.net/en){:target="_blank" rel="noopener"}
+<ul class="smd-ul">
+<li><a href="https://now.northropgrumman.com/this-is-your-brain-on-instagram-effects-of-social-media-on-the-brain/" target="_blank" rel="noopener">This is Your Brain on Instagram: Effects of Social Media on the Brain</a></li>
+<li><a href="http://www.theguardian.com/technology/2018/sep/17/instagram-is-supposed-to-be-friendly-so-why-is-it-making-people-so-miserable" target="_blank" rel="noopener">Instagram is supposed to be friendly. So why is it making people so miserable?</a></li>
+<li><a href="https://www.flickr.com/about" target="_blank" rel="noopener">Flickr, About</a></li>
+<li><a href="https://blog.flickr.net/en" target="_blank" rel="noopener">Flickr Blog</a></li>
+</ul>
 
-<small>Photo by [Prateek Katyal](https://unsplash.com/@prateekkatyal){:target="_blank" rel="noopener"} on Unsplash</small>
+<!-- <small>Photo by [Prateek Katyal](https://unsplash.com/@prateekkatyal){:target="_blank" rel="noopener"} on Unsplash</small> -->

@@ -1,23 +1,22 @@
 ---
-title: Design, Digested 5. Diversity bias
-last_modified_at:
+title: 'Design, Digested 5. Diversity bias'
+last_modified_at: '2021-09-01T21:09:15.190Z'
 featured-post: false
 categories:
   - Design Digested
 tags:
-  - design digested
   - anti-racism
   - books
   - diversity
   - ux
 description: Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
 featured-image: feat-design-digested-5.jpg
-permalink: /design-digested/:title/
+permalink: '/design-digested/:title/'
 redirect_from:
   - /books/design-digested-5-design-diversity-problems-and-bias/
   - /books/design-digested-5-diversity-bias/
 ---
-Design inspiration series. This week: diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
+<p class="lead">Design inspiration series. This week: diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.</p>
 
 <!--more-->
 
@@ -27,25 +26,25 @@ Design inspiration series. This week: diversity bias in the tech industry; the g
 
 Phil Bennett wrote a compelling article that touches the main problems in tech: **diversity** and **bias**. A must-read, all backed by **data**.
 
-* **[Read the article](https://www.softwareiseasypeoplearehard.com/are-you-building-straight-white-male-middle-class-products-for-straight-white-male-middle-class-people/){:target="_blank" rel="noopener"}** on Phil Bennett’s website.
+🔗 **[Read the article](https://www.softwareiseasypeoplearehard.com/are-you-building-straight-white-male-middle-class-products-for-straight-white-male-middle-class-people/){:target="_blank" rel="noopener"}** on Phil Bennett’s website.
 
 ### Menus, Metaphors and Materials: Milestones of User Interface Design
 
 As technology gets better at each iteration, **designs** are regularly **updated** and **replaced**. Boris Müller and Frank Rausch compiled a list of interaction design **classics** providing **insights** that are relevant today.
 
-* **[Read the article](https://medium.com/@borism/menus-metaphors-and-materials-milestones-of-user-interface-design-f3f75481c46c){:target="_blank" rel="noopener"}** on Medium.
+🔗 **[Read the article](https://medium.com/@borism/menus-metaphors-and-materials-milestones-of-user-interface-design-f3f75481c46c){:target="_blank" rel="noopener"}** on Medium.
 
 ### Over-complicated? Over-simplified? The UX Efficient Frontier
 
 Morgane Peng introduces us to the **UX Efficient Frontier** concept for business interfaces. It helps us find the sweet spot between **not too simple** and **not too complicated**.
 
-**[Read the article](https://uxdesign.cc/over-complicated-over-simplified-the-ux-efficient-frontier-561d7773bc6b){:target="_blank" rel="noopener"}** on Medium.
+🔗 **[Read the article](https://uxdesign.cc/over-complicated-over-simplified-the-ux-efficient-frontier-561d7773bc6b){:target="_blank" rel="noopener"}** on Medium.
 
 ### Anti-racist Reading List For Designers
 
 The design industry is [_71% White_](https://designcensus.org/){:target="_blank" rel="noopener"}. Lexi Namer listed books and articles aimed at designers with the intent of starting a **dialogue** about our **privilege**, **assumption** and **biases** as designers.
 
-**[Read the article](https://uxdesign.cc/anti-racist-reading-list-for-designers-e51b3ac4bd0){:target="_blank" rel="noopener"}** on Medium.
+🔗 **[Read the article](https://uxdesign.cc/anti-racist-reading-list-for-designers-e51b3ac4bd0){:target="_blank" rel="noopener"}** on Medium.
 
 ## Video
 
@@ -61,6 +60,6 @@ In his best-selling book _[The Design Of Everyday Things](https://www.goodreads.
 
 > _Invisible Women_ […] exposes the **gender data gap** – a gap in our knowledge that is at the root of perpetual, systemic **discrimination** against women, and that has created a pervasive but invisible **bias** with a profound effect on **women**’s lives.
 
-**[Read about the book](https://www.carolinecriadoperez.com/books){:target="_blank" rel="noopener"}** on Caroline Criado Perez’s website.
+🔗 **[Read about the book](https://www.carolinecriadoperez.com/books){:target="_blank" rel="noopener"}** on Caroline Criado Perez’s website.
 
-<small>Photo by [Clay Banks](https://unsplash.com/photos/LjqARJaJotc){:target="_blank" rel="noopener"} on Unsplash</small>
+<!-- <small>Photo by [Clay Banks](https://unsplash.com/photos/LjqARJaJotc){:target="_blank" rel="noopener"} on Unsplash</small> -->

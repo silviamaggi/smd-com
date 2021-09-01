@@ -1,18 +1,17 @@
 ---
-title: Life off social media, six months in
-last_modified_at:
+title: 'Life off social media, six months in'
+last_modified_at: '2021-09-01T22:34:42.927Z'
 featured-post: false
 categories:
   - Personal
 tags:
   - social media
-  - personal
-description: I tell you what happened when I quit social media six months ago, and why I don't want to come back.
+description: 'I tell you what happened when I quit social media six months ago, and why I don''t want to come back.'
 featured-image: feat-max-van-den-oetelaar-unsplash.jpg
 redirect_from:
   - /social-media/life-off-social-media/
 ---
-I used to be everywhere. Name the social media and, most probably, I had an account. Internet’s always been a big thing for me, and a certain kind of **online presence** was good for my profession, hobbies and relationships.
+<p class="lead">I used to be everywhere. Name the social media and, most probably, I had an account. Internet’s always been a big thing for me, and a certain kind of <strong>online presence</strong> was good for my profession, hobbies and relationships.</p>
 
 <!--more-->
 
@@ -72,9 +71,11 @@ It could be a reflection brought up by the fact I know myself a bit more now, bu
 
 ## Go deeper
 
-* [You Really Need to Quit Twitter](https://www.theatlantic.com/ideas/archive/2021/07/twitter-addict-realizes-she-needs-rehab/619343/){:target="_blank" rel="noopener"} – article on The Atlantic
-* [Why you should quit social media](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media){:target="_blank" rel="noopener"} TED Talk by Cal Newport
-* [Center for Humane Technology](https://www.humanetech.com/){:target="_blank" rel="noopener"}
-* [We’re building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads){:target="_blank" rel="noopener"} TED Talk by Zeynep Tufekci
+<ul class="smd-ul">
+<li><a href="https://www.theatlantic.com/ideas/archive/2021/07/twitter-addict-realizes-she-needs-rehab/619343/" target="_blank" rel="noopener">You Really Need to Quit Twitter</a> – article on The Atlantic</li>
+<li><a href="https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media" target="_blank" rel="noopener">Why you should quit social media</a> TED Talk by Cal Newport</li>
+<li><a href="https://www.humanetech.com/" target="_blank" rel="noopener">Center for Humane Technology</a></li>
+<li><a href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads" target="_blank" rel="noopener">We’re building a dystopia just to make people click on ads</a> TED Talk by Zeynep Tufekci</li>
+</ul>
 
-<small>Photo by [Max van den Oetelaar](https://unsplash.com/photos/buymYm3RQ3U) on Unsplash</small>
+<!-- <small>Photo by [Max van den Oetelaar](https://unsplash.com/photos/buymYm3RQ3U) on Unsplash</small> -->

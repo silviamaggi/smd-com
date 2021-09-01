@@ -1,6 +1,6 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2021-08-31T23:25:05.576Z'
+last_modified_at: '2021-09-01T21:14:39.822Z'
 featured-post: true
 categories:
   - Design
@@ -100,9 +100,9 @@ Ever since the first release, Ravelry made some changes to the interface, but th
 
 Even more important now is for communities, online and not, to be more **inclusive** than ever.
 
----_**Corrections**: the text has been corrected to delete inaccuracies about when the old design will be retired (there will be a six-month notice) and the fact that screen reader software didn’t work correctly with the old version, too._
+<hr>
 
-_**Update**_ – _**23 March 2021**: added an article about why overlay accessibility solutions don’t work and shouldn’t be used._
+**Corrections**: the text has been corrected to delete inaccuracies about when the old design will be retired (there will be a six-month notice) and the fact that screen reader software didn’t work correctly with the old version, too.
 
 ## Useful links
 

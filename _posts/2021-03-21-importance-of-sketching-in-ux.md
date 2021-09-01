@@ -1,19 +1,18 @@
 ---
 title: The importance of sketching in UX and beyond
-last_modified_at:
+last_modified_at: '2021-09-01T22:36:38.123Z'
 featured-post: false
 categories:
   - Design Digested
 tags:
-  - design digested
   - sketching
   - drawing
   - ux
-description: Sketching is one of the most important tools a UX Designer should master. Let's explore why, how, and go beyond.
+description: 'Sketching is one of the most important tools a UX Designer should master. Let''s explore why, how, and go beyond.'
 featured-image: feat-design-digested-18.jpg
-permalink: /design-digested/:title/
+permalink: '/design-digested/:title/'
 ---
-I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is **sketching**.
+<p class="lead">I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is <strong>sketching</strong>.</p>
 
 <!--more-->
 
@@ -35,7 +34,7 @@ It can be a notebook, your phone’s camera, or both. **Observing and recording 
 
 ## Read the article
 
-* [Etch A Sketch: How to Use Sketching in User Experience Design](https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design){:target="_blank" rel="noopener"}
+🔗 [Etch A Sketch: How to Use Sketching in User Experience Design](https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design){:target="_blank" rel="noopener"}
 
 ## Start sketching
 
@@ -61,22 +60,27 @@ He reminded me of the insightful and delightful webinar by UX designer [Morgane 
 
 ### Read the article
 
-* [Why should you start drawing today?](https://uxdesign.cc/why-should-you-start-drawing-today-6e7fb8956bd7){:target="_blank" rel="noopener"}
+🔗 [Why should you start drawing today?](https://uxdesign.cc/why-should-you-start-drawing-today-6e7fb8956bd7){:target="_blank" rel="noopener"}
 
----If you wish to take it to next level, Dr. Betty Edwards’ _New Drawing on the Right Side of the Brain_ workbook offers **effective exercises** that reinforce the five basic skills of drawing:
+<hr>
 
-* The perception of edges.
-* The perception of spaces.
-* The perception of relationships.
-* The perception of lights and shadows.
-* The perception of the Gestalt.
+If you wish to take it to next level, Dr. Betty Edwards’ _New Drawing on the Right Side of the Brain_ workbook offers **effective exercises** that reinforce the five basic skills of drawing:
+
+<ul class="smd-ul">
+<li>The perception of edges.</li>
+<li>The perception of spaces.</li>
+<li>The perception of relationships.</li>
+<li>The perception of lights and shadows.</li>
+<li>The perception of the Gestalt.</li>
+</ul>
 
 The workbook is the ideal companion of the book, where the theory behind the techniques is explained. Although, I went directly for the exercises.
 
 {% include pattern-figure.html image="/assets/images/drawing-on-the-right-side-of-the-brain-1.jpg" caption="The new drawing on the right side of the brain workbook" width="458" height="630" %}
 
-* [The New Drawing on the Right Side of the Brain](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain){:target="_blank" rel="noopener"}
-* [The New Drawing on the Right Side of the Brain Workbook: Guided Practice in the Five Basic Skills of Drawing](https://www.goodreads.com/book/show/74124.The_New_Drawing_on_the_Right_Side_of_the_Brain_Workbook){:target="_blank" rel="noopener"}
+🔗 [The New Drawing on the Right Side of the Brain](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain){:target="_blank" rel="noopener"}
+
+🔗 [The New Drawing on the Right Side of the Brain Workbook: Guided Practice in the Five Basic Skills of Drawing](https://www.goodreads.com/book/show/74124.The_New_Drawing_on_the_Right_Side_of_the_Brain_Workbook){:target="_blank" rel="noopener"}
 
 ## Update
 
@@ -84,4 +88,4 @@ As much as wanted to follow my own advice and sketch every day, I couldn’t fol
 
 After reading an article, I started a new journey and wrote about it on the post [Learning to draw: a journey]({{ site.url }}/drawing/learning-to-draw/).
 
-<small>Photo and design by Silvia Maggi</small>
+<!-- <small>Photo and design by Silvia Maggi</small> -->

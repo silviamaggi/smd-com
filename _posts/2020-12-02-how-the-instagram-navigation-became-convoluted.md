@@ -1,19 +1,18 @@
 ---
 title: How the Instagram navigation became convoluted
-last_modified_at:
+last_modified_at: '2021-09-01T22:39:46.918Z'
 featured-post: false
 categories:
   - UX
 tags:
   - instagram
   - navigation
-  - ux
 description: With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let's briefly explore how.
 featured-image: feat-lalo-hernandez-unsplash.jpg
 redirect_from:
   - /design/how-the-instagram-navigation-became-convoluted/
 ---
-With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let’s briefly explore how.
+<p class="lead">With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let’s briefly explore how.</p>
 
 <!--more-->
 
@@ -77,9 +76,11 @@ Sometimes it happens when the **business model** changes: if the goal is to keep
 
 ## Useful links
 
-* [The Thumb Zone: Designing For Mobile Users by Samantha Ingram](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/){:target="_blank" rel="noopener"}
-* [Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative? by Arturas Leonovas](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/){:target="_blank" rel="noopener"}
-* [Basic Patterns for Mobile Navigation: A Primer](https://www.nngroup.com/articles/mobile-navigation-patterns/){:target="_blank" rel="noopener"}
-* [UX Design for Mobile: Bottom Navigation](https://uxplanet.org/perfect-bottom-navigation-for-mobile-app-effabbb98c0f){:target="_blank" rel="noopener"}
+<ul class="smd-ul">
+<li><a href="https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/" target="_blank" rel="noopener">The Thumb Zone: Designing For Mobile Users by Samantha Ingram</a></li>
+<li><a href="https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/" target="_blank" rel="noopener">Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative? by Arturas Leonovas</a></li>
+<li><a href="https://www.nngroup.com/articles/mobile-navigation-patterns/" target="_blank" rel="noopener">Basic Patterns for Mobile Navigation: A Primer</a></li>
+<li><a href="https://uxplanet.org/perfect-bottom-navigation-for-mobile-app-effabbb98c0f" target="_blank" rel="noopener">UX Design for Mobile: Bottom Navigation</a></li>
+</ul>
 
-<small>Photo by [Lalo Hernandez](https://unsplash.com/photos/r34cKhbEDCU){:target="_blank" rel="noopener"} on Unsplash</small>
+<!-- <small>Photo by [Lalo Hernandez](https://unsplash.com/photos/r34cKhbEDCU){:target="_blank" rel="noopener"} on Unsplash</small> -->

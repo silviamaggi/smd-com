@@ -1,11 +1,10 @@
 ---
 title: My latest letter
-last_modified_at: '2021-08-31T17:37:50.473Z'
+last_modified_at: '2021-09-01T22:25:58.323Z'
 featured-post: false
 categories:
   - Design Digested
 tags:
-  - design digested
   - books
   - letter
   - photography
@@ -16,7 +15,7 @@ redirect_from:
   - /it/design-it/una-lettera/
   - /design/my-latest-letter
 ---
-<p class="lead">Every couple of weeks, I write a letter to the nice people subscribed to <a href="https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8" target="_blank" rel="noopener">Design, Digested</a>. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.</p>
+<p class="lead">Every couple of weeks, I write a letter to the nice people subscribed to <a href="https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8" target="_blank" rel="noopener"><em>Design, Digested</em></a>. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.</p>
 
 <!--more-->
 

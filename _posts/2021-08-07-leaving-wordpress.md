@@ -1,11 +1,10 @@
 ---
 title: Leaving WordPress
-last_modified_at:
+last_modified_at: '2021-09-01T22:29:41.723Z'
 featured-post: false
 categories:
   - Personal
 tags:
-  - personal
   - jekyll
   - github pages
   - wordpress
@@ -14,9 +13,8 @@ featured-image: feat-marco-chilese-unsplash.jpg
 redirect_from:
   - /it/personale/lascio-wordpress/
 ---
-An announcement to my WordPress followers.
-
-Soon, I’ll be starting a process to move away from the platform: **my website will have a new house, look, and ways to be managed**.
+<p class="lead">An announcement to my WordPress followers.
+Soon, I’ll be starting a process to move away from the platform: <strong>my website will have a new house, look, and ways to be managed</strong>.</p>
 
 <!--more-->
 
@@ -34,4 +32,4 @@ In the meantime, take care.
 
 Should you have any questions, [get in touch]({{ site.url }}/get-in-touch-silviamaggi/).
 
-<small>Photo by [Marco Chilese](https://unsplash.com/@chmarco){:target="_blank" rel="noopener"} on Unsplash</small>
+<!-- <small>Photo by [Marco Chilese](https://unsplash.com/@chmarco){:target="_blank" rel="noopener"} on Unsplash</small> -->

@@ -5,7 +5,6 @@ featured-post: false
 categories:
   - Design Digested
 tags:
-  - design digested
   - facial recognition
   - sexism
   - racial bias
@@ -53,4 +52,4 @@ Set designer Es Devlin and design associate Machiko Weston created _I Saw The Wo
 
 **[Read the article](https://www.dezeen.com/2020/08/13/es-devlin-machiko-weston-hiroshima-bombing-i-saw-the-world-end/){:target="_blank" rel="noopener"}** on Dezeen.
 
-<small>Image credits: Shaniqwa Jarvis, Sara Wong, Emma</small>
+<!-- <small>Image credits: Shaniqwa Jarvis, Sara Wong, Emma</small> -->

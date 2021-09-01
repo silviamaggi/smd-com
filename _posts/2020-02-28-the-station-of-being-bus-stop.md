@@ -1,11 +1,10 @@
 ---
 title: The station of being bus stop experience
-last_modified_at: '2021-08-31T09:02:23.629Z'
+last_modified_at: '2021-09-01T20:58:40.638Z'
 featured-post: false
 categories:
   - Design
 tags:
-  - design
   - ux
   - sweden
 description: A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.
@@ -14,7 +13,7 @@ redirect_from:
   - /design/design-the-station-of-being-bus-stop-experience/
   - /design/design-the-station-of-being-bus-stop/
 ---
-A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.
+<p class="lead">A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.</p>
 
 <!--more-->
 
@@ -26,9 +25,11 @@ The bus stop intends to improve and enhance the waiting experience for people us
 
 Based on what Rombout Frieling told [Deezen](https://www.dezeen.com/2019/12/11/rombout-frieling-lab-arctic-bus-stop-umea-sweden/){:target="_blank" rel="noopener"}, and the case study on the studio’s website, the research they carried out revealed that:
 
-* It is annoying to continually be on the lookout to be sure not to miss the bus.
-* People prefer to lean on something, rather than sitting when waiting for the bus in windy and snowy conditions. It can be as cold as –30º C with seats covered in snow.
-* People prefer using cars because they feel the need to zone off and have privacy.
+<ul class="smd-ul">
+<li>It is annoying to continually be on the lookout to be sure not to miss the bus.</li>
+<li>People prefer to lean on something, rather than sitting when waiting for the bus in windy and snowy conditions. It can be as cold as –30º C with seats covered in snow.</li>
+<li>People prefer using cars because they feel the need to zone off and have privacy.</li>
+</ul>
 
 ## The prototype
 

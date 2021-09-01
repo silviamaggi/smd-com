@@ -1,11 +1,10 @@
 ---
 title: 'Design, Digested 1. Killing Eve set design, and more'
-last_modified_at: '2021-08-27T12:00:01.303Z'
+last_modified_at: '2021-09-01T21:00:39.168Z'
 featured-post: false
 categories:
   - Design Digested
 tags:
-  - design digested
   - accessibility
   - books
   - creativity
@@ -18,7 +17,7 @@ redirect_from:
   - /books/design-digested-1/
   - /books/killing-eve-set-design/
 ---
-First instalment of my design inspiration series. This week: Killing Eve set design, accessibility on social media, bad design vs good design, and more.
+<p class="lead">First instalment of my design inspiration series. This week: Killing Eve set design, accessibility on social media, bad design vs good design, and more.</p>
 
 <!--more-->
 
@@ -32,7 +31,7 @@ Set decorator Casey Williams explains how **set design** and **location** choice
 
 It’s fascinating to read how nothing is left to chance, and how every little detail serves the purpose of **telling the story** of each character.
 
-[**Read the article**](https://www.dezeen.com/2020/05/22/killing-eve-set-design-casey-williams/){:target="_blank" rel="noopener"} on Dezeen.
+🔗 [**Read the article**](https://www.dezeen.com/2020/05/22/killing-eve-set-design-casey-williams/){:target="_blank" rel="noopener"} on Dezeen.
 
 ### Accessibility Matters: 5 Ways To Make Your Social Media More Inclusive
 
@@ -44,7 +43,7 @@ Do you know how _text-to-speech_ software react to emojis and custom font? If no
 
 Facebook, Instagram, Twitter and LinkedIn provide **accessible tools**. Alexa explains how to use them.
 
-[**Read the article**](https://uxdesign.cc/accessibility-matters-632fa2fb0672){:target="_blank" rel="noopener"} on Medium.
+🔗 [**Read the article**](https://uxdesign.cc/accessibility-matters-632fa2fb0672){:target="_blank" rel="noopener"} on Medium.
 
 ### Bad Design vs. Good Design: 5 Examples We Can Learn From
 
@@ -52,7 +51,7 @@ Design is what determines a **good** or **bad experience** on websites and, eith
 
 Being able to critique other people’s design choices helps us to understand the reasons behind our **reactions** to **online experiences**. Most of us have websites now and, whether you’re a designer or not, there are ways to make yours a place where people are likely to **visit again**.
 
-[**Read the article**](https://www.interaction-design.org/literature/article/bad-design-vs-good-design-5-examples-we-can-learn-frombad-design-vs-good-design-5-examples-we-can-learn-from-130706){:target="_blank" rel="noopener"} on the Interaction Design Foundation website.
+🔗 [**Read the article**](https://www.interaction-design.org/literature/article/bad-design-vs-good-design-5-examples-we-can-learn-frombad-design-vs-good-design-5-examples-we-can-learn-from-130706){:target="_blank" rel="noopener"} on the Interaction Design Foundation website.
 
 ## Podcast
 
@@ -62,7 +61,7 @@ Do you remember when it was possible to change the battery of a car or phone wit
 
 Planned obsolescence is the practise of designing products with a **short expiry date**. David and Andrew explain how it works, present us with **seven types** of planned obsolescence and many other interesting examples.
 
-**[Listen to the episode](https://podcast.theunusable.com/podcasts/017-planned-obsolescence.mp3){:target="_blank" rel="noopener"}** on the podcast website or look for it on your favourite podcast platform.
+🔗 **[Listen to the episode](https://podcast.theunusable.com/podcasts/017-planned-obsolescence.mp3){:target="_blank" rel="noopener"}** on the podcast website or look for it on your favourite podcast platform.
 
 ## Book
 
@@ -72,6 +71,6 @@ I’m reading the compelling and powerful book that [IDEO](http://www.ideo.com/)
 
 If you, like me, have even thought you were not creative enough, this book is for you. You’ll have the confidence to believe that what you do can affect the world.
 
-[**Read more about the book**](https://www.creativeconfidence.com/){:target="_blank" rel="noopener"} on the Creative Confidence website.
+🔗 [**Read more about the book**](https://www.creativeconfidence.com/){:target="_blank" rel="noopener"} on the Creative Confidence website.
 
-<small>Image credits: Sid Gentle and Ian Johnson Publicity, Unknown, Jorge Gonzalez / Copyright terms and licence: CC BY-SA 2.0</small>
+<!-- <small>Image credits: Sid Gentle and Ian Johnson Publicity, Unknown, Jorge Gonzalez / Copyright terms and licence: CC BY-SA 2.0</small> -->

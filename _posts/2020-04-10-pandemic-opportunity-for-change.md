@@ -1,11 +1,10 @@
 ---
 title: The pandemic is a massive opportunity for change
-last_modified_at: 
+last_modified_at: '2021-09-01T22:50:36.810Z'
 featured-post: false
 categories:
   - Design
 tags:
-  - design
   - dieter rams
   - sustainability
 description: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
@@ -14,6 +13,8 @@ featured-image: feat-charlie-deets.jpg
 redirect_from:
   - /design/crisis-opportunity-to-shape-a-better-society/
 ---
+<p class="lead">The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.</p>
+
 > If somebody asked you to redesign the society of the future, what would it look like?
 
 ## The pandemic brought our lives to a halt
@@ -65,5 +66,4 @@ It brings us back to Rams’ desire to be a landscape architect: looking at the 
 I believe that anyone can apply this way of thinking. We are now aware of how we are all connected; our actions and choices influence our family, neighbours and society for better or worse. Whatever our jobs or roles, we should think about the consequences of what we do, and strive for better.
 
 ---
-_Rams_ is a documentary by Gary Hustwit. You can watch it [here](https://hustwit.vhx.tv/){:target="_blank" rel="noopener"}.
----<small>Photo by [Charlie Deets](https://unsplash.com/photos/rTgUvY1mbcI){:target="_blank" rel="noopener"} on Unsplash</small>
+🔗 _Rams_ is a documentary by Gary Hustwit. Watch it [here](https://hustwit.vhx.tv/){:target="_blank" rel="noopener"}.

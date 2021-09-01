@@ -1,20 +1,19 @@
 ---
 title: The UX of contact lenses containers
-last_modified_at:
+last_modified_at: '2021-09-01T22:48:50.819Z'
 featured-post: false
 categories:
   - UX
 tags:
-  - ux
   - design
   - usability
-description: Everyday things affects our lives, sometimes making us feel frustrated. This time I analyse the UX of contact lenses containers.
+description: 'Everyday things affects our lives, sometimes making us feel frustrated. This time I analyse the UX of contact lenses containers.'
 featured-image: feat-ux-of-contact-lenses-containers.jpg
 redirect_from:
   - /design/the-ux-of-contact-lenses-containers/
   - /design/ux-of-contact-lenses-containers/
 ---
-How is the **UX** **of** **contact lenses containers**? It’s easy to overlook what we use daily, and yet everyday things are usually the ones that make us feel **frustrated**.
+<p class="lead">How is the <strong>UX of contact lenses containers</strong>? It’s easy to overlook what we use daily, and yet everyday things are usually the ones that make us feel <strong>frustrated</strong>.</p>
 
 <!--more-->
 
@@ -52,8 +51,6 @@ Always give people **more than one way** to achieve their goals, and avoid relyi
 
 Sometimes, sticking to pre-existing **conventions** is good, but it doesn’t necessarily mean never to **innovate**. Give people enough **clues** and test, test, test.
 
----Did you have a similar experience with contact lenses container? Or a completely different one? Let me know in the comments section!
+The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.
 
----The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.
-
-<small>Photo by [David Travis](https://unsplash.com/photos/WC6MJ0kRzGw){:target="_blank" rel="noopener"} on Unsplash</small>
+<!-- <small>Photo by [David Travis](https://unsplash.com/photos/WC6MJ0kRzGw){:target="_blank" rel="noopener"} on Unsplash</small> -->

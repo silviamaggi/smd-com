@@ -1,20 +1,19 @@
 ---
 title: How Instagram drained my creativity
-last_modified_at: 
+last_modified_at: '2021-09-01T20:55:44.614Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - creativity
   - instagram
   - social media
-description: While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here's how my love for photography helped.
+description: 'While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here''s how my love for photography helped.'
 featured-image: feat-20171218_lago_2001-silviamaggi.jpg
 redirect_from:
   - /photography/how-instagram-drained-my-creativity/
 ---
-While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here’s how my love for photography helped.
+<p class="lead">While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here’s how my love for photography helped.</p>
 
 <!--more-->
 
@@ -55,12 +54,12 @@ I took the photos in this post during the past two visits to Lake Maggiore, and 
 
 Below is the list of the videos I watched:
 
-* [One Tip to Improve Your Photos in Lightroom](https://www.youtube.com/watch?v=jUOOzi5gukY){:target="_blank" rel="noopener"}
-* [Edit your Photos UPSIDE-DOWN](https://www.youtube.com/watch?v=af88_3Sgvc4){:target="_blank" rel="noopener"}
-* [Understanding your Photography](https://www.youtube.com/watch?v=4pGlTw1rHy8){:target="_blank" rel="noopener"}
-* [I have a PROBLEM, I love FLAT LIGHT](https://www.youtube.com/watch?v=z3s_SmWLnMA){:target="_blank" rel="noopener"}
-* [9 Photography Tips you should IGNORE!](https://www.youtube.com/watch?v=3RNWJPbrZfo){:target="_blank" rel="noopener"}
-
-I hope you enjoy them!
+<ul class="smd-ul">
+<li><a href="https://www.youtube.com/watch?v=jUOOzi5gukY" target="_blank" rel="noopener">One Tip to Improve Your Photos in Lightroom</a></li>
+<li><a href="https://www.youtube.com/watch?v=af88_3Sgvc4" target="_blank" rel="noopener">Edit your Photos UPSIDE-DOWN</a></li>
+<li><a href="https://www.youtube.com/watch?v=4pGlTw1rHy8" target="_blank" rel="noopener">Understanding your Photography</a></li>
+<li><a href="https://www.youtube.com/watch?v=z3s_SmWLnMA" target="_blank" rel="noopener">I have a PROBLEM, I love FLAT LIGHT</a></li>
+<li><a href="https://www.youtube.com/watch?v=3RNWJPbrZfo" target="_blank" rel="noopener">9 Photography Tips you should IGNORE!</a></li>
+</ul>
 
 <small>All photos by Silvia Maggi</small>

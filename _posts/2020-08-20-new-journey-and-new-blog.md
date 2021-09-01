@@ -1,12 +1,11 @@
 ---
 title: New journey and new blog
-last_modified_at: '2021-08-27T12:05:08.632Z'
+last_modified_at: '2021-09-01T21:37:59.042Z'
 featured-post: false
 categories:
   - Personal
 tags:
   - blog
-  - personal
   - oregano dangereux
 description: Follow our blog Oregano Dangereux as my husband and I we move back to Italy from the UK.
 featured-image: feat-new-journey-new-blog.jpg
@@ -14,7 +13,9 @@ redirect_from:
   - /photography/new-journey-new-blog/
   - /photography/new-journey-and-new-blog/
 ---
-New journey and new blog for my husband and I to record our thoughts, experiences and memories. After nine years since we moved to the UK, we’re going back to our home country, Italy, where we’ll stay until the pandemic is under control.
+<p class="lead">New journey and new blog for my husband and I to record our thoughts, experiences and memories. After nine years since we moved to the UK, we’re going back to our home country, Italy, where we’ll stay until the pandemic is under control.</p>
+
+{% include pattern-figure.html image="/assets/images/north-sea-cromer.jpg" caption="The North Sea at Cromer" width="1400" height="933" %}
 
 <!--more-->
 

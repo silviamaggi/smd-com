@@ -1,20 +1,19 @@
 ---
 title: Brilliant culture and design books I’m reading
-last_modified_at:
+last_modified_at: '2021-09-01T22:07:09.524Z'
 featured-post: false
 categories:
   - Books
 tags:
-  - books
   - design
   - social media
-description: Here are the culture and design books I'm reading. Some are ideal if you're a designer, others are either very interesting or funny – or both – for anyone.
+description: 'Here are the culture and design books I''m reading. Some are ideal if you''re a designer, others are either very interesting or funny – or both – for anyone.'
 featured-image: feat-recommended-reads.jpg
 redirect_from:
   - /social-media/culture-and-design-books/
   - /it/libri/libri-di-cultura-e-design/
 ---
-As a child, I always had books with me. I loved losing myself into good stories, to the point it hurt when they finished. In later years, my attention span became ridiculously short.
+<p class="lead">As a child, I always had books with me. I loved losing myself into good stories, to the point it hurt when they finished. In later years, my attention span became ridiculously short.</p>
 
 <!--more-->
 
@@ -36,7 +35,7 @@ Even if, initially, the book might seem to be aimed at business people, I found 
 
 I believe this book is a must-read for any company employing people from different countries. Generally, employees have to understand and adapt to the culture of a company; yet, it’s much less common to have open discussions about our differences, how they impact our work and how to approach them successfully.
 
-* [**Read the book**](https://www.goodreads.com/book/show/22085568-the-culture-map){:target="_blank" rel="noopener"}
+🔗 [**Read the book**](https://www.goodreads.com/book/show/22085568-the-culture-map){:target="_blank" rel="noopener"}
 
 ## Ten Arguments For Deleting Your Social Media Accounts Right Now
 
@@ -57,7 +56,7 @@ Lanier explains how algorithms work in general – pointing out how the ones bui
 
 I had doubts about social media well before reading the book, but some of the arguments convinced me to finally act.
 
-* [**Read the book**](https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now){:target="_blank" rel="noopener"}
+🔗 [**Read the book**](https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now){:target="_blank" rel="noopener"}
 
 ## Cross-Cultural Design
 
@@ -71,7 +70,7 @@ I bookmarked this book in [June](https://silviamaggidesign.com/books/design-comm
 
 Whereas many of us think of our users as wealthy, Western people, our audience is much more diverse. So we better design for them too.
 
-* [**Read the book**](https://www.goodreads.com/book/show/50655833-cross-cultural-design){:target="_blank" rel="noopener"}
+🔗 [**Read the book**](https://www.goodreads.com/book/show/50655833-cross-cultural-design){:target="_blank" rel="noopener"}
 
 ## My Bass and Other Animals
 
@@ -85,7 +84,7 @@ If you don’t know him by name, chances are you heard him playing bass in many 
 
 At some point, he also did stand up shows, on which this book is based. I was lucky enough to both see him playing live and hear his recollection of his almost-encounter with Michael Jackson. Expect a very entertaining, funny read.
 
-* [**Read the book**](https://www.goodreads.com/book/show/2822087-my-bass-and-other-animals){:target="_blank" rel="noopener"}
+🔗 [**Read the book**](https://www.goodreads.com/book/show/2822087-my-bass-and-other-animals){:target="_blank" rel="noopener"}
 
 ## La Testa degli Italiani
 
@@ -101,7 +100,8 @@ Before clarifying how the mediation happened — what was instrinsically mine an
 
 Servegnini is a respected journalist, whose column, _[Italians](https://italians.corriere.it/){:target="_blank" rel="noopener"},_ I used to follow many years ago. He wrote _La Testa degli Italiani_ with a lot of sense of humour, so you should approach the book as a semi-serious portrait of a country that is often romanticised or condemned.
 
-* [**Read the book in Italian**](https://www.goodreads.com/book/show/1564625.La_testa_degli_italiani){:target="_blank" rel="noopener"}
-* [**Read the book in English**](https://www.goodreads.com/book/show/581712.La_Bella_Figura){:target="_blank" rel="noopener"}
+🔗 [**Read the book in Italian**](https://www.goodreads.com/book/show/1564625.La_testa_degli_italiani){:target="_blank" rel="noopener"}
 
-<small>Photo by [Drew Coffman](https://unsplash.com/@drewcoffman){:target="_blank" rel="noopener"} on Unsplash, design by Silvia Maggi</small>
+🔗 [**Read the book in English**](https://www.goodreads.com/book/show/581712.La_Bella_Figura){:target="_blank" rel="noopener"}
+
+<!-- <small>Photo by [Drew Coffman](https://unsplash.com/@drewcoffman){:target="_blank" rel="noopener"} on Unsplash, design by Silvia Maggi</small> -->

@@ -1,18 +1,17 @@
 ---
 title: Shutter Hub Open Exhibition 2017 at Retina Photography Festival
-last_modified_at:
+last_modified_at: '2021-09-01T22:54:53.926Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - exhibition
   - edinburgh
   - uk
-description: My photo The Day I Glimpsed Inside Your Soul will be part of the Shutter Hub Open Exhibition 2017, at the Retina Scottish International Photography Festival.
+description: 'My photo The Day I Glimpsed Inside Your Soul will be part of the Shutter Hub Open Exhibition 2017, at the Retina Scottish International Photography Festival.'
 featured-image: feat-the-day-i-glimpsed-inside-your-soul.jpg
 ---
-I am excited and honoured to announce that my photo _The Day I Glimpsed Inside Your Soul_ will be part of the _Shutter Hub Open Exhibition 2017_, at the _Retina Scottish International Photography Festival_.
+<p class="lead">I am excited and honoured to announce that my photo <em>The Day I Glimpsed Inside Your Soul</em> will be part of the <em>Shutter Hub Open Exhibition 2017</em>, at the <em>Retina Scottish International Photography Festival</em>.</p>
 
 <!--more-->
 
@@ -34,8 +33,9 @@ The exhibition runs from 1st – 30th of July 2017, in beautiful Edinburgh.
 
 ## About Shutter Hub
 
-The photography organisation providing opportunities, support and networking for creative photographers worldwide.  
-[http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank" rel="noopener"}
+The photography organisation providing opportunities, support and networking for creative photographers worldwide.
+
+🔗 [http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank" rel="noopener"}
 
 ## About Retina Scottish International photography festival
 

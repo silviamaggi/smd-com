@@ -1,19 +1,18 @@
 ---
 title: Hot Numbers Open Exhibition
-last_modified_at:
+last_modified_at: '2021-09-01T23:01:21.001Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - exhibition
   - cambridge
   - uk
-description: Starting 12 December 2016, until 22 January 2017, my photo, Boatspotting, is part of the Hot Numbers Open Exhibition in Cambridge.
-excerpt: Starting 12 December 2016, until 22 January 2017, my photo, Boatspotting, is part of the Hot Numbers Open Exhibition in Cambridge.
+description: 'Starting 12 December 2016, until 22 January 2017, my photo, Boatspotting, is part of the Hot Numbers Open Exhibition in Cambridge.'
+excerpt: 'Starting 12 December 2016, until 22 January 2017, my photo, Boatspotting, is part of the Hot Numbers Open Exhibition in Cambridge.'
 featured-image: feat-20160506-img_2730.jpg
 ---
-Starting 12 December 2016, until 22 January 2017, one of my photos is part of the _[Hot Numbers](http://hotnumberscoffee.co.uk/){:target="_blank" rel="noopener"} Open Exhibition_ in Cambridge.
+<p class="lead">Starting 12 December 2016, until 22 January 2017, one of my photos is part of the Hot Numbers  Open Exhibition in Cambridge.</p>
 
 {% include pattern-figure.html image="/assets/images/20160506-boatspotting-img_27301.jpg" caption="Boatspotting" width="933" height="1400" %}
 

@@ -1,23 +1,23 @@
 ---
 title: Isolation photo diary
-last_modified_at: '2021-08-27T12:10:31.956Z'
+last_modified_at: '2021-09-01T22:47:13.992Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - personal
   - isolation
   - lockdown
-description: 'After the initial shock, the lockdown and subsequent isolation prompted me to point the lens to my emotions and immediate surroundings. Here I present my isolation photo diary.'
+description: 'After the initial shock, the lockdown and subsequent isolation prompted me to point the lens to my emotions and immediate surroundings.'
 excerpt: 'Between the ups and downs of the global **pandemic** and **lockdown**, I kept taking pictures. I intended to have a **photo diary** to describe my take on **isolation** and the extraordinary circumstances we’re living.'
 featured-image: feat-isolation-photo-diary-silviamaggi.jpg
 redirect_from:
   - /creativity/isolation-photo-diary/
 ---
-{% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-1.jpg" caption="Isolation #1" width="1280" height="853" %}
 
-Between the ups and downs of the global **pandemic** and **lockdown**, I kept taking pictures. I intended to have a **photo diary** to describe my take on **isolation** and the extraordinary circumstances we’re living.
+<p class="lead">Between the ups and downs of the global <strong>pandemic</strong> and <strong>lockdown</strong>, I kept taking pictures. I intended to have a <strong>photo diary</strong> to describe my take on <strong>isolation</strong> and the extraordinary circumstances we’re living.</p>
+
+{% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-1.jpg" caption="Isolation #1" width="1280" height="853" %}
 
 {% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-2.jpg" caption="Isolation #2" width="1280" height="853" %}
 
@@ -41,7 +41,5 @@ I’m still mostly isolating and avoiding all unnecessary activities. Neverthele
 
 ![Isolation photo diary](/assets/images/isolation-photo-diary-silviamaggi-8.jpg)
 ![Isolation photo diary](/assets/images/isolation-photo-diary-silviamaggi-9.jpg)
-
-My Photos [on Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank" rel="noopener"}
 
 <small>All photos by Silvia Maggi</small>

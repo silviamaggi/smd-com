@@ -1,22 +1,24 @@
 ---
 title: Wisteria in bloom
-last_modified_at:
+last_modified_at: '2021-09-01T22:19:23.702Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - wisteria
+  - ravenna
   - italy
-description: As the weather warms, the wisteria in the yard is blooming. I took a couple of pictures of it.
+description: 'As the weather warms, the wisteria in the yard is blooming. I took a couple of pictures of it.'
 featured-image: feat-20210403-wisteria-in-bloom-1.jpg
 redirect_from:
   - /it/oggi-ho-visto/glicine-in-fiore/
   - /today-i-saw/wisteria-in-bloom
 ---
-Before the weather turned chilly again, we’ve enjoyed very mild temperatures. It’s easy to think the winter has gone, when the temperature is 22ºC and the flowers are blooming.
+<p class="lead">Before the weather turned chilly again, we’ve enjoyed very mild temperatures. It’s easy to think the winter has gone, when the temperature is 22ºC and the flowers are blooming.</p>
 
 <!--more-->
+
+{% include pattern-figure.html image="/assets/images/20210403-wisteria-in-bloom-1.jpg" caption="Wisteria in bloom" width="1400" height="934" %}
 
 {% include pattern-figure.html image="/assets/images/20210403-wisteria-in-bloom-2.jpg" caption="Wisteria in bloom" width="1400" height="934" %}
 

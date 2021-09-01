@@ -1,20 +1,19 @@
 ---
 title: Girl Town moved to Tel Aviv
-last_modified_at:
+last_modified_at: '2021-09-01T23:02:18.971Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - exhibition
   - girl town
-description: Girl Town moved to Tel Aviv, Israel. The exhibition celebrates the culture of the female in the 21th century. By Shutter Hub, hosted at Albert Gallery.
-excerpt: The exhibition celebrates the culture of the female in the 21th century. By Shutter Hub, hosted at Albert Gallery.
+description: 'Girl Town moved to Tel Aviv, Israel. The exhibition celebrates the culture of the female in the 21th century. By Shutter Hub, hosted at Albert Gallery.'
+excerpt: 'The exhibition celebrates the culture of the female in the 21th century. By Shutter Hub, hosted at Albert Gallery.'
 featured-image: feat-20160916_girltown-empty-3502.jpg
 redirect_from:
   - /photography/girl-town-tel-aviv/
 ---
-## GIRL TOWN moved to Tel Aviv, Israel, where it ran from 8 February to 9 March 2018 at the Alfred Gallery.
+<p class="lead">The <em>GIRL TOWN Exhibition</em> moved to Tel Aviv, Israel, where it ran from 8 February to 9 March 2018 at the Alfred Gallery.</p>
 
 Originally presented at Photomonth East London International Photography Festival in 2016, the show celebrates the culture of the female in the 21th century.
 
@@ -27,9 +26,11 @@ Shutter Hub shared impressions, reactions and photos from the private view. Head
 ### About Shutter Hub
 
 The photography organisation providing opportunities, support and networking for creative photographers worldwide.  
-[http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank" rel="noopener"}
+
+🔗 [http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank" rel="noopener"}
 
 ### About Alfred Institute
 
 Alfred Gallery is a cooperative space that welcomes international exhibitions and collaborative projects in Simtat Shlush.  
-[http://www.alfredinstitute.org/eng/alfred-institute-welcome](http://www.alfredinstitute.org/eng/alfred-institute-welcome){:target="_blank" rel="noopener"}
+
+🔗 [http://www.alfredinstitute.org/eng/alfred-institute-welcome](http://www.alfredinstitute.org/eng/alfred-institute-welcome){:target="_blank" rel="noopener"}

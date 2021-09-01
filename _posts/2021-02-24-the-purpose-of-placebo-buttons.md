@@ -1,16 +1,16 @@
 ---
 title: The purpose of placebo buttons
-last_modified_at: 
+last_modified_at: '2021-09-01T22:37:21.065Z'
 featured-post: false
 categories:
   - Design
 tags:
-  - design
   - psychology
+  - ux
 description: Do pedestrian buttons work? Some of them don't. They're called placebo buttons. Read about their purpose.
 featured-image: feat-berlin-night-silviamaggi.jpg
 ---
-If you ever needed to cross a busy road in any city, chances are you wondered whether pedestrian buttons _actually_ make your waiting time shorter.
+<p class="lead">If you ever needed to cross a busy road in any city, chances are you wondered whether pedestrian buttons <em>actually</em> make your waiting time shorter.</p>
 
 <!--more-->
 
@@ -18,6 +18,6 @@ Some of them probably don’t: they’re called _placebo buttons_. They do have 
 
 ## Read the article
 
-* [Illusion of control: Why the world is full of buttons that don’t work](https://edition.cnn.com/style/article/placebo-buttons-design/index.html){:target="_blank" rel="noopener"}
+🔗 [Illusion of control: Why the world is full of buttons that don’t work](https://edition.cnn.com/style/article/placebo-buttons-design/index.html){:target="_blank" rel="noopener"}
 
-<small>Photo by Silvia Maggi</small>
+<!-- <small>Photo by Silvia Maggi</small> -->

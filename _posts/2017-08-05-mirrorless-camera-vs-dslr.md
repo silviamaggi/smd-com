@@ -1,11 +1,10 @@
 ---
 title: Mirrorless camera vs DSLR. My experience in Edinburgh
-last_modified_at:
+last_modified_at: '2021-09-01T20:57:20.670Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - edinburgh
   - fujifilm
   - travel
@@ -16,12 +15,14 @@ redirect_from:
   - /photography/about-fuji-and-changing-mindset/
   - /photography/about-fujifilm-and-changing-mindset/
 ---
-How switching from an entry-level Canon DSLR to a mirrorless camera changed my photography mindset.
+<p class="lead">How switching from an entry-level Canon DSLR to a mirrorless camera changed my photography mindset.</p>
 
 <!--more-->
 
 I bought a Fujifilm X-T20. The main reason for me to switch from an entry-level Canon
 <abbr title="Digital Single-Lense Reflex">DSLR</abbr> to a mirrorless camera was initially to carry less weight around.
+
+{% include pattern-figure.html image="/assets/images/20170804_edinburgh_1265.jpg" caption="Calton Hill, Edinburgh" width="1400" height="740" %}
 
 After reading the manual, though, it became clear that the little camera would make a more profound change in the way I take and process my pictures.
 
@@ -33,11 +34,13 @@ A visit to Edinburgh, where a photo of mine was exhibited at the _[Shutter Hub O
 
 I’ve decided to make good use of the help the camera can give me by using the following settings:
 
-* Automatic white balance
-* Autofocus (face and eye detection switched on)  — with additional manual focus
-* Automatic ISO — chosen by the camera, among a range of ISOs selected by me
-* A film simulation mode of my choice
-* RAW + JPEG
+<ul class="smd-ul">
+<li>Automatic white balance</li>
+<li>Autofocus (face and eye detection switched on)  — with additional manual focus</li>
+<li>Automatic ISO — chosen by the camera, among a range of ISOs selected by me</li>
+<li>A film simulation mode of my choice</li>
+<li>RAW + JPEG</li>
+</ul>
 
 {% include pattern-figure.html image="/assets/images/20170729-silvia-1249.jpg" caption="The view from Calton Hill, Edinburgh" width="1400" height="933" %}
 
@@ -66,11 +69,13 @@ Having complete control over how a picture looks is great but, after seeing how 
 
 What I am doing now is trying to get the best in-camera result, by modifying the settings for the camera mode of choice:
 
-* Noise reduction -2
-* Highlight tone -1
-* Shadow tone -1
-* Sharpness +1
-* Dynamic range 100%
+<ul class="smd-ul">
+<li>Noise reduction -2</li>
+<li>Highlight tone -1</li>
+<li>Shadow tone -1</li>
+<li>Sharpness +1</li>
+<li>Dynamic range 100%</li>
+</ul>
 
 Then, I import the out-of-the-camera JPGs into Lightroom and make some changes before saving them, moving the RAW files directly to an external drive.
 

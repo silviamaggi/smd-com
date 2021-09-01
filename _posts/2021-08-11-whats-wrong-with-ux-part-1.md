@@ -1,19 +1,18 @@
 ---
 title: What's wrong with UX – Part 1
-last_modified_at:
+last_modified_at: '2021-09-01T22:28:38.402Z'
 featured-post: false
 categories:
   - Design Digested
 tags:
-  - design digested
   - design
   - design thinking
   - ux
-description: In the first installment of the Design, Digested series since March, I share with you three reasons why the UX industry is currently broken.
+description: 'In the first installment of the Design, Digested series since March, I share with you three reasons why the UX industry is currently broken.'
 featured-image: feat-smd-blog-dd-19.jpg
-permalink: /design-digested/:title/
+permalink: '/design-digested/:title/'
 ---
-In the first instalment of the _[Design, Digested](https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8){:target="_blank" rel="noopener"}_ series since March, I share with you three reasons why the UX industry is currently broken.
+<p class="lead">In the first instalment of the <a href="https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8" target="_blank" rel="noopener"><em>Design, Digested</em></a> series since March, I share with you three reasons why the UX industry is currently broken.</p>
 
 <!--more-->
 
@@ -26,7 +25,7 @@ Designer, researcher and educator Danah Abdulla’s article on consumer capitali
 
 An eye-opener piece on why we should all become design dissenters.
 
-* Read the article [on Medium](https://futuress.org/magazine/against-performative-positivity/){:target="_blank" rel="noopener"}
+🔗 Read the article [on Medium](https://futuress.org/magazine/against-performative-positivity/){:target="_blank" rel="noopener"}
 
 ## What does “after UX” even mean?
 
@@ -37,7 +36,7 @@ UX Designer Yichen He writes:
 
 Spot on, this kind of social media posts does more harm than good to the UX profession.
 
-* Read the article [on Futuress](https://uxdesign.cc/what-does-after-ux-even-mean-7edc3d4febc4){:target="_blank" rel="noopener"}
+🔗 Read the article [on Futuress](https://uxdesign.cc/what-does-after-ux-even-mean-7edc3d4febc4){:target="_blank" rel="noopener"}
 
 ## Design Thinking Isn’t User Experience
 
@@ -48,6 +47,6 @@ Debbie Levitt, CEO of Delta CX, CX and UX strategist, designer, and trainer sinc
 
 CX (Customer Experience) and UX (User Experience) professionals already use the User-Centred Design process (UCD): evangelising Design Thinking over-simplifies complex professions and leads to poorly designed products.
 
-* Read the article [on CMS Wire](https://www.cmswire.com/digital-experience/design-thinking-isnt-user-experience/){:target="_blank" rel="noopener"}
+🔗 Read the article [on CMS Wire](https://www.cmswire.com/digital-experience/design-thinking-isnt-user-experience/){:target="_blank" rel="noopener"}
 
-<small>Photo and design by Silvia Maggi</small>
+<!-- <small>Photo and design by Silvia Maggi</small> -->

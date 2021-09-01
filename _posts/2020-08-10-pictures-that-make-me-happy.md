@@ -1,23 +1,25 @@
 ---
 title: Pictures that make me happy
-last_modified_at:
+last_modified_at: '2021-09-01T21:31:48.348Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - fujifilm
+  - cambridge
   - uk
 description: Nature and a shallow depth of field create one of my favourite photography style. Here I present four pictures that make me happy.
 featured-image: feat-pictures-that-make-me-happy.jpg
 ---
-During the past sweltering weekend, I looked for a few pictures to make my website more personal: not many other things in photography make me happy as nature and a shallow depth of field.
+<p class="lead">During the past sweltering weekend, I looked for a few pictures to make my website more personal: not many other things in photography make me happy as nature and a shallow depth of field.</p>
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/pictures-that-make-me-happy-2.jpg" caption="Pictures that make me happy #2" width="1400" height="933" %}
+{% include pattern-figure.html image="/assets/images/pictures-that-make-me-happy.jpg" caption="Pictures that make me happy #1" width="1400" height="933" %}
 
 As my main website is purely for introduction to my work and experience, I didn’t want big photos to steal the visitor’s attention. But they needed to represent me, which I think they do.
+
+{% include pattern-figure.html image="/assets/images/pictures-that-make-me-happy-2.jpg" caption="Pictures that make me happy #2" width="1400" height="933" %}
 
 {% include pattern-figure.html image="/assets/images/pictures-that-make-me-happy-3.jpg" caption="Pictures that make me happy #3" width="1400" height="933" %}
 
@@ -29,5 +31,4 @@ The swirly effect in most of the pictures is courtesy of the Helios 44M lens tha
 
 These photos featured on the previous version of my website.
 
-––  
 <small>All photos by Silvia Maggi</small>

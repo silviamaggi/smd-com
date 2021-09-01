@@ -1,11 +1,10 @@
 ---
 title: After the rain
-last_modified_at: '2021-08-27T11:40:33.753Z'
+last_modified_at: '2021-09-01T22:43:02.290Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - cambridge
   - fujifilm
   - uk
@@ -14,7 +13,7 @@ featured-image: feat-after-the-rain-silviamaggi.jpg
 redirect_from:
   - /today-i-saw/after-the-rain/
 ---
-Today, after the rain, I used the tripod to take a few short videos in the garden. With time, I will set up a YouTube channel to share them.
+<p class="lead">Today, after the rain, I used the tripod to take a few short videos in the garden. With time, I will set up a YouTube channel to share them.</p>
 
 <!--more-->
 
@@ -28,7 +27,4 @@ During the last few weeks, I neglected taking care of my body and started to fee
 
 {% include pattern-figure.html image="/assets/images/after-the-rain-silviamaggi-3.jpg" caption="After the rain #3" width="1400" height="933" %}
 
-I’m writing this post after a short restorative yoga session and can feel the difference already.
-
-––  
 <small>All photos by Silvia Maggi</small>

@@ -1,11 +1,10 @@
 ---
 title: Photography rut and little things in my garden
-last_modified_at: '2021-08-27T13:28:21.561Z'
+last_modified_at: '2021-09-01T20:34:37.661Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - cambridge
   - uk
 description: 'Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.'
@@ -15,7 +14,7 @@ redirect_from:
   - /creativity/photography-rut-and-little-things-in-my-garden/
   - /creativity/photography-rut/
 ---
-Having an ongoing photo project is good, as it helps seeing things around us with a different perspective and noticing details usually overlooked in our day-to-day life.
+<p class="lead">Having an ongoing photo project is good, as it helps seeing things around us with a different perspective and noticing details usually overlooked in our day-to-day life.</p>
 
 My ongoing project is about the changes in nature and sky on my way to work with my bicycle. It began in July 2016, around the time I started a new job in Cambridge.
 

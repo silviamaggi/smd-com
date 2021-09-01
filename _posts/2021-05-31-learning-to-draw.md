@@ -1,20 +1,19 @@
 ---
 title: Learning to draw. A journey
-last_modified_at:
+last_modified_at: '2021-09-01T22:25:24.683Z'
 featured-post: false
 categories:
   - Drawing
 tags:
-  - drawing
   - drawabox
   - design
   - personal
-description: As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey.
+description: 'As much as wanted to, I couldn''t sketch every day. I''d stare at the blank page, not knowing what to draw, and then give up. So I started a new journey.'
 featured-image: feat-sam-rios-unsplash.jpg
 redirect_from:
   - /design/learning-to-draw/
 ---
-In my latest _Design, Digested_ post titled [The importance of sketching in UX and beyond]({{ site.url }}design-digested/importance-of-sketching-in-ux/), I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up.
+<p class="lead">In my latest <em>Design, Digested</em> post titled <a href="{{ site.url }}design-digested/importance-of-sketching-in-ux/">The importance of sketching in UX and beyond</a>, I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing <em>what</em> to draw, and then give up.</p>
 
 <!--more-->
 
@@ -50,13 +49,15 @@ I could see where I lost focus and, more importantly, **I could see progress bet
 
 **My ultimate goal is to learn the fundamentals of drawing**, and take it forward with time. However, there are other important skills to be learned along the way, and that can be applied elsewhere:
 
-* The **confidence** to act, instead of being stuck in my mind.
-* The ability to **plan** and **envision** before starting.
-* The ability to **convey ideas, concepts and information clearly**.
-* The **freedom** to enjoy the process for the sake of it.
-* The ability to **observe** better.
-* **Patience.**
+<ul class="smd-ul">
+<li>The <strong>confidence</strong> to act, instead of being stuck in my mind.</li>
+<li>The ability to <strong>plan</strong> and <strong>envision</strong> before starting.</li>
+<li>The ability to <strong>convey</strong> ideas, concepts and information <strong>clearly</strong>.</li>
+<li>The <strong>freedom</strong> to enjoy the process for the sake of it.</li>
+<li>The ability to <strong>observe</strong> better.</li>
+<li><strong>Patience.</strong></li>
+</ul>
 
 Let the journey begin!
 
-<small>Photo by [Sam Rios](https://unsplash.com/@samr1os_official){:target="_blank" rel="noopener"} on Unsplash</small>
+<!-- <small>Photo by [Sam Rios](https://unsplash.com/@samr1os_official){:target="_blank" rel="noopener"} on Unsplash</small> -->

@@ -5,7 +5,6 @@ featured-post: false
 categories:
   - Design Digested
 tags:
-  - design digested
   - accessibility
   - ravelry
   - ux
@@ -16,7 +15,7 @@ redirect_from:
   - /accessibility/design-digested-8-how-a-well-known-website-lost-the-trust-of-their-community/
   - /accessibility/a-website-lost-community-trust/
 ---
-In this inspiration series: a well-known website lost community trust with a redesign that didn’t take into account its users with disabilities.
+<p class="lead">In this inspiration series: a well-known website lost community trust with a redesign that didn’t take into account its users with disabilities.</p>
 
 Something important took space in my mind during the past week: **web accessibility**.
 
@@ -32,6 +31,6 @@ I wrote a blog post about this detailing what happened and explaining what are t
 
 It’s up to us, designers and developers, to build **accessible** websites. It’s up to all of us to call out companies that don’t do it. We are all **responsible** for making the web **accessible**, **usable** and **inclusive**.
 
-[Read the blog post]({{ site.url }}/design/ravelry-rebranding/)
+🔗 [Read the blog post]({{ site.url }}/design/ravelry-rebranding/)
 
-<small>Photo by [Tara Evans](https://unsplash.com/photos/IcvR0jFbsz0){:target="_blank" rel="noopener"} on Unsplash, design by Silvia Maggi</small>
+<!-- <small>Photo by [Tara Evans](https://unsplash.com/photos/IcvR0jFbsz0){:target="_blank" rel="noopener"} on Unsplash, design by Silvia Maggi</small> -->

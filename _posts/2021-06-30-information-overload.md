@@ -1,24 +1,23 @@
 ---
 title: Information overload
-last_modified_at:
+last_modified_at: '2021-09-01T22:35:20.427Z'
 featured-post: false
 categories:
   - Design Digested
 tags:
-  - design digested
   - design
   - letter
   - personal
   - ux
-description: On information overload and my plans for the newsletter Design, Digested.
+description: 'On information overload and my plans for the newsletter Design, Digested.'
 featured-image: feat-smd-blog-featured-image_lettera.jpg
-permalink: /design-digested/:title/
+permalink: '/design-digested/:title/'
 redirect_from:
   - /design/information-overload/
   - /it/design-it/sovraccarico-di-informazioni/
   - /it/design-digested-it/sovraccarico-di-informazioni/
 ---
-On the latest letter I sent out on 20 June, I set out my plans for the next few months. Ever felt overwhelmed by the quantity of information found on the internet? Then you’ll know what I’m talking about.
+<p class="lead">On the latest letter I sent out on 20 June, I set out my plans for the next few months. Ever felt overwhelmed by the quantity of information found on the internet? Then you’ll know what I’m talking about.</p>
 
 <!--more-->
 
@@ -35,4 +34,4 @@ During the coming weeks, I’ll be sharing these UX sources here and on the blog
 Take care,  
 Silvia
 
-<small>Photo by [Flavio Amiel](https://unsplash.com/@flavioamiel){:target="_blank" rel="noopener"} on Unsplash, design by Silvia Maggi</small>
+<!-- <small>Photo by [Flavio Amiel](https://unsplash.com/@flavioamiel){:target="_blank" rel="noopener"} on Unsplash, design by Silvia Maggi</small> -->

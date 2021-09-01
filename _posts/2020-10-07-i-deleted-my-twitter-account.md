@@ -1,11 +1,10 @@
 ---
 title: I deleted my Twitter account and an update
-last_modified_at: 
+last_modified_at: '2021-09-01T22:42:44.165Z'
 featured-post: false
 categories:
   - Personal
 tags:
-  - personal
   - social media
 description: Today I tell you why I deleted my Twitter account and give you an update on why I've been silent on my blog lately.
 featured-image: feat-i-deleted-my-twitter-account.jpg
@@ -13,7 +12,7 @@ redirect_from:
   - /social-media/why-i-deleted-my-twitter-account-and-an-update/
   - /social-media/i-deleted-my-twitter-account/
 ---
-Today I **deleted** my Twitter account, and it felt good. Lately, I’ve visited to keep up to date with other UX professional but it’s impossible to avoid retweets about **politics** and other topics.
+<p class="lead">Today I <strong>deleted</strong> my Twitter account, and it felt good. Lately, I’ve visited to keep up to date with other UX professional but it’s impossible to avoid retweets about <strong>politics</strong> and other topics.</p>
 
 <!--more-->
 
@@ -25,4 +24,4 @@ In other news, I’ve been silent on my blog because my husband and I **moved ou
 
 Watch this space.
 
-<small>Photo by [Chris J. Davis](https://unsplash.com/@chrisjdavis){:target="_blank" rel="noopener"} on Unsplash</small>
+<!-- <small>Photo by [Chris J. Davis](https://unsplash.com/@chrisjdavis){:target="_blank" rel="noopener"} on Unsplash</small> -->

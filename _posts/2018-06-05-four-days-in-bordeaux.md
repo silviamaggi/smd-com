@@ -5,14 +5,13 @@ featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - bordeaux
   - france
   - travel
 description: 'My husband and I spent four days in Bordeaux, France. Read about what we saw and did, and look at the photos I took in this beautiful city.'
 featured-image: feat-20180524_bordeaux_2793.jpg
 ---
-A few weeks ago, my husband and I travelled outside the UK for a different reason other than visiting family and friends: we spent four days in Bordeaux.
+<p class="lead">A few weeks ago, my husband and I travelled outside the UK for a different reason other than visiting family and friends: we spent four days in Bordeaux.</p>
 
 <!--more-->
 
@@ -35,7 +34,6 @@ One of the many things I noticed is people entering a restaurant or a cafe and s
 Located between the Garonne and Place de la Bourse, [Le Miroir d’Eau](https://youtu.be/0s8RIkpMf8Q){:target="_blank" rel="noopener"} is a fountain that creates special effects with water and artificial misting against the stunning 18th century’s architecture of the square. We admired the reflections and refreshing mist just like anyone else: it’s remarkable how something so simple, yet ingenious, can entertain and amuse everyone–children and adults alike.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-3/" %}
-
 
 ## Palais Gallien
 

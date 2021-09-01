@@ -1,23 +1,25 @@
 ---
 title: Today I saw
-last_modified_at: '2021-08-27T12:04:08.385Z'
+last_modified_at: '2021-09-01T21:25:41.481Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - instagram
   - personal
   - social media
+  - cambridge
   - uk
 description: 'With the intent of staying away from social media, I started "Today I Saw", a series where I post one photo and a few thoughts about it.'
 featured-image: feat-today-i-saw-silviamaggi.jpg
 redirect_from:
   - /today-i-saw/today-i-saw/
 ---
-It’s that itch again. Today I saw something I like but can’t take a picture. Or, I can and do, but it’s doesn’t work on Instagram.
+<p class="lead">It’s that itch again. Today I saw something I like but can’t take a picture. Or, I can and do, but it’s doesn’t work on Instagram.</p>
 
 <!--more-->
+
+{% include pattern-figure.html image="/assets/images/today-i-saw.jpg" caption="An abandoned cobweb in my garden" width="1280" height="844" %}
 
 It happens a lot of times: I even wrote a post called [How Instagram Drained My Creativity]({{ site.url }}/photography/instagram-drained-my-creativity/), where I described what made me appreciate photography again. More than a year later, I’ve yet to free myself from the loop of brief satisfaction of the numbers and the desire to have more.
 

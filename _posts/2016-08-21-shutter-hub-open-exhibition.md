@@ -1,18 +1,17 @@
 ---
 title: Shutter Hub Open Exhibition 2016
-last_modified_at:
+last_modified_at: '2021-09-01T23:06:13.674Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - photography
   - exhibition
   - cambridge
   - uk
-description: Starting 24 June 2016, for a month, one of my photos was part of the Shutter Hub OPEN Exhibition 2016 at Hot Numbers Coffee, Cambridge.
+description: "Starting 24 June 2016, for a month, one of my photos was part of the\_Shutter Hub OPEN Exhibition 2016\_at\_Hot Numbers Coffee, Cambridge."
 featured-image: feat-gonville-and-caius-silviamaggi.jpg
 ---
-Starting 24 June 2016, for a month, one of my photos was part of the _[Shutter Hub OPEN Exhibition 2016](http://shutterhub.org.uk/blog/its-a-wrap-a-round-up-of-the-shutter-hub-open-2016){:target="_blank" rel="noopener"}_ at the [Hot Numbers Coffee](http://hotnumberscoffee.co.uk/){:target="_blank" rel="noopener"}, in Cambridge.
+<p class="lead">Starting 24 June 2016, for a month, one of my photos was part of the <a href="http://shutterhub.org.uk/blog/its-a-wrap-a-round-up-of-the-shutter-hub-open-2016" target="_blank" rel="noopener"><em>Shutter Hub OPEN Exhibition 2016</em></a> at the <a hreg="http://hotnumberscoffee.co.uk/" target="_blank" rel="noopener">Hot Numbers Coffee</a>, in Cambridge.</p>
 
 <!--more-->
 
@@ -28,4 +27,4 @@ I’ve had the chance to meet with talented photographers and local creatives, a
 
 The photography organisation providing opportunities, support and networking for creative photographers worldwide.
 
-&rarr; [http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank" rel="noopener"}
+🔗 [http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank" rel="noopener"}
