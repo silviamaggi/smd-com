@@ -2,31 +2,26 @@
 // $GENERAL
 // ------------------------------------------------ //
 html {
-  // background-color: #FEFCFA;
-  background-color: #FEF9FA;
   border: 1rem solid #fff;
 }
 body {
-  background: url('/assets/images/smd-bg-texture.jpg') no-repeat fixed bottom left;
+  background: $background-l-30 url('/assets/images/smd-bg-texture.jpg') no-repeat fixed bottom left;
   background-size: 100% auto;
-  min-height: calc(100vh - 2rem);
-}
-main {
-  min-height: calc(100vh - 2rem - 72px); // =====> Adjust to breakpoints
 }
 .entry {
   a {
-    color: black;
-    text-decoration-color: $primary;
+    color: $link-color;
+    text-decoration-color: $link-color;
     text-decoration-thickness: 4px;
 
     &:hover {
-      color: tint-color(#014C5D, 20%);
-      text-decoration-color: shade-color($primary, 20%);
+      // color: $link-l-20;
+      text-decoration-color: $link-d-20;
       transition: text-decoration-color 0.3s ease-in;
     }
   }
 }
+
 
 // ------------------------------------------------ \\
 // $HEADINGS
@@ -35,24 +30,24 @@ h2, h3, h4, h5, h6,
 .h2, .h3, .h4, .h5, .h6 {
   margin-top: 2rem;
 }
-h3, h4, h5, h6,
-.h3, .h4, .h5, .h6 {
-  color: #555;
+h2, h3, h4, h5, h6,
+.h2, .h3, .h4, .h5, .h6 {
+  color: $heading-d-20;
   .related-posts & {
-    color: black;
+    color: $heading;
   }
 }
 h5, h6,
 .h5, .h6 {
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: $letter-spacing-wide-1;
 }
 
 // ------------------------------------------------ \\
 // $NAVIGATION
 // ------------------------------------------------ //
 .current {
-  color: green;
+  color: $primary;
 }
 
 // ------------------------------------------------ \\
@@ -76,7 +71,7 @@ hr {
   li {
     margin: .7rem 0;
     &::marker {
-      color: $primary;
+      color: $link-color;
     }
   }
 }
@@ -115,12 +110,12 @@ hr {
 }
 // Post meta
 .post-taxonomy-label {
-  background: #ccc;
-  padding: 0 8px;
+  font-size: $micro-font-size;
+  padding: 0 0.4rem;
 }
 // Related posts
 .related-posts {
-  background: rgba($color: rgb(235, 213, 201), $alpha: .3);
+  background: rgba($background-l-30, .3);
 }
 .related-post {
   margin: 1.5rem 0;
@@ -134,66 +129,21 @@ hr {
 }
 // Footer
 .smd-footer-wrapper {
-  background: rgba($color: #fff, $alpha: .4);
+  background: rgba($background-l-30, .2);
 }
 
 
+// ------------------------------------------------ \\
+// $BUTTONS
+// ------------------------------------------------ //
+// SMD default button
+.btn-smd {
+  color: $link-d-70;
+  background-color: $background;
 
-
-
-
-
-
-// TO BE EVALUATED ===================
-
-
-// Intro
-.avatar {
-  float: left;
-}
-
-// Temp image gallery
-.image-gallery-picture {
-  display: block; 
-  float: left; 
-  margin-right: 1em;
-
-  p {
-    text-align: center;
-  }
-}
-
-// Archive pages (tags and categories)
-.archives {
-  list-style-type: none;
-  text-align: center;
-  margin: 0;
-  padding: 0;
-
-  li {
-    display: inline-block;
-    margin: 16px 8px;
-    padding: 0;
-    text-align: center;
-    cursor: pointer;
-
-    :hover {
-      background-color: #ccc;
-    }
-
-    a {
-      display: block;
-      color: black;
-      text-align: center;
-      text-decoration: none;
-      padding: 8px 16px;
-      border-radius: 4px;
-      background-color: #f1f1f1;
-
-      sup {
-        font-weight: bold;
-        color: rgb(54, 148, 155);
-      }
-    }
+  &:hover {
+    color: $link-l-80;
+    background-color: $background-d-70;
+    transition: background-color 0.3s ease-in;
   }
 }

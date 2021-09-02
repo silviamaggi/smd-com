@@ -3,21 +3,28 @@
  * No copyright 2021 - Silvia Maggi
  */
 
+
 // ------------------------------------------------ \\
 // $REQUIRED functions
 // ------------------------------------------------ //
+
 @import "bootstrap/functions";
 @import "smd-typography";
+@import "bootstrap/vendor/rfs";
+@import "bootstrap/variables";
+
 
 // ------------------------------------------------ \\
 // $CUSTOM VARIABLE OVERRIDES
+//
+// Variables that exist in Bootstrap. Can usually
+// be found in _reboot.scss and _variables.scss
 // ------------------------------------------------ //
-$enable-transitions: true;
-$enable-rfs: true;
+
 // Typography
+$enable-rfs: true;
+// Typography: headings
 $headings-font-family: 'FiraSansBold', serif;
-$lead-font-size: 1.3rem;
-$lead-font-weight: normal;
 $h1-font-size: 3rem;
 $h2-font-size: 1.8rem;
 $h3-font-size: 1.5rem;
@@ -25,33 +32,42 @@ $h4-font-size: 1.4rem;
 $h5-font-size: 1.1rem;
 $h6-font-size: 1rem;
 $headings-margin-bottom: 1.7rem;
+// Typography elements font size
+$lead-font-size: 1.3rem;
+$lead-font-weight: normal;
+$micro-font-size: $small-font-size * .95;
 $font-weight-black: 900;
-// $display-font-weight
-// $blockquote-margin-y
-// $blockquote-font-size
-// $blockquote-footer-font-size
-// $blockquote-footer-color
+// $display-font-weight: ;
+// $blockquote-margin-y: ;
+// $blockquote-font-size: ;
+// $blockquote-footer-font-size: ;
+// $blockquote-footer-color: ;
+
+// Effects
+$enable-transitions: true;
+$enable-shadows: false;
+$enable-gradients: false;
 
 // Colors
-$primary: #98D1DD;
-$secondary: #014C5D;
-$light: #F3AEE5;
-$info: #CFE1E5;
-// $success: ;
-// $warning: ;
-// $dark: ;
-$link-color: #053F4C;
+@import "smd-palette";
+
+// Links
+$link-color: $link;
+$link-decoration: $link;
+$link-shade-percentage: 20%;
+$link-hover-color: tint-color($link-color, $link-shade-percentage);
+$link-hover-decoration: tint-color($link-color, $link-shade-percentage);
 
 // Navigation
+$nav-link-color: $link;
+$nav-link-hover-color: $link;
 $nav-link-font-weight: bold;
-$nav-link-hover-color: $info;
 $nav-link-padding-x: 0.5rem;
 $nav-link-padding-x: 0;
 
 // ------------------------------------------------ \\
 // $REQUIRED Bootstrap
 // ------------------------------------------------ //
-@import "bootstrap/variables";
 @import "bootstrap/mixins";
 @import "bootstrap/utilities";
 
@@ -59,24 +75,15 @@ $nav-link-padding-x: 0;
 // $CUSTOM - Colors
 // ------------------------------------------------ //
 // Remove default colors
-$theme-colors: map-remove($theme-colors, "danger");
-// Colors map
-// $custom-colors: (
-//   "nsd-primary":#c52525
-// );
-// // Merge the maps
-// $theme-colors: map-merge($theme-colors, $custom-colors);
-// $HELP - Tint or shade to mix colors w/ white or black
-// color: tint-color($primary, 10%);
-// color: shade-color($danger, 30%);
+$theme-colors: map-remove($theme-colors, "secondary", "info", "light", "dark", "danger");
 
 // ------------------------------------------------ \\
 // $CUSTOM - Variables
 // ------------------------------------------------ //
-$initialism-font-size: $font-size-base;
+// $initialism-font-size: $font-size-base;
 $letter-spacing-wide-1: 1px;
-$letter-spacing-wide-2: 2px;
 $letter-spacing-shrink: -1px;
+// $letter-spacing-wide-2: 2px;
 
 // ------------------------------------------------ \\
 // $OPTIONAL Bootstrap components
@@ -119,8 +126,6 @@ $letter-spacing-shrink: -1px;
 // Utilities
 @import "bootstrap/utilities/api";
 
-// Vendor
-@import "bootstrap/vendor/rfs";
 
 // ------------------------------------------------ \\
 // $CUSTOM additional code
