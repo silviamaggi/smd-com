@@ -14,6 +14,6 @@ permalink: /categories/
 {% for category in sorted_cats %}
 {% assign c = category | first %}
 {% assign posts = category | last %}
-  <li class="list-inline-item mb-4 me-4"><a class="btn btn-lg btn-smd" href="{{ site.url }}/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
+  <li class="list-inline-item mb-4 me-4"><a class="btn btn-lg btn-label-smd btn-label-smd-bg" href="{{ site.url }}/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
 {% endfor %}
 </ol>

@@ -1,6 +1,6 @@
 ---
 title: The importance of sketching in UX and beyond
-last_modified_at: '2021-09-01T22:36:38.123Z'
+last_modified_at: '2021-09-02T18:21:32.878Z'
 featured-post: false
 categories:
   - Design Digested
@@ -9,32 +9,27 @@ tags:
   - drawing
   - ux
 description: 'Sketching is one of the most important tools a UX Designer should master. Let''s explore why, how, and go beyond.'
+excerpt: 'I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is sketching.'
 featured-image: feat-design-digested-18.jpg
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is <strong>sketching</strong>.</p>
+<p class="lead">I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is <strong>sketching</strong>. If you know how to convey your ideas and concepts through sketches, the rest follows.</p>
 
 <!--more-->
-
-If you know how to convey your ideas and concepts through sketches, the rest follows.
 
 Unless you were hired to create a UX team from scratch, chances are you’ll have to **adapt to use** whatever software your company is using: Axure, Adobe, Figma, Sketch and so on. The one skill you’ll have to develop is the willingness to **put as many ideas as possible on paper**, and leave behind the ones that don’t work.
 
 Up until recently, drawing — or even writing something on a whiteboard — terrified me. I’m very self-conscious about my bad writing, and being left-handed often led me to present smudges to people.
 
-An article from the Interaction Design Foundation convinced me to get over my fears and start sketching, even in my day-to-day life.
-
-Jose Rojas, the article’s author, highlights the advantages and **methods of sketching**. However, what struck me most was the following advice:
+An article from the Interaction Design Foundation convinced me to get over my fears and start sketching, even in my day-to-day life. Jose Rojas, the article’s author, highlights the advantages and **methods of sketching**. However, what struck me most was the following advice:
 
 > As a designer, you will find it’s a great idea to make a habit of always carrying a notebook to keep a record of objects, designs and actions that provoke or inspire you.
 >
-> <cite>Jose Rojas</cite>
+> <cite>— Jose Rojas</cite>
 
 It can be a notebook, your phone’s camera, or both. **Observing and recording our surroundings** helps us develop a critical eye.
 
-## Read the article
-
-🔗 [Etch A Sketch: How to Use Sketching in User Experience Design](https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design){:target="_blank" rel="noopener"}
+🔗 [Read the article](https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design){:target="_blank" rel="noopener"} (on IDF)
 
 ## Start sketching
 
@@ -48,19 +43,15 @@ I used Matt’s advice to refine storyboard and wireframes for the [Acclimatize.
 
 Whether you’re a UX designer or not, learning how to sketch can benefit you in many ways.
 
-> […] I believe drawing is a skill, which means that it’s something obtainable. Anyone can pick it up, learn, improve and eventually become great at it.
+> I believe drawing is a skill, which means that it’s something obtainable. Anyone can pick it up, learn, improve and eventually become great at it.
 >
-> <cite>José Torre</cite>
+> <cite>— José Torre</cite>
 
-**The secret is repetition**, says José Torre. You just need to get started. In the article he explains why, when, what and how to start drawing today.
-
-José also suggests you can **use drawings to illustrate your ideas in presentations** as well.
+**The secret is repetition**, says José Torre. You just need to get started. In the article he explains why, when, what and how to start drawing today. José also suggests you can use drawings to **illustrate your ideas in presentations** as well.
 
 He reminded me of the insightful and delightful webinar by UX designer [Morgane Peng](https://www.morganepeng.com/){:target="_blank" rel="noopener"}, [_How to Deal with People Who Don’t “Get” Design_](https://youtu.be/jXkMWvXx3MI){:target="_blank" rel="noopener"}. Her illustrations complement perfectly her message while making the talk enjoyable and fun.
 
-### Read the article
-
-🔗 [Why should you start drawing today?](https://uxdesign.cc/why-should-you-start-drawing-today-6e7fb8956bd7){:target="_blank" rel="noopener"}
+🔗 [Read the article](https://uxdesign.cc/why-should-you-start-drawing-today-6e7fb8956bd7){:target="_blank" rel="noopener"} (on Medium)
 
 <hr>
 

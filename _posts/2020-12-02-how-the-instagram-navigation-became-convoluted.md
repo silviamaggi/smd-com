@@ -1,6 +1,6 @@
 ---
 title: How the Instagram navigation became convoluted
-last_modified_at: '2021-09-01T22:39:46.918Z'
+last_modified_at: '2021-09-02T21:26:39.474Z'
 featured-post: false
 categories:
   - UX
@@ -12,15 +12,13 @@ featured-image: feat-lalo-hernandez-unsplash.jpg
 redirect_from:
   - /design/how-the-instagram-navigation-became-convoluted/
 ---
-<p class="lead">With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let’s briefly explore how.</p>
+<p class="lead">With the introduction of significant layout changes — the tabs Reel and Shop — the Instagram navigation became convoluted. Let’s briefly explore how.</p>
 
 <!--more-->
 
 ## The reason
 
-[Announcing the changes](https://about.instagram.com/blog/announcements/introducing-reels-and-shop-tabs){:target="_blank" rel="noopener"}, Adam Mosseri, Head of Instagram, pointed out how the pandemic changed the way people use the app. Short and entertaining videos became prominent, and people started buying more online.
-
-**Young people** and **creators** are at the centre of Instagram’s focus, which is the reason behind the positioning of the two new tabs in the bottom navigation.
+[Announcing the changes](https://about.instagram.com/blog/announcements/introducing-reels-and-shop-tabs){:target="_blank" rel="noopener"}, Adam Mosseri, Head of Instagram, pointed out how the pandemic changed the way people use the app. Short and entertaining videos became prominent, and people started buying more online. **Young people** and **creators** are at the centre of Instagram’s focus, which is the reason behind the positioning of the two new tabs in the bottom navigation.
 
 ## The science
 
@@ -36,41 +34,31 @@ For a person holding a phone with one hand, the bottom area is **easier to reach
 
 For the _Reel_ and _Shop_ tabs to be quick and **easy to access**, _New Post_ and _Activity_ had to be moved to the top of the screen. _New Post_ is on both the home page and profile page, while _Activity_ is only accessible from the home page.
 
-![Thumb-zone mapping explained by Samantha Ingram](/assets/images/instagram-feed.jpg)
-Instagram home page with the new layout
+{% include pattern-figure.html image="/assets/images/instagram-feed.jpg" caption="Instagram home page with the new layout" width="360" height="760" %}
 
-Being able to access _Activity_ exclusively from one page means **more taps** and more chances of getting **lost** or **distracted** before reaching it. One could argue that the in-app notifications won’t make you miss a comment or like, but people might wish to easily go back and reply at a later moment.
-
-As mentioned earlier, the _Create New_ feature is now at the top. What I find confusing is how the **nature** of the **feature** changes based on its position within the app.
+Being able to access _Activity_ exclusively from one page means **more taps** and more chances of getting **lost** or **distracted** before reaching it. One could argue that the in-app notifications won’t make you miss a comment or like, but people might wish to easily go back and reply at a later moment. As mentioned earlier, the _Create New_ feature is now at the top. What I find confusing is how the **nature** of the **feature** changes based on its position within the app.
 
 ### Home
 
-From the home screen, people can create **four** types of content – _Post_ being the default – by choosing from a sliding menu at the bottom of the page, which I initially didn’t notice: _Post_, _Story_, _Reel_, _Live_.
+From the home screen, people can create **four** types of content — _Post_ being the default — by choosing from a sliding menu at the bottom of the page, which I initially didn’t notice: _Post_, _Story_, _Reel_, _Live_.
 
-![Posting from the home screen and the four types of content](/assets/images/instagram-post.jpg)
-Posting from the home screen and the four types of content
+{% include pattern-figure.html image="/assets/images/instagram-post.jpg" caption="Posting from the home screen and the four types of content" width="360" height="760" %}
 
 ### Profile
 
 From the profile, people can create **six** types of content: _Feed Post_, _Story_, _Highlight_, _IGTV Video_, _Reel_, _Guide_.
 
-![Posting from the home screen and the four types of content](/assets/images/instagram-add.jpg)
-Posting from the profile page and the six types of content
-![Posting from the home screen and the four types of content](/assets/images/instagram-post-types.jpg)
-Posting from the profile page and the six types of content
+{% include pattern-figure-cols.html image1="/assets/images/instagram-add.jpg" image2="/assets/images/instagram-post-types.jpg" alt="Posting from the profile page and the six types of content" caption="Posting from the profile page and the six types of content" width="360" height="760" %}
 
 ## One possible explanation
 
-Instagram may be **testing** which one of the _similar-but-different_ features performs best. The reason I say this is that the layouts are too different to think they both fit the app. Moreover, it’s good UX practise to test between **two solutions**.
-
-If this is the case, we’ll find out soon.
+Instagram may be **testing** which one of the _similar-but-different_ features performs best. The reason I say this is that the layouts are too different to think they both fit the app. Moreover, it’s good UX practise to test between **two solutions**. If this is the case, we’ll find out soon.
 
 In the meantime, if you updated the app and felt lost, know that it’s not you. At the moment, the navigation is **genuinely convoluted**.
 
 ## Conclusions
 
-The products we design or use can get **complicated** over time, mainly when they become established. It happens when users ask for more **features** or when they **change** the way they use it.  
-See [Design, Digested #12 – Struggling with growth]({{ site.url }}/design-digested/social-media-content-moderation/).
+The products we design or use can get **complicated** over time, mainly when they become established. It happens when users ask for more **features** or when they **change** the way they use it. See [Design, Digested #12 – Struggling with growth]({{ site.url }}/design-digested/social-media-content-moderation/).
 
 Sometimes it happens when the **business model** changes: if the goal is to keep people **engaged** – and watching reels and looking for things to buy do it – then these actions need to take **priority** on the screen.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Acclimatize.me. Notification app for travellers
+title: Acclimatize.me - Notification app for travellers
 featured-post: true
 date: 2021-02-18T21:39:15.000Z
-last_modified_at: '2021-08-30T21:12:23.012Z'
+last_modified_at: '2021-09-02T22:44:20.959Z'
 description: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
 excerpt: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
 featured-image: feat-acclimatize-case-study-featured-img.jpg
@@ -104,9 +104,9 @@ Solution is easy to use	8	8
 
 ### Design opportunity
 
-<pre class="wp-block-preformatted has-normal-font-size">
-**Importance – Current satisfaction = Design Opportunity**
-</pre>
+<code>
+Importance – Current satisfaction = Design Opportunity
+</code>
 
 In **bold** are the outcomes the design solution should strive to achieve. Because they have a higher score, they have the potential to outperform current solutions.
 

@@ -1,6 +1,6 @@
 ---
 title: Start designing for inclusion
-last_modified_at: '2021-09-01T22:11:19.408Z'
+last_modified_at: '2021-09-02T18:39:32.143Z'
 featured-post: false
 categories:
   - Design Digested
@@ -20,19 +20,19 @@ For Stacie Sheldon, an American Indian UX professional, it all starts with words
 
 > Inclusive design makes people feel welcome, safe, and valued. It prevents frustration and demeaning experiences. It remembers that language has power.
 >
-> <cite>Stacie Sheldon – <strong>From scientific racism to inclusive design</strong></cite>
+> <cite>— Stacie Sheldon</cite>
+
+🔗 [From scientific racism to inclusive design](https://uxdesign.cc/from-scientific-racism-to-inclusive-design-c8b43a4b757d){:target="_blank" rel="noopener"} (on Medium)
+
+<hr>
 
 Designing for inclusion also means thinking about how the design of content can create barriers for some people.
 
-> […] regardless of the tactics, designing inclusive content models begins by acknowledging the political work that these models perform and asking whom they include or exclude from participation.
+> Regardless of the tactics, designing inclusive content models begins by acknowledging the political work that these models perform and asking whom they include or exclude from participation.
 >
-> <cite>Daniel Carter, Carra Martinez – <strong>Designing Inclusive Content Models</strong></cite>
+> <cite>— Daniel Carter, Carra Martinez</cite>
 
-## Read the articles
-
-🔗 [From scientific racism to inclusive design](https://uxdesign.cc/from-scientific-racism-to-inclusive-design-c8b43a4b757d){:target="_blank" rel="noopener"}
-
-🔗 [Designing Inclusive Content Models](https://alistapart.com/article/designing-inclusive-content-models/){:target="_blank" rel="noopener"}
+🔗 [Designing Inclusive Content Models](https://alistapart.com/article/designing-inclusive-content-models/){:target="_blank" rel="noopener"} (on A List Apart)
 
 ### Further resources
 

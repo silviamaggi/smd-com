@@ -1,6 +1,6 @@
 ---
 title: After the rain
-last_modified_at: '2021-09-02T11:42:08.538Z'
+last_modified_at: '2021-09-02T21:55:36.486Z'
 featured-post: false
 categories:
   - Photography
@@ -13,11 +13,9 @@ featured-image: feat-after-the-rain-silviamaggi.jpg
 redirect_from:
   - /today-i-saw/after-the-rain/
 ---
-<p class="lead">Today, after the rain, I used the tripod to take a few short videos in the garden. With time, I will set up a YouTube channel to share them.</p>
+<p class="lead">Today, after the rain, I used the tripod to take a few short videos in the garden. I took time today to appreciate my surroundings after a rain shower.</p>
 
 <!--more-->
-
-As _[Design, Digested]({{ site.url }}/category/design-digested/)_ went on holiday with good reasons – read why in my [latest letter](https://us10.campaign-archive.com/?u=0c9027b00ef8ad1210adae70d&id=509de179c7){:target="_blank" rel="noopener"} – I took time today to appreciate my surroundings after a rain shower.
 
 {% include pattern-figure.html image="/assets/images/after-the-rain-silviamaggi-1.jpg" caption="After the rain #1" width="1400" height="933" %}
 
@@ -27,4 +25,4 @@ During the last few weeks, I neglected taking care of my body and started to fee
 
 {% include pattern-figure.html image="/assets/images/after-the-rain-silviamaggi-3.jpg" caption="After the rain #3" width="1400" height="933" %}
 
-<small>All photos by Silvia Maggi</small>
+<mark class="highlight small">Photos &copy; Silvia Maggi</mark>

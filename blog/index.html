@@ -17,17 +17,18 @@ redirect_from:
     {% else %}
     {% assign categories = page.categories %}
     {% endif %}
-    {% for category in categories %}<a class="small post-taxonomy-label d-inline-block rounded text-decoration-none" href="{{ site.url }}/category/{{ category | slugify | append: '/' }}"><strong class="small">{{ category | upcase | replace:"-"," " }}</strong></a>{% unless forloop.last %}{% endunless %}{% endfor %}
+    {% for category in categories %}
+    <div class="btn-label-smd btn-label-smd-bg post-taxonomy-label d-inline-block mt-3 mb-2 rounded text-decoration-none"><strong class="small">{{ category | upcase | replace:"-"," " }}</strong></div>
+    {% endfor %}
     <h2 class="mt-1"><a class="text-decoration-none" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
     {%- assign categories = post.categories %}
-    <p class="post-meta small mt-4">
-      {% include post-meta.html date=page %} &ndash; {% include pattern-readingtime.html content=post.content -%}
+    <p class="post-meta my-4">
+      {% include post-meta.html date=page %}
+      {% include pattern-readingtime.html content=post.content -%}
     </p>
     <div class="content">
-      <p>{{ post.excerpt | markdownify | strip_html }}</p>
-      <div><a href="{{ post.url }}" title="Read the entire post">Read more</a> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-right" viewBox="0 0 16 16">
-        <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/>
-      </svg></div>
+      <p class="lead">{{ post.excerpt | markdownify | strip_html }}</p>
+      <a href="{{ post.url }}" title="Read the entire post">Read the post</a> <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-chevron-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg>
     </div>
   </div>
   {% endfor -%}

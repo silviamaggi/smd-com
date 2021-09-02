@@ -31,4 +31,4 @@ The swirly effect in most of the pictures is courtesy of the Helios 44M lens tha
 
 These photos featured on the previous version of my website.
 
-<small>All photos by Silvia Maggi</small>
+<mark class="highlight small">Photos &copy; Silvia Maggi</mark>

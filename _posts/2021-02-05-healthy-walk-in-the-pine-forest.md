@@ -1,6 +1,6 @@
 ---
 title: A healthy walk in the pine forest
-last_modified_at: '2021-09-01T23:23:10.468Z'
+last_modified_at: '2021-09-02T20:28:36.292Z'
 featured-post: false
 categories:
   - Photography
@@ -22,8 +22,6 @@ Walking does magic to the body, but today my legs remind me that, during the pas
 
 {% include pattern-figure.html image="/assets/images/healthy-walk-pine-forest-2.jpg" caption="The pine forest in Ravenna" width="768" height="1024" %}
 
-The pine forest features that stillness I used to feel in the mountains. Even if there’s a road on one side, it’s easy to forget about it. The soil, covered with pine needles, is soft. The smell of wood is in the air.
+The pine forest features that stillness I used to feel in the mountains. Even if there’s a road on one side, it’s easy to forget about it. The soil, covered with pine needles, is soft. The smell of wood is in the air. Today I saw the pine forest, but I also inhaled it and felt it.
 
-Today I saw the pine forest, but I also inhaled it and felt it.
-
-<small>All photos by Silvia Maggi</small>
+<mark class="highlight small">Photos &copy; Silvia Maggi</mark>

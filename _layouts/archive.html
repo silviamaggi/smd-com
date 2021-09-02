@@ -3,16 +3,19 @@ layout: default
 ---
 {% include site-breadcrumbs.html %}
 
-<h1 class="mb-5">{%- if page.type == "tag" -%}Tag: {% else -%}Category: {% endif %}{{ page.title | capitalize }}</h1>
-<section class="archive-posts">
+<h1>{%- if page.type == "tag" -%}Tag: {% else -%}Category: {% endif %}{{ page.title | capitalize }}</h1>
+<section class="blogroll-post my-5 archive-posts">
   {% for post in page.posts %}
-    <article class="mb-5">
-      <h2><a class="text-decoration-none" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <article class="entry mb-5">
+      <h2 class="mt-1"><a class="text-decoration-none" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
       <div class="blurb-content">
-        <p class="small">{%- include post-meta.html %} &ndash; {% include pattern-readingtime.html content=post.content -%}</p>
-        <p>{{ post.excerpt | markdownify | strip_html }}</p>
-        <div>
-          <a class="bi bi-chevron-right" href="{{ post.url }}" title="Read the entire post">Read more</a> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg>
+        <p class="post-meta my-4">
+          {% include post-meta.html date=page %}
+          {% include pattern-readingtime.html content=post.content -%}
+        </p>
+        <div class="content">
+          <p class="lead">{{ post.excerpt | markdownify | strip_html }}</p>
+          <a href="{{ post.url }}" title="Read the entire post">Read the post</a> <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-chevron-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg>
         </div>
       </div>
     </article>

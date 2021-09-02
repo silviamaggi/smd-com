@@ -14,6 +14,6 @@ permalink: /tags/
 {% for tag in sorted_tags %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
-  <li class="list-inline-item mb-4 me-4"><a class="btn btn-lg btn-smd" href="{{ site.url }}/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
+  <li class="list-inline-item mb-4 me-4"><a class="btn btn-lg btn-label-smd btn-label-smd-bg" href="{{ site.url }}/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a></li>
 {% endfor %}
 </ol>

@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 12. Social media content moderation issues'
-last_modified_at: '2021-09-01T22:42:03.938Z'
+last_modified_at: '2021-09-02T21:51:06.735Z'
 featured-post: false
 categories:
   - Design Digested
@@ -21,40 +21,34 @@ redirect_from:
 
 <!--more-->
 
-## Social Media
+## What happened when humans stopped managing social media content
 
-### What happened when humans stopped managing social media content
+As the pandemic took hold of the world, Facebook, Google and Twitter sent their workers home. **Algorithms took their place**. How did it go?
 
-As the pandemic took hold of the world, Facebook, Google and Twitter sent their workers home. **Algorithms** took their place. How did it go?
+🔗 [Read the article](https://www.politico.eu/article/facebook-content-moderation-automation/){:target="_blank" rel="noopener"} on (Politico.eu)
 
-🔗 [**Read the article**](https://www.politico.eu/article/facebook-content-moderation-automation/){:target="_blank" rel="noopener"} on Politico.eu.
+## To understand Facebook today, read its earliest critics
 
-### To understand Facebook today, read its earliest critics
+If you ever thought that Facebook got worse with time, this article will remind you **there never was a _good_ Facebook**. Joanne McNeil suggests four fascinating reads on the subject.
 
-If you ever thought that Facebook got worse with time, this article will remind you there never was a _good_ Facebook. Joanne McNeil suggests four **fascinating reads** on the subject.
+🔗 [Read the article](https://onezero.medium.com/to-understand-facebook-today-read-its-earliest-critics-ca2ca15480ab){:target="_blank" rel="noopener"} (on Medium)
 
-🔗 [**Read the article**](https://onezero.medium.com/to-understand-facebook-today-read-its-earliest-critics-ca2ca15480ab){:target="_blank" rel="noopener"} on Medium.
+## Instagram row over plus-size model forces change to nudity policy
 
-### Instagram row over plus-size model forces change to nudity policy
+Instagram and Facebook will update their policy on nudity to end the **discrimination of plus-size black women**. The change comes after the successful campaign headed by model Nyome Nicholas-Williams, photographer Alexandra Cameron and campaigner Gina Martin.
 
-Instagram and Facebook will update their policy on nudity to end the **discrimination** of **plus-size black women**. The change comes after the successful campaign headed by model Nyome Nicholas-Williams, photographer Alexandra Cameron and campaigner Gina Martin.
+🔗 [Read the article](https://www.theguardian.com/technology/2020/oct/25/instagram-row-over-plus-size-model-forces-change-to-nudity-policy){:target="_blank" rel="noopener"} (on The Guardian)
 
-🔗 [**Read the article**](https://www.theguardian.com/technology/2020/oct/25/instagram-row-over-plus-size-model-forces-change-to-nudity-policy){:target="_blank" rel="noopener"} on The Guardian.
+## Struggling with growth
 
-## Design
+The products we design and use **can get complicated over time**. The co-founder of _Fathom_ explains how it happens. As designers, how do we understand when a product is enough?
 
-### Struggling with growth
+🔗 [Read the newsletter](https://mailchi.mp/pjrvs/struggling-with-growth?e=bb5752ad20){:target="_blank" rel="noopener"}
 
-The products we design and use can get **complicated** over time. The co-founder of _Fathom_ explains how it happens. As designers, how do we understand when a product is **enough**?
+## Capitalism needs a redesign, but where do we start?
 
-🔗 [**Read the newsletter**](https://mailchi.mp/pjrvs/struggling-with-growth?e=bb5752ad20){:target="_blank" rel="noopener"}.
+Nina Montgomery, the author of the newsletter _Reimagining Capitalism_, studied how a dozen of forward-looking companies are rethinking the way they **generate value and who they serve**.
 
-## Business
-
-### Capitalism needs a redesign, but where do we start?
-
-Nina Montgomery, the author of the newsletter _Reimagining Capitalism_, studied how a dozen of forward-looking companies are rethinking the way they **generate value** and **who** they serve.
-
-🔗 [**Read the article**](https://www.ideo.com/journal/capitalism-needs-a-redesign-but-where-do-we-start){:target="_blank" rel="noopener"} on IDEO.
+🔗 [Read the article](https://www.ideo.com/journal/capitalism-needs-a-redesign-but-where-do-we-start){:target="_blank" rel="noopener"} (on IDEO)
 
 <!-- <small>Photo by [Ryoji Iwata](https://unsplash.com/@ryoji__iwata){:target="_blank" rel="noopener"} on Unsplash</small> -->

@@ -23,7 +23,7 @@
 
 // Typography
 $enable-rfs: true;
-// Typography: headings
+
 $headings-font-family: 'FiraSansBold', serif;
 $h1-font-size: 3rem;
 $h2-font-size: 1.8rem;
@@ -32,35 +32,43 @@ $h4-font-size: 1.4rem;
 $h5-font-size: 1.1rem;
 $h6-font-size: 1rem;
 $headings-margin-bottom: 1.7rem;
-// Typography elements font size
+
 $lead-font-size: 1.3rem;
 $lead-font-weight: normal;
-$micro-font-size: $small-font-size * .95;
+
+$micro-font-size: $small-font-size * .9;
+
 $font-weight-black: 900;
 // $display-font-weight: ;
-// $blockquote-margin-y: ;
-// $blockquote-font-size: ;
-// $blockquote-footer-font-size: ;
-// $blockquote-footer-color: ;
+
+$initialism-font-size: $micro-font-size;
+
+$letter-spacing-wide-1: 1px;
+$letter-spacing-shrink: -0.25px;
+
+$blockquote-margin-y: $spacer * 2;
+$blockquote-font-size: $lead-font-size;
 
 // Effects
 $enable-transitions: true;
 $enable-shadows: false;
 $enable-gradients: false;
+// $mark-padding: ;
+// $mark-bg: ;
 
 // Colors
 @import "smd-palette";
 
 // Links
-$link-color: $link;
+$link-color: $link-d-70;
 $link-decoration: $link;
 $link-shade-percentage: 20%;
 $link-hover-color: tint-color($link-color, $link-shade-percentage);
 $link-hover-decoration: tint-color($link-color, $link-shade-percentage);
 
 // Navigation
-$nav-link-color: $link;
-$nav-link-hover-color: $link;
+$nav-link-color: $link-color;
+$nav-link-hover-color: $link-d-40;
 $nav-link-font-weight: bold;
 $nav-link-padding-x: 0.5rem;
 $nav-link-padding-x: 0;
@@ -77,13 +85,6 @@ $nav-link-padding-x: 0;
 // Remove default colors
 $theme-colors: map-remove($theme-colors, "secondary", "info", "light", "dark", "danger");
 
-// ------------------------------------------------ \\
-// $CUSTOM - Variables
-// ------------------------------------------------ //
-// $initialism-font-size: $font-size-base;
-$letter-spacing-wide-1: 1px;
-$letter-spacing-shrink: -1px;
-// $letter-spacing-wide-2: 2px;
 
 // ------------------------------------------------ \\
 // $OPTIONAL Bootstrap components

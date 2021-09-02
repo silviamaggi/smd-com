@@ -1,6 +1,6 @@
 ---
 title: New journey and new blog
-last_modified_at: '2021-09-01T23:29:52.721Z'
+last_modified_at: '2021-09-02T21:56:52.748Z'
 featured-post: false
 categories:
   - Personal
@@ -15,7 +15,7 @@ redirect_from:
   - /photography/new-journey-new-blog/
   - /photography/new-journey-and-new-blog/
 ---
-New journey and new blog for my husband and I to record our thoughts, experiences and memories. After nine years since we moved to the UK, we’re going back to our home country, Italy, where we’ll stay until the pandemic is under control.
+<p class="lead">New journey and new blog for my husband and I to record our thoughts, experiences and memories. After nine years since we moved to the UK, we’re going back to our home country, Italy, where we’ll stay until the pandemic is under control.</p>
 
 {% include pattern-figure.html image="/assets/images/north-sea-cromer.jpg" caption="The North Sea at Cromer" width="1400" height="933" %}
 
@@ -25,4 +25,4 @@ It feels like hitting the reset button: a much-needed pause to regroup and under
 
 I’d be glad if you’d like to accompany us on this journey.
 
-<small>Photo by Silvia Maggi</small>
+<mark class="highlight small">Photo &copy; Silvia Maggi</mark>
