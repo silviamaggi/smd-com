@@ -5,6 +5,8 @@ featured-post: false
 categories:
   - Photography
 tags:
+  - creativity
+  - nature
   - cambridge
   - uk
 description: 'Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.'

@@ -7,6 +7,7 @@ categories:
 tags:
   - creativity
   - facial recognition
+  - pandemic
   - ux
 description: 'Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.'
 excerpt: 'Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.'

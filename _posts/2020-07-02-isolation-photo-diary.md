@@ -1,12 +1,12 @@
 ---
 title: Isolation photo diary
-last_modified_at: '2021-09-01T22:47:13.992Z'
+last_modified_at: '2021-09-02T11:33:15.573Z'
 featured-post: false
 categories:
   - Photography
 tags:
   - personal
-  - isolation
+  - pandemic
   - lockdown
 description: 'After the initial shock, the lockdown and subsequent isolation prompted me to point the lens to my emotions and immediate surroundings.'
 excerpt: 'Between the ups and downs of the global **pandemic** and **lockdown**, I kept taking pictures. I intended to have a **photo diary** to describe my take on **isolation** and the extraordinary circumstances we’re living.'

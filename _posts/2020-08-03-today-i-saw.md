@@ -1,6 +1,6 @@
 ---
 title: Today I saw
-last_modified_at: '2021-09-01T21:25:41.481Z'
+last_modified_at: '2021-09-02T11:45:40.314Z'
 featured-post: false
 categories:
   - Photography
@@ -15,7 +15,7 @@ featured-image: feat-today-i-saw-silviamaggi.jpg
 redirect_from:
   - /today-i-saw/today-i-saw/
 ---
-<p class="lead">It’s that itch again. Today I saw something I like but can’t take a picture. Or, I can and do, but it’s doesn’t work on Instagram.</p>
+<p class="lead">It’s that itch again. Today I saw something I like but can’t take a picture. Or, I can and do, but it doesn’t work on Instagram.</p>
 
 <!--more-->
 

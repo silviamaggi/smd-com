@@ -6,7 +6,7 @@ categories:
   - Photography
 tags:
   - exhibition
-  - girl town
+  - shutter hub
   - photomonth
   - london
   - uk

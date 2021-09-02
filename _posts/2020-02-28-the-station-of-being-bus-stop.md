@@ -41,6 +41,4 @@ A pleasant blend of traditional materials and innovative features, the prototype
 
 During the first couple of weeks after the opening, the studio observed a 35% increase in usage.
 
-Take a look at the video below, what do you think?
-
 {% include pattern-video.html id="GsdXOyJvnZM" title="Station of Being is an interactive Arctic bus stop" %}

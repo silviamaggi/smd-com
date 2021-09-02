@@ -6,6 +6,7 @@ categories:
   - Photography
 tags:
   - exhibition
+  - shutter hub
   - cambridge
   - uk
 description: 'Starting 12 December 2016, until 22 January 2017, my photo, Boatspotting, is part of the Hot Numbers Open Exhibition in Cambridge.'

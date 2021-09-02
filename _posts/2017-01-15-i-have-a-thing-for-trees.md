@@ -5,8 +5,10 @@ featured-post: false
 categories:
   - Photography
 tags:
+  - nature
   - cambridge
   - germany
+  - travel
   - uk
 description: "Trees are fascinating and elegant, no matter the season. They can easily\_set\_the mood\_of a photo."
 excerpt: "Going through last year's photos, I found quite a few of them have trees as a subject.\_Trees are fascinating and elegant, no matter the season. They can easily\_set\_the mood\_of a photo."

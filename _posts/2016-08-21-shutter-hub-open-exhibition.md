@@ -1,12 +1,13 @@
 ---
 title: Shutter Hub Open Exhibition 2016
-last_modified_at: '2021-09-01T23:06:13.674Z'
+last_modified_at: '2021-09-02T11:15:51.401Z'
 featured-post: false
 categories:
   - Photography
 tags:
   - exhibition
   - cambridge
+  - shutter hub
   - uk
 description: "Starting 24 June 2016, for a month, one of my photos was part of the\_Shutter Hub OPEN Exhibition 2016\_at\_Hot Numbers Coffee, Cambridge."
 featured-image: feat-gonville-and-caius-silviamaggi.jpg

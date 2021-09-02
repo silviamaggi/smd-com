@@ -1,6 +1,6 @@
 ---
 title: I deactivated my Instagram account. What now?
-last_modified_at: '2021-09-01T22:39:15.685Z'
+last_modified_at: '2021-09-02T11:43:23.894Z'
 featured-post: false
 categories:
   - Personal
@@ -25,7 +25,7 @@ In a way, it is. By not being on Instagram, I miss out on **great pictures**, kn
 
 ## Attention, please
 
-I’ve been feeling **miserable** on Instagram for a while. It felt like everything I had to do to stay ****relevant and **get my content in front of people** was a job in itself. And not a fulfilling one either.
+I’ve been feeling **miserable** on Instagram for a while. It felt like everything I had to do to stay **relevant and get my content in front of people** was a job in itself. And not a fulfilling one either.
 
 This happens when people’s **attention and time are the product** for an app like Instagram. Once the advertisers are happy, everyone’s happy. Except for a lot of people trying to **cope with the effects of** **comparison** and feelings of not being enough.
 

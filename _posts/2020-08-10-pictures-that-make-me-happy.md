@@ -1,11 +1,11 @@
 ---
 title: Pictures that make me happy
-last_modified_at: '2021-09-01T21:31:48.348Z'
+last_modified_at: '2021-09-02T11:36:20.681Z'
 featured-post: false
 categories:
   - Photography
 tags:
-  - fujifilm
+  - nature
   - cambridge
   - uk
 description: Nature and a shallow depth of field create one of my favourite photography style. Here I present four pictures that make me happy.

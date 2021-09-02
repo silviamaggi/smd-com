@@ -1,6 +1,6 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2021-09-01T21:14:39.822Z'
+last_modified_at: '2021-09-02T12:03:19.638Z'
 featured-post: true
 categories:
   - Design
@@ -10,6 +10,7 @@ tags:
   - ravelry
   - ux
 description: Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.
+excerpt: Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.
 featured-image: feat-ravelry-rebranding.jpg
 permalink: '/design/:title/'
 redirect_from:
@@ -18,11 +19,7 @@ redirect_from:
 ---
 {% include pattern-figure.html image="/assets/images/feat-ravelry-rebranding.jpg" alt="Ravelry lost the trust of their community" width="1200" height="500" caption="Photo by Tara Evans on Unsplash" %}
 
-<p class="lead">Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.</p>
-
-<!--more-->
-
-Well-known among knitters, crocheters, designers, spinners, and dyers, Ravelry is a free platform where users can organise and keep track of their projects, network with other people and sell their designs.
+<p class="lead">Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site. Well-known among knitters, crocheters, designers, spinners, and dyers, Ravelry is a free platform where users can organise and keep track of their projects, network with other people and sell their designs.</p>
 
 Ravelry’s [Wikipedia page](https://en.wikipedia.org/wiki/Ravelry){:target="_blank" rel="noopener"} states that, as of March 2020, they had almost 9 million registered users, and approximately 1 million monthly active users.
 
