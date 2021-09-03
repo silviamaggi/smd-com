@@ -88,20 +88,6 @@ $smd-bg-colors: (
   ),
 );
 
-// Mixin
-@mixin smd-color($map, $attribute, $prefix: '-', $separator: '-', $base: 'base') {
-  @each $key, $value in $map {
-    &#{if($key != $base, #{$prefix}#{$key}, '')} {
-      @if type-of($value) == 'map' {
-        @include smd-color($value, $attribute, $separator);
-      }
-      @else {
-        #{$attribute}: $value;
-      }
-    }
-  }
-}
-
 // Print all the utility classes
 .smd {
   @include smd-color($smd-bg-colors, 'background-color', $separator: '-');

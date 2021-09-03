@@ -10,6 +10,8 @@
 
 @import "bootstrap/functions";
 @import "smd-typography";
+@import "smd-functions";
+@import "smd-mixins";
 @import "bootstrap/vendor/rfs";
 @import "bootstrap/variables";
 
@@ -129,8 +131,6 @@ $theme-colors: map-remove($theme-colors, "secondary", "info", "light", "dark", "
 
 
 // ------------------------------------------------ \\
-// $CUSTOM additional code
+// $CUSTOM theme
 // ------------------------------------------------ //
-@import "smd-functions";
-@import "smd-mixins";
 @import "smd-theme";
