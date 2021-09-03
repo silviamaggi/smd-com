@@ -1,6 +1,6 @@
 ---
 title: Start designing for inclusion
-last_modified_at: '2021-09-02T18:39:32.143Z'
+last_modified_at: '2021-09-03T12:31:03.331Z'
 featured-post: false
 categories:
   - Design Digested
@@ -15,6 +15,8 @@ permalink: '/design-digested/:title/'
 <p class="lead">What does it mean designing for inclusion? Inclusive design is gaining a lot of attention lately, and rightly so. The following articles and resources are a good start to understand how biases influence our work and what to pay attention to when starting a new project.</p>
 
 <!--more-->
+
+{% include pattern-figure.html image="/assets/images/feat-design-digested-17.jpg" alt="Design, Digested #17" width="1200" height="500" %}
 
 For Stacie Sheldon, an American Indian UX professional, it all starts with words.
 

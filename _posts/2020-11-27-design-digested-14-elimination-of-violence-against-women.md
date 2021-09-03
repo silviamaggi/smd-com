@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 14. Elimination of violence against women'
-last_modified_at: '2021-09-02T21:40:53.713Z'
+last_modified_at: '2021-09-03T12:45:59.358Z'
 featured-post: false
 categories:
   - Design Digested
@@ -10,15 +10,15 @@ tags:
   - generationequality
 description: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
 excerpt: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
-featured-image: feat-un-women.jpg
+featured-image: feat-design-digested-14.jpg
 permalink: '/design-digested/:title/'
 redirect_from:
   - /design-digested/design-digested-14-elimination-of-violence-against-women-edition/
 ---
-<p class="lead">25 November marks the <strong>International Day for the Elimination of Violence against Women</strong>.
+<p class="lead">25 November marks the <a href="https://www.un.org/en/observances/ending-violence-against-women-day" target="_blank" rel="noopener">International Day for the Elimination of Violence against Women</a>.
 This year the day is even more important as data and reports show that violence against women and girls intensified during the pandemic.</p>
 
-🔗 **[Read about the campaign](https://www.un.org/en/observances/ending-violence-against-women-day){:target="_blank" rel="noopener"}** (on the UN website)
+{% include pattern-figure.html image="/assets/images/feat-design-digested-14.jpg" alt="Design, Digested #14" width="1200" height="500" %}
 
 ## There’s a pandemic of online violence against women and girls
 

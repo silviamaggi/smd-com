@@ -1,6 +1,6 @@
 ---
 title: 'Life off social media, six months in'
-last_modified_at: '2021-09-01T22:34:42.927Z'
+last_modified_at: '2021-09-03T12:23:28.862Z'
 featured-post: false
 categories:
   - Personal
@@ -43,13 +43,9 @@ In this historic moment, anything can be divisive and social media is the place 
 
 ## My mental health improved
 
-A few years ago, I thought having success on Instagram could become my side hustle. It happened to a lot of people, so why not me?
+A few years ago, I thought having success on Instagram could become my side hustle. It happened to a lot of people, so why not me? I purchased an online course from a famous influencer to understand how to make my account _Instagram-worthy_, and get my pictures at the top of the algorithm.
 
-I purchased an online course from a famous influencer to understand how to make my account _Instagram-worthy_, and get my pictures at the top of the algorithm.
-
-From that moment, I’ve been stuck in a loop. I’d go out and enthusiastically take photos, publish them, and check the statistic to see how they fared.
-
-I’ve had good moments, met great people, but it was never enough. **As a photographer, I was never enough**. The statistics became a problem: I was obsessed with them. I’d constantly check them, wondering what I was doing wrong.
+From that moment, I’ve been stuck in a loop. I’d go out and enthusiastically take photos, publish them, and check the statistic to see how they fared. I’ve had good moments, met great people, but it was never enough. **As a photographer, I was never enough**. The statistics became a problem: I was obsessed with them. I’d constantly check them, wondering what I was doing wrong.
 
 When it all became too much, I switched to a personal account, hoping to solve my the issue with the tap of a button. It didn’t happen: **the numbers weren’t the real problem**.
 
@@ -59,9 +55,7 @@ Ever since I deactivated my Instagram account, I take photos whenever I feel lik
 
 ## No more immediacy
 
-Everytime I had something to say or show, I’d post it on some social media almost immediately. It was a normal thing to do.
-
-Even if it faded in recent years, I see it as a strange behaviour from my part.
+Everytime I had something to say or show, I’d post it on some social media almost immediately. It was a normal thing to do. Even if it faded in recent years, I see it as a strange behaviour from my part.
 
 It could be a reflection brought up by the fact I know myself a bit more now, but **it always took me some time to assimilate concepts and form opinions**. That’s why I now prefer writing on my blog, and why I recently slowed down posting: [I’m elaborating some recent learnings and realisations]({{ site.url }}/design-digested/information-overload/).
 

@@ -1,6 +1,6 @@
 ---
 title: Undoing toxic dogmatism; designing less; be more effective
-last_modified_at: '2021-09-02T20:41:52.728Z'
+last_modified_at: '2021-09-03T12:34:13.198Z'
 featured-post: false
 categories:
   - Design Digested
@@ -18,6 +18,8 @@ redirect_from:
 ---
 
 <p class="lead">Design inspiration series. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.</p>
+
+{% include pattern-figure.html image="/assets/images/feat-design-digested-15.jpg" alt="Design, Digested #15" width="1200" height="500" %}
 
 ## Undoing the toxic dogmatism of digital design
 

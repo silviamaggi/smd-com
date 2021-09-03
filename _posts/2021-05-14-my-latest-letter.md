@@ -19,6 +19,8 @@ redirect_from:
 
 <!--more-->
 
+{% include pattern-figure.html image="/assets/images/feat-smd-blog-featured-image_lettera.jpg" alt="Letters" caption='Photo by <a href="https://unsplash.com/@flavioamiel" target="_blank" rel="noopener">Flavio Amiel</a>' width="1200" height="500" %}
+
 I was initially embarrassed while thinking about what to tell you. Yet, what I read, watch and interests me everyday helps me grow. Or simply amuses me.
 
 ## What I’m reading

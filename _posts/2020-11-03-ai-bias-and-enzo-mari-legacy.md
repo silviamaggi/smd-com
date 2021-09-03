@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 13. Fear, AI bias and Enzo Mari legacy'
-last_modified_at: '2021-09-02T21:44:39.832Z'
+last_modified_at: '2021-09-03T12:46:35.019Z'
 featured-post: false
 categories:
   - Design Digested
@@ -19,6 +19,8 @@ redirect_from:
   - /design/ai-bias-and-enzo-mari-legacy/
 ---
 <p class="lead">On the design inspiration new instalment: the role of fear in our lives and how it affects decision-making, how bias in AI happens and the legacy of <strong>“giant” of Italian design</strong> Enzo Mari.</p>
+
+{% include pattern-figure.html image="/assets/images/feat-design-digested-13.jpg" alt="Design, Digested #13" width="1200" height="500" %}
 
 ## Be afraid! The silent role of fear in decision making
 

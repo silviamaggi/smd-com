@@ -1,6 +1,6 @@
 ---
 title: Information overload
-last_modified_at: '2021-09-01T22:35:20.427Z'
+last_modified_at: '2021-09-03T12:19:28.847Z'
 featured-post: false
 categories:
   - Design Digested
@@ -21,11 +21,11 @@ redirect_from:
 
 <!--more-->
 
-As the temperatures in this part of Italy hit 32˚C, I’m reminded how the human body takes time to adapt, and that I’m definitively still a stranger in my own country. Here’s the thing: I don’t want to get used to this.
+{% include pattern-figure.html image="/assets/images/feat-smd-blog-featured-image_lettera.jpg" alt="Letters" caption='Photo by <a href="https://unsplash.com/@flavioamiel" target="_blank" rel="noopener">Flavio Amiel</a>' width="1200" height="500" %}
 
-Let me switch the air conditioner on, so I can tell you with more clarity what’s to come.
+As the temperatures in this part of Italy hit 32˚C, I’m reminded how the human body takes time to adapt, and that I’m definitively still a stranger in my own country. Here’s the thing: I don’t want to get used to this. Let me switch the air conditioner on, so I can tell you with more clarity what’s to come.
 
-Design, Digested is a design newsletter. Yet, I’ve been talking about different things recently, and practically stopped writing about design on my blog. On the one hand, I took a break from the information overload I’ve been experiencing; on the other, **I focused my attention on more authoritative UX sources** that I’m currently processing.
+_Design, Digested_ is a design newsletter. Yet, I’ve been talking about different things recently, and practically stopped writing about design on my blog. On the one hand, I took a break from the information overload I’ve been experiencing; on the other, **I focused my attention on more authoritative UX sources** that I’m currently processing.
 
 **If you ever got lost in Medium articles and blog posts and felt like you were missing crucial skills**, you know what I mean by information overload. In this situation it’s easy to get caught in opinions and trends, wasting time and energy in something that won’t last or doesn’t have solid foundations. I don’t want to get used to this either.
 
@@ -33,5 +33,3 @@ During the coming weeks, I’ll be sharing these UX sources here and on the blog
 
 Take care,  
 Silvia
-
-<!-- <small>Photo by [Flavio Amiel](https://unsplash.com/@flavioamiel){:target="_blank" rel="noopener"} on Unsplash, design by Silvia Maggi</small> -->

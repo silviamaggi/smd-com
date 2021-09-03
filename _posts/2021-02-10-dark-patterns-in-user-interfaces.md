@@ -1,6 +1,6 @@
 ---
 title: Dark patterns in user interfaces
-last_modified_at: '2021-09-01T22:02:13.185Z'
+last_modified_at: '2021-09-03T12:32:52.610Z'
 featured-post: false
 categories:
   - Design Digested
@@ -22,6 +22,8 @@ redirect_from:
 <p class="lead">Recently, I read a couple of compelling blog post about dark patterns in user interfaces copy that I want to share with you. They’re an essential read to understand what they are, how they’re used to deceive people and how to recognise them.</p>
 
 <!--more-->
+
+{% include pattern-figure.html image="/assets/images/feat-design-digested-16.jpg" alt="Design, Digested #16" width="1200" height="500" %}
 
 The many examples of UI dark patterns in the articles show how shady the internet has become, with the line between encouraging people to use a product and tricking them into handing over personal data or money being thinner than ever.
 

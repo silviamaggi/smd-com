@@ -20,4 +20,4 @@ Sun, mild temperatures, fresh air, face masks. It feels surreal, but it’s been
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-at-the-beach/" %}
 
-<small>All photos by Silvia Maggi</small>
+<mark class="highlight small">Photos &copy; Silvia Maggi</mark>

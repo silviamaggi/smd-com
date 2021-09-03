@@ -1,6 +1,6 @@
 ---
 title: The importance of sketching in UX and beyond
-last_modified_at: '2021-09-02T18:21:32.878Z'
+last_modified_at: '2021-09-03T12:29:58.390Z'
 featured-post: false
 categories:
   - Design Digested
@@ -16,6 +16,8 @@ permalink: '/design-digested/:title/'
 <p class="lead">I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is <strong>sketching</strong>. If you know how to convey your ideas and concepts through sketches, the rest follows.</p>
 
 <!--more-->
+
+{% include pattern-figure.html image="/assets/images/feat-design-digested-18.jpg" alt="Design, Digested #18" width="1200" height="500" %}
 
 Unless you were hired to create a UX team from scratch, chances are you’ll have to **adapt to use** whatever software your company is using: Axure, Adobe, Figma, Sketch and so on. The one skill you’ll have to develop is the willingness to **put as many ideas as possible on paper**, and leave behind the ones that don’t work.
 
@@ -67,7 +69,7 @@ If you wish to take it to next level, Dr. Betty Edwards’ _New Drawing on the R
 
 The workbook is the ideal companion of the book, where the theory behind the techniques is explained. Although, I went directly for the exercises.
 
-{% include pattern-figure.html image="/assets/images/drawing-on-the-right-side-of-the-brain-1.jpg" caption="The new drawing on the right side of the brain workbook" width="458" height="630" %}
+{% include pattern-figure.html image="/assets/images/drawing-on-the-right-side-of-the-brain-1.jpg" caption="The new drawing on the right side of the brain workbook" width="229" height="315" %}
 
 🔗 [The New Drawing on the Right Side of the Brain](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain){:target="_blank" rel="noopener"}
 

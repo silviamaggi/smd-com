@@ -1,6 +1,6 @@
 ---
 title: What's wrong with UX – Part 1
-last_modified_at: '2021-09-02T16:33:05.260Z'
+last_modified_at: '2021-09-02T22:55:36.297Z'
 featured-post: false
 categories:
   - Design Digested
@@ -15,6 +15,8 @@ permalink: '/design-digested/:title/'
 <p class="lead">In the first instalment of the <a href="https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8" target="_blank" rel="noopener"><em>Design, Digested</em></a> series since March, I share with you three reasons why the UX industry is currently broken.</p>
 
 <!--more-->
+
+{% include pattern-figure.html image="/assets/images/feat-smd-blog-dd-19.jpg" alt="Design, Digested #19" width="1200" height="500" %}
 
 ## Against Performative Positivity
 
