@@ -1,6 +1,6 @@
 ---
 title: The purpose of placebo buttons
-last_modified_at: '2021-09-02T18:45:18.342Z'
+last_modified_at: '2021-09-03T15:41:10.046Z'
 featured-post: false
 categories:
   - Design
@@ -16,6 +16,6 @@ featured-image: feat-berlin-night-silviamaggi.jpg
 
 Some of them probably don’t: they’re called _placebo buttons_. They do have a purpose though, as explained in this 2018 article by Jacopo Prisco on CNN. My long-time curiosity has finally been satisfied, and I hope yours will be too.
 
-🔗 [Read the article](https://edition.cnn.com/style/article/placebo-buttons-design/index.html){:target="_blank" rel="noopener"} (on CNN)
+<p class="detached">🔗 <a href="https://edition.cnn.com/style/article/placebo-buttons-design/index.html" target="_blank" rel="noopener">Read the article</a> (on CNN)</p>
 
 <!-- <small>Photo by Silvia Maggi</small> -->

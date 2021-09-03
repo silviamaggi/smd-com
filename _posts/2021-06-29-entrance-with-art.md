@@ -20,4 +20,4 @@ redirect_from:
 
 This photo marks the first time I used my camera since 3 April, when the [wisteria started to bloom]({{ site.url }}/photography/wisteria-in-bloom/) in the seaside town.
 
-<mark class="highlight small">Photo &copy; Silvia Maggi</mark>
+<p class="detached"><mark class="highlight small">Photo &copy; Silvia Maggi</mark></p>

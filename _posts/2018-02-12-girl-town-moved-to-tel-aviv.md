@@ -1,6 +1,6 @@
 ---
 title: Girl Town moved to Tel Aviv
-last_modified_at: '2021-09-02T11:19:04.784Z'
+last_modified_at: '2021-09-03T19:15:36.518Z'
 featured-post: false
 categories:
   - Photography
@@ -19,18 +19,16 @@ Originally presented at Photomonth East London International Photography Festiva
 
 {% include pattern-figure.html image="/assets/images/girl-town-silviamaggi-entry.jpg" caption="Girl Town – Back from the office, &copy; Silvia Maggi" width="768" height="1024" %}
 
-Initially, the exhibition was curated on Instagram, and I’ve been proudly part of it ever since the beginning.
+Initially, the exhibition was curated on Instagram, and I’ve been proudly part of it ever since the beginning. Shutter Hub shared impressions, reactions and photos from the private view. Head over their [website to read more](https://shutterhub.org.uk/blog/girl-town-tel-aviv-shutter-hub-exhibition-launch-event-and-pictures){:target="_blank" rel="noopener"}.
 
-Shutter Hub shared impressions, reactions and photos from the private view. Head over their [website to read more](https://shutterhub.org.uk/blog/girl-town-tel-aviv-shutter-hub-exhibition-launch-event-and-pictures){:target="_blank" rel="noopener"}.
-
-### About Shutter Hub
+## About Shutter Hub
 
 The photography organisation providing opportunities, support and networking for creative photographers worldwide.  
 
-🔗 [http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank" rel="noopener"}
+<p class="detached">🔗 <a href="http://shutterhub.org.uk" target="_blank" rel="noopener">http://shutterhub.org.uk</a></p>
 
-### About Alfred Institute
+## About Alfred Institute
 
-Alfred Gallery is a cooperative space that welcomes international exhibitions and collaborative projects in Simtat Shlush.  
+Alfred Gallery is a cooperative space that welcomes international exhibitions and collaborative projects in Simtat Shlush.
 
-🔗 [http://www.alfredinstitute.org/eng/alfred-institute-welcome](http://www.alfredinstitute.org/eng/alfred-institute-welcome){:target="_blank" rel="noopener"}
+<p class="detached">🔗 <a href="http://www.alfredinstitute.org/eng/alfred-institute-welcome" target="_blank" rel="noopener">www.alfredinstitute.org</a></p>

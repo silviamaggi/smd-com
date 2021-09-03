@@ -18,13 +18,9 @@ As a child, the biggest event of the year was waking up incredibly early to reac
 
 {% include pattern-figure.html image="/assets/images/20160819-cromer-33121.jpg" caption="The Nothern sea from a window" width="1400" height="933" %}
 
-I would spend hours in the backseat of the car, with a stereo, cassettes, a few books and a pillow.
+I would spend hours in the backseat of the car, with a stereo, cassettes, a few books and a pillow. I used to wake up at dawn, turn my head left, and see the first sunlight of the day refracting on Lake Lesina. Further ahead, a small stripe of land and then, barely visible, the sea.
 
-I used to wake up at dawn, turn my head left, and see the first sunlight of the day refracting on Lake Lesina. Further ahead, a small stripe of land and then, barely visible, the sea.
-
-The glimpse of the sea marked the start of the holiday.
-
-That sight has been one of the most joyful feelings of my childhood. Today, not much changed.
+The glimpse of the sea marked the start of the holiday. That sight has been one of the most joyful feelings of my childhood. Today, not much changed.
 
 {% include pattern-figure.html image="/assets/images/20160818-img_3179.jpg" caption="A glimpse of the sea" width="933" height="1400" %}
 
@@ -40,5 +36,5 @@ Dramatic tides have been a completely new feature for me. The seascape changes c
 
 As much as a sunny day at the sea is perceived as good, I crave the overcast ones. The gentle light and subdued colours seem to reveal details otherwise overlooked under the sunlight.
 
-<small>All photos by Silvia Maggi</small>
+<p class="detached"><mark class="highlight small">Photos &copy; Silvia Maggi</mark></p>
 

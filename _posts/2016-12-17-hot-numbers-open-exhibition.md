@@ -1,6 +1,6 @@
 ---
 title: Hot Numbers Open Exhibition
-last_modified_at: '2021-09-01T23:01:21.001Z'
+last_modified_at: '2021-09-03T19:23:38.698Z'
 featured-post: false
 categories:
   - Photography
@@ -19,10 +19,8 @@ featured-image: feat-20160506-img_2730.jpg
 
 Taken on a warm sunny day in May 2016, to me the photo represents contemplation and the somehow strange and unnatural feeling of being so close to a massive cruise.
 
-It’s been printed on Kodak Metallic Paper, which renders both colour and monochrome photos beautifully.
+It’s been printed on Kodak Metallic Paper, which renders both colour and monochrome photos beautifully. The exhibition includes beautiful photos, paintings and drawings, and I am very happy to be part of it.
 
-The exhibition includes beautiful photos, paintings and drawings, and I am very happy to be part of it.
-
-**Hot Numbers Cafe**
-Units 5/6 Dales Brewery, Gwydir Street,
-Cambridge CB1 2LJ
+<p class="detached"><strong>Hot Numbers Cafe</strong><br>
+Units 5/6 Dales Brewery, Gwydir Street,<br>
+Cambridge CB1 2LJ</p>

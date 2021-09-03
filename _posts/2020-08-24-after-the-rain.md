@@ -1,6 +1,6 @@
 ---
 title: After the rain
-last_modified_at: '2021-09-02T21:55:36.486Z'
+last_modified_at: '2021-09-03T15:12:39.810Z'
 featured-post: false
 categories:
   - Photography
@@ -23,4 +23,4 @@ redirect_from:
 
 {% include pattern-figure.html image="/assets/images/after-the-rain-silviamaggi-3.jpg" caption="After the rain #3" width="1400" height="933" %}
 
-<mark class="highlight small">Photos &copy; Silvia Maggi</mark>
+<p class="detached"><mark class="highlight small">Photos &copy; Silvia Maggi</mark></p>

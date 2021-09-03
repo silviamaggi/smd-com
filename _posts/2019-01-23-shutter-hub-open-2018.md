@@ -1,6 +1,6 @@
 ---
 title: 'Shutter Hub Open Exhibition 2018, London and Amsterdam'
-last_modified_at: '2021-09-01T22:51:47.769Z'
+last_modified_at: '2021-09-03T19:12:04.562Z'
 featured-post: false
 categories:
   - Photography
@@ -16,19 +16,18 @@ featured-image: feat-JayneLloyd_ShutterHubOPEN_PhotoMonth_ExhibitionTheOldTruman
 
 <!--more-->
 
-Presenting 150 photographers, and over 200 full tabloid sized newspaper prints, the exhibition debuted in October 2018 at The Old Truman Brewery in London – as part of Photomonth London. It run from 4 - 9 October 2018.
+{% include pattern-figure.html image="/assets/images/feat-JayneLloyd_ShutterHubOPEN_PhotoMonth_ExhibitionTheOldTrumanBrewery_7069.jpg" caption="Credit: Jayne Lloyd / Shutter Hub at Photomonth, The Old Truman Brewery, London" width="1200" height="500" %}
 
-The exhibition then relocated to Amsterdam, at 5&33 Gallery from 7 December 2018 to 21 January 2019.
+Presenting 150 photographers, and over 200 full tabloid sized newspaper prints, the exhibition debuted in October 2018 at The Old Truman Brewery in London, part of Photomonth London.
+
+It run from 4 - 9 October 2018. The exhibition then relocated to Amsterdam, at 5&33 Gallery from 7 December 2018 to 21 January 2019.
 
 ## My entries
 
-![The musician by Silvia Maggi](/assets/images/20180921_silviamaggi-the-musician.jpg)
-![The fountain by Silvia Maggi](/assets/images/20180901_silviamaggi-the-fountain.jpg)
+{% include pattern-figure-cols.html image1="/assets/images/20180921_silviamaggi-the-musician.jpg" image2="/assets/images/20180901_silviamaggi-the-fountain.jpg" alt="The Musician / The Fountain" caption="The Musician / The Fountain by Silvia Maggi" width="853" height="1280" %}
 
-### About Shutter Hub
+## About Shutter Hub
 
 The photography organisation providing opportunities, support and networking for creative photographers worldwide.
 
-🔗 [http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank" rel="noopener"}
-
-<small>Header credit &copy; Jayne Lloyd / Shutter Hub at Photomonth, The Old Truman Brewery, London</small>
+<p class="detached">🔗 <a href="http://shutterhub.org.uk" target="_blank" rel="noopener">http://shutterhub.org.uk</a></p>

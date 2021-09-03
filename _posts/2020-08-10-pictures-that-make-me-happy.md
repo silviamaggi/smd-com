@@ -1,6 +1,6 @@
 ---
 title: Pictures that make me happy
-last_modified_at: '2021-09-02T11:36:20.681Z'
+last_modified_at: '2021-09-03T15:05:43.229Z'
 featured-post: false
 categories:
   - Photography
@@ -29,6 +29,6 @@ I took them a few years ago when we first planted meadow flowers in our garden. 
 
 The swirly effect in most of the pictures is courtesy of the Helios 44M lens that I use when there is plenty of time to compose and take the shot. It feels like carefully crafting something important. That is one of the factors that make me happy about them.
 
-These photos featured on the previous version of my website.
+<p class="detached">These photos featured on the previous version of my website.</p>
 
-<mark class="highlight small">Photos &copy; Silvia Maggi</mark>
+<p class="detached"><mark class="highlight small">Photos &copy; Silvia Maggi</mark></p>

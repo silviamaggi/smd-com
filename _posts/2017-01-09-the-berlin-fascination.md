@@ -32,10 +32,8 @@ Berlin is well known for being a cool ever-changing city. By just walking around
 
 Changes and renovations didn’t erase the memories of Berlin’s history and legacy. Sections of the Wall, memorials and museums are a constant reminder of the past.
 
-Stories and facts are still discussed, and passed on to the younger generations. We even participated in a fascinating talk at the hotel we stayed.
-
-I can’t put into words what I like so much about Berlin; probably I’ll figure it out one day.
+Stories and facts are still discussed, and passed on to the younger generations. We even participated in a fascinating talk at the hotel we stayed. I can’t put into words what I like so much about Berlin; probably I’ll figure it out one day.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-berlin-fascination/" %}
 
-<small>All photos by Silvia Maggi</small>
+<p class="detached"><mark class="highlight small">Photo &copy; Silvia Maggi</mark></p>

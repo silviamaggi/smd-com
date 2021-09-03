@@ -24,9 +24,7 @@ My ongoing project is about the changes in nature and sky on my way to work with
 
 I take pictures with a mobile phone and upload them on the website at the end of each season. My intention is to finish it by July 2017, but I don’t feel so enthusiastic about it as I have been up until the end of last year.
 
-I still appreciate the wonderful landscapes around the river Cam, the fresh air and freedom of commuting without using public transport. Most of the times though, I just enjoy the panorama without taking any picture.
-
-The truth is, I’m in a photography rut.
+I still appreciate the wonderful landscapes around the river Cam, the fresh air and freedom of commuting without using public transport. Most of the times though, I just enjoy the panorama without taking any picture. The truth is, I’m in a photography rut.
 
 To try to get out of it, I’m bringing the camera with me at work. This alone doesn’t help though, as I end up taking the same pictures over and over again.
 
@@ -38,4 +36,4 @@ So today I equipped my camera with a delightful Helios-44M lens, pointed it to t
 
 A change of scenery might get me out of the photography rut.
 
-<small>All photos by Silvia Maggi</small>
+<p class="detached"><mark class="highlight small">Photos &copy; Silvia Maggi</mark></p>

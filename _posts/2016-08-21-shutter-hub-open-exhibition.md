@@ -1,6 +1,6 @@
 ---
 title: Shutter Hub Open Exhibition 2016
-last_modified_at: '2021-09-02T11:15:51.401Z'
+last_modified_at: '2021-09-03T19:26:03.009Z'
 featured-post: false
 categories:
   - Photography
@@ -20,12 +20,10 @@ featured-image: feat-gonville-and-caius-silviamaggi.jpg
 
 I could never thank enough the lovely people at Shutter Hub, for the wonderful and exciting opportunity. It’s been an honour for me to be a contributor to such an amazing event.
 
-Along with the exhibition, a series of interesting and well-organised meet-ups, talks, workshops and portfolio reviews took place.
+Along with the exhibition, a series of interesting and well-organised meet-ups, talks, workshops and portfolio reviews took place. I’ve had the chance to meet with talented photographers and local creatives, and I look forward to the next year’s exhibition.
 
-I’ve had the chance to meet with talented photographers and local creatives, and I look forward to the next year’s exhibition.
-
-### About Shutter Hub
+## About Shutter Hub
 
 The photography organisation providing opportunities, support and networking for creative photographers worldwide.
 
-🔗 [http://shutterhub.org.uk](http://shutterhub.org.uk/){:target="_blank" rel="noopener"}
+<p class="detached">🔗 <a href="http://shutterhub.org.uk" target="_blank" rel="noopener">http://shutterhub.org.uk</a></p>

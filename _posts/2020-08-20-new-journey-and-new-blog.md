@@ -23,6 +23,6 @@ redirect_from:
 
 It feels like hitting the reset button: a much-needed pause to regroup and understand where to go next. An event like this requires a place to record our thoughts, experiences and memories. And we’ll do it, both in English and in Italian, on the blog [Oregano Dangereux](https://oreganodangereux.wordpress.com/){:target="_blank" rel="noopener"}.
 
-I’d be glad if you’d like to accompany us on this journey.
+<p class="detached">I’d be glad if you’d like to accompany us on this journey.</p>
 
-<mark class="highlight small">Photo &copy; Silvia Maggi</mark>
+<p class="detached"><mark class="highlight small">Photo &copy; Silvia Maggi</mark></p>

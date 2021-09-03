@@ -1,6 +1,6 @@
 ---
 title: Leaving WordPress
-last_modified_at: '2021-09-03T13:50:01.818Z'
+last_modified_at: '2021-09-03T19:55:00.596Z'
 featured-post: false
 categories:
   - Personal
@@ -14,13 +14,13 @@ redirect_from:
   - /it/personale/lascio-wordpress/
 ---
 <p class="lead">An announcement to my WordPress followers.
-Soon, I’ll be starting a process to move away from the platform: <strong>my website will have a new house, look, and ways to be managed</strong>.</p>
+Soon, I’ll be starting a process to move away from the platform: my website will have a new house, look, and ways to be managed.</p>
 
 <!--more-->
 
-This means that my blog posts won’t appear in your feed anymore and, if you’re following me via email, you’ll stop receiving them in your inbox. At the moment, I don’t have an alternative to provide, so the best way to keep in touch would be to **sign up to my mailing list using the form below**. 
+This means that my blog posts won’t appear in your feed anymore and, if you’re following me via email, you’ll stop receiving them in your inbox. At the moment, I don’t have an alternative to provide, so the best way to keep in touch would be to sign up to my mailing list. 
 
-Leaving is a bittersweet sensation, as it’s been countless years since I’ve had my first WordPress site. But the idea of **building a website from scratch**, using different and lighter technology, similarly to what I used to do in the early 2000s is nonetheless exciting. 
+Leaving is a bittersweet sensation, as it’s been countless years since I’ve had my first WordPress site. But the idea of building a website from scratch, using different and lighter technology, similarly to what I used to do in the early 2000s is nonetheless exciting. 
 
 The new site will be based on [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noopener"}, and hosted by [GitHub Pages](https://pages.github.com/){:target="_blank" rel="noopener"}. I don’t have a precise timeline, but the switch will probably happen in a month or two. See you on the other side? Should you have any questions, [get in touch]({{ site.url }}/get-in-touch-silviamaggi/).
 

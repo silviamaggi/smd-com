@@ -1,6 +1,6 @@
 ---
 title: The UX of contact lenses containers
-last_modified_at: '2021-09-01T22:48:50.819Z'
+last_modified_at: '2021-09-03T17:00:32.158Z'
 featured-post: false
 categories:
   - UX
@@ -13,7 +13,7 @@ redirect_from:
   - /design/the-ux-of-contact-lenses-containers/
   - /design/ux-of-contact-lenses-containers/
 ---
-<p class="lead">How is the <strong>UX of contact lenses containers</strong>? It’s easy to overlook what we use daily, and yet everyday things are usually the ones that make us feel <strong>frustrated</strong>.</p>
+<p class="lead">How is the UX of contact lenses containers? It’s easy to overlook what we use daily, and yet everyday things are usually the ones that make us feel frustrated.</p>
 
 <!--more-->
 
@@ -37,19 +37,19 @@ These details affect the **UX of the contact lenses containers**. How?
 
 ## UX and Usability Considerations
 
-One important consideration is for people with **colour blindness**. Either they won’t be able to recognise the **colour**, or it’ll be less meaningful to them.
+One important consideration is for people with colour blindness. Either they won’t be able to recognise the colour, or it’ll be less meaningful to them.
 
-Another important consideration is about the **typeface**. For many, it’ll be tricky to distinguish which letter is on the lid when the typeface is too **thin** or **small**.
+Another important consideration is about the typeface. For many, it’ll be tricky to distinguish which letter is on the lid when the typeface is too thin or small.
 
-The curved shape is significant because it makes it possible to tell which side should be in front of the person through a **visual** and **tactile experience**.
+The curved shape is significant because it makes it possible to tell which side should be in front of the person through a visual and tactile experience.
 
-The shape and the letter L for _left_ combined with the colour of the right lid are the crucial elements that **define** the **user experience** of the contact lenses container. When their implementation is correct, I know that I’m going to apply my lenses **correctly**.
+The shape and the letter L for _left_ combined with the colour of the right lid are the crucial elements that define the user experience of the contact lenses container. When their implementation is correct, I know that I’m going to apply my lenses correctly.
 
 ## Conclusions
 
-Always give people **more than one way** to achieve their goals, and avoid relying on non-universal features like colour.
+Always give people more than one way to achieve their goals, and **avoid relying on non-universal features like colour**.
 
-Sometimes, sticking to pre-existing **conventions** is good, but it doesn’t necessarily mean never to **innovate**. Give people enough **clues** and test, test, test.
+Sometimes, sticking to pre-existing conventions is good, but it doesn’t necessarily mean never to innovate. Give people enough clues and test, test, test.
 
 The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.
 

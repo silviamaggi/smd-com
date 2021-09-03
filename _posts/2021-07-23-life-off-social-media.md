@@ -1,6 +1,6 @@
 ---
 title: 'Life off social media, six months in'
-last_modified_at: '2021-09-03T14:28:09.587Z'
+last_modified_at: '2021-09-03T19:54:24.367Z'
 featured-post: false
 categories:
   - Personal
@@ -11,7 +11,7 @@ featured-image: feat-max-van-den-oetelaar-unsplash.jpg
 redirect_from:
   - /social-media/life-off-social-media/
 ---
-<p class="lead">I used to be everywhere. Name the social media and, most probably, I had an account. Internet’s always been a big thing for me, and a certain kind of <strong>online presence</strong> was good for my profession, hobbies and relationships.</p>
+<p class="lead">I used to be everywhere. Name the social media and, most probably, I had an account. Internet’s always been a big thing for me, and a certain kind of online presence was good for my profession, hobbies and relationships.</p>
 
 <!--more-->
 
@@ -29,7 +29,7 @@ Six months later, here’s what happened.
 
 ## The noise stopped
 
-It was a strange feeling at first: something was missing. I got used to a certain level of noise in my life, to a point where I didn’t notice it anymore. **Once it was gone, it became so evident I felt relieved**.
+It was a strange feeling at first: something was missing. I got used to a certain level of noise in my life, to a point where I didn’t notice it anymore. Once it was gone, it became so evident I felt relieved.
 
 I have fewer distraction opportunities, so it gradually became easier to focus for longer. As a result, I’m able to start and finish reading books again, and my productivity improved considerably.
 
@@ -37,7 +37,7 @@ I have fewer distraction opportunities, so it gradually became easier to focus f
 
 I’m oblivious of memes, backlashes, scandals and anything that goes viral or is _trending_ on social media. Instead of experiencing [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out){:target="_blank" rel="noopener"}, I’ve became indifferent to them.
 
-The time I used to spend following what happened online is spent elsewhere, and the best part is that I don’t feel compelled to weigh in. I do have strong opinions — about the things I care most — but **I doubt the entire world needs to know them**.
+The time I used to spend following what happened online is spent elsewhere, and the best part is that I don’t feel compelled to weigh in. I do have strong opinions — about the things I care most — but I doubt the entire world needs to know them.
 
 In this historic moment, anything can be divisive and social media is the place where most people pick sides. It is also a sad spectacle to watch, as polarised arguments are amplified but never settled.
 
@@ -45,11 +45,11 @@ In this historic moment, anything can be divisive and social media is the place 
 
 A few years ago, I thought having success on Instagram could become my side hustle. It happened to a lot of people, so why not me? I purchased an online course from a famous influencer to understand how to make my account _Instagram-worthy_, and get my pictures at the top of the algorithm.
 
-From that moment, I’ve been stuck in a loop. I’d go out and enthusiastically take photos, publish them, and check the statistic to see how they fared. I’ve had good moments, met great people, but it was never enough. **As a photographer, I was never enough**. The statistics became a problem: I was obsessed with them. I’d constantly check them, wondering what I was doing wrong.
+From that moment, I’ve been stuck in a loop. I’d go out and enthusiastically take photos, publish them, and check the statistic to see how they fared. I’ve had good moments, met great people, but it was never enough. _As a photographer, I was never enough_. The statistics became a problem: I was obsessed with them. I’d constantly check them, wondering what I was doing wrong.
 
-When it all became too much, I switched to a personal account, hoping to solve my the issue with the tap of a button. It didn’t happen: *the numbers weren’t the real problem*.
+When it all became too much, I switched to a personal account, hoping to solve my the issue with the tap of a button. It didn’t happen: _the numbers weren’t the real problem_.
 
-Every time I was in a [photography rut and couldn’t take pictures]({{ site.url }}/photography/photography-rut/), I’d feel guilty because I had nothing to post. My passion for photography went from being a hobby that never let me down to **a cause of anxiety and feelings of inadequacy**.
+Every time I was in a [photography rut and couldn’t take pictures]({{ site.url }}/photography/photography-rut/), I’d feel guilty because I had nothing to post. My passion for photography went from being a hobby that never let me down to a cause of anxiety and feelings of inadequacy.
 
 Ever since I deactivated my Instagram account, I take photos whenever I feel like it. I post them [on Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank" rel="noopener"}, or keep them to myself. It doesn’t matter much anymore, as long as I have a creative outlet.
 
@@ -57,11 +57,11 @@ Ever since I deactivated my Instagram account, I take photos whenever I feel lik
 
 Everytime I had something to say or show, I’d post it on some social media almost immediately. It was a normal thing to do. Even if it faded in recent years, I see it as a strange behaviour from my part.
 
-It could be a reflection brought up by the fact I know myself a bit more now, but it always took me some time **to assimilate concepts and form opinions**. That’s why I now prefer writing on my blog, and why I recently slowed down posting: [I’m elaborating some recent learnings and realisations]({{ site.url }}/design-digested/information-overload/).
+It could be a reflection brought up by the fact I know myself a bit more now, but it always took me some time to assimilate concepts and form opinions. That’s why I now prefer writing on my blog, and why I recently slowed down posting: [I’m elaborating some recent learnings and realisations]({{ site.url }}/design-digested/information-overload/).
 
 ## Conclusion
 
-**Quitting social media has been a good decision for me**. I’m more focused, less anxious and have more free time. These, plus the various lockdowns, allowed me to reflect and concentrate more on what matters. This decision is not for everyone, but it’s important to realise how much influence social media has on our lives, how much they can change our behaviours and ways of thinking. And then make decisions for ourselves.
+Quitting social media has been a good decision for me. I’m more focused, less anxious and have more free time. These, plus the various lockdowns, allowed me to reflect and concentrate more on what matters. This decision is not for everyone, but it’s important to realise how much influence social media has on our lives, how much they can change our behaviours and ways of thinking. And then make decisions for ourselves.
 
 ## Go deeper
 

@@ -1,6 +1,6 @@
 ---
 title: Start designing for inclusion
-last_modified_at: '2021-09-03T12:31:03.331Z'
+last_modified_at: '2021-09-03T15:42:44.387Z'
 featured-post: false
 categories:
   - Design Digested
@@ -24,7 +24,7 @@ For Stacie Sheldon, an American Indian UX professional, it all starts with words
 >
 > <cite>— Stacie Sheldon</cite>
 
-🔗 [From scientific racism to inclusive design](https://uxdesign.cc/from-scientific-racism-to-inclusive-design-c8b43a4b757d){:target="_blank" rel="noopener"} (on Medium)
+<p class="detached">🔗 <a href="https://uxdesign.cc/from-scientific-racism-to-inclusive-design-c8b43a4b757d" target="_blank" rel="noopener">From scientific racism to inclusive design</a> (on Medium)</p>
 
 <hr>
 
@@ -34,9 +34,9 @@ Designing for inclusion also means thinking about how the design of content can 
 >
 > <cite>— Daniel Carter, Carra Martinez</cite>
 
-🔗 [Designing Inclusive Content Models](https://alistapart.com/article/designing-inclusive-content-models/){:target="_blank" rel="noopener"} (on A List Apart)
+<p class="detached">🔗 <a href="https://alistapart.com/article/designing-inclusive-content-models/" target="_blank" rel="noopener">Designing Inclusive Content Models</a> (on A List Apart)</p>
 
-### Further resources
+## Further resources
 
 <ul class="smd-ul">
 <li><a href="https://www.microsoft.com/design/inclusive/" target="_blank" rel="noopener">Microsoft Design: Inclusive Design Principles</a></li>

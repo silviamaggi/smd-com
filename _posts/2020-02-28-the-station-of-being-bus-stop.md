@@ -1,6 +1,6 @@
 ---
 title: The station of being bus stop experience
-last_modified_at: '2021-09-01T20:58:40.638Z'
+last_modified_at: '2021-09-03T18:48:19.288Z'
 featured-post: false
 categories:
   - Design
@@ -21,9 +21,7 @@ Architecture studio [Rombout Frieling Lab](http://www.rombout.design/station-of-
 
 {% include pattern-figure.html image="/assets/images/station-of-being-samuel-pettersson.jpg" caption="<em>The station of being</em> - Photo by Samuel Pettersson" width="1024" height="682" %}
 
-The bus stop intends to improve and enhance the waiting experience for people using public transport in cold weather conditions. The project can make public transport significantly more attractive.
-
-Based on what Rombout Frieling told [Deezen](https://www.dezeen.com/2019/12/11/rombout-frieling-lab-arctic-bus-stop-umea-sweden/){:target="_blank" rel="noopener"}, and the case study on the studio’s website, the research they carried out revealed that:
+The bus stop intends to improve and enhance the waiting experience for people using public transport in cold weather conditions. The project can make public transport significantly more attractive. Based on what Rombout Frieling told [Deezen](https://www.dezeen.com/2019/12/11/rombout-frieling-lab-arctic-bus-stop-umea-sweden/){:target="_blank" rel="noopener"}, and the case study on the studio’s website, the research they carried out revealed that:
 
 <ul class="smd-ul">
 <li>It is annoying to continually be on the lookout to be sure not to miss the bus.</li>
@@ -33,12 +31,8 @@ Based on what Rombout Frieling told [Deezen](https://www.dezeen.com/2019/12/11/r
 
 ## The prototype
 
-_The Station of Being_ provides commuters with a smart and innovative waiting experience. It looks out for the buses arriving, using sounds and lights to signal their destinations. It features timber pods that people can lean on and rotate to shield from wind and snow.
+_The Station of Being_ provides commuters with a smart and innovative waiting experience. It looks out for the buses arriving, using sounds and lights to signal their destinations. It features timber pods that people can lean on and rotate to shield from wind and snow. The pods allow for privacy if needed, and to relax after work. Or, as Rombout Frieling puts it, “travellers can have time to just being”.
 
-The pods allow for privacy if needed, and to relax after work. Or, as Rombout Frieling puts it, “travellers can have time to just being”.
-
-A pleasant blend of traditional materials and innovative features, the prototype is the result of robust research into travellers’ needs.
-
-During the first couple of weeks after the opening, the studio observed a 35% increase in usage.
+A pleasant blend of traditional materials and innovative features, the prototype is the result of robust research into travellers’ needs. During the first couple of weeks after the opening, the studio observed a 35% increase in usage.
 
 {% include pattern-video.html id="GsdXOyJvnZM" title="Station of Being is an interactive Arctic bus stop" %}
