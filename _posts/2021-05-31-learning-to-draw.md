@@ -1,6 +1,6 @@
 ---
 title: Learning to draw. A journey
-last_modified_at: '2021-09-03T19:52:25.307Z'
+last_modified_at: '2021-09-03T20:00:11.648Z'
 featured-post: false
 categories:
   - Drawing
@@ -50,12 +50,12 @@ This journey is going to be long. And it feels like it’s been designed that wa
 My ultimate goal is to learn the fundamentals of drawing, and take it forward with time. However, there are other important skills to be learned along the way, and that can be applied elsewhere:
 
 <ul class="smd-ul">
-<li>The <strong>confidence</strong> to act, instead of being stuck in my mind.</li>
-<li>The ability to <strong>plan</strong> and <strong>envision</strong> before starting.</li>
-<li>The ability to <strong>convey</strong> ideas, concepts and information <strong>clearly</strong>.</li>
-<li>The <strong>freedom</strong> to enjoy the process for the sake of it.</li>
-<li>The ability to <strong>observe</strong> better.</li>
-<li><strong>Patience.</strong></li>
+<li>The confidence to act, instead of being stuck in my mind.</li>
+<li>The ability to plan and envision before starting.</li>
+<li>The ability to convey ideas, concepts and information clearly.</li>
+<li>The freedom to enjoy the process for the sake of it.</li>
+<li>The ability to observe better.</li>
+<li>Patience.</li>
 </ul>
 
 Let the journey begin!

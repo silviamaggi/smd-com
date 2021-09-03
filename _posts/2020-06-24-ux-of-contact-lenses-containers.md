@@ -1,6 +1,6 @@
 ---
 title: The UX of contact lenses containers
-last_modified_at: '2021-09-03T17:00:32.158Z'
+last_modified_at: '2021-09-03T20:04:28.905Z'
 featured-post: false
 categories:
   - UX
@@ -33,7 +33,7 @@ The colours of the lids are switched, and the letters on the off-brand lids are 
 
 An important detail that is missing from the off-brand container is the curved shape of the bottom of the single containers.
 
-These details affect the **UX of the contact lenses containers**. How?
+These details affect the UX of the contact lenses containers. How?
 
 ## UX and Usability Considerations
 
@@ -47,7 +47,7 @@ The shape and the letter L for _left_ combined with the colour of the right lid 
 
 ## Conclusions
 
-Always give people more than one way to achieve their goals, and **avoid relying on non-universal features like colour**.
+Always give people more than one way to achieve their goals, and avoid relying on non-universal features like colour.
 
 Sometimes, sticking to pre-existing conventions is good, but it doesn’t necessarily mean never to innovate. Give people enough clues and test, test, test.
 

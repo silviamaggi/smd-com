@@ -1,6 +1,6 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2021-09-03T19:33:49.029Z'
+last_modified_at: '2021-09-03T20:03:25.070Z'
 featured-post: true
 categories:
   - Design
@@ -85,7 +85,9 @@ Ever since the first release, Ravelry made some changes to the interface, but th
 
 <hr>
 
-**Corrections**: the text has been corrected to delete inaccuracies about when the old design will be retired (there will be a six-month notice) and the fact that screen reader software didn’t work correctly with the old version, too.
+## Corrections
+
+The text has been corrected to delete inaccuracies about when the old design will be retired (there will be a six-month notice) and the fact that screen reader software didn’t work correctly with the old version, too.
 
 ## Useful links
 

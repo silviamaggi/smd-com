@@ -1,6 +1,6 @@
 ---
 title: The pandemic is a massive opportunity for change
-last_modified_at: '2021-09-03T18:42:08.174Z'
+last_modified_at: '2021-09-03T20:05:55.036Z'
 featured-post: false
 categories:
   - Design
@@ -28,7 +28,7 @@ I [watched _Rams_](https://silviamaggidesign.com/tag/dieter-rams/){:target="_bla
 
 {% include pattern-figure.html image="/assets/images/dieter-rams-braun-t-3-pocket-radio.jpg" caption="Dieter Rams Braun T 3 pocket radio. Image credit: Sgustok Design" width="1400" height="1080" %}
 
-Rams’ design philosophy puts **function before form**. The product’s aesthetics depends on its purpose, not the other way round; every little detail is thought through as a sign of respect for its users. In the 70s, he published the [_Ten Principles for Good Design_](https://www.vitsoe.com/gb/about/good-design){:target="_blank" rel="noopener"}, which are relevant today more than ever.
+Rams’ design philosophy puts function before form. The product’s aesthetics depends on its purpose, not the other way round; every little detail is thought through as a sign of respect for its users. In the 70s, he published the [_Ten Principles for Good Design_](https://www.vitsoe.com/gb/about/good-design){:target="_blank" rel="noopener"}, which are relevant today more than ever.
 
 Even though two of the principles define good design to be long-lasting and environmental-friendly, Dieter Rams regrets not promoting his ideas about sustainable design to the masses. Or, perhaps, they weren’t understood the right way. If he could go back and do it all over again, he would have chosen to become a landscape architect or an urban planner instead.
 
