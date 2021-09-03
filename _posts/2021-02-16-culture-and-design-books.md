@@ -1,6 +1,6 @@
 ---
 title: Brilliant culture and design books I’m reading
-last_modified_at: '2021-09-02T20:25:46.355Z'
+last_modified_at: '2021-09-03T13:27:32.252Z'
 featured-post: false
 categories:
   - Books
@@ -17,6 +17,8 @@ redirect_from:
 
 <!--more-->
 
+{% include pattern-figure.html image="/assets/images/feat-recommended-reads.jpg" alt="Recommended reads" caption='Photo by <a href="https://unsplash.com/@drewcoffman" target="_blank" rel="noopener">Drew Coffman</a>' width="1200" height="500" %}
+
 Recently though, I was able to finish a few titles I’ve been dragging for months and start a few more. Here are the culture and design books I’m reading. Some of them are ideal if you’re a designer, others are either very interesting or funny — or both — for anyone.
 
 ## The Culture Map, by Erin Meyer
@@ -31,7 +33,7 @@ Even if, initially, the book might seem to be aimed at business people, I found 
 
 I believe this book is a must-read for any company employing people from different countries. Generally, employees have to understand and adapt to the culture of a company; yet, it’s much less common to have open discussions about our differences, how they impact our work and how to approach them successfully.
 
-🔗 [**Read the book**](https://www.goodreads.com/book/show/22085568-the-culture-map){:target="_blank" rel="noopener"}
+🔗 [Read the book](https://www.goodreads.com/book/show/22085568-the-culture-map){:target="_blank" rel="noopener"}
 
 ## Ten Arguments For Deleting Your Social Media Accounts Right Now, by Jaron Lanier
 
@@ -45,7 +47,7 @@ Within their current business models, the tech giants manipulate our behaviour t
 
 Lanier explains how algorithms work in general – pointing out how the ones built by Big Tech are among the best-kept secrets in the world – and why it’s almost impossible to discuss with people holding different views. I had doubts about social media well before reading the book, but some of the arguments convinced me to finally act.
 
-🔗 [**Read the book**](https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now){:target="_blank" rel="noopener"}
+🔗 [Read the book](https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now){:target="_blank" rel="noopener"}
 
 ## Cross-Cultural Design, by Senongo Akpem
 
@@ -55,7 +57,7 @@ Lanier explains how algorithms work in general – pointing out how the ones bui
 
 I bookmarked this book in [June](https://silviamaggidesign.com/books/design-community-solidarity/){:target="_blank" rel="noopener"} and picked it up again recently. Coupled with _The Culture Map_, it’s a fundamental read for anyone in the web field. Whereas many of us think of our users as wealthy, Western people, our audience is much more diverse. So we better design for them too.
 
-🔗 [**Read the book**](https://www.goodreads.com/book/show/50655833-cross-cultural-design){:target="_blank" rel="noopener"}
+🔗 [Read the book](https://www.goodreads.com/book/show/50655833-cross-cultural-design){:target="_blank" rel="noopener"}
 
 ## My Bass and Other Animals, by Guy Pratt
 
@@ -67,7 +69,7 @@ If you don’t know him by name, chances are you heard him playing bass in many 
 
 At some point, he also did stand up shows, on which this book is based. I was lucky enough to both see him playing live and hear his recollection of his almost-encounter with Michael Jackson. Expect a very entertaining, funny read.
 
-🔗 [**Read the book**](https://www.goodreads.com/book/show/2822087-my-bass-and-other-animals){:target="_blank" rel="noopener"}
+🔗 [Read the book](https://www.goodreads.com/book/show/2822087-my-bass-and-other-animals){:target="_blank" rel="noopener"}
 
 ## La Testa degli Italiani, by Beppe Severgnini
 
@@ -79,8 +81,6 @@ _The Culture Map_ prompted to ask myself what it means to be Italian. When I mov
 
 Servegnini is a respected journalist, whose column, _[Italians](https://italians.corriere.it/){:target="_blank" rel="noopener"},_ I used to follow many years ago. He wrote _La Testa degli Italiani_ with a lot of sense of humour, so you should approach the book as a semi-serious portrait of a country that is often romanticised or condemned.
 
-🔗 [**Read the book in Italian**](https://www.goodreads.com/book/show/1564625.La_testa_degli_italiani){:target="_blank" rel="noopener"}
+🔗 [Read the book in Italian](https://www.goodreads.com/book/show/1564625.La_testa_degli_italiani){:target="_blank" rel="noopener"}
 
-🔗 [**Read the book in English**](https://www.goodreads.com/book/show/581712.La_Bella_Figura){:target="_blank" rel="noopener"}
-
-<!-- <small>Photo by [Drew Coffman](https://unsplash.com/@drewcoffman){:target="_blank" rel="noopener"} on Unsplash, design by Silvia Maggi</small> -->
+🔗 [Read the book in English](https://www.goodreads.com/book/show/581712.La_Bella_Figura){:target="_blank" rel="noopener"}

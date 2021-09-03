@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 10. Inclusive design'
-last_modified_at: '2021-09-02T22:20:25.711Z'
+last_modified_at: '2021-09-03T13:47:44.520Z'
 featured-post: false
 categories:
   - Design Digested
@@ -21,6 +21,8 @@ redirect_from:
 <p class="lead">On week number 10 of my design inspiration series, I share resources about inclusive design, problematic social media facts, and a great music project.</p>
 
 <!--more-->
+
+{% include pattern-figure.html image="/assets/images/feat-design-digested-10.jpg" alt="Design, Digested #10" width="1200" height="500" %}
 
 ## Why is designing for inclusion still treated as optional?
 
@@ -65,5 +67,3 @@ On 6 of August 2020, Japan marked 75 years since the **nuclear attack on Hiroshi
 Watch the official video of the song _A Little Boy That Santa Claus Forgot On A B-29_, the second song from the concept album _[After 1989: A Trip to Freedom](https://minutestomidnight.co.uk/new-album-after-1989/){:target="_blank" rel="noopener"}_. Disclaimer: Minutes to Midnight is my husband. I’m sharing his music because I believe it’s a unique and touching project. Check his [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg/){:target="_blank" rel="noopener"} to discover the entire album.
 
 {% include pattern-video.html id="5M1XTw483Ew" title="Minutes to Midnight - A Little Boy That Santa Claus Forgot On A B-29 [Rock] (2019) Music Video" %}
-
-<!-- <small>Photo by [Daria Nepriakhina](https://unsplash.com/@epicantus){:target="_blank" rel="noopener"} on Unsplash</small> -->

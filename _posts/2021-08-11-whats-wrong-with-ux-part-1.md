@@ -1,6 +1,6 @@
 ---
 title: What's wrong with UX – Part 1
-last_modified_at: '2021-09-02T22:55:36.297Z'
+last_modified_at: '2021-09-03T13:22:24.837Z'
 featured-post: false
 categories:
   - Design Digested
@@ -47,5 +47,3 @@ Debbie Levitt, CEO of Delta CX, CX and UX strategist, designer, and trainer sinc
 CX (Customer Experience) and UX (User Experience) professionals already use the User-Centred Design process (UCD): evangelising Design Thinking over-simplifies complex professions and leads to poorly designed products.
 
 🔗 [Read the article](https://www.cmswire.com/digital-experience/design-thinking-isnt-user-experience/){:target="_blank" rel="noopener"} (on CMS Wire)
-
-<!-- <small>Photo and design by Silvia Maggi</small> -->

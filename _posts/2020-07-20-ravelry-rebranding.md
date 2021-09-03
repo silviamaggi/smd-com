@@ -1,6 +1,6 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2021-09-02T12:03:19.638Z'
+last_modified_at: '2021-09-03T14:30:12.198Z'
 featured-post: true
 categories:
   - Design
@@ -25,67 +25,55 @@ Ravelry’s [Wikipedia page](https://en.wikipedia.org/wiki/Ravelry){:target="_bl
 
 ## What happened
 
-On 16 June 2020, with no previous announcements, Ravelry rolled out a redesigned interface with new **branding**. As people started browsing the site, a percentage of them started to report episodes of eyestrain, migraines, dizziness, nausea, blurred vision and even seizures.
+On 16 June 2020, with no previous announcements, Ravelry rolled out a **redesigned interface with new branding**. As people started browsing the site, a percentage of them started to report episodes of eyestrain, migraines, dizziness, nausea, blurred vision and even seizures.
 
-Comments poured in a thread that had more than 7,000 replies. Some were **enthusiastic**, others **critical**. Besides the aforementioned physical issues, the fact that screen reader software doesn’t work properly **blocked** a group of people from accessing the website.
-
-The Ravelry team was **slow** to respond and, when they did, the community felt like the apology was **inadequate**.
+Comments poured in a thread that had more than 7,000 replies. Some were enthusiastic, others critical. Besides the aforementioned physical issues, the fact that screen reader software doesn’t work properly **blocked a group of people from accessing the website**. The Ravelry team was slow to respond and, when they did, the community felt like the apology was inadequate.
 
 ## The fallout
 
-A few days later, they provided the ability to switch back to the old design, a decision that was greeted with **gratitude** but also with reports of previously non-existing **bugs**.
+A few days later, they provided the ability to switch back to the old design, a decision that was greeted with gratitude but also with reports of previously non-existing bugs.
 
-Redesigns can be **controversial**: the more people are used to an interface, the more difficult it is to accept changes. There is a strong subjective component at play in judging a new design, to the point that it is **almost impossible** to make everyone happy.
+**Redesigns can be controversial**: the more people are used to an interface, the more difficult it is to accept changes. There is a strong subjective component at play in judging a new design, to the point that it is almost impossible to make everyone happy. With time, users get used to the new: but this doesn’t seem to be the case. Because of the nature of the community, even the ones who didn’t experience any problems felt disillusioned.
 
-With time, users get used to the new: but this doesn’t seem to be the case. Because of the nature of the **community**, even the ones who didn’t experience any problems felt **disillusioned.**
-
-Suddenly, Ravelry wasn’t anymore the **inclusive** and **friendly** website everybody knew; it turned out to be a web company like **any other**.
+Suddenly, Ravelry wasn’t anymore the **inclusive and friendly website everybody knew**; it turned out to be a web company like any other.
 
 ## The precedent
 
-While researching this blog post, I found [an article](https://www.auckland.ac.nz/en/news/2020/07/01/the-website-making-people-sick.html){:target="_blank" rel="noopener"} stating that this cannot be anything different than **mass hysteria**.
+While researching this blog post, I found [an article](https://www.auckland.ac.nz/en/news/2020/07/01/the-website-making-people-sick.html){:target="_blank" rel="noopener"} stating that this cannot be anything different than mass hysteria. But what happened in 2013 when Apple released [iOS 7](http://www.theguardian.com/technology/2013/sep/27/ios-7-motion-sickness-nausea){:target="_blank" rel="noopener"} proves that those reactions are genuine. The issue with the iPhone’s operating system was clear: the newly introduced animations and the way they were implemented made people with [vestibular disorders](https://vestibular.org/understanding-vestibular-disorder){:target="_blank" rel="noopener"} sick. In Ravelry’s case, even those who are free from these issues are suffering from visiting the site.
 
-But what happened in 2013 when Apple released [iOS 7](http://www.theguardian.com/technology/2013/sep/27/ios-7-motion-sickness-nausea){:target="_blank" rel="noopener"} proves that those reactions are **genuine**. The issue with the iPhone’s operating system was clear: the newly introduced **animations** and the way they were implemented made people with [vestibular disorders](https://vestibular.org/understanding-vestibular-disorder){:target="_blank" rel="noopener"} **sick**. In Ravelry’s case, even those who are free from these issues are **suffering** from visiting the site.
-
-The Epilepsy Foundation of America issued a **warning** and indicated what might be the **trigger** to the seizures. Follow the thread on Twitter:
+The Epilepsy Foundation of America issued a warning and indicated **what might be the trigger to the seizures**. Follow the thread on Twitter:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Members of our epilepsy community have expressed concerns about content on knitting &amp; crocheting community Ravelry. From what we understand, Ravelry recently made changes to their user interface which, according to some users, may be affecting people w/photosensitivity. [1/6] <a href="https://t.co/nCVTcr2fi8">pic.twitter.com/nCVTcr2fi8</a></p>&mdash; Epilepsy Foundation of America (@EpilepsyFdn) <a href="https://twitter.com/EpilepsyFdn/status/1278735302622875648?ref_src=twsrc%5Etfw">July 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## The design
 
-The new branding is colourful: there are at least three bright accent colours and two others that are more neutral. The layout elements have dark solid borders, while the background is white.
-
-People tend to spend a lot of time looking for patterns and instructions: arguably, a **less** **contrasted** interface might have worked better.
-
-To avoid causing problems, I’ve created a [separate page]({{ site.url }}/how-rebranding-cost-ravelry-the-trust-of-their-community-images) to show a couple of screenshots of the redesigned interface.
+The new branding is colourful: there are at least three bright accent colours and two others that are more neutral. The layout elements have dark solid borders, while the background is white. People tend to spend a lot of time looking for patterns and instructions: arguably, **a less** **contrasted interface might have worked better**. To avoid causing problems, I’ve created a [separate page]({{ site.url }}/how-rebranding-cost-ravelry-the-trust-of-their-community-images) to show a couple of screenshots of the redesigned interface.
 
 ### The icons
 
-Finally, the newly redesigned icons have many **details** that get lost in the **small** rendering on the page: a 16px square that seems to be a code legacy. Thus, the icons are not conveying their true function, adding yet another **challenge**.
+Finally, the newly redesigned icons have many detail that get lost in the small rendering on the page: a <code>16px</code> square that seems to be a code legacy. Thus, the icons are not conveying their true function, adding yet another challenge.
 
----
+<hr>
 
-As stated in a [blog post](https://blog.ravelry.com/the-story-of-the-new-look/){:target="_blank" rel="noopener"} published three days after the release, the team at Ravelry started the redesign in January 2019. The platform is **massive**: 800 pages that needed updating one by one. It’s a tremendous amount of work. Based on my understanding, they waited for all pages to be ready before starting to **test** the new design, a choice that **backfired**.
+As stated in a [blog post](https://blog.ravelry.com/the-story-of-the-new-look/){:target="_blank" rel="noopener"} published three days after the release, the team at Ravelry started the redesign in January 2019. The platform is massive: 800 pages that needed updating one by one. It’s a tremendous amount of work. Based on my understanding, **they waited for all pages to be ready before starting to test the new design**, a choice that backfired.
 
 ## Advantages of early testing
 
-As a designer, I know how exciting it is to redesign interfaces that feel dated and how hard it is to receive **negative feedback**. I also know that we design for other people: we need to listen to them to create a **successful experience**. Involving users as soon as possible in the process is paramount; we need to gather feedback and iterate to avoid **wasting** time and money.
+As a designer, I know how exciting it is to redesign interfaces that feel dated and how hard it is to receive negative feedback. I also know that we design for other people: we need to listen to them to create successful experiences. Involving users as soon as possible in the process is paramount; **we need to gather feedback and iterate to avoid wasting time and money**.
 
-The best practice is to conduct **user testing** sessions, where users are given tasks to complete. One of the goals is to understand if an interface is **usable**. Another facet is watching **reactions**: a session of half an hour per person would have uncovered many of the current **complaints**.
+The best practice is to conduct user testing sessions, where users are given tasks to complete. One of the goals is to understand if an interface is usable. Another facet is watching reactions: a session of half an hour per person would have uncovered many of the current complaints.
 
-In the absence of early user testing, it might have been a good idea to roll out the redesign in **batches**, letting people use the new pages and leave **feedback**.
+In the absence of early user testing, it might have been a good idea to roll out the redesign in batches, letting people use the new pages and leave feedback.
 
 ## Accessibility and usability
 
-There is no other way to put it: [accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/){:target="_blank" rel="noopener"} and usability need to be an **integral** part of the **design** since the beginning of a project.
+There is no other way to put it: [accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/){:target="_blank" rel="noopener"} and usability need to be an **integral part of the design since the beginning of a project**.
 
-They are concerned with different aspects of the design, but overlap. _Accessibility_ makes sure people with disabilities can **access** the web. _Usability_ ensures that a product is **effective**, **efficient** and **satisfying** while it stays accessible.
-
-Tools are available to check whether a website is compliant, but again, testing with **people** gives better and more **realistic** results.
+They are concerned with different aspects of the design, but overlap. _Accessibility_ makes sure people with disabilities can access the web. _Usability_ ensures that a product is effective, efficient and satisfying while it stays accessible. Tools are available to check whether a website is compliant, but again, testing with people gives better and more realistic results.
 
 ## The survey
 
-Ravelry published a 35-pages survey. While it’s clear they want to make the redesign work by fixing the **problematic** areas, the survey was **troublesome**:
+Ravelry published a 35-pages survey. While it’s clear they want to make the redesign work by fixing the problematic areas, the survey was troublesome:
 
 1.  People needed to look at screenshots from the same pages that caused them problems.
 2.  It was a lot of work. Each question required to check designs which had to be opened in a new window. It was hard to understand the differences without seeing them side by side.
@@ -93,9 +81,7 @@ Ravelry published a 35-pages survey. While it’s clear they want to make the re
 
 ## Final Thoughts
 
-Ever since the first release, Ravelry made some changes to the interface, but they need to win back the **trust** of their **community** as well. _Accessibility_ and _usability_ are among the core areas of user experience, as is **credibility**. A website is credible when it engenders trust in its users by being accessible and secure.
-
-Even more important now is for communities, online and not, to be more **inclusive** than ever.
+Ever since the first release, Ravelry made some changes to the interface, but they need to **win back the trust of their community** as well. _Accessibility_ and _usability_ are among the core areas of user experience, as is credibility. A website is credible when it engenders trust in its users by being accessible and secure. Even more important now is for communities, online and not, to be more inclusive than ever.
 
 <hr>
 

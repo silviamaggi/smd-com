@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 11. All-women edition'
-last_modified_at: '2021-09-02T22:12:03.974Z'
+last_modified_at: '2021-09-03T13:47:16.075Z'
 featured-post: false
 categories:
   - Design Digested
@@ -10,7 +10,6 @@ tags:
   - racial bias
   - wordpress
 description: 'Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.'
-excerpt: 'Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.'
 featured-image: feat-design-digested-11-all-women-edition.jpg
 permalink: '/design-digested/:title/'
 redirect_from:
@@ -18,6 +17,13 @@ redirect_from:
   - /diversity/design-digested-11-all-women-edition/
   - /diversity/all-women-edition/
 ---
+
+<p class="lead">Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.</p>
+
+<!-- more -->
+
+{% include pattern-figure.html image="/assets/images/feat-design-digested-11-all-women-edition.jpg" alt="Design, Digested #11, All Women Edition" caption="Image credits: Shaniqwa Jarvis, Sara Wong, Emma" width="1200" height="500" %}
+
 ## Meet the computer scientist and activist who got Big Tech to stand down
 
 Four years ago, as as a graduate at MIT’s Media Lab, Joy Buolamwini started looking at the **racial, skin type and gender imbalances** in facial recognition technologies. Her research helped persuade Amazon, IBM, and Microsoft to **put a hold** on facial recognition technology.
@@ -49,5 +55,3 @@ Set designer Es Devlin and design associate Machiko Weston created _I Saw The Wo
 {% include pattern-video.html id="MyNeu7C2ilc" title="I Saw The World End | Es Devlin and Machiko Weston" %}
 
 🔗 [Read the article](https://www.dezeen.com/2020/08/13/es-devlin-machiko-weston-hiroshima-bombing-i-saw-the-world-end/){:target="_blank" rel="noopener"} (on Dezeen)
-
-<!-- <small>Image credits: Shaniqwa Jarvis, Sara Wong, Emma</small> -->

@@ -21,8 +21,6 @@ redirect_from:
 
 {% include pattern-figure.html image="/assets/images/after-the-rain-silviamaggi-2.jpg" caption="After the rain #2" width="1400" height="933" %}
 
-During the last few weeks, I neglected taking care of my body and started to feel it. If there’s anything I desperately need now that I’m preparing to [go back to my home country]({{ site.url }}/personal/new-journey-and-new-blog/), is to move and stretch my body to release the tension.
-
 {% include pattern-figure.html image="/assets/images/after-the-rain-silviamaggi-3.jpg" caption="After the rain #3" width="1400" height="933" %}
 
 <mark class="highlight small">Photos &copy; Silvia Maggi</mark>

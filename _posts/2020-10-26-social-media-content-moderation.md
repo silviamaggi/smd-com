@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 12. Social media content moderation issues'
-last_modified_at: '2021-09-02T21:51:06.735Z'
+last_modified_at: '2021-09-03T13:41:50.511Z'
 featured-post: false
 categories:
   - Design Digested
@@ -20,6 +20,8 @@ redirect_from:
 <p class="lead">After a two-month <a href="{{ site.url }}/photography/after-the-rain/">hiatus</a>, the design inspiration series is back with a focus on social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.</p>
 
 <!--more-->
+
+{% include pattern-figure.html image="/assets/images/feat-design-digested-12.jpg" alt="Design, Digested #12" width="1200" height="500" %}
 
 ## What happened when humans stopped managing social media content
 
@@ -50,5 +52,3 @@ The products we design and use **can get complicated over time**. The co-founder
 Nina Montgomery, the author of the newsletter _Reimagining Capitalism_, studied how a dozen of forward-looking companies are rethinking the way they **generate value and who they serve**.
 
 🔗 [Read the article](https://www.ideo.com/journal/capitalism-needs-a-redesign-but-where-do-we-start){:target="_blank" rel="noopener"} (on IDEO)
-
-<!-- <small>Photo by [Ryoji Iwata](https://unsplash.com/@ryoji__iwata){:target="_blank" rel="noopener"} on Unsplash</small> -->
