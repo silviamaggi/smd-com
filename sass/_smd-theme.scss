@@ -11,16 +11,31 @@ body {
 
 
 // ------------------------------------------------ \\
-// $TEXT
+// $HEADINGS
 // ------------------------------------------------ //
+h2, h3, h4, h5, h6,
+.h2, .h3, .h4, .h5, .h6 {
+  margin-top: $spacer * 3;
+}
+h2, h3, h4, h5, h6,
+.h2, .h3, .h4, .h5, .h6 {
+  color: $heading-d-20;
+  .related-posts & {
+    color: $heading;
+  }
+}
+h5, h6,
+.h5, .h6 {
+  text-transform: uppercase;
+  letter-spacing: $letter-spacing-wide-1;
+}
 
-blockquote {
-  @extend .blockquote;
-  width: 80%;
-  // margin-left: auto;
-  // margin-right: auto;
-  padding-left: $spacer;
-  border-left: 1px solid $heading-l-70;
+
+// ------------------------------------------------ \\
+// $NAVIGATION
+// ------------------------------------------------ //
+.current {
+  color: $link-d-40;
 }
 
 
@@ -45,33 +60,74 @@ blockquote {
 
 
 // ------------------------------------------------ \\
-// $LINKS
+// $ENTRY
+//
+// Default container for posts and pages
 // ------------------------------------------------ //
 
-// Links in posts and pages
+// Default entry font size
 %entry-fs {
   font-size: rfs-fluid-value(18px);
 }
+
+// Default entry block
 .entry {
+  em {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  // Entry block paragraphs
   p {
-    margin-bottom: ($paragraph-margin-bottom * 2);
+    text-align: justify;
+    hyphens: auto;
+
     &:not(.lead) {
       @extend %entry-fs;
+      line-height: 1.6;
+      margin-bottom: 0;
+      & + p {
+        text-indent: $spacer*2;
+      }
     }
 
+    // Entry block lead paragraph
     &.lead {
-      font-size: rfs-fluid-value(22px);
+      font-size: rfs-fluid-value(24px);
       line-height: 1.4;
+      text-indent: 0;
       @include margin-top(32px);
+      @include margin-bottom(32px);
+    }
+
+    // Entry block detached optional paragraph
+    &.detached {
+      text-indent: 0 !important;
+      margin-top: $spacer*1.5;
     }
   }
+  // Entry block blockquote
   blockquote {
+    @extend .blockquote;
+    line-height: 1.3;
+    width: 80%;
+    padding-left: $spacer*1.5;
+    quotes: "“" "”";
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9' height='100%'%3E%3Cpath d='M7.84313 75.6586C7.60784 71.11 7.37255 66.5614 7.05882 61.937C6.58824 55.7205 6.03922 49.5041 5.4902 43.2877C4.86275 35.1001 4.2353 26.9884 3.68628 18.8009C3.29412 12.9636 3.05883 7.12616 2.7451 1.28877C2.66667 0.833912 2.58824 0.454861 2.50981 -2.83695e-07C1.96079 0.15162 1.33334 0.15162 0.941183 0.454861C0.627458 0.682292 0.392164 1.21296 0.313733 1.59201C0.15687 2.50174 7.48027e-06 3.41146 7.44382e-06 4.24537C0.0784384 9.17304 7.00972e-06 14.1765 0.313732 19.1042C1.09804 32.8258 1.96079 46.4717 2.82353 60.1933C3.05883 64.6661 3.45098 69.1389 3.60784 73.5359C3.84314 80.3589 4 87.1818 4.07843 94.0047C4.15686 101.586 4.23529 109.243 4.07843 116.824C3.92157 124.859 3.37255 132.895 3.05882 141.007C2.90196 144.343 2.82353 147.678 2.66667 151.09C2.43137 156.017 2.11765 160.869 1.80392 165.797C1.72549 166.555 1.80392 167.313 0.862745 167.768C0.156863 168.147 0.392157 168.754 1.01961 168.905C1.80392 169.057 2.66666 168.981 3.52941 168.981C5.80392 168.905 6.35294 168.526 6.66666 166.328C7.05882 163.75 7.21568 161.097 7.45097 158.443C7.45097 158.443 8.31372 141.841 8.62745 133.502C8.78431 129.332 8.94117 125.087 8.94117 120.917C9.0196 114.473 9.0196 108.03 8.94117 101.586C8.86274 96.8855 8.70588 92.1853 8.54902 87.485C8.39215 83.4671 8.07843 79.525 7.84313 75.6586Z' fill='%23d4c0b5'/%3E%3C/svg%3E") top left no-repeat;
+    &::before {
+      content: open-quote;
+      font-size: $spacer*2;
+      line-height: 1;
+      color: $background-d-10;
+      font-weight: bolder;
+    }
     p {
+      display: inline;
+      text-indent: 0;
       &:first-child {
         margin-bottom: $spacer;
       }
     }
   }
+  // Entry block link
   a {
     color: $link-color;
     text-decoration: solid underline $link-decoration 4px;
@@ -82,9 +138,11 @@ blockquote {
       transition: text-decoration-color 0.2s ease-in;
     }
   }
+  // Entry block list element
   li {
     @extend %entry-fs;
   }
+  // Entry block mark element
   mark {
     &.highlight {
       border-radius: 1em 0 1em 0;
@@ -93,9 +151,17 @@ blockquote {
   }
 }
 
-// Links in breadcrumbs
+
+// ------------------------------------------------ \\
+// $BREADCRUMBS
+// ------------------------------------------------ //
+
 .breadcrumb-item {
   letter-spacing: $letter-spacing-shrink;
+
+  &:last-child {
+    color: #777;
+  }
 
   a {
     color: $link-color;
@@ -107,34 +173,6 @@ blockquote {
       transition: text-decoration-color 0.2s ease-in;
     }
   }
-}
-
-
-// ------------------------------------------------ \\
-// $HEADINGS
-// ------------------------------------------------ //
-h2, h3, h4, h5, h6,
-.h2, .h3, .h4, .h5, .h6 {
-  margin-top: $spacer * 3;
-}
-h2, h3, h4, h5, h6,
-.h2, .h3, .h4, .h5, .h6 {
-  color: $heading-d-20;
-  .related-posts & {
-    color: $heading;
-  }
-}
-h5, h6,
-.h5, .h6 {
-  text-transform: uppercase;
-  letter-spacing: $letter-spacing-wide-1;
-}
-
-// ------------------------------------------------ \\
-// $NAVIGATION
-// ------------------------------------------------ //
-.current {
-  color: $link-d-40;
 }
 
 
@@ -166,8 +204,8 @@ hr {
 
 .smd-ul {
   list-style-position: outside;
-  margin: 1rem 0 1.5rem 0;
-  padding-left: 1.1rem;
+  margin: $spacer 0 $spacer*1.5 0;
+  padding-left: $spacer;
 
   li {
     margin: .7rem 0;
@@ -182,42 +220,49 @@ hr {
 // $EMBEDS
 // ------------------------------------------------ //
 
-// iframe
 .iframe-container {
   margin: ($spacer * 3) 0;
   padding-top: 56.25%; // 16:9 aspect ratio
   overflow: hidden;
   position: relative;
-}
-.iframe-container iframe {
-   border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;
+
+  iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+ }
 }
 
+
 // ------------------------------------------------ \\
-// $PAGE_ELEMENTS
+// $NEWSLETTER
 // ------------------------------------------------ //
-// Header: newsletter
-.site-header {
-  .newsletter-subscription {
+
+.newsletter-subscription {
+  // Inside the <header>
+  .site-header & {
     padding-top: 0.5rem;
   }
 }
-// Tagline heading rotation
+
+
+// ------------------------------------------------ \\
+// $HERO
+// ------------------------------------------------ //
+
+// Tagline
 .smd-text-rotate {
   transform: rotate(359deg);
 }
-// Post meta
-.post-taxonomy-label {
-  @extend %btn-label-smd;
-  font-size: $micro-font-size;
-  padding: 0 0.4rem;
-}
-// Related posts
+
+
+// ------------------------------------------------ \\
+// $RELATED_POSTS
+// ------------------------------------------------ //
+
 .related-posts {
   @extend %translucent-bg;
 }
@@ -231,7 +276,23 @@ hr {
     }
   }
 }
-// Footer
+
+
+// ------------------------------------------------ \\
+// $POST_META
+// ------------------------------------------------ //
+
+.post-taxonomy-label {
+  @extend %btn-label-smd;
+  font-size: $micro-font-size;
+  padding: 0 0.4rem;
+}
+
+
+// ------------------------------------------------ \\
+// $FOOTER
+// ------------------------------------------------ //
+
 .smd-footer-wrapper {
   background: rgba($background-l-30, .2);
 }
@@ -240,6 +301,7 @@ hr {
 // ------------------------------------------------ \\
 // $BUTTONS
 // ------------------------------------------------ //
+
 // Default button
 %btn-smd,
 .btn-smd {
@@ -252,7 +314,22 @@ hr {
     transition: background-color 0.1s ease-in;
   }
 }
-// Default labels
+
+
+// ------------------------------------------------ \\
+// $LABELS
+// ------------------------------------------------ //
+
+%btn-label-smd-bg,
+.btn-label-smd-bg {
+  background-color: $background;
+
+  &:hover {
+    background-color: $background-d-70;
+  }
+}
+
+// Labels hover behavior
 %btn-label-smd,
 .btn-label-smd {
   color: $link-d-70;
@@ -261,14 +338,6 @@ hr {
   &:hover {
     color: $link-l-80 !important;
     transition: background-color 0.3s ease-in;
-    background-color: $background-d-70;
-  }
-}
-%btn-label-smd-bg,
-.btn-label-smd-bg {
-  background-color: $background;
-
-  &:hover {
     background-color: $background-d-70;
   }
 }

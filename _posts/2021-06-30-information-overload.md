@@ -1,6 +1,6 @@
 ---
 title: Information overload
-last_modified_at: '2021-09-03T12:19:28.847Z'
+last_modified_at: '2021-09-03T14:30:02.750Z'
 featured-post: false
 categories:
   - Design Digested
@@ -27,9 +27,9 @@ As the temperatures in this part of Italy hit 32˚C, I’m reminded how the huma
 
 _Design, Digested_ is a design newsletter. Yet, I’ve been talking about different things recently, and practically stopped writing about design on my blog. On the one hand, I took a break from the information overload I’ve been experiencing; on the other, **I focused my attention on more authoritative UX sources** that I’m currently processing.
 
-**If you ever got lost in Medium articles and blog posts and felt like you were missing crucial skills**, you know what I mean by information overload. In this situation it’s easy to get caught in opinions and trends, wasting time and energy in something that won’t last or doesn’t have solid foundations. I don’t want to get used to this either.
+If you ever got lost in Medium articles and blog posts and felt like you were missing crucial skills, you know what I mean by information overload. In this situation it’s easy to get caught in opinions and trends, wasting time and energy in something that won’t last or doesn’t have solid foundations. I don’t want to get used to this either.
 
-During the coming weeks, I’ll be sharing these UX sources here and on the blog. There will be the other things too – books, TV series, films, games and photography. The frequency of the emails might change as, hopefully, we all spend more time outside this summer.
+During the coming weeks, I’ll be sharing these UX sources here and on the blog. There will be the other things too — books, TV series, films, games and photography. The frequency of the emails might change as, hopefully, we all spend more time outside this summer.
 
-Take care,  
-Silvia
+<p class="detached">Take care,<br>
+Silvia</p>
