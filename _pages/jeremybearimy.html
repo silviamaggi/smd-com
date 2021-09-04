@@ -8,14 +8,24 @@ permalink: /jeremybearimy/
 ---
 <h1>{{ page.title }}</h1>
 
-<p>This is a place where time flows differently. A place for <abbr title="Cascading Style Sheets">CSS</abbr> experiments and creativity.</p>
-
-<small>I borrowed the Jeremy Bearimy concept from <a href="https://www.imdb.com/title/tt4955642/" title="Read about the TV series on IMDb" target="_blank" rel="noopener">The Good Place</a></small>
-
-<hr>
+<p class="lead">
+  This is a place where time flows differently. A place for <abbr title="Cascading Style Sheets">CSS</abbr> experiments and creativity, in Italian and English. I borrowed the concept from <a href="https://www.imdb.com/title/tt4955642/" title="Read about the TV series on IMDb" target="_blank" rel="noopener">The Good Place</a>.
+</p>
 
 <div class="jeremy-bearimy">
+
   {% for jeremybearimy in site.jeremybearimies %}
-  <a href="{{ jeremybearimy.url }}" title="Read: {{ jeremybearimy.title }}"><h3>{{ jeremybearimy.title }}</h3></a>
+  
+  <article class="entry my-5 py-2">
+    <h2 class="fs-2 mt-2 mb-0"><a class="text-decoration-none" href="{{ jeremybearimy.url }}" title="{{ jeremybearimy.title }}">{{ jeremybearimy.title }}</a></h2>
+    <div class="post-meta">
+      <p class="mt-3">{{ jeremybearimy.excerpt | markdownify | strip_html }}</p>
+      <div class="mt-3">
+        <a class="bi bi-chevron-right" href="{{ jeremybearimy.url }}" title="View">View</a> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg>
+      </div>
+    </div>
+  </article>
+
   {% endfor %}
+  
 </div>

@@ -4,10 +4,41 @@
 {%- include site-meta.html -%}
 {%- include seo.html -%}
 {%- include site-favicons.html -%}
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 </head>
+<style>
+  main {
+    padding-bottom: 60px;
+  }
+</style>
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}">
 <main>
 {{ content }}
 </main>
+<footer class="fixed-bottom">
+  <div class="d-flex justify-content-between bg-dark opacity-75">
+    {% if page.previous.url %}{% unless page.previous.hidden %}
+    <div class="p-2 bd-highlight previous-post">
+      <a href="{{ site.url }}{{ page.previous.url }}" class="text-white">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-counterclockwise" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M8 3a5 5 0 1 1-4.546 2.914.5.5 0 0 0-.908-.417A6 6 0 1 0 8 2v1z"/>
+          <path d="M8 4.466V.534a.25.25 0 0 0-.41-.192L5.23 2.308a.25.25 0 0 0 0 .384l2.36 1.966A.25.25 0 0 0 8 4.466z"/>
+        </svg>
+      </a>
+    </div>
+    {% endunless %}{% endif %}
+    <div class="p-2 bd-highlight"><a href="{{ site.url}}/jeremybearimy/" class="btn btn-sm btn-light fw-bold">Back to safety</a></div>
+    {% if page.next.url %}{% unless page.next.hidden %}
+    <div class="p-2 bd-highlight next-post">
+      <a href="{{ site.url }}{{ page.next.url }}" class="text-white">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-clockwise" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M8 3a5 5 0 1 0 4.546 2.914.5.5 0 0 1 .908-.417A6 6 0 1 1 8 2v1z"/>
+          <path d="M8 4.466V.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384L8.41 4.658A.25.25 0 0 1 8 4.466z"/>
+        </svg>
+      </a>
+    </div>
+    {% endunless %}{% endif %}
+  </div>
+</footer>
 </body>
 </html>

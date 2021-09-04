@@ -390,40 +390,8 @@ hr {
 // ------------------------------------------------ //
 
 .related-posts {
-  @extend %translucent-bg;
-
-  .h2 {
-    @extend %smd-tx-shadow;
-  }
-
-  a {
-
-    h4 {
-      color: $link-d-70;
-    }
-
-    &:hover {
-      color: $link-d-30;
-      transition: color .2s ease-in;
-      
-      h4 {
-        color: $link-d-30;
-        transition: color .2s ease-in;
-      }
-    }
-  }
-}
-.related-post {
-  margin: 1.5rem 0;
-  
-  p {
-    text-align: justify;
-    hyphens: auto;
-    margin-bottom: 0;
-  }
-
-  &:last-child {
-    margin-bottom: 0;
+  .stretched-link {
+    @extend %smd-link;
   }
 }
 

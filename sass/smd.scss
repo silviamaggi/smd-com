@@ -84,6 +84,12 @@ $table-group-separator-color: $background-d-30;
 // Modal
 $modal-xl: 1280px;
 
+// Cards
+$card-bg: rgba($background-l-30, .3);
+$card-border-width: 0;
+$card-cap-bg: null;
+
+
 // ------------------------------------------------ \\
 // $REQUIRED Bootstrap
 // ------------------------------------------------ //
@@ -94,7 +100,7 @@ $modal-xl: 1280px;
 // $CUSTOM - Colors
 // ------------------------------------------------ //
 // Remove default colors
-$theme-colors: map-remove($theme-colors, "secondary", "info", "light", "dark", "danger");
+$theme-colors: map-remove($theme-colors, "secondary", "info", "danger");
 
 
 // ------------------------------------------------ \\
