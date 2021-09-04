@@ -1,6 +1,6 @@
 ---
-title: Design, Digested 19. What's wrong with UX – Part 1
-last_modified_at: '2021-09-03T16:10:34.870Z'
+title: Design, Digested 19. What's wrong with UX (Part 1)
+last_modified_at: '2021-09-04T19:32:08.904Z'
 featured-post: false
 categories:
   - Design Digested
