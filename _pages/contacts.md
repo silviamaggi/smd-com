@@ -2,8 +2,9 @@
 layout: page
 title: Contacts
 date: 2020-02-27T17:03:58.000Z
-last_modified_at: '2021-09-04T16:50:48.441Z'
+last_modified_at: '2021-09-04T19:27:02.581Z'
 description: 'Get in touch via email, connect on LinkedIn, Flickr, and GitHub. You can also subscribe to my RSS feed or newsletter.'
+excerpt: 'Get in touch via email, connect on LinkedIn, Flickr, and GitHub. You can also subscribe to my RSS feed or newsletter.'
 permalink: /get-in-touch-silviamaggi/
 redirect_from:
   - /contact/

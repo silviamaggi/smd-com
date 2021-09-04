@@ -71,6 +71,12 @@ h2, h3, h4, h5, h6,
 .h2, .h3, .h4, .h5, .h6 {
   color: $black;
 }
+h4 {
+  .list-result & {
+    @extend h2;
+    margin-bottom: $spacer;
+  }
+}
 h5, h6,
 .h5, .h6 {
   text-transform: uppercase;
