@@ -1,6 +1,6 @@
 ---
-title: Undoing toxic dogmatism; designing less; be more effective
-last_modified_at: '2021-09-03T19:45:05.369Z'
+title: 'Design, Digested 15. Undoing toxic dogmatism; designing less'
+last_modified_at: '2021-09-04T19:15:25.104Z'
 featured-post: false
 categories:
   - Design Digested

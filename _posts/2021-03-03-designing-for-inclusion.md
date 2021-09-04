@@ -1,6 +1,6 @@
 ---
-title: Start designing for inclusion
-last_modified_at: '2021-09-03T15:42:44.387Z'
+title: 'Design, Digested 17. Start designing for inclusion'
+last_modified_at: '2021-09-04T19:14:38.721Z'
 featured-post: false
 categories:
   - Design Digested

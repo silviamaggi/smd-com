@@ -1,6 +1,6 @@
 ---
-title: The importance of sketching in UX and beyond
-last_modified_at: '2021-09-03T19:48:44.767Z'
+title: 'Design, Digested 18. The importance of sketching in UX'
+last_modified_at: '2021-09-04T19:16:16.218Z'
 featured-post: false
 categories:
   - Design Digested
