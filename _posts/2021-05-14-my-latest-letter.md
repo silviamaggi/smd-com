@@ -1,9 +1,9 @@
 ---
 title: My latest letter
-last_modified_at: '2021-09-03T19:51:03.609Z'
+last_modified_at: '2021-09-04T19:19:42.605Z'
 featured-post: false
 categories:
-  - Design Digested
+  - Design
 tags:
   - books
   - letter
@@ -13,7 +13,6 @@ featured-image: feat-smd-blog-featured-image_lettera.jpg
 permalink: '/design-digested/:title/'
 redirect_from:
   - /it/design-it/una-lettera/
-  - /design/my-latest-letter
 ---
 <p class="lead">Every couple of weeks, I write a letter to the nice people subscribed to <a href="https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8" target="_blank" rel="noopener"><em>Design, Digested</em></a>. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.</p>
 
@@ -59,13 +58,13 @@ A couple of men received backing for their idea that should help people that men
 
 <p class="detached">🔗 <a href="https://womensagenda.com.au/latest/the-tampon-removal-glove-created-by-men-that-got-investor-backing-is-an-example-of-a-broken-system/" target="_blank" rel="noopener">Read the article</a> (on Women's Agenda)</p>
 
-### Pen and paper
+## Pen and paper
 
 As a person who likes almost everything digital and tech, I was surprised to read of the study that suggests to use paper notebooks for information we need to learn or memorise. Noted.
 
 <p class="detached">🔗 <a href="https://neurosciencenews.com/hand-writing-brain-activity-18069/" target="_blank" rel="noopener">Read the article</a> (on Neuroscience News)</p>
 
-### Digital indigestion
+## Digital indigestion
 
 Simone Bossi, an Italian photographer, explains why he thinks digital photography is too much to digest. His approach is fascinating: even if now it’s possible to take thousands of pictures of the same angle, he takes one. The pictures he took at the [Surrey Docks Farm](https://www.dezeen.com/2020/03/15/pup-architects-surrey-docks-farm-extension-architecture-london/){:target="_blank" rel="noopener"}, the place down the road we used to live in London, are precious.
 

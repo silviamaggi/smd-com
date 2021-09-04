@@ -1,9 +1,9 @@
 ---
 title: Information overload
-last_modified_at: '2021-09-03T14:30:02.750Z'
+last_modified_at: '2021-09-04T19:20:29.703Z'
 featured-post: false
 categories:
-  - Design Digested
+  - UX
 tags:
   - design
   - letter
