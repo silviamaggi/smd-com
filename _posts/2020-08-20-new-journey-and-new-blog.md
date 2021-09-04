@@ -1,6 +1,6 @@
 ---
 title: New journey and new blog
-last_modified_at: '2021-09-04T17:04:09.628Z'
+last_modified_at: '2021-09-04T17:05:06.799Z'
 featured-post: false
 categories:
   - Personal
