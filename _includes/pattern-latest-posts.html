@@ -1,29 +1,32 @@
 <section class="latest-posts mt-5">
 
-  <h3 class="text-center h2 my-4">Latest Posts</h3>
+  <h3 class="text-center display-5 my-5">Latest Posts</h3>
 
   {%- assign recentPosts = site.posts -%}
-
   {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
   {% if post %}
   {% assign categories = post.categories %}
   {% else %}
   {% assign categories = page.categories %}
   {% endif %}
-  <article class="entry my-5">
-    {% for category in categories %}<a class="small post-taxonomy-label d-inline-block rounded text-decoration-none" href="{{ site.url }}/category/{{ category | slugify | append: '/' }}"><strong class="small">{{ category | upcase | replace:"-"," " }}</strong></a>{% unless forloop.last %}{% endunless %}{% endfor %}
-    <h4 class="mt-2"><a class="text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></h4>
+  <article class="entry my-5 py-2">
+    {% for category in categories %}
+    <span class="font-micro btn-label-smd btn-label-smd-bg d-inline-block rounded text-decoration-none"><strong>{{ category | upcase | replace:"-"," " }}</strong></span>
+    {% endfor %}
+    <h4 class="h2 mt-2 mb-0"><a class="text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></h4>
     <div class="post-meta">
-      <p class="small">{% include post-meta.html %}&nbsp;&ndash;&nbsp;{% include pattern-readingtime.html content=post.content %}</p>
-      <p class="latest-post-excerpt">{{ post.excerpt | markdownify | strip_html }}</p>
-      <div>
-        <a class="bi bi-chevron-right" href="{{ post.url }}" title="Read the entire post">Read more</a> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg>
+      <div class="mt-3">
+        {% include post-meta.html %}&nbsp;/&nbsp;{% include pattern-readingtime.html content=post.content %}
+      </div>
+      <p class="mt-3">{{ post.excerpt | markdownify | strip_html }}</p>
+      <div class="mt-3">
+        <a class="bi bi-chevron-right" href="{{ post.url }}" title="Read the entire post">Read the post</a> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg>
       </div>
     </div>
   </article>
   {% endfor -%}
   <div class="my-5 text-center">
-    <a class="btn btn-lg btn-smd" href="{{ site.data.nav-site[2].link }}" title="Check out all the articles">Read all the articles</a>
+    <a class="btn btn-md fw-bold btn-smd" href="{{ site.data.nav-site[2].link }}" title="Check out all the articles">Read all the articles</a>
   </div>
 
 </section>

@@ -23,28 +23,30 @@
   }
 }
 
+// Default entry font size
+%entry-fs {
+  font-size: rfs-fluid-value(20px);
+}
+
 // Text shadow
 %smd-tx-shadow {
   text-shadow: 0px 0px 0px #fff, 0 0 0 #000, 0px 1px 1px #fff;
 }
 
-// Labels bg
-%btn-label-smd-bg {
-  background-color: $background;
-
-  &:hover {
-    background-color: $background-d-70;
-  }
-}
-
-// Labels hover behavior
+// Labels
 %btn-label-smd {
   color: $link-d-70;
-  background-color: $background-l-90;
-
+  padding: 0 $spacer*0.25;
+}
+// Labels background
+%btn-label-smd-bg {
+  background-color: $background; 
+}
+// Labels link
+%btn-label-smd-link {
   &:hover {
     color: $link-l-80 !important;
-    transition: background-color 0.3s ease-in;
+    transition: background-color 0.3s ease-in !important;
     background-color: $background-d-70;
   }
 }
@@ -67,11 +69,7 @@ body {
 // ------------------------------------------------ //
 h2, h3, h4, h5, h6,
 .h2, .h3, .h4, .h5, .h6 {
-  margin-top: $spacer * 3;
-}
-h2, h3, h4, h5, h6,
-.h2, .h3, .h4, .h5, .h6 {
-  color: $heading-d-20;
+  color: $black;
 }
 h5, h6,
 .h5, .h6 {
@@ -117,16 +115,14 @@ h5, h6,
 // Default container for posts and pages
 // ------------------------------------------------ //
 
-// Default entry font size
-%entry-fs {
-  font-size: rfs-fluid-value(20px);
-}
-
 // Default entry block
 .entry {
-  em {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+  h2, h3, h4, h5, h6,
+  .h2, .h3, .h4, .h5, .h6 {
+    color: $heading;
+    margin-top: $spacer * 3;
   }
+  
   // Entry block paragraphs
   p {
     text-align: justify;
@@ -136,8 +132,14 @@ h5, h6,
       @extend %entry-fs;
       line-height: 1.5;
       margin-bottom: 0;
+      // First paragraph after interruption not indented
       & + p {
         text-indent: $spacer*2;
+      }
+
+      &.featured-post-excerpt {
+        font-size: rfs-fluid-value(16px);
+        text-align: left;
       }
     }
 
@@ -156,6 +158,7 @@ h5, h6,
       margin-top: $spacer*2;
     }
   }
+
   // Entry block blockquote
   blockquote {
     @extend .blockquote;
@@ -184,15 +187,42 @@ h5, h6,
       cite {
         display: block;
         text-indent: 0;
-        margin-top: $spacer/2;
+        margin-top: $spacer*0.5;
         font-family: Georgia, 'Times New Roman', Times, serif;
       }
     }
   }
+
   // Entry block link
   a {
     @extend %smd-link;
+
+    .featured-posts & {
+      opacity: 1;
+
+      &:hover {
+        opacity: .75;
+        transition: opacity .3s ease-in-out;
+      }
+    }
+
+    &[href^="/tag/"] {
+      text-transform: capitalize;
+      &::before {
+        content: 'Tag: ';
+      }
+    }
+    &[href^="/category/"]::before {
+      content: 'Category: ';
+    }
   }
+
+  // Italic
+  em {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  // Entry block ordered lists
   ol {
     list-style: none;
     counter-reset: smd-counter 0;
@@ -213,7 +243,8 @@ h5, h6,
       }
     }
   }
-  // Entry block list element
+
+  // Entry block unordered lists
   ul {
     margin: $spacer*1.5 0;
 
@@ -223,6 +254,7 @@ h5, h6,
       margin: 0;
     }
   }
+
   // Entry block mark element
   mark {
     &.highlight {
@@ -391,13 +423,11 @@ hr {
 
 
 // ------------------------------------------------ \\
-// $POST_META
+// $TABLES
 // ------------------------------------------------ //
 
-.post-taxonomy-label {
-  @extend %btn-label-smd;
-  font-size: $micro-font-size;
-  padding: 0 0.4rem;
+.table {
+  font-size: 1.1rem;
 }
 
 
@@ -432,11 +462,12 @@ hr {
 // $LABELS
 // ------------------------------------------------ //
 
+.btn-label-smd {
+  @extend %btn-label-smd;
+}
 .btn-label-smd-bg {
   @extend %btn-label-smd-bg;
 }
-
-// Labels hover behavior
-.btn-label-smd {
-  @extend %btn-label-smd;
+.btn-label-smd-link {
+  @extend %btn-label-smd-link;
 }

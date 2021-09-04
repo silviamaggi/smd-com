@@ -3,21 +3,28 @@ layout: default
 ---
 {% include site-breadcrumbs.html %}
 
-<h1>{%- if page.type == "tag" -%}Tag: {% else -%}Category: {% endif %}{{ page.title | capitalize }}</h1>
-<section class="blogroll-post my-5 archive-posts">
+<h1>{%- if page.type == "tag" -%}Tag: {% else -%}Category: {% endif %}{{ page.title | upcase }}</h1>
+
+<section class="blogroll">
+
   {% for post in page.posts %}
-    <article class="entry mb-5">
-      <h2 class="mt-1"><a class="text-decoration-none" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      <div class="blurb-content">
-        <p class="post-meta my-4">
-          {% include post-meta.html date=page %}
-          {% include pattern-readingtime.html content=post.content -%}
-        </p>
-        <div class="content">
-          <p class="lead">{{ post.excerpt | markdownify | strip_html }}</p>
-          <a href="{{ post.url }}" title="Read the entire post">Read the post</a> <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-chevron-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg>
+
+    <article class="entry my-5 py-2">
+
+      <h2 class="mt-2 mb-0"><a class="text-decoration-none" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+
+      <div class="post-meta">
+        <div class="mt-3">
+          {% include post-meta.html date=page %}{% include pattern-readingtime.html content=post.content %}
+        </div>
+        <p class="mt-3">{{ post.excerpt | markdownify | strip_html }}</p>
+        <div class="mt-3">
+          <a class="bi bi-chevron-right" href="{{ post.url }}" title="Read the entire post">Read the post</a> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg>
         </div>
       </div>
+
     </article>
-  {% endfor %}
+  
+    {% endfor %}
+
 </section>

@@ -1,5 +1,5 @@
 <nav class="navigation-main mt-4 mb-4" role="navigation" aria-label="Primary">
   {% for item in site.data.nav-site -%}
-  <a href="{{ item.link }}" class="nav-link fs-5 text-decoration-none py-2{% if page.url == item.link %} current{% endif %}">{{ item.name }}</a>
+  <a href="{{ item.link }}" class="nav-link fs-4 text-decoration-none py-2{% if page.url == item.link %} current{% endif %}">{{ item.name }}</a>
   {% endfor -%}
 </nav>

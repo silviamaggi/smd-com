@@ -1,6 +1,6 @@
 ---
 title: The pandemic is a massive opportunity for change
-last_modified_at: '2021-09-03T23:14:36.899Z'
+last_modified_at: '2021-09-04T15:23:17.350Z'
 featured-post: false
 categories:
   - Design
@@ -22,7 +22,7 @@ redirect_from:
 
 While scientists race to find a cure and a vaccine for COVID-19, we’ve been living in a surreal situation. When I started writing this post, over a third of the world population was on lockdown; a couple of weeks later, it’s half of it. Part of me seems to be unable to avoid checking the news, the _numbers_, in search of some certainty and comfort in a situation that can’t offer any. At the same time, as our activities are mostly indoors, entertainment became the most effective way to take our minds off the current crisis.
 
-I [watched _Rams_](https://silviamaggidesign.com/tag/dieter-rams/){:target="_blank" rel="noopener"}, a documentary on Dieter Rams, one of the most influential designers alive. Rams’ work at Braun and Vitsœ has influenced the way most of today’s consumer products look and function.
+I watched _Rams_, a documentary on Dieter Rams, one of the most influential designers alive. Rams’ work at Braun and Vitsœ has influenced the way most of today’s consumer products look and function.
 
 ## Less, but better
 

@@ -55,7 +55,7 @@ Lanier explains how algorithms work in general — pointing out how the ones bui
 
 <mark class="highlight mb-4">Status: in progress</mark>
 
-I bookmarked this book in [June](https://silviamaggidesign.com/books/design-community-solidarity/){:target="_blank" rel="noopener"} and picked it up again recently. Coupled with _The Culture Map_, it’s a fundamental read for anyone in the web field. Whereas many of us think of our users as wealthy, Western people, our audience is much more diverse. So we better design for them too.
+I bookmarked this book in [June]({{ site.url }}/books/design-community-solidarity/) and picked it up again recently. Coupled with _The Culture Map_, it’s a fundamental read for anyone in the web field. Whereas many of us think of our users as wealthy, Western people, our audience is much more diverse. So we better design for them too.
 
 <p class="detached">🔗 <a href="https://abookapart.com/products/cross-cultural-design" target="_blank" rel="noopener">Read the book</a></p>
 

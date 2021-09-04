@@ -41,7 +41,7 @@ Design is what determines a good or bad experience on websites and, either consc
 
 ## Planned Obsolescence, by Unusable podcast
 
-Do you remember when it was possible to change the battery of a car or phone without asking a professional? Or when you [didn’t have to buy](https://silviamaggidesign.com/design/crisis-opportunity-to-shape-a-better-society/){:target="_blank" rel="noopener"} a new fridge-freezer when one of the two parts broke?
+Do you remember when it was possible to change the battery of a car or phone without asking a professional? Or when you [didn’t have to buy]({{ site.url }}/design/pandemic-opportunity-for-change/) a new fridge-freezer when one of the two parts broke?
 
 Planned obsolescence is the practise of designing products with a short expiry date. David and Andrew explain how it works, present us with seven types of planned obsolescence and many other interesting examples.
 

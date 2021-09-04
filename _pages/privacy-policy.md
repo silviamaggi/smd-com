@@ -1,59 +1,42 @@
 ---
 layout: page
 title: Privacy Policy
-date: 2020-02-27 16:38:23
-last_modified_at:
-description: I am Silvia Maggi, and this is the privacy policy for my website. By default, the website does not collect any personal data about visitors.
+date: 2020-02-27T16:38:23.000Z
+last_modified_at: '2021-09-04T17:30:51.985Z'
+description: 'I am Silvia Maggi, and this is the privacy policy for my website. By default, the website does not collect any personal data about visitors.'
 permalink: /privacy-policy/
 redirect_from:
   - /it/privacy-policy/
 ---
 # {{ page.title }}
 
-## Who I am
+<h2 class="display-6">Who I am</h2>
 
-I am Silvia Maggi, and this is my personal website.
+<p>I am Silvia Maggi, and this is my personal website. 
+<br>
+My website address is: <a href="https://silviamaggidesign.com/">https://silviamaggidesign.com</a>.
+</p>
 
-My website address is: [https://silviamaggidesign.com](https://silviamaggidesign.com/).
+<h2 class="display-6">What personal data I collect and why</h2>
 
-## What personal data I collect and why
-
-The website does not collect any personal data about visitors.
-
-### Comments
-
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address.
-
-### Cookies
-
-The website is built with [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noopener"}, no cookies are featured.
+The website is built with [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noopener"}, which is a static web generator, therefore it does not collect any personal data about visitors.
 
 ### Embedded content from other websites
 
-Articles on this site may include embedded content (e.g. videos). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+Articles on this site may include embedded content from other websites: they behave in the exact same way as if the visitor has visited the other website.
 
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+They may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-## Analytics
+An exception to the above is for **YouTube videos**, where all the embeds specifically come from `https://www.youtube-nocookie.com`.
 
-The site does not collect any analytics data.
+<h2 class="display-6">Security</h2>
 
-### Who I share your data with
+The website adopts a secure <abbr title="Secure Sockets Layer">SSL</abbr> protocol and it's hosted on [Cloudflare Pages](https://pages.cloudflare.com/){:target="_blank" rel="noopener"}.
 
-I don’t share any personal data with anyone, including partners, cloud-based services or third party service providers.
+<h2 class="display-6">Analytics</h2>
 
-## How long I retain your data
+Cloudflare Pages analytics don’t cookie visitors, collect their personal information, or track them across sites. [Read more](https://www.cloudflare.com/web-analytics/){:target="_blank" rel="noopener"}.
 
-If you leave a comment, the comment and its metadata are retained indefinitely.
+<h2 class="display-6">Contact information</h2>
 
-## Where we send your data
-
-The website is hosted in the European Union.
-
-## Contact information
-
-For privacy-specific concerns, you can write to hello [at] silviamaggidesign [dot] com.
-
-### How I protect your data
-
-The website adopts a secure SSL protocol. Also, security measures such as two-factor authentication are in place for all the administrative accounts.
+If you have privacy-specific concerns, you can [get in touch]({{ site.url }}/get-in-touch-silviamaggi/).

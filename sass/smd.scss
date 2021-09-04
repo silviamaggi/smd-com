@@ -75,6 +75,12 @@ $nav-link-font-weight: bold;
 $nav-link-padding-x: 0.5rem;
 $nav-link-padding-x: 0;
 
+// Tables
+$table-striped-order: even;
+$table-striped-bg: rgba($background-d-90, $table-striped-bg-factor);
+$table-border-color: rgba($background-d-90, .15);
+$table-group-separator-color: $background-d-30;
+
 // Modal
 $modal-xl: 1280px;
 

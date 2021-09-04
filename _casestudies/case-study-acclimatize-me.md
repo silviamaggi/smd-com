@@ -3,7 +3,7 @@ layout: post
 title: Acclimatize.me - Notification app for travellers
 featured-post: true
 date: 2021-02-18T21:39:15.000Z
-last_modified_at: '2021-09-02T22:44:20.959Z'
+last_modified_at: '2021-09-04T15:26:18.046Z'
 description: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
 excerpt: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
 featured-image: feat-acclimatize-case-study-featured-img.jpg
@@ -53,7 +53,7 @@ Jill is tech-savvy. She always makes time to read books and travel. Fascinated b
 
 The following is an analysis to find out which areas provide design opportunities, taking into account existing solutions and competitors.
 
-[Jump to use case ˅](https://silviamaggidesign.com/portfolio/case-study-acclimatize-me/#usecase)
+[Jump to use case ˅]({{ site.url }}/portfolio/case-study-acclimatize-me/#usecase)
 
 ### Desired outcomes
 
