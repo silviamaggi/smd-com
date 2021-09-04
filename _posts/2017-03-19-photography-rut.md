@@ -1,6 +1,6 @@
 ---
 title: Photography rut and little things in my garden
-last_modified_at: '2021-09-01T20:34:37.661Z'
+last_modified_at: '2021-09-04T12:01:49.372Z'
 featured-post: false
 categories:
   - Photography
@@ -30,7 +30,7 @@ To try to get out of it, I’m bringing the camera with me at work. This alone d
 
 {% include pattern-figure.html image="/assets/images/20170317-img_42641.jpg" caption="March 2017, River Cam after work. Canon + Helios-44M" width="1400" height="933" %}
 
-So today I equipped my camera with a delightful Helios-44M lens, pointed it to the small things in my garden, and saw beautiful colours.
+So today I equipped my camera with a delightful [Helios-44M lens](https://vintage-camera-lenses.com/helios-44-2-58mm-f2/){:target="_blank" rel="noopener"}, pointed it to the small things in my garden, and saw beautiful colours.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-photography-rut/" %}
 

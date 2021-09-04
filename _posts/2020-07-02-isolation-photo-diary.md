@@ -1,6 +1,6 @@
 ---
 title: Isolation photo diary
-last_modified_at: '2021-09-03T16:41:18.503Z'
+last_modified_at: '2021-09-04T11:55:01.642Z'
 featured-post: false
 categories:
   - Photography
@@ -17,8 +17,6 @@ redirect_from:
 
 <p class="lead">Between the ups and downs of the global pandemic and lockdown, I kept taking pictures. I intended to have a photo diary to describe my take on isolation and the extraordinary circumstances we’re living.</p>
 
-{% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-1.jpg" alt="Isolation #1" width="1280" height="853" %}
-
 {% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-2.jpg" alt="Isolation #2" width="1280" height="853" %}
 
 {% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-3.jpg" alt="Isolation #3" width="1280" height="853" %}
@@ -30,6 +28,8 @@ Time seemed to have lost its meaning; some days were painfully long, while it fe
 {% include pattern-figure-cols.html image1="/assets/images/isolation-photo-diary-silviamaggi-5.jpg" image2="/assets/images/isolation-photo-diary-silviamaggi-6.jpg" width="700" height="1050" %}
 
 As family and friends were safe, it became clear that mulling over the news and social media was not an option.
+
+{% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-1.jpg" alt="Isolation #1" width="1280" height="853" %}
 
 {% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-7.jpg" alt="Isolation #7" width="1280" height="853" %}
 

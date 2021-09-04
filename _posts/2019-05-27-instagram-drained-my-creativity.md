@@ -1,6 +1,6 @@
 ---
 title: How Instagram drained my creativity
-last_modified_at: '2021-09-03T19:04:39.782Z'
+last_modified_at: '2021-09-04T12:05:06.427Z'
 featured-post: false
 categories:
   - Photography
@@ -33,7 +33,7 @@ I took a step back and started taking longer breaks from the social network. I o
 
 A few months ago, I bought a 35mm prime lens. I thought it would have helped me achieving higher quality shots and improving storytelling; however, the new gear wasn’t as straightforward to use as I thought.
 
-I read technical articles and reviews, eventually ending up watching video tutorials on how to use some [Adobe Lightroom](https://www.adobe.com/uk/products/photoshop-lightroom.html){:target="_blank" rel="noopener"} tools I didn’t even know existed. Once again, the technical side of creativity captivated me and reminded me why I love photography. Without even fully realising it, I was reorganising my Lightroom catalogue and applying new edits to older photos.
+I read technical articles and reviews, eventually ending up watching video tutorials on how to use some Adobe Lightroom tools I didn’t even know existed. Once again, the technical side of creativity captivated me and reminded me why I love photography. Without even fully realising it, I was reorganising my Lightroom catalogue and applying new edits to older photos.
 
 Our sensitivity changes over time and, as time passes, our perception of the past changes with it. Looking back and making new interpretations of older pictures is something I do once or twice a year.
 
