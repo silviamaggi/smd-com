@@ -20,7 +20,7 @@ redirect_from:
 
 <p class="lead">Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.</p>
 
-<!-- more -->
+<!--more-->
 
 {% include pattern-figure.html image="/assets/images/feat-design-digested-11-all-women-edition.jpg" alt="Design, Digested #11, All Women Edition" caption="Image credits: Shaniqwa Jarvis, Sara Wong, Emma" width="1200" height="500" %}
 

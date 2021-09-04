@@ -18,7 +18,7 @@ redirect_from:
 ---
 <p class="lead">Design inspiration series. Why Facebook can’t beat hate, a safe haven for press freedom, a game to recognise disinformation.</p>
 
-<!-- more -->
+<!--more-->
 
 {% include pattern-figure.html image="/assets/images/feat-design-digested-9.jpg" alt="Design, Digested #9" caption="Photo credits: Justin Sullivan/Getty Images, Reporters Without Borders" width="1200" height="500" %}
 

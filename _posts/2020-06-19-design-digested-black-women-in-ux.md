@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 4. Black women in UX, foster creativity'
-last_modified_at: '2021-09-03T17:10:16.386Z'
+last_modified_at: '2021-09-04T14:59:18.119Z'
 featured-post: false
 categories:
   - Design Digested
@@ -19,7 +19,7 @@ redirect_from:
 ---
 <p class="lead">Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.</p>
 
-<!-- more -->
+<!--more-->
 
 {% include pattern-figure.html image="/assets/images/feat-design-digested-4.jpg" alt="Design, Digested #6" width="1200" height="500" caption='Image credits: Ann O., <a href="https://unsplash.com/photos/suZyHko1JEs" target="_blank" rel="noopener">Stephanie McCabe</a>' %}
 

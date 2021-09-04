@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 3. Responsive design at 10'
-last_modified_at: '2021-09-03T17:25:34.973Z'
+last_modified_at: '2021-09-04T14:59:28.393Z'
 featured-post: false
 categories:
   - Design Digested
@@ -17,7 +17,7 @@ redirect_from:
 ---
 <p class="lead">Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.</p>
 
-<!-- more -->
+<!--more-->
 
 {% include pattern-figure.html image="/assets/images/feat-design-digested-3.jpg" alt="Design, Digested #3" width="1200" height="500" %}
 
