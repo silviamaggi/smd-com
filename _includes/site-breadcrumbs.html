@@ -22,7 +22,7 @@
       <li class="breadcrumb-item"><a href="{{ site.url }}/silvia-maggi-portfolio/">Work</a></li>
       {% endif %}
       {%- if page.url contains "blog" -%}
-      <li class="breadcrumb-item">Blog</li>
+      <li class="breadcrumb-item">Blog (Page {{ paginator.page }} of {{ paginator.total_pages }})</li>
       {%- endif -%}
       {% if page.id %}{% unless page.url contains "portfolio" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>

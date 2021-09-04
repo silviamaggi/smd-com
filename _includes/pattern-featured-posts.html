@@ -1,6 +1,6 @@
 <section class="featured-posts pb-4">
 
-  <h3 class="text-center display-5 mb-5">Highlights</h3>
+  <h3 class="text-center display-5">Highlights</h3>
 
   {%- assign postFeat = site.posts | where: 'featured-post', 'true' -%}
   {%- assign caseFeat = site.casestudies | where: 'featured-post', 'true' -%}
@@ -9,7 +9,7 @@
   <div class="row g-5">
     {% for post in featured limit:3 %}
     <div class="col-4">
-      <article class="featured-post entry">
+      <article class="entry my-5 py-2">
         <a class="text-decoration-none d-block" href="{%- if postFeat -%}{{ post.url }}{%- elsif caseFeat -%}{{ casestudy.url }}{%- endif -%}">
           <img class="img-fluid" loading="lazy" src="{{ site.url }}/assets/images/highlights/highlighted-{%- if postFeat -%}{{ post.featured-image }}{%- elsif caseFeat -%}{{ casestudy.featured-image }}{%- endif -%}" alt="{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}" width="300" height="169">
           <h4 class="my-3">
