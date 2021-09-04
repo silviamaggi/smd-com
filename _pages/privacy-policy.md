@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 date: 2020-02-27T16:38:23.000Z
-last_modified_at: '2021-09-04T17:30:51.985Z'
+last_modified_at: '2021-09-04T18:33:19.006Z'
 description: 'I am Silvia Maggi, and this is the privacy policy for my website. By default, the website does not collect any personal data about visitors.'
 permalink: /privacy-policy/
 redirect_from:
@@ -17,7 +17,7 @@ redirect_from:
 My website address is: <a href="https://silviamaggidesign.com/">https://silviamaggidesign.com</a>.
 </p>
 
-<h2 class="display-6">What personal data I collect and why</h2>
+<h2 class="display-6">Your personal data</h2>
 
 The website is built with [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noopener"}, which is a static web generator, therefore it does not collect any personal data about visitors.
 
