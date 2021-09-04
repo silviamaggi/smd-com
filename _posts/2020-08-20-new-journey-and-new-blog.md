@@ -1,6 +1,6 @@
 ---
 title: New journey and new blog
-last_modified_at: '2021-09-03T22:08:44.064Z'
+last_modified_at: '2021-09-04T17:04:09.628Z'
 featured-post: false
 categories:
   - Personal
@@ -17,9 +17,9 @@ redirect_from:
 ---
 <p class="lead">New journey and new blog for my husband and I to record thoughts, experiences and memories. After nine years, we’re going back to our home country, Italy, where we’ll stay until the pandemic is under control.</p>
 
-{% include pattern-figure.html image="/assets/images/north-sea-cromer.jpg" caption="The North Sea at Cromer" width="1400" height="933" %}
-
 <!--more-->
+
+{% include pattern-figure.html image="/assets/images/north-sea-cromer.jpg" caption="The North Sea at Cromer" width="1400" height="933" %}
 
 It feels like hitting the reset button: a much-needed pause to regroup and understand what to do next. We’ll be writing both in English and in Italian, on the blog [Oregano Dangereux](https://oreganodangereux.wordpress.com/){:target="_blank" rel="noopener"}.
 
