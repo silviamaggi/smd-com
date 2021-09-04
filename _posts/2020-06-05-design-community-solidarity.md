@@ -54,6 +54,6 @@ Following on the topic of an ever more globalised world, this book is not much a
 
 ## About Race with Reni Eddo-Lodge
 
-Reni Eddo-Logde is the author of the book [Why I’m Not Longer_ _Talking To White People About Race](http://renieddolodge.co.uk/books/){:target="_blank" rel="noopener"}. Her 2018 podcast takes the conversation further, by looking at recent history that lead to the politics of today.
+Reni Eddo-Logde is the author of the book [Why I’m Not Longer Talking To White People About Race](http://renieddolodge.co.uk/books/){:target="_blank" rel="noopener"}. Her 2018 podcast takes the conversation further, by looking at recent history that lead to the politics of today.
 
 <p class="detached">🔗 <a href="https://www.aboutracepodcast.com/" target="_blank" rel="noopener">Listen here</a> or on your favourite podcast platform.</p>

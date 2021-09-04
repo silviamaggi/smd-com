@@ -13,7 +13,7 @@ featured-image: feat-after-the-rain-silviamaggi.jpg
 redirect_from:
   - /today-i-saw/after-the-rain/
 ---
-<p class="lead">Today, after the rain, I used the tripod to take a few short videos in the garden. I took time today to appreciate my surroundings after a rain shower.</p>
+<p class="lead">Today, I used the tripod to take a few short videos in the garden. I took time to appreciate my surroundings after a rain shower.</p>
 
 <!--more-->
 

@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 9. Facebook can’t beat hate'
-last_modified_at: '2021-09-03T19:35:17.578Z'
+last_modified_at: '2021-09-03T22:21:01.391Z'
 featured-post: false
 categories:
   - Design Digested
@@ -34,7 +34,7 @@ As it became clear during the past six months, the web is a lifeline, not a luxu
 
 <p class="detached">🔗 <a href="https://webfoundation.org/2020/07/the-web-was-made-for-this-moment-lets-make-it-safe-empowering-for-everyone/" target="_blank" rel="noopener">Read the article</a> (on World Wide Web Foundation)</p>
 
-## RSF opens “The Uncensored Library” – The digital home of Press Freedom within a global computer game
+## RSF opens “The Uncensored Library” — The digital home of Press Freedom within a global computer game
 
 Press freedom NGO _Reporters Without Borders,_ in collaboration with design studio BlockWorks, built “The Uncensored Library” within Minecraft. The library, which is filled with books containing articles that were censored in their country of origin, is a safe haven for press freedom.
 

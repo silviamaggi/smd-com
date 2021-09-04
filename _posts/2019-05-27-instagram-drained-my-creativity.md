@@ -19,7 +19,7 @@ redirect_from:
 
 {% include pattern-figure.html image="/assets/images/20171218_lago_2001-silviamaggi.jpg" alt="Ferry on Lake Maggiore" width="1400" height="738" %}
 
-My efforts went into keeping my Instagram grid fed with pictures, no matter what. But having to think about the do’s and don’ts of Instagram is very tiring, and my passion for photography waned. It took me a long time to understand that I was in a loop. The gratifications I received made me believe that sticking to a specific subject and style was the right choice. Whenever I wanted to make a change, my creativity was satisfied, but Instagram’s algorithm was never on my side.
+My efforts went into keeping my Instagram grid fed with pictures, no matter what. But having to think about the do’s and don’ts of Instagram is very tiring, and my passion for photography waned. It took me a long time to understand that I was in a loop. The gratifications I received made me believe that sticking to a specific subject and style was the right choice. Whenever I wanted to make a change, my creativity was satisfied, but **Instagram’s algorithm was never on my side**.
 
 {% include pattern-figure.html image="/assets/images/20171218_lago_1987_silviamaggi.jpg" alt="Sails on Lake Maggiore" width="1400" height="788" %}
 
@@ -43,7 +43,7 @@ Our sensitivity changes over time and, as time passes, our perception of the pas
 
 Unfortunately, I don’t have a recipe that will take people out of a creativity rut and, every time it happened to me, I took different actions. This time, watching videos of how other photographers approach their work did the trick. Having a new lens also meant that I need to learn how to use it appropriately to achieve the results I have in mind. The only way to make progress is to check other people’s work and practice a lot.
 
-I put Instagram into perspective. It is, after all, merely one social network. Focusing on numbers drains creativity and make us forget why we take and post pictures. I took the photos in this post during the past two visits to Lake Maggiore, and applied new edits. The lens I used was still the kit one, which did a decent job anyway. Below is the list of the videos I watched:
+I put Instagram into perspective. It is, after all, merely one social network. Focusing on numbers drains creativity and makes us forget why we take and post pictures. I took the photos in this post during the past two visits to Lake Maggiore, and applied new edits. The lens I used was still the kit one, which did a decent job anyway. Below is the list of the videos I watched:
 
 <ul class="smd-ul">
 <li><a href="https://www.youtube.com/watch?v=jUOOzi5gukY" target="_blank" rel="noopener">One Tip to Improve Your Photos in Lightroom</a></li>

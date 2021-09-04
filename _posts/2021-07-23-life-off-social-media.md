@@ -29,7 +29,7 @@ Six months later, here’s what happened.
 
 ## The noise stopped
 
-It was a strange feeling at first: something was missing. I got used to a certain level of noise in my life, to a point where I didn’t notice it anymore. Once it was gone, it became so evident I felt relieved.
+It was a strange feeling at first: something was missing. I got used to a certain level of noise in my life, to a point where I didn’t notice it anymore. **Once it was gone, it became so evident I felt relieved**.
 
 I have fewer distraction opportunities, so it gradually became easier to focus for longer. As a result, I’m able to start and finish reading books again, and my productivity improved considerably.
 
@@ -49,7 +49,7 @@ From that moment, I’ve been stuck in a loop. I’d go out and enthusiastically
 
 When it all became too much, I switched to a personal account, hoping to solve my the issue with the tap of a button. It didn’t happen: _the numbers weren’t the real problem_.
 
-Every time I was in a [photography rut and couldn’t take pictures]({{ site.url }}/photography/photography-rut/), I’d feel guilty because I had nothing to post. My passion for photography went from being a hobby that never let me down to a cause of anxiety and feelings of inadequacy.
+Every time I was in a [photography rut and couldn’t take pictures]({{ site.url }}/photography/photography-rut/), I’d feel guilty because I had nothing to post. My passion for photography went from being a hobby that never let me down to **a cause of anxiety and feelings of inadequacy**.
 
 Ever since I deactivated my Instagram account, I take photos whenever I feel like it. I post them [on Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank" rel="noopener"}, or keep them to myself. It doesn’t matter much anymore, as long as I have a creative outlet.
 
@@ -61,7 +61,7 @@ It could be a reflection brought up by the fact I know myself a bit more now, bu
 
 ## Conclusion
 
-Quitting social media has been a good decision for me. I’m more focused, less anxious and have more free time. These, plus the various lockdowns, allowed me to reflect and concentrate more on what matters. This decision is not for everyone, but it’s important to realise how much influence social media has on our lives, how much they can change our behaviours and ways of thinking. And then make decisions for ourselves.
+**Quitting social media has been a good decision for me**. I’m more focused, less anxious and have more free time. These, plus the various lockdowns, allowed me to reflect and concentrate more on what matters. This decision is not for everyone, but it’s important to realise how much influence social media has on our lives, how much they can change our behaviours and ways of thinking. And then make decisions for ourselves.
 
 ## Go deeper
 

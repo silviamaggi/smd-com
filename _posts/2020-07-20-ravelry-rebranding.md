@@ -1,6 +1,6 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2021-09-03T20:03:25.070Z'
+last_modified_at: '2021-09-03T22:44:03.243Z'
 featured-post: true
 categories:
   - Design
@@ -19,7 +19,7 @@ redirect_from:
 ---
 {% include pattern-figure.html image="/assets/images/feat-ravelry-rebranding.jpg" alt="Ravelry lost the trust of their community" width="1200" height="500" caption="Photo by Tara Evans on Unsplash" %}
 
-<p class="lead">Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site. Well-known among knitters, crocheters, designers, spinners, and dyers, Ravelry is a free platform where users can organise and keep track of their projects, network with other people and sell their designs.</p>
+<p class="lead">Knitting website Ravelry lost the trust of their community after a rebranding effort caused several users adverse side effects from browsing the site. Well-known among knitters, crocheters, designers, spinners, and dyers, Ravelry is a free platform where users can organise and keep track of their projects, network with other people and sell their designs.</p>
 
 Ravelry’s [Wikipedia page](https://en.wikipedia.org/wiki/Ravelry){:target="_blank" rel="noopener"} states that, as of March 2020, they had almost 9 million registered users, and approximately 1 million monthly active users.
 
@@ -35,11 +35,11 @@ A few days later, they provided the ability to switch back to the old design, a 
 
 Redesigns can be controversial: the more people are used to an interface, the more difficult it is to accept changes. There is a strong subjective component at play in judging a new design, to the point that it is almost impossible to make everyone happy. With time, users get used to the new: but this doesn’t seem to be the case. Because of the nature of the community, even the ones who didn’t experience any problems felt disillusioned.
 
-Suddenly, Ravelry wasn’t anymore the inclusive and friendly website everybody knew; it turned out to be a web company like any other.
+Suddenly, Ravelry wasn’t anymore the inclusive and friendly website everybody knew; **it turned out to be a web company like any other**.
 
 ## The precedent
 
-While researching this blog post, I found [an article](https://www.auckland.ac.nz/en/news/2020/07/01/the-website-making-people-sick.html){:target="_blank" rel="noopener"} stating that this cannot be anything different than mass hysteria. But what happened in 2013 when Apple released [iOS 7](http://www.theguardian.com/technology/2013/sep/27/ios-7-motion-sickness-nausea){:target="_blank" rel="noopener"} proves that those reactions are genuine. The issue with the iPhone’s operating system was clear: the newly introduced animations and the way they were implemented made people with [vestibular disorders](https://vestibular.org/understanding-vestibular-disorder){:target="_blank" rel="noopener"} sick. In Ravelry’s case, even those who are free from these issues are suffering from visiting the site.
+While researching this blog post, I found [an article](https://www.auckland.ac.nz/en/news/2020/07/01/the-website-making-people-sick.html){:target="_blank" rel="noopener"} stating that this cannot be anything different than mass hysteria. But what happened in 2013, when Apple released [iOS 7](http://www.theguardian.com/technology/2013/sep/27/ios-7-motion-sickness-nausea){:target="_blank" rel="noopener"}, proves that those reactions are genuine. The issue with the iPhone’s operating system was clear: the newly introduced animations and the way they were implemented made people with [vestibular disorders](https://vestibular.org/understanding-vestibular-disorder){:target="_blank" rel="noopener"} sick. In Ravelry’s case, even those who are free from these issues are suffering from visiting the site.
 
 The Epilepsy Foundation of America issued a warning and indicated what might be the trigger to the seizures. Follow the thread on Twitter:
 
@@ -47,11 +47,13 @@ The Epilepsy Foundation of America issued a warning and indicated what might be 
 
 ## The design
 
-The new branding is colourful: there are at least three bright accent colours and two others that are more neutral. The layout elements have dark solid borders, while the background is white. People tend to spend a lot of time looking for patterns and instructions: arguably, a less contrasted interface might have worked bette*. To avoid causing problems, I’ve created a [separate page]({{ site.url }}/how-rebranding-cost-ravelry-the-trust-of-their-community-images) to show a couple of screenshots of the redesigned interface.
+The new branding is colourful: there are at least three bright accent colours and two others that are more neutral. The layout elements have dark solid borders, while the background is white. People tend to spend a lot of time looking for patterns and instructions: arguably, a less contrasted interface might have worked better. 
+
+To avoid causing problems, I’ve created a [separate page]({{ site.url }}/how-rebranding-cost-ravelry-the-trust-of-their-community-images) to **show a couple of screenshots of the redesigned interface**.
 
 ### The icons
 
-Finally, the newly redesigned icons have many detail that get lost in the small rendering on the page: a <code>16px</code> square that seems to be a code legacy. Thus, the icons are not conveying their true function, adding yet another challenge.
+Finally, the newly redesigned icons have many details that get lost in the small rendering on the page: a <code>16px</code> square that seems to be a code legacy. Thus, the icons are not conveying their true function, adding yet another challenge.
 
 <hr>
 
@@ -59,7 +61,7 @@ As stated in a [blog post](https://blog.ravelry.com/the-story-of-the-new-look/){
 
 ## Advantages of early testing
 
-As a designer, I know how exciting it is to redesign interfaces that feel dated and how hard it is to receive negative feedback. I also know that we design for other people: we need to listen to them to create successful experiences. Involving users as soon as possible in the process is paramount; we need to gather feedback and iterate to avoid wasting time and money.
+As a designer, I know how exciting it is to redesign interfaces that feel dated and how hard it is to receive negative feedback. I also know that we design for other people: **we need to listen to them to create successful experiences**. Involving users as soon as possible in the process is paramount; we need to gather feedback and iterate to avoid wasting time and money.
 
 The best practice is to conduct user testing sessions, where users are given tasks to complete. One of the goals is to understand if an interface is usable. Another facet is watching reactions: a session of half an hour per person would have uncovered many of the current complaints.
 
@@ -81,11 +83,11 @@ Ravelry published a 35-pages survey. While it’s clear they want to make the re
 
 ## Final Thoughts
 
-Ever since the first release, Ravelry made some changes to the interface, but they need to win back the trust of their community as well. _Accessibility_ and _usability_ are among the core areas of user experience, as is credibility. A website is credible when it engenders trust in its users by being accessible and secure. Even more important now is for communities, online and not, to be more inclusive than ever.
+Ever since the first release, Ravelry made some changes to the interface, but they need to win back the trust of their community as well. _Accessibility_ and _usability_ are among the core areas of user experience, as is credibility. **A website is credible when it engenders trust in its users**. Even more important now is for communities, online and not, to be more inclusive than ever.
 
 <hr>
 
-## Corrections
+### Edit
 
 The text has been corrected to delete inaccuracies about when the old design will be retired (there will be a six-month notice) and the fact that screen reader software didn’t work correctly with the old version, too.
 

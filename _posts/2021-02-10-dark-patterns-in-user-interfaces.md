@@ -19,7 +19,7 @@ redirect_from:
   - /it/uncategorized-it/dark-patterns-web/
   - /design/dark-patterns-in-user-interfaces/
 ---
-<p class="lead">Recently, I read a couple of compelling blog post about dark patterns in user interfaces copy that I want to share with you. They’re an essential read to understand what they are, how they’re used to deceive people and how to recognise them.</p>
+<p class="lead">Recently, I read a couple of compelling blog post about dark patterns in user interfaces copy. An essential read to understand what they are, how they’re used to deceive people and how to recognise them.</p>
 
 <!--more-->
 

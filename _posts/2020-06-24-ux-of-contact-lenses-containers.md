@@ -1,6 +1,6 @@
 ---
 title: The UX of contact lenses containers
-last_modified_at: '2021-09-03T20:04:28.905Z'
+last_modified_at: '2021-09-03T22:55:29.827Z'
 featured-post: false
 categories:
   - UX
@@ -13,7 +13,7 @@ redirect_from:
   - /design/the-ux-of-contact-lenses-containers/
   - /design/ux-of-contact-lenses-containers/
 ---
-<p class="lead">How is the UX of contact lenses containers? It’s easy to overlook what we use daily, and yet everyday things are usually the ones that make us feel frustrated.</p>
+<p class="lead">How is the UX of contact lenses containers? It’s easy to overlook what we use daily, and yet everyday things are usually the most frustrating ones.</p>
 
 <!--more-->
 

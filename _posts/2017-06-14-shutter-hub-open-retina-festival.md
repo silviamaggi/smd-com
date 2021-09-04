@@ -24,7 +24,7 @@ My husband’s grandfather was one of them. He managed to escape from the camp, 
 
 The photo tells a personal story too, of a grandchild retracing his grandfather’s steps, from the train station through the gate, imagining the horror, the fear, the cold. The chill still painfully palpable. Both men turned their back to the gate and never looked back, 71 years apart.
 
-<p class="detached">The exhibition runs from 1st – 30th of July 2017, in beautiful Edinburgh.</p>
+<p class="detached">The exhibition runs from 1st–30th of July 2017, in beautiful Edinburgh.</p>
 
 {% include pattern-figure.html image="/assets/images/shutterhub_open-flyer-2017.jpg" caption="Shutter Hub Open Flyer 2017" width="332" height="1024" %}
 

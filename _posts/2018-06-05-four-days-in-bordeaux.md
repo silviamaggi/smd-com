@@ -1,6 +1,6 @@
 ---
 title: Four days in Bordeaux
-last_modified_at: '2021-08-27T13:22:27.534Z'
+last_modified_at: '2021-09-03T23:34:29.950Z'
 featured-post: false
 categories:
   - Photography
@@ -31,7 +31,7 @@ One of the many things I noticed is people entering a restaurant or a cafe and s
 
 ## Le Miroir d’Eau
 
-Located between the Garonne and Place de la Bourse, [Le Miroir d’Eau](https://youtu.be/0s8RIkpMf8Q){:target="_blank" rel="noopener"} is a fountain that creates special effects with water and artificial misting against the stunning 18th century’s architecture of the square. We admired the reflections and refreshing mist just like anyone else: it’s remarkable how something so simple, yet ingenious, can entertain and amuse everyone–children and adults alike.
+Located between the Garonne and Place de la Bourse, [Le Miroir d’Eau](https://youtu.be/0s8RIkpMf8Q){:target="_blank" rel="noopener"} is a fountain that creates special effects with water and artificial misting against the stunning 18th century’s architecture of the square. We admired the reflections and refreshing mist just like anyone else: it’s remarkable how something so simple, yet ingenious, can entertain and amuse everyone — children and adults alike.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-3/" %}
 
@@ -40,11 +40,11 @@ Located between the Garonne and Place de la Bourse, [Le Miroir d’Eau](https://
 One day, after breakfast, we went to visit the [Palais Gallien](https://archaeology-travel.com/france/bordeaux-roman-amphitheatre/){:target="_blank" rel="noopener"}, the ruins of an ancient amphitheatre. Along the way, we wanted to stop at the Public Garden, but it was closed. The reason being weather damage.  
 In hindsight, this was probably the hint of the things to come not long later. We spent some time in front of the Palais, knowing a storm was coming but having no idea we were going to face a violent hailstorm.
 
-The streets started to flood very quickly while we tried to get cover, failing to do so. Soaked, cold and scared, we resisted while the hailstorm went on for minutes. After this, we had to go back to our room and try to dry our clothes and shoes, to no avail. Eventually, we had to go out again and buy new shoes.
+The streets started to flood very quickly while we tried to get cover, failing to do so. Soaked, cold and scared, we resisted while the downpour went on for minutes. After this, we had to go back to our room and try to dry our clothes and shoes, to no avail. Eventually, we had to go out again and buy new shoes.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-4/" %}
 
-Unusually for me, I didn’t take loads of pictures. Instead, I enjoyed the time we had together away from home. I did though take photos of our room, which is so pretty that I wanted to keep it tidy.
+Unusually for me, I didn’t take loads of pictures. Instead, I enjoyed the time we had together away from home. I did take photos of our room though, which was so pretty that I wanted to keep it tidy.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-5/" %}
 

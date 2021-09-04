@@ -28,7 +28,7 @@ Going through last year's photos, I found quite a few of them have trees as a su
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-trees/gallery-1/" %}
 
-Some are more striking than others, like the ones at [Sachsenhausen Concentration Camp](http://www.stiftung-bg.de/gums/en/){:target="_blank" rel="noopener"}. They're beautiful figures in a former place of terror and death, and probably their falling leaves and autumnal aspect contributed to the disturbing atmosphere.
+Some are more striking than others, like the ones at [Sachsenhausen Concentration Camp](https://www.sachsenhausen-sbg.de/en/){:target="_blank" rel="noopener"}. They're beautiful figures in a former place of terror and death, and probably their falling leaves and autumnal aspect contributed to the disturbing atmosphere.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-trees/gallery-2/" %}
 

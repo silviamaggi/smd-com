@@ -1,6 +1,6 @@
 ---
 title: Mirrorless camera vs DSLR. My experience in Edinburgh
-last_modified_at: '2021-09-03T19:17:19.664Z'
+last_modified_at: '2021-09-03T23:37:24.350Z'
 featured-post: false
 categories:
   - Photography
@@ -63,11 +63,11 @@ It seemed that by carrying on with the same process I used with the Canon, I was
 What I am doing now is trying to get the best in-camera result, by modifying the settings for the camera mode of choice:
 
 <ul class="smd-ul">
-<li>Noise reduction -2</li>
-<li>Highlight tone -1</li>
-<li>Shadow tone -1</li>
-<li>Sharpness +1</li>
-<li>Dynamic range 100%</li>
+<li>Noise reduction <code>-2</code></li>
+<li>Highlight tone <code>-1</code></li>
+<li>Shadow tone <code>-1</code></li>
+<li>Sharpness <code>+1</code></li>
+<li>Dynamic range <code>100%</code></li>
 </ul>
 
 Then, I import the out-of-the-camera JPGs into Lightroom and make some changes before saving them, moving the RAW files directly to an external drive.

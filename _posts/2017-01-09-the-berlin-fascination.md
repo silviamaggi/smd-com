@@ -1,6 +1,6 @@
 ---
 title: The Berlin fascination
-last_modified_at: '2021-09-01T22:59:13.117Z'
+last_modified_at: '2021-09-03T23:45:49.089Z'
 featured-post: false
 categories:
   - Photography
@@ -12,7 +12,7 @@ description: 'By walking around Berlin, you see it''s headed somewhere. Only, th
 excerpt: "Berlin is well known for being a fresh ever-changing city. By walking around, you see\_it's headed\_somewhere. Only, the destination is unknown and nobody is running."
 featured-image: feat_berlin_4132.jpg
 ---
-<p class="lead">Watching the documentary <a href="http://www.bbc.co.uk/iplayer/episode/b088ktm6/david-bowie-the-last-five-years" target="_blank" rel="noopener"><em>David Bowie: The Last Five Years</em></a> the other night, I realised there still were two excellent albums for me to discover. I somehow missed <em>The Next Day</em>, and, knowing it was supposed to be his parting gift, I’ve never been able to fully listen to <em>Blackstar</em>.</p>
+<p class="lead">Watching the documentary <a href="http://www.bbc.co.uk/iplayer/episode/b088ktm6/david-bowie-the-last-five-years" target="_blank" rel="noopener"><em>David Bowie: The Last Five Years</em></a>, I realised there still were two excellent albums for me to discover. I somehow missed <em>The Next Day</em>, and, knowing it was supposed to be his parting gift, I’ve never been able to fully listen to <em>Blackstar</em>.</p>
 
 {% include pattern-figure.html image="/assets/images/20161123-rathaus-4132.jpg" caption="Rathaus Schöneberg station" width="1400" height="933" %}
 
@@ -20,9 +20,9 @@ As per the documentary though, _Blackstar_ was never supposed to be a goodbye so
 
 At some point, it struck me how the song _Where Are We Now?_ is about Berlin. That information was lost, too. Seeing Berlin again and hearing the lyrics, reminded me of a recent trip to the German capital, and how much I missed it afterwards.
 
-{% include pattern-figure.html image="/assets/images/20161121-berlin-img_3856.jpg" caption="Victory Column" width="897" height="1400" %}
+{% include pattern-figure.html image="/assets/images/20161121-berlin-img_3856.jpg" caption="Siegessäule – Victory Column" width="897" height="1400" %}
 
-All the photos are still stored – only a few of them published on Flickr and Instagram – but I spend quite a lot of time going back to them, making changes and generally trying to render the atmosphere and feelings I experienced when I took them.
+All the photos are still stored — only a few published on Flickr and Instagram — but I spend quite a lot of time going back to them, making changes and generally trying to render the atmosphere and feelings I experienced.
 
 Berlin is well known for being a cool ever-changing city. By just walking around, it is possible to understand it is going somewhere. Only, the destination is unknown, and nobody is running.
 

@@ -1,6 +1,6 @@
 ---
 title: Because We Can Exhibition at Festival Pil’Ours
-last_modified_at: '2021-09-01T22:52:29.321Z'
+last_modified_at: '2021-09-03T23:29:39.950Z'
 featured-post: false
 categories:
   - Photography
@@ -17,9 +17,7 @@ redirect_from:
   - /exhibition/because-we-can-shutter-hub-exhibition-festival-pilours/
   - /exhibition/because-we-can-exhibition/
 ---
-<p class="lead">I’m presenting three pictures at the <em>Because We Can!</em> Exhibition by Shutter Hub, part of Festival Pil’Ours.</p>
-
-It is with great excitement that I can say three of my pictures are part of the _Shutter Hub_ exhibition _Because We Can!_ at Festival Pil’Ours.
+<p class="lead">It is with great excitement that I can say three of my pictures are part of the <em>Because We Can! Exhibition</em> by Shutter Hub, part of Festival Pil’Ours.</p>
 
 <!--more-->
 

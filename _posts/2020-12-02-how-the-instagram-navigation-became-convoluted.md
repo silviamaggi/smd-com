@@ -1,6 +1,6 @@
 ---
 title: How the Instagram navigation became convoluted
-last_modified_at: '2021-09-03T19:44:00.139Z'
+last_modified_at: '2021-09-03T21:56:57.594Z'
 featured-post: false
 categories:
   - UX
@@ -36,7 +36,7 @@ For the _Reel_ and _Shop_ tabs to be quick and easy to access, _New Post_ and _A
 
 {% include pattern-figure.html image="/assets/images/instagram-feed.jpg" caption="Instagram home page with the new layout" width="360" height="760" %}
 
-Being able to access _Activity_ exclusively from one page means more taps and more chances of getting **lost** or distracted before reaching it. One could argue that the in-app notifications won’t make you miss a comment or like, but people might wish to easily go back and reply at a later moment. As mentioned earlier, the _Create New_ feature is now at the top. What I find confusing is how the nature of the feature changes based on its position within the app.
+Being able to access _Activity_ exclusively from one page means more taps and more **chances of getting lost or distracted** before reaching it. One could argue that the in-app notifications won’t make you miss a comment or like, but people might wish to easily go back and reply at a later moment. As mentioned earlier, the _Create New_ feature is now at the top. What I find confusing is how the nature of the feature changes based on its position within the app.
 
 ### Home
 
@@ -52,7 +52,7 @@ From the profile, people can create six types of content: _Feed Post_, _Story_, 
 
 ## One possible explanation
 
-Instagram may be testing which one of the _similar-but-different_ features performs best. The reason I say this is that the layouts are too different to think they both fit the app. Moreover, it’s good UX practise to test between two solutions. If this is the case, we’ll find out soon.
+Instagram may be testing which one of the _similar-but-different_ features performs best. The reason I say this is that the layouts are too different to think they both fit the app. Moreover, it’s good UX practice to test between two solutions. If this is the case, we’ll find out soon.
 
 In the meantime, if you updated the app and felt lost, know that it’s not you. At the moment, the navigation is genuinely convoluted.
 
@@ -60,7 +60,7 @@ In the meantime, if you updated the app and felt lost, know that it’s not you.
 
 The products we design or use can get complicated over time, mainly when they become established. It happens when users ask for more features or when they change the way they use it. See [Design, Digested #12 – Struggling with growth]({{ site.url }}/design-digested/social-media-content-moderation/).
 
-Sometimes it happens when the business model changes: if the goal is to keep people engaged – and watching reels and looking for things to buy do it – then these actions need to take priority on the screen.
+Sometimes it happens when the business model changes: if the goal is to keep people engaged — and watching reels and looking for things to buy do it — then these actions need to take priority on the screen.
 
 ## Useful links
 

@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 6. Anti-Racism, misogyny of the workforce'
-last_modified_at: '2021-09-03T19:31:46.332Z'
+last_modified_at: '2021-09-03T22:49:37.756Z'
 featured-post: false
 categories:
   - Design Digested
@@ -42,12 +42,12 @@ Ever since the EU introduced GDPR rules in 2016, the cookies pop-up has become a
 
 ## To The People Who Told Me To “Think Like A Man”
 
-Jess Vergara’s message is simple: stop contributing to the misogyny of the workforce. Embrace yourself, all women, be inclusive of all women. Jess’s is an excellent article, where she tells her experience and shares resources to help to fix the problem. The lack of women in the tech industry is a problem, which cannot be solved if we keep denying our identities.
+Jess Vergara’s message is simple: stop contributing to the misogyny of the workforce. Embrace yourself, all women, be inclusive of all women. Jess’ is an excellent article, where she tells her experience and shares resources to help to fix the problem. The lack of women in the tech industry is a problem, which cannot be solved if we keep denying our identities.
 
 <p class="detached">🔗 <a href="https://uxdesign.cc/to-the-people-who-told-me-to-think-like-a-man-a7ed0ad468b5" target="_blank" rel="noopener">Read the article</a> (on Medium)</p>
 
 ## How The Inventor Of Mario Designs A Game
 
-Let’s finish this week’s digest with a smile. I recently rediscovered the pleasure of playing video games and how they can take our minds off the news and the current uncertain times we’re living. _Super Mario Bros._ is still one of my favourite games. The very first screen is the perfect example of how to explain a game without manuals: all you need to know is there, the rest you can learn along the way — something to keep in mind when it comes to onboarding experiences of digital products/websites.
+Let’s finish this week’s digest with a smile. I recently rediscovered the pleasure of playing video games and how they can take our minds off the news and the current uncertain times we’re living. _Super Mario Bros._ is still one of my favourite games. The very first screen is the perfect example of how to explain a game without manuals: all you need to know is there, the rest you can learn along the way — something to keep in mind when it comes to onboarding experiences of digital products or websites.
 
 {% include pattern-video.html id="K-NBcP0YUQI" title="How the inventor of Mario designs a game" %}

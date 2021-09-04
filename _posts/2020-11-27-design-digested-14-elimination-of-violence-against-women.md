@@ -36,14 +36,14 @@ A deepfake bot has generated tens of thousands of non-consensual images of women
 
 ## Oxford Dictionaries amends ‘sexist’ definitions of the word ‘woman’
 
-Following the successful petition of [Maria Beatrice Giovanardi](https://twitter.com/mbgiovanardi?ref_src=twsrc%5Etfw){:target="_blank" rel="noopener"}, Oxford Dictionaries amended the sexist definitions of the word _woman_. Other definitions remain – albeit labelled as offensive – failing to satisfy equality campaigners. Maria Beatrice received compliments, offences, and threats of rape.
+Following the successful petition of [Maria Beatrice Giovanardi](https://twitter.com/mbgiovanardi?ref_src=twsrc%5Etfw){:target="_blank" rel="noopener"}, Oxford Dictionaries amended the sexist definitions of the word _woman_. Other definitions remain — albeit labelled as offensive — failing to satisfy equality campaigners. Maria Beatrice received compliments, offences, and threats of rape.
 
 <p class="detached">🔗 <a href="https://www.theguardian.com/books/2020/nov/07/oxford-university-press-updates-definitions-word-woman" target="_blank" rel="noopener">Read in English</a> (on The Guardian)<br>
 🔗 <a href="https://d.repubblica.it/life/2020/11/09/news/maria_beatrice_giovanardi_italiana_vince_contro_oxford_dictionary_cambia_definizione_parola_donna-4831769/" target="_blank" rel="noopener">Read in Italian</a> (on La Repubblica)</p>
 
 ## Italian state TV’s ‘sexy shopping’ tutorial for women sparks outrage
 
-On the eve of the International Day for the Elimination of Violence Against Women, _Detto Fatto_ – a daily early morning programme on the Italian state TV – showed tips on how to shop for groceries in a sexy way for women. The outrage that followed sparked the broadcaster _Rai 2_ to suspend the programme, only to play a previous episode containing a lingerie catwalk complete with advice on push-up bras.
+On the eve of the International Day for the Elimination of Violence Against Women, _Detto Fatto_ — a daily early morning programme on the Italian state TV — showed tips on how to shop for groceries in a sexy way for women. The outrage that followed sparked the broadcaster _Rai 2_ to suspend the programme, only to play a previous episode containing a lingerie catwalk complete with advice on push-up bras.
 
 <p class="detached">🔗 <a href="https://www.theguardian.com/world/2020/nov/26/italian-tv-show-detto-fatto-faces-inquiry-over-sexy-shopping-tutorial-for-women" target="_blank" rel="noopener">Read in English</a> (on The Guardian)<br>
 🔗 <a href="https://www.repubblica.it/politica/2020/11/26/news/rai_-275888247/" target="_blank" rel="noopener">Read in italian</a> (on La Repubblica)</p>

@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 1. Killing Eve set design, and more'
-last_modified_at: '2021-09-03T20:05:15.616Z'
+last_modified_at: '2021-09-03T23:10:37.783Z'
 featured-post: false
 categories:
   - Design Digested
@@ -17,13 +17,13 @@ redirect_from:
   - /books/design-digested-1/
   - /books/killing-eve-set-design/
 ---
-<p class="lead">First instalment of my design inspiration series. This week: Killing Eve set design, accessibility on social media, bad design vs good design, and more.</p>
+<p class="lead">First instalment of my design inspiration series. This week: <em>Killing Eve</em> set design, accessibility on social media, bad design vs good design, and more.</p>
 
 <!--more-->
 
 ## Dressing Scenes For Killing Eve Was “Like Finding Treasure”, Says Set Decorator
 
-The third series of Killing Eve is out. I have yet to watch it, and this article tickled my curiosity. Set decorator Casey Williams explains how set design and location choices were key to express the radically different lifestyles of Eve Polastri and Villanelle. It’s fascinating to read how nothing is left to chance, and how every little detail serves the purpose of telling the story of each character.
+The third series of *Killing Eve* is out. I have yet to watch it, and this article tickled my curiosity. Set decorator Casey Williams explains how set design and location choices were key to express the radically different lifestyles of Eve Polastri and Villanelle. It’s fascinating to read how nothing is left to chance, and how every little detail serves the purpose of telling the story of each character.
 
 <p class="detached">🔗 <a href="https://www.dezeen.com/2020/05/22/killing-eve-set-design-casey-williams/" target="_blank" rel="noopener">Read the article</a> (on Dezeen)</p>
 
@@ -45,7 +45,7 @@ Do you remember when it was possible to change the battery of a car or phone wit
 
 Planned obsolescence is the practise of designing products with a short expiry date. David and Andrew explain how it works, present us with seven types of planned obsolescence and many other interesting examples.
 
-<p class="detached">🔗 <a href="https://podcast.theunusable.com/podcasts/017-planned-obsolescence.mp3" target="_blank" rel="noopener">Listen to the episode</a> (on the podcast website or look for it on your favourite podcast platform)</p>
+<p class="detached">🔗 <a href="https://podcast.theunusable.com/podcasts/017-planned-obsolescence.mp3" target="_blank" rel="noopener">Listen to the episode</a></p>
 
 ## Creative Confidence by Tom Kelley & David Kelley
 

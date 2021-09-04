@@ -1,6 +1,6 @@
 ---
 title: A glimpse of the sea
-last_modified_at: '2021-09-01T23:03:14.976Z'
+last_modified_at: '2021-09-03T23:54:24.270Z'
 featured-post: false
 categories:
   - Photography
@@ -14,13 +14,13 @@ featured-image: feat-20161223_cromer_3312.jpg
 ---
 <p class="lead">A short holiday in Cromer, and the excitement of getting to the sea, reminded me of my childhood summer holidays.</p>
 
-As a child, the biggest event of the year was waking up incredibly early to reach the southern regions of Italy for almost a month long holiday.
+As a kid, the biggest event of the year was waking up incredibly early to reach the southern regions of Italy for almost a month-long holiday.
 
 {% include pattern-figure.html image="/assets/images/20160819-cromer-33121.jpg" caption="The Nothern sea from a window" width="1400" height="933" %}
 
 I would spend hours in the backseat of the car, with a stereo, cassettes, a few books and a pillow. I used to wake up at dawn, turn my head left, and see the first sunlight of the day refracting on Lake Lesina. Further ahead, a small stripe of land and then, barely visible, the sea.
 
-The glimpse of the sea marked the start of the holiday. That sight has been one of the most joyful feelings of my childhood. Today, not much changed.
+The glimpse of the sea marked the start of the holiday. That sight was one of the most joyful feelings. Today, not much changed.
 
 {% include pattern-figure.html image="/assets/images/20160818-img_3179.jpg" caption="A glimpse of the sea" width="933" height="1400" %}
 
