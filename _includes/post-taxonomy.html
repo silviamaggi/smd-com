@@ -6,7 +6,7 @@
   {% assign categories = page.categories %}
   {% endif %}
   <span class="me-1">
-    <span class="d-inline-block font-micro me-1">Filed under</span> {% for category in categories %}<a class="font-micro text-decoration-none btn btn-lg btn-label-smd btn-label-smd-bg btn-label-smd-link" href="{{ site.url }}/category/{{ category | slugify | append: '/' }}"><strong>{{ category | upcase | replace:"-"," " }}</strong></a>{% endfor %}
+    <span class="d-inline-block smd-font-micro me-1">Filed under</span> {% for category in categories %}<a class="text-decoration-none" href="{{ site.url }}/category/{{ category | slugify | append: '/' }}"><span class="btn btn-lg btn-label-smd btn-label-smd-bg btn-label-smd-link fw-bold smd-font-micro">{{ category | upcase | replace:"-"," " }}</span></a>{% endfor %}
   </span>
 {% endunless %}
 {% comment %} --- Tags --- {% endcomment %}
@@ -17,6 +17,6 @@
   {% assign tags = page.tags %}
   {% endif %}
   <span class="ms-1">
-    <span class="d-inline-block font-micro me-1">Tagged</span> {% for tag in tags %}<a class="font-micro me-2 text-decoration-none btn btn-lg btn-label-smd btn-label-smd-bg btn-label-smd-link" href="{{ site.url }}/tag/{{ tag | slugify | append: '/' }}"><strong>{{ tag | upcase }}</strong></a>{% unless forloop.last %}{% endunless %}{% endfor %}
+    <span class="d-inline-block smd-font-micro me-1">Tagged</span> {% for tag in tags %}<a class="me-2 text-decoration-none" href="{{ site.url }}/tag/{{ tag | slugify | append: '/' }}"><span class="btn btn-lg btn-label-smd btn-label-smd-bg btn-label-smd-link fw-bold smd-font-micro">{{ tag | upcase }}</span></a>{% unless forloop.last %}{% endunless %}{% endfor %}
   </span>
 {% endunless %}

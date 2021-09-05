@@ -39,4 +39,4 @@ I’m still mostly isolating and avoiding all unnecessary activities. Neverthele
 
 {% include pattern-figure-cols.html image1="/assets/images/isolation-photo-diary-silviamaggi-8.jpg" image2="/assets/images/isolation-photo-diary-silviamaggi-9.jpg" width="853" height="1280" %}
 
-<p class="detached"><mark class="highlight small">Photos &copy; Silvia Maggi</mark></p>
+<p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>

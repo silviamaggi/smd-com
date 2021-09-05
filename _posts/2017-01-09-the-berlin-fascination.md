@@ -36,4 +36,4 @@ Stories and facts are still discussed, and passed on to the younger generations.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-berlin-fascination/" %}
 
-<p class="detached"><mark class="highlight small">Photo &copy; Silvia Maggi</mark></p>
+<p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>

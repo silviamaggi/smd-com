@@ -1,55 +1,10 @@
 // ------------------------------------------------ \\
 // $CUSTOM THEME
 //
-// Personalization patterns
-// ------------------------------------------------
-// Imported in `smd.scss`
+// * Custom components
+// * Custom utility classes
+// * Imported in `smd.scss`
 // ------------------------------------------------ //
-
-
-// ------------------------------------------------ \\
-// $EXTENDABLES
-// ------------------------------------------------ //
-
-// Links and hover
-%smd-link {
-  color: $link-color;
-  text-decoration: solid underline $link-decoration 4px;
-
-  &:hover {
-    color: $link-hover-color;
-    text-decoration: solid underline $link-hover-decoration 4px;
-    transition: text-decoration-color 0.2s ease-in;
-  }
-}
-
-// Default entry font size
-%entry-fs {
-  font-size: rfs-fluid-value(20px);
-}
-
-// Text shadow
-%smd-tx-shadow {
-  text-shadow: 0px 0px 0px #fff, 0 0 0 #000, 0px 1px 1px #fff;
-}
-
-// Labels
-%btn-label-smd {
-  color: $link-d-70;
-  padding: 0 $spacer*0.25;
-}
-// Labels background
-%btn-label-smd-bg {
-  background-color: $background; 
-}
-// Labels link
-%btn-label-smd-link {
-  &:hover {
-    color: $link-l-80 !important;
-    transition: background-color 0.3s ease-in !important;
-    background-color: $background-d-70;
-  }
-}
 
 
 // ------------------------------------------------ \\
@@ -67,31 +22,21 @@ body {
 // ------------------------------------------------ \\
 // $HEADINGS
 // ------------------------------------------------ //
-h2, h3, h4, h5, h6,
-.h2, .h3, .h4, .h5, .h6 {
-  color: $black;
-}
+
+// Search page result heading (component)
 h4 {
   .list-result & {
-    @extend h2;
+    @extend .h2;
     margin-bottom: $spacer;
   }
-}
-h5, h6,
-.h5, .h6 {
-  text-transform: uppercase;
-  letter-spacing: $letter-spacing-wide-1;
 }
 
 
 // ------------------------------------------------ \\
 // $NAVIGATION
 // ------------------------------------------------ //
-.current {
+.smd-current {
   color: $link-d-40;
-}
-.previous-next-post-links {
-  @extend %smd-tx-shadow;
 }
 
 
@@ -99,33 +44,54 @@ h5, h6,
 // $TYPOGRAPHY
 // ------------------------------------------------ //
 
-%font-micro,
-.font-micro {
+// Font micro size
+.smd-font-micro {
   @include font-size($micro-font-size);
 }
 
 
 // ------------------------------------------------ \\
-// $BACKGROUNDS
+// $LINKS
 // ------------------------------------------------ //
 
-%translucent-bg,
-.translucent-bg {
-  background: rgba($background-l-30, .3);
+// Links and hover (component as a utility class)
+%smd-link,
+.smd-link {
+  @extend .smd-transition-txtdec-03s;
+  color: $link-color;
+  text-decoration: solid underline $link-decoration 4px;
+
+  &:hover {
+    color: $link-hover-color;
+    text-decoration-color: $link-hover-decoration;
+  }
+}
+
+// Stretched link (TwBs utility class - redefined)
+.stretched-link {
+  @extend %smd-link;
 }
 
 
 // ------------------------------------------------ \\
 // $ENTRY
-//
+// ------------------------------------------------ *
 // Default container for posts and pages
+// ------------------------------------------------ *
+// This is the only real component of the website
+// Everything else should be utility-first CSS
 // ------------------------------------------------ //
 
-// Default entry block
-.entry {
-  h2, h3, h4, h5, h6,
-  .h2, .h3, .h4, .h5, .h6 {
-    color: $heading;
+// Default entry font size
+%smd-entry-fs,
+.smd-entry-fs {
+  font-size: rfs-fluid-value(20px);
+}
+
+.smd-entry {
+  // entry headings
+  h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
+    color: $smd-heading-color-base;
     margin-top: $spacer * 3;
   }
   
@@ -135,17 +101,12 @@ h5, h6,
     hyphens: auto;
 
     &:not(.lead) {
-      @extend %entry-fs;
+      @extend %smd-entry-fs;
       line-height: 1.5;
       margin-bottom: 0;
       // First paragraph after interruption not indented
       & + p {
         text-indent: $spacer*2;
-      }
-
-      &.featured-post-excerpt {
-        font-size: rfs-fluid-value(16px);
-        text-align: left;
       }
     }
 
@@ -154,8 +115,7 @@ h5, h6,
       font-size: rfs-fluid-value(24px);
       line-height: 1.4;
       text-indent: 0;
-      @include margin-top(32px);
-      @include margin-bottom(32px);
+      margin: $spacer*2 0;
     }
 
     // Entry block detached optional paragraph
@@ -173,7 +133,6 @@ h5, h6,
     line-height: 1.3;
     margin-top: $spacer*2;
     padding-left: $spacer*1.5;
-    // border-left: 2px solid $background-d-10;
     background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9' height='100%'%3E%3Cpath d='M7.843 93.349c-.235 4.549-.47 9.098-.784 13.722-.47 6.216-1.02 12.433-1.569 18.65-.627 8.187-1.255 16.299-1.804 24.486-.392 5.837-.627 11.675-.94 17.512-.081.455-.159.834-.236 1.289-.55-.152-1.177-.152-1.57-.455-.313-.227-.548-.758-.626-1.137-.157-.91-.314-1.82-.314-2.653.078-4.928 0-9.931.314-14.86.784-13.72 1.647-27.367 2.51-41.088.235-4.473.627-8.946.784-13.343.235-6.823.392-13.646.47-20.47.079-7.58.157-15.237 0-22.818-.156-8.035-.705-16.071-1.02-24.183-.156-3.336-.234-6.671-.391-10.083-.236-4.927-.55-9.78-.863-14.707-.079-.758 0-1.478-.941-1.971C.655 1.13.691.175 1.02.103 1.804-.07 2.667.027 3.53.027 5.804.103 6.353.482 6.667 2.68c.392 2.578.549 5.23.784 7.885 0 0 .863 16.602 1.176 24.94.157 4.17.314 8.416.314 12.586-.078 4.7-.235 9.4-.392 14.1-.157 4.019-.47 7.96-.706 11.827v19.33z' fill='%23d4c0b5'/%3E%3C/svg%3E") top left no-repeat;
     &::before {
       content: open-quote;
@@ -203,21 +162,15 @@ h5, h6,
   a {
     @extend %smd-link;
 
-    .featured-posts & {
-      opacity: 1;
-
-      &:hover {
-        opacity: .75;
-        transition: opacity .3s ease-in-out;
-      }
-    }
-
+    // Tag results link in search page
     &[href^="/tag/"] {
       text-transform: capitalize;
       &::before {
         content: 'Tag: ';
       }
     }
+    
+    // Category results link in search page
     &[href^="/category/"]::before {
       content: 'Category: ';
     }
@@ -236,7 +189,7 @@ h5, h6,
     margin-top: $spacer*1.5;
     padding-left: $spacer;
     li {
-      @extend %entry-fs;
+      @extend %smd-entry-fs;
       counter-increment: smd-counter;
       line-height: 1.6;
       hyphens: auto;
@@ -255,18 +208,9 @@ h5, h6,
     margin: $spacer*1.5 0;
 
     li {
-      @extend %entry-fs;
+      @extend %smd-entry-fs;
       line-height: 1.5;
       margin: 0;
-    }
-  }
-
-  // Entry block mark element
-  mark {
-    &.highlight {
-      display: inline-block;
-      border-radius: 1em 0 1em 0;
-      background-image: linear-gradient(-100deg, rgba(255,224,0,0.3), rgba(255,224,0,0.7) 95%, rgba(255,224,0,0.1));
     }
   }
 }
@@ -274,23 +218,22 @@ h5, h6,
 
 // ------------------------------------------------ \\
 // $BREADCRUMBS
+// (TwBs utility component - redefined)
 // ------------------------------------------------ //
 
 .breadcrumb-item {
   letter-spacing: $letter-spacing-shrink;
 
   &:last-child {
-    color: #777;
+    color: $gray-600;
   }
 
   a {
-    color: $link-color;
+    @extend .smd-transition-txtdec-03s;
     text-decoration: solid underline $link-l-30 2px;
 
     &:hover {
-      color: $link-hover-color;
-      text-decoration: solid underline $link-hover-decoration 2px;
-      transition: text-decoration-color 0.2s ease-in;
+      text-decoration-color: $link-hover-decoration;
     }
   }
 }
@@ -300,24 +243,17 @@ h5, h6,
 // $IMAGES
 // ------------------------------------------------ //
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-figure {
-  margin: auto;
-}
-figcaption {
-  @extend .initialism;
-}
+img         { max-width: 100%; height: auto; }
+figure      { margin: auto; }
+figcaption  { @extend .initialism; }
+
+// Horizontal line spacer
 hr {
   width: $spacer*5;
   text-align: center;
   margin: $spacer*3 auto;
   
-  &:not([size]) {
-    height: 2px;
-  }
+  &:not([size]) { height: 2px; }
 }
 
 
@@ -343,6 +279,7 @@ hr {
 // $EMBEDS
 // ------------------------------------------------ //
 
+// Responsive iframe
 .iframe-container {
   margin: ($spacer * 3) 0;
   padding-top: 56.25%; // 16:9 aspect ratio
@@ -359,45 +296,13 @@ hr {
   }
 }
 .twitter-tweet-rendered {
-  margin-top: $spacer*3 !important;
-}
-
-
-// ------------------------------------------------ \\
-// $NEWSLETTER
-// ------------------------------------------------ //
-
-.newsletter-subscription {
-  // Inside the <header>
-  .site-header & {
-    padding-top: 0.5rem;
-  }
-}
-
-
-// ------------------------------------------------ \\
-// $HERO
-// ------------------------------------------------ //
-
-// Tagline
-.smd-text-rotate {
-  transform: rotate(359deg);
-}
-
-
-// ------------------------------------------------ \\
-// $RELATED_POSTS
-// ------------------------------------------------ //
-
-.related-posts {
-  .stretched-link {
-    @extend %smd-link;
-  }
+  margin: $spacer*3 auto $spacer*4 auto !important;
 }
 
 
 // ------------------------------------------------ \\
 // $TABLES
+// (TwBs utility class - redefined)
 // ------------------------------------------------ //
 
 .table {
@@ -419,15 +324,14 @@ hr {
 // ------------------------------------------------ //
 
 // Default button
-%btn-smd,
 .btn-smd {
+  @extend .smd-transition-bg-01s;
   color: $white;
   background-color: $heading-l-10;
 
   &:hover {
     color: $white;
     background-color: $heading-d-20;
-    transition: background-color 0.1s ease-in;
   }
 }
 
@@ -436,12 +340,96 @@ hr {
 // $LABELS
 // ------------------------------------------------ //
 
+// Label
 .btn-label-smd {
-  @extend %btn-label-smd;
+  color: $link-d-70;
+  padding: 0 $spacer*0.25;
 }
+// Label background
 .btn-label-smd-bg {
-  @extend %btn-label-smd-bg;
+  background-color: $smd-bg-color-base; 
 }
+// Label link
 .btn-label-smd-link {
-  @extend %btn-label-smd-link;
+  @extend .smd-transition-bg-03s;
+  &:hover {
+    color: $link-l-80 !important;
+    background-color: $background-d-70;
+  }
+}
+
+
+// ------------------------------------------------ \\
+// $EFFECTS
+// ------------------------------------------------ //
+
+// Translucent BG
+// ------------------------------------------------ *
+.smd-translucent-bg {
+  background: rgba($background-l-30, .3);
+}
+
+// Text shadow
+// ------------------------------------------------ *
+.smd-tx-shadow {
+  text-shadow: 0px 0px 0px #fff, 0 0 0 #000, 0px 1px 1px #fff;
+}
+
+// TRANSITIONS
+// ------------------------------------------------ *
+// Resulting classes to be used in HTML:
+// ------------------------------------------------ *
+// * smd-transition-bg-01s
+// * smd-transition-bg-03s
+// * smd-transition-color-01s
+// * smd-transition-color-03s
+// * smd-transition-txtdec-01s
+// * smd-transition-txtdec-03s
+// * smd-transition-border-01s
+// * smd-transition-border-03s
+// * smd-transition-opacity-01s
+// * smd-transition-opacity-03s
+// ------------------------------------------------ *
+.smd-transition {
+    // Background
+    &-bg-01s:hover      { transition: background-color 0.1s ease-in !important; }
+    &-bg-03s:hover      { transition: background-color 0.3s ease-in !important; }
+    // Text color
+    &-color-01s:hover   { transition: color 0.1s ease-in !important; }
+    &-color-03s:hover   { transition: color 0.3s ease-in !important; }
+    // Text-decoration
+    &-txtdec-01s:hover  { transition: text-decoration-color 0.1s ease-in !important; }
+    &-txtdec-03s:hover  { transition: text-decoration-color 0.3s ease-in !important; }
+    // Opacity
+    &-opacity-01s,
+    &-opacity-03s       { opacity: 1; }
+    &-opacity-01s:hover { opacity: .8; transition: opacity .1s ease-in-out !important; }
+    &-opacity-03s:hover { opacity: .8; transition: opacity .3s ease-in-out !important; }
+    // Borders
+    &-border-01s        { border: 2px solid transparent; }
+    &-border-03s        { border: 2px solid transparent; }
+    &-border-01s:hover  { border: 2px solid $background-l-20; transition: border 0.1s ease-in !important; }
+    &-border-03s:hover  { border: 2px solid $background-l-20; transition: border 0.3s ease-in !important; }
+}
+
+// Text rotation
+// ------------------------------------------------ *
+.smd-text-rotate {
+  transform: rotate(359deg);
+}
+
+// Letter spacing
+// ------------------------------------------------ *
+.smd-letter-spacing-w1 {
+  letter-spacing: $letter-spacing-wide-1;
+}
+
+// Mark (highlights)
+// ------------------------------------------------ *
+mark {
+  &.smd-highlight {
+    display: inline-block;
+    border-radius: 1.5rem 0.5rem 1.2rem 0.7rem;
+    background-image: linear-gradient(-100deg, rgba(255,224,0,0.3), rgba(255,224,0,0.7) 95%, rgba(255,224,0,0.1));
+  }
 }

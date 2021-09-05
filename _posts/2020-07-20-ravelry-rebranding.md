@@ -43,7 +43,7 @@ While researching this blog post, I found [an article](https://www.auckland.ac.n
 
 The Epilepsy Foundation of America issued a warning and indicated what might be the trigger to the seizures. Follow the thread on Twitter:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Members of our epilepsy community have expressed concerns about content on knitting &amp; crocheting community Ravelry. From what we understand, Ravelry recently made changes to their user interface which, according to some users, may be affecting people w/photosensitivity. [1/6] <a href="https://t.co/nCVTcr2fi8">pic.twitter.com/nCVTcr2fi8</a></p>&mdash; Epilepsy Foundation of America (@EpilepsyFdn) <a href="https://twitter.com/EpilepsyFdn/status/1278735302622875648?ref_src=twsrc%5Etfw">July 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet mt-4"><p lang="en" dir="ltr">Members of our epilepsy community have expressed concerns about content on knitting &amp; crocheting community Ravelry. From what we understand, Ravelry recently made changes to their user interface which, according to some users, may be affecting people w/photosensitivity. [1/6] <a href="https://t.co/nCVTcr2fi8">pic.twitter.com/nCVTcr2fi8</a></p>&mdash; Epilepsy Foundation of America (@EpilepsyFdn) <a href="https://twitter.com/EpilepsyFdn/status/1278735302622875648?ref_src=twsrc%5Etfw">July 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## The design
 

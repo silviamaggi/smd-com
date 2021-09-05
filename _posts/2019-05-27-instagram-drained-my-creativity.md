@@ -53,4 +53,4 @@ I put Instagram into perspective. It is, after all, merely one social network. F
 <li><a href="https://www.youtube.com/watch?v=3RNWJPbrZfo" target="_blank" rel="noopener">9 Photography Tips you should IGNORE!</a></li>
 </ul>
 
-<p class="detached"><mark class="highlight small">Photos &copy; Silvia Maggi</mark></p>
+<p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>
