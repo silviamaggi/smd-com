@@ -3,7 +3,7 @@ layout: post
 title: UniCredit acquisition landing pages and forms
 featured-post: true
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2021-08-30T13:42:07.608Z'
+last_modified_at: '2021-09-05T16:29:15.917Z'
 description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 excerpt: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
@@ -57,12 +57,6 @@ Based on existing data, and observations of a group of ten people I gave tasks t
 
 {% include pattern-figure.html image="/assets/images/Marco-avatar.png" caption="" width="95" height="95" %}
 
-###  Eager Marco
-
-New to banking and looking for a solution to buy and receive money without opening one.
-
-{% include pattern-figure.html image="/assets/images/Elisa-avatar.png" caption="" width="95" height="95" %}
-
 ### Inquisitive Elisa
 
 Has an account with a competitor but would like to switch, if the process is straightforward.
@@ -73,21 +67,25 @@ Has an account with a competitor but would like to switch, if the process is str
 
 A UniCredit client with growing curiosity about internet banking, despite online security concerns
 
-### Customer journey maps
+## Customer journey maps
 
-The customer journey maps follow the actions the personas take to reach their goals. I chose them over user flows because they **highlight thoughts and emotions**, useful to identify a journey’s pain points.
+The customer journey maps follow the actions the personas take to reach their goals. I chose them over user flows because *they highlight thoughts and emotions*, useful to identify a journey’s pain points.
 
-{% include pattern-figure.html image="/assets/images/customer-journey-map_marco.png" caption="Eager Marco customer journey map" width="1754" height="1150" %}
+
+
+{% include pattern-figure.html image="/assets/images/customer-journey-map_marco.png" caption="Eager Marco customer journey map" width="1754" height="1056" %}
 
 {% include pattern-figure.html image="/assets/images/customer-journey-map_elisa.png" caption="Inquisitive Elisa customer journey map" width="1920" height="1130" %}
 
 {% include pattern-figure.html image="/assets/images/customer-journey-map_giulio.png" caption="Cautious Giulio customer journey map" width="1754" height="1142" %}
 
-## Content analysis
+## Content strategy
 
 At UI Farm, content precedes design. Even before starting to sketch, **the focus is on content and its prioritisation**. This is also related to performance, which is treated like a design element.
 
 We analysed the content of the existing landing pages and proposed a solution to UniCredit.
+
+### Analysis
 
 {% include pattern-figure.html image="/assets/images/unicredit-content-analysis.png" caption="" width="1006" height="1565" %}
 
@@ -119,8 +117,6 @@ Each feature presents the product PDF and call to actions.
 **9**
 
 The free number anyone can call to get help is below the legal message. With the exception of the campaign claim, the text is very low-contrast and small.
-
-## Content strategy
 
 {% include pattern-figure.html image="/assets/images/unicredit-content-strategy.png" caption="" width="895" height=" 1497" %}
 
