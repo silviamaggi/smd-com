@@ -7,6 +7,7 @@ categories:
 tags:
   - exhibition
   - shutter hub
+  - photomonth
   - london
   - uk
 description: Two pictures of mine part of the Shutter Hub exhibition in London and Amsterdam between October 2018 and January 2019.

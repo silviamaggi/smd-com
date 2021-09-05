@@ -6,7 +6,7 @@ categories:
   - Personal
 tags:
   - jekyll
-  - github pages
+  - responsive web design
   - wordpress
 description: An announcement to my WordPress followers.
 featured-image: feat-marco-chilese-unsplash.jpg

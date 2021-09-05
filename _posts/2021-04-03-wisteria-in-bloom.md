@@ -6,6 +6,7 @@ categories:
   - Photography
 tags:
   - wisteria
+  - nature
   - ravenna
   - italy
 description: 'As the weather warms, the wisteria in the yard is blooming. I took a couple of pictures of it.'
