@@ -1,19 +1,25 @@
-<section class="image-gallery">
-{% for file in site.static_files %}
-  {% if file.path contains include.folder %}
-  {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
-  {% assign filenameparts = file.path | split: "/" %}
-  {% if file.path contains 'thumb-' %}
-  {% assign filename = filenameparts | last | replace: file.extname,"" | replace: 'thumb', '' | replace: '-',' ' %}
-  <div class="image-gallery-picture">
-    <a href="#" title="{{ filename }}">
-      <img loading="lazy" src="{{ file.path | relative_url }}" alt="{{ filename }}" title="{{ filename }}">
-      <p><small>{{ filename }}</small></p>
-    </a>
-  </div>
-  {% endif %}
-  {% endif %}
-  {% endif %}
+<section class="smd-image-gallery">
+  <div class="d-flex justify-content-center smd-img-gallery-thumbs my-5 pt-2" id="gallery" data-bs-toggle="modal" data-bs-target="#smdImgGallery{{ include.id }}">
+  
+  {% for image in site.static_files %}
+
+    {% if image.path contains include.folder %}
+    {% assign filenameparts = image.path | split: "/" %}
+    {% if image.path contains 'thumb-' %}
+    {% assign filename = filenameparts | last | replace: image.extname,"" | replace: 'thumb', '' | replace: '-',' ' %}
+
+    <div class="px-4 text-center">
+      <img loading="lazy" class="rounded mx-auto d-block" src="{{ image.path | relative_url }}" alt="{{ filename }}" title="{{ filename }}" width="150" height="150" data-bs-target="#smdImgGalleryCarousel">
+      <span class="initialism">{{ filename }}</span>
+    </div>
+  
+    {% endif %}
+    {% endif %}
+  
   {% endfor %}
+
+  </div>
+
+  {%- include pattern-modal-carousel.html -%}
+
 </section>
-<hr class="clearfix">

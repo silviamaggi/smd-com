@@ -258,6 +258,38 @@ hr {
 
 
 // ------------------------------------------------ \\
+// $IMAGEGALLERY
+// ------------------------------------------------ //
+
+.img-slide { 
+  max-height: 90vh;
+}
+.smd-img-gallery-thumbs { 
+  cursor: pointer;
+}
+// .smd-img-gallery-picture { 
+//   width: 100%; 
+//   object-fit: cover;
+// }
+
+
+// ------------------------------------------------ \\
+// $MODAL
+// ------------------------------------------------ //
+
+.smd-modal-content { 
+  position: relative;
+}
+.smd-modal-header { 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  z-index: 9000;
+}
+
+
+// ------------------------------------------------ \\
 // $LISTS
 // ------------------------------------------------ //
 
@@ -333,6 +365,11 @@ hr {
     color: $white;
     background-color: $heading-d-20;
   }
+}
+
+// Modal close button
+.btn-close {
+  background-color: $black;
 }
 
 

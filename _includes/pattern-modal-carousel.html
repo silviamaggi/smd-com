@@ -1,0 +1,46 @@
+<div class="modal fade" id="smdImgGallery{{ include.id }}" tabindex="-1" aria-label="Image gallery" aria-hidden="true" style="display: none;">
+  <div class="modal-dialog modal-dialog-centered modal-xl">
+    <div class="modal-content smd-modal-content border-0">
+
+      <div class="modal-header smd-modal-header border-0">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+
+      <div class="modal-body align-items-stretch px-0 py-0">
+        <div id="smdImgGalleryCarousel{{ include.id }}" class="carousel slide" data-bs-ride="carousel" data-bs-interval="false">
+          <div class="carousel-inner">
+
+          {% for image in site.static_files %}
+
+            {% if image.path contains include.folder %}
+            {% assign filenameparts = image.path | split: "/" %}
+            {% assign filename = filenameparts | last | replace: image.extname,"" | replace: '1-','' | replace: '-',' ' %}
+
+            {% unless image.path contains 'thumb-' %}
+
+            <div class="carousel-item{% if image.path contains '1-'%} active{% endif %}">
+              <div class="d-flex justify-content-center">
+                <img loading="lazy" src="{{ image.path | relative_url }}" class="img-slide smd-img-gallery-picture" alt="{{ filename | capitalize }}">
+              </div>
+            </div>
+            {% endunless %}
+
+            {% endif %}
+
+          {% endfor %}
+
+            <button class="carousel-control-prev" type="button" data-bs-target="#smdImgGalleryCarousel{{ include.id }}" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#smdImgGalleryCarousel{{ include.id }}" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
