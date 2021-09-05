@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 1. Killing Eve set design, and more'
-last_modified_at: '2021-09-03T23:10:37.783Z'
+last_modified_at: '2021-09-05T10:45:19.042Z'
 featured-post: false
 categories:
   - Design Digested
