@@ -75,8 +75,11 @@ h4 {
 
 // ------------------------------------------------ \\
 // $ENTRY
-//
+// ------------------------------------------------ *
 // Default container for posts and pages
+// ------------------------------------------------ *
+// This is the only real component of the website
+// Everything else should be utility-first CSS
 // ------------------------------------------------ //
 
 // Default entry font size
@@ -374,7 +377,7 @@ hr {
 
 // TRANSITIONS
 // ------------------------------------------------ *
-// Resulting classes:
+// Resulting classes to be used in HTML:
 // ------------------------------------------------ *
 // * smd-transition-bg-01s
 // * smd-transition-bg-03s
