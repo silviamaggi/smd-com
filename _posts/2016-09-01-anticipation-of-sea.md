@@ -36,5 +36,5 @@ Dramatic tides have been a completely new feature for me. The seascape changes c
 
 As much as a sunny day at the sea is perceived as good, I crave the overcast ones. The gentle light and subdued colours seem to reveal details otherwise overlooked under the sunlight.
 
-<p class="detached"><mark class="highlight small">Photos &copy; Silvia Maggi</mark></p>
+<p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>
 

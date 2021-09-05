@@ -18,6 +18,10 @@ $background:#ebd5c9 !default;
 $heading: #014c5d !default;
 $link: #98d1dd !default;
 
+$smd-bg-color-base: $background;
+$smd-heading-color-base: $heading;
+$smd-link-color-base: $link;
+
 // Map for colors
 $smd-colors: (
   heads: (
@@ -100,7 +104,7 @@ $smd-bg-colors: (
 // Same as above, but available as variables
 // ------------------------------------------------ //
 
-// background: lighter
+// BACKGROUNDS variants
 $background-l-10: tint-color($background, 10%);
 $background-l-20: tint-color($background, 20%);
 $background-l-30: tint-color($background, 30%);
@@ -110,7 +114,6 @@ $background-l-60: tint-color($background, 60%);
 $background-l-70: tint-color($background, 70%);
 $background-l-80: tint-color($background, 80%);
 $background-l-90: tint-color($background, 90%);
-// background: darker
 $background-d-10: shade-color($background, 10%);
 $background-d-20: shade-color($background, 20%);
 $background-d-30: shade-color($background, 30%);
@@ -120,7 +123,7 @@ $background-d-60: shade-color($background, 60%);
 $background-d-70: shade-color($background, 70%);
 $background-d-80: shade-color($background, 80%);
 $background-d-90: shade-color($background, 90%);
-// heading: lighter
+// HEADINGS
 $heading-l-10: tint-color($heading, 10%);
 $heading-l-20: tint-color($heading, 20%);
 $heading-l-30: tint-color($heading, 30%);
@@ -130,7 +133,6 @@ $heading-l-60: tint-color($heading, 60%);
 $heading-l-70: tint-color($heading, 70%);
 $heading-l-80: tint-color($heading, 80%);
 $heading-l-90: tint-color($heading, 90%);
-// heading: darker
 $heading-d-10: shade-color($heading, 10%);
 $heading-d-20: shade-color($heading, 20%);
 $heading-d-30: shade-color($heading, 30%);
@@ -140,7 +142,7 @@ $heading-d-60: shade-color($heading, 60%);
 $heading-d-70: shade-color($heading, 70%);
 $heading-d-80: shade-color($heading, 80%);
 $heading-d-90: shade-color($heading, 90%);
-// link: lighter
+// LINKS
 $link-l-10: tint-color($link, 10%);
 $link-l-20: tint-color($link, 20%);
 $link-l-30: tint-color($link, 30%);
@@ -150,7 +152,6 @@ $link-l-60: tint-color($link, 60%);
 $link-l-70: tint-color($link, 70%);
 $link-l-80: tint-color($link, 80%);
 $link-l-90: tint-color($link, 90%);
-// link: darker
 $link-d-10: shade-color($link, 10%);
 $link-d-20: shade-color($link, 20%);
 $link-d-30: shade-color($link, 30%);
@@ -175,31 +176,3 @@ $link-d-90: shade-color($link, 90%);
 // $gray-800: #343a40;
 // $gray-900: #212529;
 // $black:    #000;
-
-
-
-// $colors : (
-//   background : #ebd5c9, //   heading    : #014c5d,
-//   link       : #98d1dd
-// );
-
-// $colors-map: ();
-
-// @function create_colour_map($color, $percentage, $opacity) {
-//   $map: (
-//     base: $color,
-//     l-10: ligthen($color, 10%),
-//     light: lighten($color, $percentage),
-//     dark: darken($color, $percentage),
-//     trans: transparentize($color, $opacity)
-//   );
-//   @return $map;
-// }
-
-// @each $key, $value in $colors {
-//   $map: ();
-//   $map: map-merge($map, ($key: create_colour_map($value, 15%, 0.5)) );
-//   $colors-map: map-merge($colors-map, $map);
-// }
-
-// @debug $colors-map;

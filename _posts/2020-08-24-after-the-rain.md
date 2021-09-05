@@ -23,4 +23,4 @@ redirect_from:
 
 {% include pattern-figure.html image="/assets/images/after-the-rain-silviamaggi-3.jpg" caption="After the rain #3" width="1400" height="933" %}
 
-<p class="detached"><mark class="highlight small">Photos &copy; Silvia Maggi</mark></p>
+<p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>

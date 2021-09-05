@@ -1,6 +1,7 @@
 /*!
- * Custom SCSS, based on Bootstrap
- * No copyright 2021 - Silvia Maggi
+ * Custom CSS built on top of Bootstrap 5.x
+ * Written by Silvia Maggi & Minutes to Midnight
+ * No copyright 2021-22, Silvia Maggi.
  */
 
 
@@ -25,7 +26,6 @@
 
 // Typography
 $enable-rfs: true;
-
 $headings-font-family: 'FiraSansBold', serif;
 $h1-font-size: 3rem;
 $h2-font-size: 1.8rem;
@@ -34,20 +34,13 @@ $h4-font-size: 1.4rem;
 $h5-font-size: 1.1rem;
 $h6-font-size: 1rem;
 $headings-margin-bottom: 1.7rem;
-
 $lead-font-size: 1.3rem;
 $lead-font-weight: normal;
-
 $micro-font-size: $small-font-size * .9;
-
 $font-weight-black: 900;
-// $display-font-weight: ;
-
 $initialism-font-size: $micro-font-size;
-
 $letter-spacing-wide-1: 1px;
 $letter-spacing-shrink: -0.25px;
-
 $blockquote-margin-y: $spacer * 2;
 $blockquote-font-size: $lead-font-size;
 
@@ -55,15 +48,13 @@ $blockquote-font-size: $lead-font-size;
 $enable-transitions: true;
 $enable-shadows: false;
 $enable-gradients: false;
-// $mark-padding: ;
-// $mark-bg: ;
 
 // Colors
 @import "smd-palette";
 
 // Links
 $link-color: $link-d-70;
-$link-decoration: $link;
+$link-decoration: $smd-link-color-base;
 $link-shade-percentage: 20%;
 $link-hover-color: tint-color($link-color, $link-shade-percentage);
 $link-hover-decoration: tint-color($link-color, $link-shade-percentage);

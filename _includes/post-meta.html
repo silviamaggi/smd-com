@@ -3,6 +3,6 @@
 {% elsif page %}
 {% assign date = page.date %}
 {% endif %}
-<span class="d-inline-block font-micro fw-bold">
+<span class="d-inline-block smd-font-micro fw-bold">
   <time datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time>
 </span>{% unless page.title contains 'homepage' %} / {% endunless %}

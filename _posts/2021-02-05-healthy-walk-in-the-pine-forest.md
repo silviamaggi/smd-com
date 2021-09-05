@@ -24,4 +24,4 @@ Walking does magic to the body, but today my legs remind me that, during the pas
 
 The pine forest features the stillness I used to feel in the mountains. Even if there’s a road on one side, it’s easy to forget about it. The soil, covered with pine needles, is soft. The smell of wood is in the air. Today I saw the pine forest, but I also inhaled it and felt it.
 
-<p class="detached"><mark class="highlight small">Photos &copy; Silvia Maggi</mark></p>
+<p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>

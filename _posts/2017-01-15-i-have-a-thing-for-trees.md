@@ -32,4 +32,4 @@ Some are more striking than others, like the ones at [Sachsenhausen Concentrat
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-trees/gallery-2/" %}
 
-<p class="detached"><mark class="highlight small">Photo &copy; Silvia Maggi</mark></p>
+<p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>

@@ -25,4 +25,4 @@ It feels like hitting the reset button: a much-needed pause to regroup and under
 
 <p class="detached">I’d be glad if you’d like to accompany us on this journey.</p>
 
-<p class="detached"><mark class="highlight small">Photo &copy; Silvia Maggi</mark></p>
+<p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>

@@ -31,4 +31,4 @@ The stark reality is that the recipe for success on Instagram is merely a way to
 
 I saw it yesterday, while out in the garden. I liked the shimmers of light on the abandoned cobweb and the fact that it is attached to our now dry flowers. It’s a stark contrast to [the way they looked a few months ago]({{ site.url }}/photography/isolation-photo-diary/).
 
-<p class="detached"><mark class="highlight small">Photo &copy; Silvia Maggi</mark></p>
+<p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>

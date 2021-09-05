@@ -76,4 +76,4 @@ Then, I import the out-of-the-camera JPGs into Lightroom and make some changes b
 
 A professional photographer probably wouldn’t agree with this process, but for now, it makes a big difference for me. I spent too long not taking pictures because the camera was a heavy object to carry — and because I wasn’t particularly inspired — so I really look forward to bringing the Fujifilm with me more often. Surely the various film simulator modes allow for great creativity, and I only briefly tried the Helios-M44 on it, so I can’t wait to test it properly!
 
-<p class="detached"><mark class="highlight small">Photos &copy; Silvia Maggi</mark></p>
+<p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>
