@@ -3,7 +3,7 @@ layout: post
 title: Turtle nest monitoring app
 featured-post: false
 date: 2021-08-09T18:14:09.000Z
-last_modified_at: '2021-08-30T21:12:46.289Z'
+last_modified_at: '2021-09-05T22:25:25.020Z'
 description: Scientists need to monitor turtle nests and record their status to measure the effectiveness of strategies to protect the aquatic megafauna and their habitats.
 excerpt: Scientists need to monitor turtle nests and record their status to measure the effectiveness of strategies to protect the aquatic megafauna and their habitats.
 featured-image: feat-turtle-nest-monitoring-app-featured-img.jpg
@@ -13,15 +13,15 @@ featured-image: feat-turtle-nest-monitoring-app-featured-img.jpg
 
 ## The problem
 
-Turtle scientists need to monitor nests and record status and number of hatchings so that they can **measure the effectiveness of [AMMC](https://www.ammco.org/){:target="_blank" rel="noopener"} strategies to protect the aquatic megafauna and their habitats.**
+Turtle scientists need to monitor nests and record status and number of hatchings so that they can measure the effectiveness of [AMMC](https://www.ammco.org/){:target="_blank" rel="noopener"} strategies to protect the aquatic megafauna and their habitats.
 
 ## The solution
 
-I designed the interaction for a mobile app that allows turtle scientists to **record new turtle nests and receive notifications when they’re ready to hatch.** This would help scientists checking how many eggs have hatched and how many have not.
+I designed the interaction for a mobile app that allows turtle scientists to record new turtle nests and receive notifications when they’re ready to hatch. This would help scientists checking how many eggs have hatched and how many have not.
 
 ## My role
 
-This is a design challenge from[ UX Rescue](https://www.uxrescue.org/){:target="_blank" rel="noopener"}. Based on a definition of the **user group, their needs, user stories, and the data recorded,** I proposed wireframes and a live prototype.
+This is a design challenge from[ UX Rescue](https://www.uxrescue.org/){:target="_blank" rel="noopener"}. Based on a definition of the user group, their needs, user stories, and the data recorded, I proposed wireframes and a live prototype.
 
 {% include toc.md %}
 
@@ -37,28 +37,30 @@ Siren wants to add new features on the mobile and web interface for turtle scien
 
 ### New nest interaction
 
-A turtle scientist is checking a beach when they encounter a turtle nest.
-
-All the nests are recorded on the map, each showing their status.
+A turtle scientist is checking a beach when they encounter a turtle nest. All the nests are recorded on the map, each showing their status.
 
 The scientist adds the nest:
 
-* Their name, GPS location, beach ID and new nest ID are all assigned automatically.
-* They specify the date of sighting, turtle species, and the status of the nest (undisturbed, partially lost, lost).
-* Estimated dates of hatching and excavation are calculated automatically, but can be modified manually.
-* The scientist activates the notifications to be ready to go and record the status of the eggs.
+<ul class="smd-ul">
+<li>Their name, GPS location, beach ID and new nest ID are all assigned automatically.</li>
+<li>They specify the date of sighting, turtle species, and the status of the nest (undisturbed, partially lost, lost).</li>
+<li>Estimated dates of hatching and excavation are calculated automatically, but can be modified manually.</li>
+<li>The scientist activates the notifications to be ready to go and record the status of the eggs.</li>
+</ul>
 
-{% include pattern-figure.html image="/assets/images/Siren-add-nest_wireframes.png" caption="Off-brand contact lenses container" width="1400" height="621" %}
+{% include pattern-figure.html image="/assets/images/Siren-add-nest_wireframes.png" caption="Add nest interaction wireframes" width="1400" height="621" %}
 
 ### Notifications interaction
 
 After receiving the notification, the scientist can fill in the latest data recorded:
 
-* Effective date of excavation
-* Number of eggs hatched
-* Number of eggs dead
+<ul class="smd-ul">
+<li>Effective date of excavation</li>
+<li>Number of eggs hatched</li>
+<li>Number of eggs dead</li>
+</ul>
 
-{% include pattern-figure.html image="/assets/images/Siren-notifications_wireframes.png" caption="Off-brand contact lenses container" width="1400" height="594" %}
+{% include pattern-figure.html image="/assets/images/Siren-notifications_wireframes.png" caption="Notifications interaction wireframes" width="1400" height="594" %}
 
 ## Prototype
 
