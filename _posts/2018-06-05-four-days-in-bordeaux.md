@@ -1,6 +1,6 @@
 ---
 title: Four days in Bordeaux
-last_modified_at: '2021-09-03T23:34:29.950Z'
+last_modified_at: '2021-09-05T21:57:25.423Z'
 featured-post: false
 categories:
   - Photography
@@ -19,13 +19,13 @@ Our accommodation was in Chartrons, a beautiful part of the city—in particular
 
 The architecture is astonishing. It’s got all the Parisian charm with a warm twist, thanks to the limestone used in most of the buildings.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-1/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-1/" id="1" %}
 
 Most of our holiday happened during working days, so we were surprised to see how lively Bordeaux is. All the bistros and restaurants were full for dinner. During the day, we admired the greengrocers, the bakeries, the flower shops and found ourselves in one of the many bio shops with the Bordelais after work.
 
 Maybe an obvious thing to say, but we ate delicious food and drank excellent wine. We trusted our instinct when choosing where to eat avoiding digital assistants and weren’t disappointed. It seems like it’s almost impossible to get it wrong, as the city is buzzing with gourmet places.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-2/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-2/" id="2" %}
 
 One of the many things I noticed is people entering a restaurant or a cafe and saying Bonjour/Bonsoir to everyone. Once past the initial surprise, it makes perfect sense, and it’s polite.
 
@@ -33,7 +33,7 @@ One of the many things I noticed is people entering a restaurant or a cafe and s
 
 Located between the Garonne and Place de la Bourse, [Le Miroir d’Eau](https://youtu.be/0s8RIkpMf8Q){:target="_blank" rel="noopener"} is a fountain that creates special effects with water and artificial misting against the stunning 18th century’s architecture of the square. We admired the reflections and refreshing mist just like anyone else: it’s remarkable how something so simple, yet ingenious, can entertain and amuse everyone — children and adults alike.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-3/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-3/" id="3" %}
 
 ## Palais Gallien
 
@@ -42,11 +42,11 @@ In hindsight, this was probably the hint of the things to come not long later. W
 
 The streets started to flood very quickly while we tried to get cover, failing to do so. Soaked, cold and scared, we resisted while the downpour went on for minutes. After this, we had to go back to our room and try to dry our clothes and shoes, to no avail. Eventually, we had to go out again and buy new shoes.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-4/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-4/" id="4" %}
 
 Unusually for me, I didn’t take loads of pictures. Instead, I enjoyed the time we had together away from home. I did take photos of our room though, which was so pretty that I wanted to keep it tidy.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-5/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-5/" id="5" %}
 
 We won’t forget our adventure in Bordeaux. The food, the wine, the limestone buildings, the friendly and relaxed atmosphere. Surely, we won’t forget our weather-related adventure.
 
