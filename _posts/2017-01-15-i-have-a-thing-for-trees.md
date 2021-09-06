@@ -1,6 +1,6 @@
 ---
 title: I have a thing for trees
-last_modified_at: '2021-09-01T22:56:09.041Z'
+last_modified_at: '2021-09-06T14:45:43.663Z'
 featured-post: false
 categories:
   - Photography
@@ -26,10 +26,10 @@ After that, it took me some time to organise and process the work I came back w
 
 Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can set the mood of a photo.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-trees/gallery-1/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-trees/gallery-1/" id="1" %}
 
 Some are more striking than others, like the ones at [Sachsenhausen Concentration Camp](https://www.sachsenhausen-sbg.de/en/){:target="_blank" rel="noopener"}. They're beautiful figures in a former place of terror and death, and probably their falling leaves and autumnal aspect contributed to the disturbing atmosphere.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-trees/gallery-2/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-trees/gallery-2/" id="2" %}
 
 <p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>

@@ -34,6 +34,6 @@ Changes and renovations didn’t erase the memories of Berlin’s history and le
 
 Stories and facts are still discussed, and passed on to the younger generations. We even participated in a fascinating talk at the hotel we stayed. I can’t put into words what I like so much about Berlin; probably I’ll figure it out one day.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-berlin-fascination/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-berlin-fascination/" id="1" %}
 
 <p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>
