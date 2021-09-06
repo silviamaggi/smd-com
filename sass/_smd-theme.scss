@@ -267,10 +267,13 @@ hr {
 .smd-img-gallery-thumbs { 
   cursor: pointer;
 }
-// .smd-img-gallery-picture { 
-//   width: 100%; 
-//   object-fit: cover;
-// }
+.smd-img-gallery-thumb {
+  width: 150px;
+  height: 150px;
+}
+.smd-image-gallery-caption {
+  width: 150px;
+}
 
 
 // ------------------------------------------------ \\
