@@ -3,7 +3,7 @@ layout: post
 title: UniCredit acquisition landing pages and forms
 featured-post: true
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2021-09-05T22:18:50.839Z'
+last_modified_at: '2021-09-06T15:00:20.856Z'
 description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 excerpt: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
@@ -97,13 +97,11 @@ View the whole mobile and desktop wireframes below:
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-uc-lp-wireframes/" %}
 
-<!-- > My colleagues and I wanted the work for UniCredit to be something to be proud of for years to come. -->
+## Clever sticky header
 
-## Sticky header
+My colleagues and I felt that having the Call to Actions repeated at the end of each product feature wasn’t going to reflect our best output.
 
-My colleagues and I wanted the work for UniCredit to be *something to be proud of for years to come*. We felt that having the Call to Actions repeated at the end of each product feature wasn’t going to reflect our best output.
-
-We sat down together to find a solution that was technically feasible, elegant, and that would allow us to stay within budget and timeline.
+We found a solution that was technically feasible, elegant, and that would allow us to stay within budget and timeline.
 
 The solution, which UniCredit approved, is a dynamic sticky header.
 
@@ -117,7 +115,7 @@ When users click on the Call to Action _Request it online_, they land on the Uni
 
 ### Entry point
 
- Users encounter a first brief form — that works as a security verification — and will receive an email from UniCredit containing a link to continue with the request.
+ Users encounter an initial brief form — that works as a security verification — and will receive an email from UniCredit containing a link to continue with the request.
 
 {% include pattern-figure.html image="/assets/images/unicredit-forms-flow_1.jpg" caption="Form flow, entry point" width="2560" height="947" %}
 
@@ -129,9 +127,9 @@ Users click on the link received via email and start the request process.
 
 ### Wireframes
 
-We applied the same principles — conditionally loaded elements, and ability to call the support from mobile — to the forms, except we couldn’t implement the sticky header.
+We applied the same principles — conditionally loaded elements, and ability to call the support from mobile — to the forms.
 
-Of great importance is the the lock icon at the top right: together with the browser icon for secure connections, it will reassure users this is a safe procedure.
+Of great importance is the the lock icon at the top right: together with the browser icon for secure connections, it reassures users this is a safe procedure.
 
 <!-- {% include pattern-figure.html image="/assets/images/unicredit-forms-wireframes_mobile.png" caption="Forms wireframes, mobile" width="79" height="736" %} -->
 
@@ -139,17 +137,15 @@ Of great importance is the the lock icon at the top right: together with the bro
 
 Having started the wireframing phase in-browser meant that, once the client was happy with the result, I could work on the visual design directly in HTML/CSS.
 
-Using SASS, I could rapidly wrap reusable elements — such as brand colours, typography, buttons — into variables and patterns. My colleagues could simultaneously work on the functionality of both pages and forms.
+Using SASS, I could rapidly wrap reusable elements — such as brand colours, typography, buttons — into variables and patterns. My colleagues could simultaneously work on the functionality.
 
 UniCredit had live access to the prototype and could interact with us, commenting on the progress as needed through our JIRA board. Soon, we were ready to deliver and wait for the client to start the testing phase.
 
 ## Conclusions
 
-The landing pages had been received well, but the number of people that used the online forms didn’t increase much: that experiment wasn’t successful.
+The landing pages had been received well, but the number of people that used the online forms didn’t increase much: that experiment wasn’t successful. While the landing pages redesign implementation received the go-ahead, the forms didn’t.
 
-While the landing pages redesign implementation received the go-ahead, the forms didn’t.
-
-The shift toward mobile and online services happened during the following years, gradually.
+The shift toward mobile and online services happened gradually during the following years.
 
 > […] the number of users of banking services such as home and corporate banking steadily increased, growing from approximately 30.4 million in 2010 to nearly 58 million in 2019.
 >
@@ -171,5 +167,4 @@ Read more about [UI Farm’s workflow for the multi-device Web](https://medium.c
 
 ## Contact
 
-✒️ [Get in touch]({{ site.url }}/get-in-touch-silviamaggi/) for comments, feedback or if you wish to work with me.
-
+<a href="mailto:contacts@silviamaggidesign.com" title="Email me">Get in touch</a> to talk about your next project.
