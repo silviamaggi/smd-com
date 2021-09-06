@@ -46,10 +46,4 @@ Planned obsolescence is the practise of designing products with a short expiry d
 
 <p class="detached">🔗 <a href="https://podcast.theunusable.com/podcasts/017-planned-obsolescence.mp3" target="_blank" rel="noopener">Listen to the episode</a></p>
 
-## Creative Confidence by Tom Kelley & David Kelley
-
-I’m reading the book that David Kelley and his brother Tom Kelley have written on unleashing the creativity that lies within each and every one of us. If you, like me, have even thought you were not creative enough, this book is for you. You’ll have the confidence to believe that what you do can affect the world.
-
-<p class="detached">🔗 <a href="https://www.creativeconfidence.com/" target="_blank" rel="noopener">Read more about the book</a> (on the Creative Confidence website)</p>
-
 <!-- <small>Image credits: Sid Gentle and Ian Johnson Publicity, Unknown, Jorge Gonzalez / Copyright terms and licence: CC BY-SA 2.0</small> -->
