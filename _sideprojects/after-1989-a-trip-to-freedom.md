@@ -2,7 +2,7 @@
 layout: post
 title: After 1989. A Trip To Freedom
 date: 2021-04-14T20:44:19.000Z
-last_modified_at: '2021-09-05T22:28:32.054Z'
+last_modified_at: '2021-09-07T20:58:56.841Z'
 featured-post: false
 description: 'After 1989 is Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.'
 excerpt: 'After 1989. A trip to freedom is my Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.'
@@ -20,7 +20,7 @@ Before taking different professional paths, Simone and I used to work together, 
 
 ## The journey
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-after-1989/journey/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-after-1989/gallery-1/" id="1" %}
 
 ## The videos
 
@@ -64,7 +64,7 @@ The video wants to tell the story from different point of views: the crowd, the 
 
 Except for the cover and the image on the CD, all other photos are mine.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-after-1989/cd/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-after-1989/gallery-2/" id="2" %}
 
 ## Conclusions
 
