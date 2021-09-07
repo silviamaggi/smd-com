@@ -372,6 +372,7 @@ hr {
 
 // Default call-to-action
 .btn-smd-cta {
+  @extend .smd-tx-shadow;
   background-color: $link-l-60 !important;
   color: $black;
   border-bottom: 2px solid $link-l-20;
@@ -379,6 +380,7 @@ hr {
   &:hover {
     background-color: $link-d-60 !important;
     border-bottom: 2px solid transparent;
+    text-shadow: none;
   }
 }
 
