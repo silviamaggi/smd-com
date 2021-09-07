@@ -159,7 +159,7 @@ h4 {
   }
 
   // Entry block link
-  a {
+  a:not(.btn) {
     @extend %smd-link;
 
     // Tag results link in search page
@@ -367,6 +367,18 @@ hr {
   &:hover {
     color: $white;
     background-color: $heading-d-20;
+  }
+}
+
+// Reply button at the bottom of posts
+.btn-smd-entry {
+  background-color: $link-l-60 !important;
+  color: $black;
+  border-bottom: 2px solid $link-l-20;
+
+  &:hover {
+    background-color: $link-d-60 !important;
+    border-bottom: 2px solid transparent;
   }
 }
 
