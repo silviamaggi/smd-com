@@ -1,6 +1,6 @@
 ---
 title: 'Life off social media, six months in'
-last_modified_at: '2021-09-03T19:54:24.367Z'
+last_modified_at: '2021-09-07T21:59:41.218Z'
 featured-post: false
 categories:
   - Personal
@@ -35,7 +35,7 @@ I have fewer distraction opportunities, so it gradually became easier to focus f
 
 ## The world kept turning
 
-I’m oblivious of memes, backlashes, scandals and anything that goes viral or is _trending_ on social media. Instead of experiencing [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out){:target="_blank" rel="noopener"}, I’ve became indifferent to them.
+I’m oblivious of memes, backlashes, scandals and anything that goes viral or is _trending_ on social media. Instead of experiencing <abbr title="Fear Of Missing Out">FOMO</abbr>, I’ve became indifferent to them.
 
 The time I used to spend following what happened online is spent elsewhere, and the best part is that I don’t feel compelled to weigh in. I do have strong opinions — about the things I care most — but I doubt the entire world needs to know them.
 
