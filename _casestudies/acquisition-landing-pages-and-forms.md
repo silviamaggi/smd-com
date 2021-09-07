@@ -3,7 +3,7 @@ layout: post
 title: UniCredit acquisition landing pages and forms
 featured-post: true
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2021-09-06T15:00:20.856Z'
+last_modified_at: '2021-09-07T14:12:09.069Z'
 description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 excerpt: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
@@ -68,7 +68,9 @@ To understand how straightforward it is to find the right information on the lan
 <small>Side comment: 
 The customer journey maps follow the actions the personae take to reach their goals. I chose them over user flows because *they highlight thoughts and emotions*, useful to identify a journey’s pain points.</small>
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-uc-customer-journeys/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-unicredit-case-study/gallery-1" id="1" %}
+
+
 
 ## Content strategy
 
@@ -86,7 +88,7 @@ We analysed the content of the existing landing pages and proposed a solution to
 
 I prototyped the pages directly in-browser, thanks to UI Farm’s framework.
 
-{% include pattern-figure-cols.html image1="/assets/images/unicredit-feature-block_mobile.png" image2="/assets/images/unicredit-freenumber_mobile.png" alt="The Musician / The Fountain" caption="Details of the landing pages mobile wireframes" width="637" height="1273" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-feature-block_mobile.png" image2="/assets/images/unicredit-freenumber_mobile.png" alt="Details of the landing pages mobile wireframes" caption="Details of the landing pages mobile wireframes" width="1137" height="1273" %}
 
 <ul class="smd-ul">
   <li>Each feature block is conditionally loaded. <em>Their content is served only when users tap the accordion.</em> The same goes for the legal message at the bottom of the page.</li>
@@ -95,7 +97,9 @@ I prototyped the pages directly in-browser, thanks to UI Farm’s framework.
 
 View the whole mobile and desktop wireframes below:
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-uc-lp-wireframes/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-unicredit-case-study/gallery-2" id="2" %}
+
+<!-- {% include pattern-figure.html image="/assets/images/unicredit-landing-wireframes.png" caption="Landing page wireframe, desktop" width="1024" height="2852" %} -->
 
 ## Clever sticky header
 
@@ -105,7 +109,7 @@ We found a solution that was technically feasible, elegant, and that would allow
 
 The solution, which UniCredit approved, is a dynamic sticky header.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-uc-sticky-header/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-unicredit-case-study/gallery-3" id="3" %}
 
 When the Call to Actions are visible in the page, the sticky header shows the Free number button instead.
 
