@@ -5,7 +5,7 @@
   {% capture galleryPath %}{{ include.folder }}{% endcapture %}
   {% if image.path contains galleryPath %}
     {% assign filenameparts = image.path | split: "/" %}
-    {% assign imgCaption = filenameparts | last | replace: image.extname,'' | replace: 'thumb-', '' | replace: '-',' ' | replace: '_',' ' %}
+    {% assign imgCaption = filenameparts | last | replace: image.extname,'' | replace: 'thumb-', '' | replace: '-',' ' | replace: '_',' ' | replace: '-a-','' | replace: '-b-','' | replace: '-c-','' | replace: '-d-','' | replace: '-e-','' | replace: '-f-','' | replace: '-g-','' | replace: '-h-','' | replace: '-i-','' | replace: '-l-','' | replace: '-m-','' | replace: '-n-','' | replace: '-o-','' | replace: '-p-','' | replace: '-q-','' | replace: '-r-','' | replace: '-s-','' | replace: '-t-','' | replace: '-u-','' | replace: '-v-','' | replace: '-z-','' %}
     {% if image.path contains 'thumb-' %}
 
     <div class="ps-1 pe-2 text-center smd-transition-opacity-03s">
