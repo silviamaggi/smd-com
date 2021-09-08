@@ -1,17 +1,16 @@
 ---
-layout: post
+layout: portfolio-single
 title: UniCredit acquisition landing pages and forms
 featured-post: true
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2021-09-07T14:12:09.069Z'
+last_modified_at: '2021-09-08T21:04:27.363Z'
 description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 excerpt: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
+skills: ['User interviews', 'Content Strategy', 'User flows', 'Wireframing', 'HTML & CSS', 'Prototyping', 'UI']
+tools: ['Sketch app', 'Responsive framework']
 ---
-**Skills**: User interviews, Content Strategy, User flows, Wireframing, HTML& CSS, Prototyping, UI  
-**Tools**: Sketch app, UI Farm framework
-
-{% include pattern-figure.html image="/assets/images/feat-unicredit-case-study-featured-img.jpg" alt="UniCredit Landing pages and Forms Case Study" width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-unicredit-case-study-featured-img.jpg" alt="UniCredit Landing pages and Forms Case Study" width="1200" height="500" %}
 
 ## The problem
 

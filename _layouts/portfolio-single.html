@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{% include site-breadcrumbs.html %}
+
+<article class="smd-entry">
+  <h1>{{ page.title }}</h1>
+  <div class="post-meta smd-translucent-bg my-4 px-3 py-2 rounded">
+    <div><span class="d-inline-block small me-1">Skills: </span>{%- for skill in page.skills -%}<span class="smd-font-micro btn-label-smd btn-label-smd-bg d-inline-block initialism fw-bold me-1 rounded">{{ skill }}</span>{%- endfor -%}</div>
+    <div><span class="d-inline-block small me-1">Tools: </span>{%- for tool in page.tools -%}<span class="smd-font-micro btn-label-smd btn-label-smd-bg d-inline-block initialism fw-bold me-1 rounded">{{ tool }}</span>{%- endfor -%}</div>
+  </div>
+{{ content }}
+</article>
+
+{%- include post-navigation.html -%}

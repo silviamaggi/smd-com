@@ -5,4 +5,4 @@
 {% endif %}
 <span class="d-inline-block smd-font-micro fw-bold">
   <time datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time>
-</span>{% unless page.title contains 'homepage' %} / {% endunless %}
+</span>{% unless page.title contains 'homepage' or page.collection == 'casestudies' or page.collection == 'sideprojects' %} / {% endunless %}
