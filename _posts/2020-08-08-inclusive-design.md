@@ -22,7 +22,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-10.jpg" alt="Design, Digested #10" width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-10.jpg" alt="Design, Digested #10" width="1200" height="500" %}
 
 ## Why is designing for inclusion still treated as optional?
 

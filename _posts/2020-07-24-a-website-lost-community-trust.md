@@ -20,7 +20,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-8.jpg" alt="Design, Digested #8" caption='Photo by <a href="https://unsplash.com/photos/IcvR0jFbsz0" target="_blank" rel="noopener">Tara Evans</a>' width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-8.jpg" alt="Design, Digested #8" caption='Photo by <a href="https://unsplash.com/photos/IcvR0jFbsz0" target="_blank" rel="noopener">Tara Evans</a>' width="1200" height="500" %}
 
 In a moment when people spend more time at home and need to be and feel connected, we realise what a privilege it is to have a good internet connection. Tim Berners-Lee, who invented the World Wide Web, made it clearer than ever: [access to the internet should be a universal right](https://www.theguardian.com/commentisfree/2020/jun/04/covid-19-internet-universal-right-lockdown-online){:target="_blank" rel="noopener"}. But it doesn’t stop there: websites need to be accessible to everyone, regardless of disability. It seems surreal to have to say this in 2020, but **a website designed with accessibility in mind benefits everyone**.
 

@@ -1,6 +1,6 @@
 ---
 title: The Berlin fascination
-last_modified_at: '2021-09-08T14:24:17.727Z'
+last_modified_at: '2021-09-08T20:26:06.614Z'
 featured-post: false
 categories:
   - Photography
@@ -14,7 +14,7 @@ featured-image: feat_berlin_4132.jpg
 ---
 <p class="lead">Watching the documentary <a href="http://www.bbc.co.uk/iplayer/episode/b088ktm6/david-bowie-the-last-five-years" target="_blank" rel="noopener"><em>David Bowie: The Last Five Years</em></a>, I realised there still were two excellent albums for me to discover. I somehow missed <em>The Next Day</em>, and, knowing it was supposed to be his parting gift, I’ve never been able to fully listen to <em>Blackstar</em>.</p>
 
-{% include pattern-figure.html image="/assets/images/20161123-rathaus-4132.jpg" caption="Rathaus Schöneberg station" width="1400" height="933" %}
+{% include pattern-figure-featured.html image="/assets/images/20161123-rathaus-4132.jpg" caption="Rathaus Schöneberg station" width="1400" height="933" %}
 
 As per the documentary though, _Blackstar_ was never supposed to be a goodbye so I might give it a go now. Funny how the mind works.
 

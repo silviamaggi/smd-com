@@ -22,7 +22,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-11-all-women-edition.jpg" alt="Design, Digested #11, All Women Edition" caption="Image credits: Shaniqwa Jarvis, Sara Wong, Emma" width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-11-all-women-edition.jpg" alt="Design, Digested #11, All Women Edition" caption="Image credits: Shaniqwa Jarvis, Sara Wong, Emma" width="1200" height="500" %}
 
 ## Meet the computer scientist and activist who got Big Tech to stand down
 

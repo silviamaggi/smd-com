@@ -1,6 +1,6 @@
 ---
 title: Photography rut and little things in my garden
-last_modified_at: '2021-09-04T12:01:49.372Z'
+last_modified_at: '2021-09-08T20:24:03.364Z'
 featured-post: false
 categories:
   - Photography
@@ -17,6 +17,8 @@ redirect_from:
   - /creativity/photography-rut/
 ---
 <p class="lead">Having an ongoing photo project is good, as it helps seeing things around us with a different perspective and noticing details usually overlooked in our day-to-day life.</p>
+
+{% include pattern-figure-featured.html image="/assets/images/feat-20170319-img_4269.jpg" caption="Red leaves" width="1200" height="500" %}
 
 My ongoing project is about the changes in nature and sky on my way to work with my bicycle. It began in July 2016, around the time I started a new job in Cambridge.
 

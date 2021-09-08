@@ -15,7 +15,7 @@ featured-image: feat-pictures-that-make-me-happy.jpg
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/pictures-that-make-me-happy.jpg" caption="Pictures that make me happy #1" width="1400" height="933" %}
+{% include pattern-figure-featured.html image="/assets/images/pictures-that-make-me-happy.jpg" caption="Pictures that make me happy #1" width="1400" height="933" %}
 
 As my main website is purely for introduction to my work and experience, I didn’t want big photos to steal the visitor’s attention. But they needed to represent me, which I think they do.
 

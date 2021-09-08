@@ -16,7 +16,7 @@ featured-image: feat-20161223_cromer_3312.jpg
 
 As a kid, the biggest event of the year was waking up incredibly early to reach the southern regions of Italy for almost a month-long holiday.
 
-{% include pattern-figure.html image="/assets/images/20160819-cromer-33121.jpg" caption="The Nothern sea from a window" width="1400" height="933" %}
+{% include pattern-figure-featured.html image="/assets/images/20160819-cromer-33121.jpg" caption="The Nothern sea from a window" width="1400" height="933" %}
 
 I would spend hours in the backseat of the car, with a stereo, cassettes, a few books and a pillow. I used to wake up at dawn, turn my head left, and see the first sunlight of the day refracting on [Lake Lesina](https://en.wikipedia.org/wiki/Lake_Lesina){:target="_blank" rel="noopener"}. Further ahead, a small stripe of land and then, barely visible, the sea.
 

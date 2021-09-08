@@ -19,7 +19,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/north-sea-cromer.jpg" caption="The North Sea at Cromer" width="1400" height="933" %}
+{% include pattern-figure-featured.html image="/assets/images/north-sea-cromer.jpg" caption="The North Sea at Cromer" width="1400" height="933" %}
 
 It feels like hitting the reset button: a much-needed pause to regroup and understand what to do next. We’ll be writing both in English and in Italian, on the blog [Oregano Dangereux](https://oreganodangereux.wordpress.com/){:target="_blank" rel="noopener"}.
 

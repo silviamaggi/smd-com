@@ -49,6 +49,14 @@ h4 {
   @include font-size($micro-font-size);
 }
 
+// Lead paragraphs
+.lead {
+  font-size: rfs-fluid-value(24px);
+  line-height: 1.4;
+  text-indent: 0;
+  margin: $spacer*2 0;
+}
+
 
 // ------------------------------------------------ \\
 // $LINKS
@@ -108,14 +116,6 @@ h4 {
       & + p {
         text-indent: $spacer*2;
       }
-    }
-
-    // Entry block lead paragraph
-    &.lead {
-      font-size: rfs-fluid-value(24px);
-      line-height: 1.4;
-      text-indent: 0;
-      margin: $spacer*2 0;
     }
 
     // Entry block detached optional paragraph
@@ -246,6 +246,7 @@ h4 {
 img         { max-width: 100%; height: auto; }
 figure      { margin: auto; }
 figcaption  { @extend .initialism; }
+.comp-logos { width: 130px; height: auto; }
 
 // Horizontal line spacer
 hr {

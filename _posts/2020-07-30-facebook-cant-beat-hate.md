@@ -20,7 +20,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-9.jpg" alt="Design, Digested #9" caption="Photo credits: Justin Sullivan/Getty Images, Reporters Without Borders" width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-9.jpg" alt="Design, Digested #9" caption="Photo credits: Justin Sullivan/Getty Images, Reporters Without Borders" width="1200" height="500" %}
 
 ## ‘They don’t think it’s important’: Ellen Pao on why Facebook can’t beat hate
 

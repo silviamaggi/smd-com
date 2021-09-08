@@ -21,7 +21,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-4.jpg" alt="Design, Digested #6" width="1200" height="500" caption='Image credits: Ann O., <a href="https://unsplash.com/photos/suZyHko1JEs" target="_blank" rel="noopener">Stephanie McCabe</a>' %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-4.jpg" alt="Design, Digested #6" width="1200" height="500" caption='Image credits: Ann O., <a href="https://unsplash.com/photos/suZyHko1JEs" target="_blank" rel="noopener">Stephanie McCabe</a>' %}
 
 ## Black Women In UX: The World Was Not Designed For us, But It Can Be Redesigned
 

@@ -20,7 +20,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-6.jpg" alt="Design, Digested #6" width="1200" height="500" caption="Image credits: Angelina Bambina/Adobe Stock, XD Ideas, Vox" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-6.jpg" alt="Design, Digested #6" width="1200" height="500" caption="Image credits: Angelina Bambina/Adobe Stock, XD Ideas, Vox" %}
 
 ## 4 Lessons On Anti-Racism From Brené Brown And Ibram X. Kendi
 

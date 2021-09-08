@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 1. Killing Eve set design, and more'
-last_modified_at: '2021-09-05T10:45:19.042Z'
+last_modified_at: '2021-09-08T20:19:32.547Z'
 featured-post: false
 categories:
   - Design Digested
@@ -19,6 +19,8 @@ redirect_from:
 <p class="lead">First instalment of my design inspiration series. This week: <em>Killing Eve</em> set design, accessibility on social media, bad design vs good design, and more.</p>
 
 <!--more-->
+
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-1.jpg" alt="Design, Digested 1. Killing Eve set design, and more" width="1200" height="500" %}
 
 ## Dressing Scenes For Killing Eve Was “Like Finding Treasure”, Says Set Decorator
 

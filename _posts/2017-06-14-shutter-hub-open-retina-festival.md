@@ -18,7 +18,7 @@ featured-image: feat-the-day-i-glimpsed-inside-your-soul.jpg
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/20161122_silviamaggi_glimpsedsoul_3926.jpg" caption="The Day I Glimpsed Inside Your Soul" width="1400" height="933" %}
+{% include pattern-figure-featured.html image="/assets/images/20161122_silviamaggi_glimpsedsoul_3926.jpg" caption="The Day I Glimpsed Inside Your Soul" width="1400" height="933" %}
 
 The photo tells the story of thousands of people who walked through the gate of the Sachsenhausen concentration camp in Oranienburg, on the outskirts of Berlin. Sadly, for too many of them, it was a one-way journey. Others were lucky enough to live through it.
 

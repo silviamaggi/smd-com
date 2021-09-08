@@ -19,7 +19,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-3.jpg" alt="Design, Digested #3" width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-3.jpg" alt="Design, Digested #3" width="1200" height="500" %}
 
 ## German Politicians Don’t Talk About The Virus Like Other Nations. Here’s What It Means
 
