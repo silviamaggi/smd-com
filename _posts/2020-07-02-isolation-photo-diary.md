@@ -17,11 +17,9 @@ redirect_from:
 
 <p class="lead">Between the ups and downs of the global pandemic and lockdown, I kept taking pictures. I intended to have a photo diary to describe my take on isolation and the extraordinary circumstances we’re living.</p>
 
-{% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-2.jpg" alt="Isolation #2" width="1280" height="853" %}
+{% include pattern-figure-featured.html image="/assets/images/isolation-photo-diary-silviamaggi-2.jpg" alt="Isolation #2" width="1280" height="853" %}
 
 {% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-3.jpg" alt="Isolation #3" width="1280" height="853" %}
-
-<!-- {% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-4.jpg" alt="Isolation #4" width="1280" height="853" %} -->
 
 Time seemed to have lost its meaning; some days were painfully long, while it felt like Spring ended too quickly.
 

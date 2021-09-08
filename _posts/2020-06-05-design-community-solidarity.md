@@ -20,7 +20,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-2.jpg" alt="Design, Digested #2" width="1200" height="500" caption="Image credits: C. Daniela Shapiro (@cds.art ), Leo and Diane Dillon, Spotify" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-2.jpg" alt="Design, Digested #2" width="1200" height="500" caption="Image credits: C. Daniela Shapiro (@cds.art ), Leo and Diane Dillon, Spotify" %}
 
 ## The Design Community Must Not Stay Silent
 

@@ -1,6 +1,6 @@
 ---
 title: Brilliant culture and design books I’m reading
-last_modified_at: '2021-09-03T21:42:22.157Z'
+last_modified_at: '2021-09-08T20:09:43.049Z'
 featured-post: false
 categories:
   - Books
@@ -17,7 +17,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-recommended-reads.jpg" alt="Recommended reads" caption='Photo by <a href="https://unsplash.com/@drewcoffman" target="_blank" rel="noopener">Drew Coffman</a>' width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-recommended-reads.jpg" alt="Recommended reads" caption='Photo by <a href="https://unsplash.com/@drewcoffman" target="_blank" rel="noopener">Drew Coffman</a>' width="1200" height="500" %}
 
 Recently, I managed to finish a few titles I’ve been dragging for months and start a few more. Some of them are ideal if you’re a designer, others are either very interesting or funny — or both — for anyone.
 
@@ -25,7 +25,7 @@ Recently, I managed to finish a few titles I’ve been dragging for months and s
 
 {% include pattern-figure.html image="/assets/images/the-culture-map.jpg" alt="The Culture Map by Erin Meyer" width="198" height="300" %}
 
-<mark class="highlight mb-4">Status: finished</mark>
+<mark class="smd-highlight mb-4">Status: finished</mark>
 
 _The Culture Map_ is an eye-opener. Our culture systems condition the way we see the world, to the point it’s difficult to imagine how others might do things differently. Yet, in a more connected world, it’s expected to end up working with people from other countries. With tried and tested techniques from her work as a consultant, Meyer explains how to understand and overcome our differences and work together harmoniously.
 
@@ -39,7 +39,7 @@ I believe this book is a must-read for any company employing people from differe
 
 {% include pattern-figure.html image="/assets/images/jaron-lanier.jpg" alt="Ten Arguments For Deleting Your Social Media Accounts Right Now by Jaron Lanier" width="195" height="300" %}
 
-<mark class="highlight mb-4">Status: finished</mark>
+<mark class="smd-highlight mb-4">Status: finished</mark>
 
 Even if you decide not to delete your social media accounts, this book is a compelling read. Jaron Lanier is a Silicon Valley pioneer, and a [founder of the field of virtual reality](https://en.wikipedia.org/wiki/Jaron_Lanier){:target="_blank" rel="noopener"}, who tells us why social media are dangerous. If you saw _The Social Dilemma_, you know him as one of the interviewees.
 
@@ -53,7 +53,7 @@ Lanier explains how algorithms work in general — pointing out how the ones bui
 
 {% include pattern-figure.html image="/assets/images/senongo-akpem.jpg" alt="Cross-Cultural Design by Senongo Akpem" width="194" height="300" %}
 
-<mark class="highlight mb-4">Status: in progress</mark>
+<mark class="smd-highlight mb-4">Status: in progress</mark>
 
 I bookmarked this book in [June]({{ site.url }}/books/design-community-solidarity/) and picked it up again recently. Coupled with _The Culture Map_, it’s a fundamental read for anyone in the web field. Whereas many of us think of our users as wealthy, Western people, our audience is much more diverse. So we better design for them too.
 
@@ -63,7 +63,7 @@ I bookmarked this book in [June]({{ site.url }}/books/design-community-solidarit
 
 {% include pattern-figure.html image="/assets/images/guy-pratt.jpg" alt="My Bass and Other Animals by Guy Pratt" width="195" height="300" %}
 
-<mark class="highlight mb-4">Status: in progress</mark>
+<mark class="smd-highlight mb-4">Status: in progress</mark>
 
 If you don’t know him by name, chances are you heard him playing bass in many of your favourite songs. Pratt played for Pink Floyd, David Bowie, Brian Ferry, Madonna, and many more.
 
@@ -75,7 +75,7 @@ At some point, he also did stand up shows, on which this book is based. I was lu
 
 {% include pattern-figure.html image="/assets/images/beppe-severgnini.jpg" alt="La Testa degli Italiani by Beppe Severgnini" width="195" height="300" %}
 
-<mark class="highlight mb-4">Status: finished</mark>
+<mark class="smd-highlight mb-4">Status: finished</mark>
 
 _The Culture Map_ prompted to ask myself what it means to be Italian. When I moved to the UK, it soon became clear that I was born and raised in a very different culture. I appreciated and embraced every difference, in a process that I can retroactively describe as a mediation between two worlds. Before clarifying how the mediation happened — what was instrinsically mine and what I absorbed — I need to understand what makes me Italian. 
 

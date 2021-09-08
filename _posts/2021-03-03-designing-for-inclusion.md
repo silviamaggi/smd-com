@@ -16,7 +16,7 @@ permalink: '/design-digested/:title/'
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-17.jpg" alt="Design, Digested #17" width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-17.jpg" alt="Design, Digested #17" width="1200" height="500" %}
 
 For Stacie Sheldon, an American Indian UX professional, it all starts with words.
 

@@ -1,6 +1,6 @@
 ---
 title: I have a thing for trees
-last_modified_at: '2021-09-08T11:38:39.854Z'
+last_modified_at: '2021-09-08T20:25:02.817Z'
 featured-post: false
 categories:
   - Photography
@@ -10,13 +10,13 @@ tags:
   - germany
   - travel
   - uk
-description: "Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo."
-excerpt: "Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo."
+description: 'Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo.'
+excerpt: 'Going through last year''s photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo.'
 featured-image: feat-201701-angleseyabbey_2366.jpg
 ---
 <p class="lead">The last time I was out and about with the intention of taking pictures, was in November 2016, in <a href="{{ site.url }}/photography/the-berlin-fascination/">Berlin</a>.</p>
 
-{% include pattern-figure.html image="/assets/images/201701-angleseyabbey-2366.jpg" caption="Bloossoms, Anglesey Abbey, March 2016" width="1400" height="740" %}
+{% include pattern-figure-featured.html image="/assets/images/201701-angleseyabbey-2366.jpg" caption="Bloossoms, Anglesey Abbey, March 2016" width="1400" height="740" %}
 
 {% include pattern-figure.html image="/assets/images/20160319-img_2361.jpg" caption="Red bark, Anglesey Abbey, March 2016" width="1400" height="933" %}
 

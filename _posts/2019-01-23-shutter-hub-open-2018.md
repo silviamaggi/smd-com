@@ -17,7 +17,7 @@ featured-image: feat-JayneLloyd_ShutterHubOPEN_PhotoMonth_ExhibitionTheOldTruman
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-JayneLloyd_ShutterHubOPEN_PhotoMonth_ExhibitionTheOldTrumanBrewery_7069.jpg" caption="Credit: Jayne Lloyd / Shutter Hub at Photomonth, The Old Truman Brewery, London" width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-JayneLloyd_ShutterHubOPEN_PhotoMonth_ExhibitionTheOldTrumanBrewery_7069.jpg" caption="Credit: Jayne Lloyd / Shutter Hub at Photomonth, The Old Truman Brewery, London" width="1200" height="500" %}
 
 Presenting 150 photographers, and over 200 full tabloid sized newspaper prints, the exhibition debuted in October 2018 at [The Old Truman Brewery in London](https://www.trumanbrewery.com/){:target="_blank" rel="noopener"}, part of Photomonth London.
 

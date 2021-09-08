@@ -19,7 +19,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/20210403-wisteria-in-bloom-1.jpg" caption="Wisteria in bloom" width="1400" height="934" %}
+{% include pattern-figure-featured.html image="/assets/images/20210403-wisteria-in-bloom-1.jpg" caption="Wisteria in bloom" width="1400" height="934" %}
 
 {% include pattern-figure.html image="/assets/images/20210403-wisteria-in-bloom-2.jpg" caption="Wisteria in bloom" width="1400" height="934" %}
 

@@ -14,7 +14,7 @@ featured-image: feat-berlin-night-silviamaggi.jpg
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-berlin-night-silviamaggi.jpg" alt="Berlin crossing, no buttons" caption="Berlin crossing, no buttons" width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-berlin-night-silviamaggi.jpg" alt="Berlin crossing, no buttons" caption="Berlin crossing, no buttons" width="1200" height="500" %}
 
 Some of them probably don’t: they’re called _placebo buttons_. They do have a purpose though, as explained in this 2018 article by Jacopo Prisco on CNN. My long-time curiosity has finally been satisfied, and I hope yours will be too.
 

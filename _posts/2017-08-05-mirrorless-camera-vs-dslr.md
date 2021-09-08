@@ -1,6 +1,6 @@
 ---
 title: Mirrorless camera vs DSLR. My experience in Edinburgh
-last_modified_at: '2021-09-04T11:58:46.879Z'
+last_modified_at: '2021-09-08T20:22:47.174Z'
 featured-post: false
 categories:
   - Photography
@@ -19,10 +19,10 @@ redirect_from:
 
 <!--more-->
 
+{% include pattern-figure-featured.html image="/assets/images/20170804_edinburgh_1265.jpg" caption="Calton Hill, Edinburgh" width="1400" height="740" %}
+
 I bought a [Fujifilm X-T20](https://fujifilm-x.com/en-us/products/cameras/x-t20/){:target="_blank" rel="noopener"}. The main reason for me to switch from an entry-level Canon
 <abbr title="Digital Single-Lense Reflex">DSLR</abbr> to a mirrorless camera was initially to carry less weight around.
-
-{% include pattern-figure.html image="/assets/images/20170804_edinburgh_1265.jpg" caption="Calton Hill, Edinburgh" width="1400" height="740" %}
 
 After reading the manual, though, it became clear that the little camera would make a more profound change in the way I take and process my pictures.
 

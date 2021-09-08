@@ -19,7 +19,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/today-i-saw.jpg" caption="An abandoned cobweb in my garden" width="1280" height="844" %}
+{% include pattern-figure-featured.html image="/assets/images/today-i-saw.jpg" caption="An abandoned cobweb in my garden" width="1280" height="844" %}
 
 It happens a lot: I even wrote a post called [How Instagram Drained My Creativity]({{ site.url }}/photography/instagram-drained-my-creativity/), where I described what made me appreciate photography again. More than a year later, I’ve yet to free myself from the loop of brief satisfaction of the numbers and the desire to have more.
 

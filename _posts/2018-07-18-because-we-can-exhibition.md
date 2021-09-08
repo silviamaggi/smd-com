@@ -21,7 +21,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/jayne_180718_7736.jpg" caption="Shutter Hub at Festival Pil’ours, Saint-Gilles-Croix-de-Vie, France credit &copy; Jayne Lloyd / Shutter Hub" width="933" height="1400" %}
+{% include pattern-figure-featured.html image="/assets/images/jayne_180718_7736.jpg" caption="Shutter Hub at Festival Pil’ours, Saint-Gilles-Croix-de-Vie, France credit &copy; Jayne Lloyd / Shutter Hub" width="933" height="1400" %}
 
 ## My entries
 

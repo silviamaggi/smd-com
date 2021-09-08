@@ -20,7 +20,7 @@ redirect_from:
 ---
 <p class="lead">On the design inspiration new instalment: the role of fear in our lives and how it affects decision-making, how bias in AI happens and the legacy of “giant” of Italian design Enzo Mari.</p>
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-13.jpg" alt="Design, Digested #13" caption="Image credits: MS. TECH, PIXOLOGICSTUDIO/SCIENCE PHOTO LIBRARY; Christian Briggs, Daniel Skrok and The Interaction Design Foundation, copyright terms and license: CC-BY-NC-SA 3.0; Ramak Fazel." width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-13.jpg" alt="Design, Digested #13" caption="Image credits: MS. TECH, PIXOLOGICSTUDIO/SCIENCE PHOTO LIBRARY; Christian Briggs, Daniel Skrok and The Interaction Design Foundation, copyright terms and license: CC-BY-NC-SA 3.0; Ramak Fazel." width="1200" height="500" %}
 
 ## Be afraid! The silent role of fear in decision making
 

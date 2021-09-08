@@ -17,7 +17,7 @@ permalink: '/design-digested/:title/'
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-18.jpg" alt="Design, Digested #18" width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-18.jpg" alt="Design, Digested #18" width="1200" height="500" %}
 
 Unless you were hired to create a UX team from scratch, chances are you’ll have to adapt to use whatever software your company is using: Axure, Adobe, Figma, Sketch and so on. The one skill you’ll have to develop is the willingness to put as many ideas as possible on paper, and leave behind the ones that don’t work.
 

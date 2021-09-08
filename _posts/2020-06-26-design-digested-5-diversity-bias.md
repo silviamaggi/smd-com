@@ -20,7 +20,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-5.jpg" alt="Design, Digested #5" width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-5.jpg" alt="Design, Digested #5" width="1200" height="500" %}
 
 ## Are You Building Straight, White, Male, Middle-class Products For Straight, White, Male, Middle-class People?
 

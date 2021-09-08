@@ -17,7 +17,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/after-the-rain-silviamaggi-1.jpg" caption="After the rain #1" width="1400" height="933" %}
+{% include pattern-figure-featured.html image="/assets/images/after-the-rain-silviamaggi-1.jpg" caption="After the rain #1" width="1400" height="933" %}
 
 {% include pattern-figure.html image="/assets/images/after-the-rain-silviamaggi-2.jpg" caption="After the rain #2" width="1400" height="933" %}
 
