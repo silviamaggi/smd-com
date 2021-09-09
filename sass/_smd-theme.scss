@@ -66,6 +66,32 @@ h4 {
   margin: $spacer*2 0;
 }
 
+// Blockquote
+blockquote {
+  @extend .blockquote;
+  width: 80%;
+  line-height: 1.3;
+  margin-top: $spacer*2;
+  padding-left: $spacer*1.25;
+  border-left: 2px solid $background-d-10;
+  p {
+    display: inline;
+    text-indent: 0;
+    
+    &:first-child {
+      margin-bottom: $spacer;
+    }
+  }
+}
+
+// Blockquote cite
+cite {
+  display: block;
+  font-style: normal;
+  text-indent: 0;
+  margin-top: $spacer*0.5;
+}
+
 
 // ------------------------------------------------ \\
 // $LINKS
@@ -131,39 +157,6 @@ h4 {
     &.detached {
       text-indent: 0 !important;
       margin-top: $spacer*2;
-    }
-  }
-
-  // Entry block blockquote
-  blockquote {
-    @extend .blockquote;
-    width: 80%;
-    quotes: "“" "”";
-    line-height: 1.3;
-    margin-top: $spacer*2;
-    padding-left: $spacer*1.5;
-    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9' height='100%'%3E%3Cpath d='M7.843 93.349c-.235 4.549-.47 9.098-.784 13.722-.47 6.216-1.02 12.433-1.569 18.65-.627 8.187-1.255 16.299-1.804 24.486-.392 5.837-.627 11.675-.94 17.512-.081.455-.159.834-.236 1.289-.55-.152-1.177-.152-1.57-.455-.313-.227-.548-.758-.626-1.137-.157-.91-.314-1.82-.314-2.653.078-4.928 0-9.931.314-14.86.784-13.72 1.647-27.367 2.51-41.088.235-4.473.627-8.946.784-13.343.235-6.823.392-13.646.47-20.47.079-7.58.157-15.237 0-22.818-.156-8.035-.705-16.071-1.02-24.183-.156-3.336-.234-6.671-.391-10.083-.236-4.927-.55-9.78-.863-14.707-.079-.758 0-1.478-.941-1.971C.655 1.13.691.175 1.02.103 1.804-.07 2.667.027 3.53.027 5.804.103 6.353.482 6.667 2.68c.392 2.578.549 5.23.784 7.885 0 0 .863 16.602 1.176 24.94.157 4.17.314 8.416.314 12.586-.078 4.7-.235 9.4-.392 14.1-.157 4.019-.47 7.96-.706 11.827v19.33z' fill='%23d4c0b5'/%3E%3C/svg%3E") top left no-repeat;
-    &::before {
-      content: open-quote;
-      font-size: $spacer*2;
-      line-height: 1;
-      color: $background-d-10;
-      font-weight: bolder;
-    }
-    p {
-      display: inline;
-      text-indent: 0;
-      
-      &:first-child {
-        margin-bottom: $spacer;
-      }
-
-      cite {
-        display: block;
-        text-indent: 0;
-        margin-top: $spacer*0.5;
-        font-family: Georgia, 'Times New Roman', Times, serif;
-      }
     }
   }
 
@@ -244,7 +237,7 @@ h4 {
   width: 800px;
 }
 .smd-portfolio-quote {
-  width: rfs-fluid-value(300px) !important;
+  width: rfs-fluid-value(350px) !important;
 }
 .smd-portfolio-intro {
   font-size: rfs-fluid-value(16px) !important;
