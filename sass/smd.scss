@@ -10,9 +10,6 @@
 // ------------------------------------------------ //
 
 @import "bootstrap/functions";
-@import "smd-typography";
-@import "smd-functions";
-@import "smd-mixins";
 @import "bootstrap/vendor/rfs";
 @import "bootstrap/variables";
 
@@ -50,7 +47,10 @@ $enable-shadows: false;
 $enable-gradients: false;
 $enable-negative-margins: true;
 
-// Colors
+// SMD
+@import "smd-functions";
+@import "smd-mixins";
+@import "smd-typography";
 @import "smd-palette";
 
 // Links

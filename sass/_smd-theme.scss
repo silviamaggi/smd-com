@@ -33,14 +33,7 @@ body {
 // ------------------------------------------------ //
 
 h1 {
-  -webkit-mask-image: url(/assets/images/heading-texture.png);
-  mask-image: url(/assets/images/heading-texture.png);
-}
-
-// Homepage pitch
-.smd-homepage-pitch {
-  @extend .fs-3;
-  font-family: $font-family-base;
+  @extend .smd-mask-texture;
 }
 
 // Search page result heading (component)
@@ -477,6 +470,11 @@ hr {
 // ------------------------------------------------ \\
 // $EFFECTS
 // ------------------------------------------------ //
+
+.smd-mask-texture {
+  -webkit-mask-image: url(/assets/images/heading-texture.png);
+  mask-image: url(/assets/images/heading-texture.png);
+}
 
 // Translucent BG
 // ------------------------------------------------ *
