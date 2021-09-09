@@ -19,7 +19,7 @@ redirect_from:
 
 Being a life-long learner, I love to develop news skills. However, if there is something I know about myself, is that I need structure and some guidance, otherwise every attempt will be void.
 
-Very recently, I’ve encountered an article wrote by Jane Zhang, an independent data visualization designer, about [why she’s finally learning to draw](https://janezhang.ca/posts/why-im-learning-to-draw/){:target="_blank" rel="noopener"}. Jane is following the lessons from [Drawabox.com](https://drawabox.com/){:target="_blank" rel="noopener"}, and shared a video from their instructor that perfectly describes what happens every time I’m faced with a blank page.
+I’ve encountered an article wrote by Jane Zhang, an independent data visualization designer, about [why she’s finally learning to draw](https://janezhang.ca/posts/why-im-learning-to-draw/){:target="_blank" rel="noopener"}. Jane is following the lessons from [Drawabox.com](https://drawabox.com/){:target="_blank" rel="noopener"}, and shared a video from their instructor that perfectly describes what happens every time I’m faced with a blank page.
 
 {% include pattern-video.html id="mgl6Ll3K3gw" title="Overcoming the Fear of a Blank Page" %}
 
@@ -29,9 +29,7 @@ It’s not laziness, or lack of fantasy: the fear of failure, and the need to be
 
 As I write this post, I’ve completed the first exercise of Lesson 1. My arm hurts. It’s clear that this program is intense and requires deep focus.
 
-All exercises are done with a pen: instead of jumping into the execution and fix errors afterwards, I need to plan every stroke, give a purpose to each and accept that there will be mistakes. There is no way to go back and fix what went wrong, but the previous exercises will be used as warm-ups before each lessons.
-
-The instructor stresses the need to draw freely for the same amount of time dedicated to the exercises. This is going to be hard, and yet, it’s the most important aspect of the course. It’s about fighting the mindset of _not being ready_, and drawing for the sake of it, enjoying it like during childhood. No restrictions, no judgement.
+All exercises are done with a pen: instead of jumping into the execution and fix errors afterwards, I need to plan every stroke, give a purpose to each and accept that there will be mistakes. There is no way to go back and fix what went wrong, but the previous exercises will be used as warm-ups before each lessons. The instructor stresses the need to draw freely for the same amount of time dedicated to the exercises. This is going to be hard, and yet, it’s the most important aspect of the course. It’s about fighting the mindset of _not being ready_, and drawing for the sake of it, enjoying it like during childhood. No restrictions, no judgement.
 
 ## Superimposed lines
 
