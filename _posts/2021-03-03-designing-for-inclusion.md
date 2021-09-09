@@ -12,7 +12,7 @@ description: 'What does it mean designing for inclusion? Inclusive design is gai
 featured-image: feat-design-digested-17.jpg
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">What does it mean designing for inclusion? Inclusive design is gaining a lot of attention lately, and rightly so. The following articles and resources are a good start to understand how biases influence our work and what to pay attention to when starting a new project.</p>
+<p class="lead">The following articles and resources are a good start to understand how biases influence our work and what to pay attention to when starting a new project.</p>
 
 <!--more-->
 

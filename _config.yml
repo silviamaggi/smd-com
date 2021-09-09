@@ -18,7 +18,7 @@ brand:
   smd_avatar_alt: Portrait of Silvia Maggi
   smd_tagline: Hi, I’m Silvia
   smd_pitch: A UX Designer striving to create meaningful digital experiences through <strong>User-Centred Design</strong>.
-  smd_latestposts_limit: 4
+  smd_latestposts_limit: 3
 
 exclude: 
   - README.md

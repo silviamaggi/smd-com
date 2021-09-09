@@ -32,6 +32,17 @@ body {
 // $HEADINGS
 // ------------------------------------------------ //
 
+h1 {
+  -webkit-mask-image: url(/assets/images/heading-texture.png);
+  mask-image: url(/assets/images/heading-texture.png);
+}
+
+// Homepage pitch
+.smd-homepage-pitch {
+  @extend .fs-3;
+  font-family: $font-family-base;
+}
+
 // Search page result heading (component)
 h4 {
   .list-result & {
@@ -44,6 +55,9 @@ h4 {
 // ------------------------------------------------ \\
 // $NAVIGATION
 // ------------------------------------------------ //
+.navigation-main {
+  font-family: $headings-font-family;
+}
 .smd-current {
   color: $link-d-40;
 }
@@ -61,8 +75,9 @@ h4 {
 // Lead paragraphs
 .lead {
   font-size: rfs-fluid-value(24px);
-  line-height: 1.4;
+  line-height: 1.35;
   text-indent: 0;
+  text-align: left !important;
   margin: $spacer*2 0;
 }
 
@@ -77,7 +92,7 @@ blockquote {
   p {
     display: inline;
     text-indent: 0;
-    
+
     &:first-child {
       margin-bottom: $spacer;
     }
@@ -180,7 +195,8 @@ cite {
 
   // Italic
   em {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    @extend .smd-serif-italic;
+    // font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
   // Entry block ordered lists
@@ -241,6 +257,7 @@ cite {
 }
 .smd-portfolio-intro {
   font-size: rfs-fluid-value(16px) !important;
+  text-align: left !important;
 }
 .layout-portfolio-content {
   h2 { @extend .display-5; }
@@ -439,6 +456,9 @@ hr {
   font-size: rfs-fluid-value(11px);
   color: $link-d-70;
   padding: 0 $spacer*0.25;
+}
+.btn-label-lg-smd {
+  font-size: rfs-fluid-value(18px);
 }
 // Label background
 .btn-label-smd-bg {
