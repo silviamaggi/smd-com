@@ -1,0 +1,43 @@
+---
+layout: portfolio-single
+---
+{% unless page.collection == 'sideprojects' %}
+<div class="container mt-3 mb-5 pb-4">
+  <div class="row gx-5">
+    <div class="col-4 text-center">
+      <h2 class="fs-2 mt-0">Problem</h2>
+      <p class="smd-portfolio-intro">{{ page.problem }}</p>
+    </div> 
+    <div class="col-4 text-center">
+      <h2 class="fs-2 mt-0">Solution</h2>
+      <p class="smd-portfolio-intro">{{ page.solution }}</p>
+    </div> 
+    <div class="col-4 text-center">
+      <h2 class="fs-2 mt-0">My role</h2>
+      <p class="smd-portfolio-intro">{{ page.myrole }}</p>
+    </div>
+  </div>
+</div>
+{% endunless %}
+<div class="container-portfolio">
+  <div class="row">
+    <div class="col">
+      <div class="accordion accordion-flush w-50" id="accordionToc">
+        <div class="accordion-item">
+          <h2 class="accordion-header mt-0" id="flush-headingOne">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+              Table of content
+            </button>
+          </h2>
+          <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionToc">
+            <div class="accordion-body ps-4">
+              {% include toc.html html=content sanitize=true class="inline_toc smd-ul" id="smd-casestudy-toc" h_min=2 h_max=3 %}
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ content }}
+    </div>
+  </div>
+  {%- include post-navigation.html -%}
+</div>

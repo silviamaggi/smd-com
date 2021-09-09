@@ -1,31 +1,27 @@
 ---
-layout: portfolio-single
+layout: portfolio-content
 title: UniCredit acquisition landing pages and forms
 featured-post: true
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2021-09-08T21:04:27.363Z'
+last_modified_at: '2021-09-09T14:34:31.096Z'
 description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 excerpt: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
-skills: ['User interviews', 'Content Strategy', 'User flows', 'Wireframing', 'HTML & CSS', 'Prototyping', 'UI']
-tools: ['Sketch app', 'Responsive framework']
+skills:
+  - User interviews
+  - Content Strategy
+  - User flows
+  - Wireframing
+  - HTML & CSS
+  - Prototyping
+  - UI
+tools:
+  - Sketch app
+  - Responsive framework
+problem: '<a href="https://unicredit.it/" target="_blank" rel="noopener">UniCredit</a>, a leading European commercial bank headquartered in Italy, wants to leverage the increasing use of smartphones to reach a wider range of clients. Their acquisition landing pages and forms look outdated and not mobile friendly. An overhaul is essential for the bank to remain competitive.'
+solution: 'Within a single codebase, we created custom experiences for smartphone, tablet and desktop to replace the existing pages and forms. The goal was to increase their trustworthiness and conversion rates.'
+myrole: 'I led the project and worked on the UX and final designs. My two colleagues at UI Farm provided valuable feedback, collaborating to devise the best content strategy. Their expertise completed the project with state-of-the-art frontend and backend development.'
 ---
-{% include pattern-figure-featured.html image="/assets/images/feat-unicredit-case-study-featured-img.jpg" alt="UniCredit Landing pages and Forms Case Study" width="1200" height="500" %}
-
-## The problem
-
-[UniCredit](https://unicredit.it/){:target="_blank" rel="noopener"}, a leading European commercial bank headquartered in Italy, wants to leverage the increasing use of smartphones to reach a wider range of clients. Their acquisition landing pages and forms look outdated and not mobile friendly. An overhaul is essential for the bank to remain competitive.
-
-## The solution
-
-Within a single codebase, we created custom experiences for smartphone, tablet and desktop to replace the existing pages and forms. The goal was to increase their trustworthiness and conversion rates.
-
-## My role
-
-I led the project and worked on the UX and final designs. My two colleagues at UI Farm provided valuable feedback, collaborating to devise the best content strategy. Their expertise completed the project with state-of-the-art frontend and backend development.
-
-{% include toc.md %}
-
 ## The context
 
 It’s 2013. In Italy, a small percentage of people uses smartphones to go online; even fewer to make purchases. UniCredit sees the potential of mobile and wants to invest to widen their customer base, reach younger people and innovate.
@@ -64,18 +60,13 @@ Based on existing data, and observations of a group of ten people, I created cus
 
 To understand how straightforward it is to find the right information on the landing pages, I gave ten people a task and observed what they did. During, I asked how they felt.
 
-<small>Side comment: 
-The customer journey maps follow the actions the personae take to reach their goals. I chose them over user flows because *they highlight thoughts and emotions*, useful to identify a journey’s pain points.</small>
+The customer journey maps follow the actions the personae take to reach their goals. I chose them over user flows because *they highlight thoughts and emotions*, useful to identify a journey’s pain points.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-unicredit-case-study/gallery-1" id="1" %}
 
-
-
 ## Content strategy
 
-Content precedes design. Even before starting to sketch, the focus is on content and its prioritisation. This is also related to performance, which is treated like a design element.
-
-We analysed the content of the existing landing pages and proposed a solution to UniCredit.
+Content precedes design. Even before starting to sketch, the focus is on content and its prioritisation. This is also related to performance, which is treated like a design element. We analysed the content of the existing landing pages and proposed a solution to UniCredit.
 
 <!-- HERE COLS FOR BOTH IMAGES WITH NOTES -->
 

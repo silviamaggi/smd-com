@@ -1,15 +1,42 @@
----
-layout: default
----
-{% include site-breadcrumbs.html %}
-
-<article class="smd-entry">
-  <h1>{{ page.title }}</h1>
-  <div class="post-meta smd-translucent-bg my-4 px-3 py-2 rounded">
-    <div><span class="d-inline-block small me-1">Skills: </span>{%- for skill in page.skills -%}<span class="smd-font-micro btn-label-smd btn-label-smd-bg d-inline-block initialism fw-bold me-1 rounded">{{ skill }}</span>{%- endfor -%}</div>
-    <div><span class="d-inline-block small me-1">Tools: </span>{%- for tool in page.tools -%}<span class="smd-font-micro btn-label-smd btn-label-smd-bg d-inline-block initialism fw-bold me-1 rounded">{{ tool }}</span>{%- endfor -%}</div>
-  </div>
-{{ content }}
-</article>
-
-{%- include post-navigation.html -%}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+{% if page.redirection -%}
+<meta http-equiv="refresh" content="0;url='{{ page.redirection }}'" />
+{%- endif -%}
+{% include site-meta.html -%}
+{% if jekyll.environment == "production" %}
+<link rel="stylesheet" href="{{ site.url }}/assets/css/smd.min.css">
+{% else %}
+<link rel="stylesheet" href="{{ site.url }}/assets/css/smd.css">
+{% endif %}
+{%- include seo.html -%}
+{%- include site-favicons.html %}
+</head>
+<body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
+  <main>
+    <div class="container">
+      <div class="row gx-5">
+        <div class="col-4">
+          {% include site-header.html %}
+        </div>
+        <div class="col-8">
+          {% include site-breadcrumbs.html %}
+          <h1>{{ page.title }}</h1>
+          <div class="post-meta smd-translucent-bg my-4 px-3 py-2 rounded">
+            <div><span class="d-inline-block small me-1">Skills: </span>{%- for skill in page.skills -%}<span class="btn-label-smd btn-label-smd-bg d-inline-block initialism fw-bold me-1 rounded">{{ skill }}</span>{%- endfor -%}</div>
+            <div><span class="d-inline-block small me-1">Tools: </span>{%- for tool in page.tools -%}<span class="btn-label-smd btn-label-smd-bg d-inline-block initialism fw-bold me-1 rounded">{{ tool }}</span>{%- endfor -%}</div>
+          </div>
+          <figure class="text-center">
+            <img class="mx-auto" src="{{ site.url }}/assets/images/{{ page.featured-image }}" alt="{{ page.title }}" width='1200' height='500'>
+          </figure>
+        </div>
+      </div>
+    </div>
+    <article class="smd-entry pb-5">
+      {{ content }}
+    </article>
+  </main>
+{% include site-footer.html -%}
+</body>
+</html>

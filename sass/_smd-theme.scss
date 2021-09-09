@@ -20,6 +20,15 @@ body {
 
 
 // ------------------------------------------------ \\
+// $SPACING
+// ------------------------------------------------ //
+
+.ms-n5 {
+  margin-left: rfs-fluid-value(-120px);
+}
+
+
+// ------------------------------------------------ \\
 // $HEADINGS
 // ------------------------------------------------ //
 
@@ -188,6 +197,7 @@ h4 {
     width: 80%;
     margin-top: $spacer*1.5;
     padding-left: $spacer;
+    
     li {
       @extend %smd-entry-fs;
       counter-increment: smd-counter;
@@ -200,6 +210,10 @@ h4 {
         color: $link-d-20;
         font-weight: bold;
       }
+
+      ol {
+        margin-top: 0;
+      }
     }
   }
 
@@ -211,7 +225,39 @@ h4 {
       @extend %smd-entry-fs;
       line-height: 1.5;
       margin: 0;
+
+      ul {
+        margin-top: 0;
+        margin-bottom: 0;
+      }
     }
+  }
+}
+
+
+// ------------------------------------------------ \\
+// $PORTFOLIO
+// ------------------------------------------------ //
+
+.container-portfolio {
+  @include make-container();
+  width: 800px;
+}
+.smd-portfolio-quote {
+  width: rfs-fluid-value(300px) !important;
+}
+.smd-portfolio-intro {
+  font-size: rfs-fluid-value(16px) !important;
+}
+.layout-portfolio-content {
+  h2 { @extend .display-5; }
+  h3 { @extend .fs-3; }
+}
+.inline_toc {
+  @extend .my-0;
+
+  li {
+    line-height: 2 !important;
   }
 }
 
@@ -397,6 +443,7 @@ hr {
 
 // Label
 .btn-label-smd {
+  font-size: rfs-fluid-value(11px);
   color: $link-d-70;
   padding: 0 $spacer*0.25;
 }
