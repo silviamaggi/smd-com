@@ -3,7 +3,7 @@ layout: portfolio-content
 title: UniCredit acquisition landing pages and forms
 featured-post: true
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2021-09-09T15:51:21.289Z'
+last_modified_at: '2021-09-09T20:56:25.745Z'
 description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 excerpt: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
@@ -64,11 +64,7 @@ To understand how straightforward it is to find the right information on the lan
 
 Content precedes design. Even before starting to sketch, the focus is on content and its prioritisation. This is also related to performance, which is treated like a design element. We analysed the content of the existing landing pages and proposed a solution to UniCredit.
 
-<!-- HERE COLS FOR BOTH IMAGES WITH NOTES -->
-
-{% include pattern-figure.html image="/assets/images/unicredit-content-analysis.png" caption="Analysis of the current landing pages structure" width="1074" height="834" %}
-
-{% include pattern-figure.html image="/assets/images/unicredit-content-strategy.png" caption="Content strategy proposed" width="1074" height="834" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-content-analysis.jpg" image2="/assets/images/unicredit-content-strategy.jpg" alt="Analysis of the current landing pages structure / Content strategy proposed" caption="Analysis of the current landing pages structure / Content strategy proposed" width="1004" height="1200" %}
 
 ## Wireframes
 
