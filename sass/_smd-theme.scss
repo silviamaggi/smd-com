@@ -33,7 +33,7 @@ body {
 // ------------------------------------------------ //
 
 h1 {
-  @extend .smd-mask-texture;
+  @extend #{$site-prefix}-mask-texture;
 }
 
 // Search page result heading (component)
@@ -51,7 +51,7 @@ h4 {
 .navigation-main {
   font-family: $headings-font-family;
 }
-.smd-current {
+#{$site-prefix}-current {
   color: $link-d-40;
 }
 
@@ -61,7 +61,7 @@ h4 {
 // ------------------------------------------------ //
 
 // Font micro size
-.smd-font-micro {
+#{$site-prefix}-font-micro {
   @include font-size($micro-font-size);
 }
 
@@ -107,8 +107,8 @@ cite {
 
 // Links and hover (component as a utility class)
 %smd-link,
-.smd-link {
-  @extend .smd-transition-txtdec-03s;
+#{$site-prefix}-link {
+  @extend #{$site-prefix}-transition-txtdec-03s;
   color: $link-color;
   text-decoration-line: underline;
   text-decoration-color: $link-decoration;
@@ -137,11 +137,11 @@ cite {
 
 // Default entry font size
 %smd-entry-fs,
-.smd-entry-fs {
+#{$site-prefix}-entry-fs {
   font-size: rfs-fluid-value(20px);
 }
 
-.smd-entry {
+#{$site-prefix}-entry {
   // entry headings
   h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     color: $smd-heading-color-base;
@@ -190,7 +190,7 @@ cite {
 
   // Italic
   em {
-    @extend .smd-serif-italic;
+    @extend #{$site-prefix}-serif-italic;
     // font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
@@ -247,10 +247,10 @@ cite {
   @include make-container();
   width: 800px;
 }
-.smd-portfolio-quote {
+#{$site-prefix}-portfolio-quote {
   width: rfs-fluid-value(350px) !important;
 }
-.smd-portfolio-intro {
+#{$site-prefix}-portfolio-intro {
   font-size: rfs-fluid-value(16px) !important;
   text-align: left !important;
 }
@@ -276,11 +276,11 @@ cite {
   letter-spacing: $letter-spacing-shrink;
 
   &:last-child {
-    color: $gray-600;
+    color: $gray-700;
   }
 
   a {
-    @extend .smd-transition-txtdec-03s;
+    @extend #{$site-prefix}-transition-txtdec-03s;
     text-decoration: solid underline $link-l-30 2px;
 
     &:hover {
@@ -316,14 +316,14 @@ hr {
 .img-slide { 
   max-height: 90vh;
 }
-.smd-img-gallery-thumbs { 
+#{$site-prefix}-img-gallery-thumbs { 
   cursor: pointer;
 }
-.smd-img-gallery-thumb {
+#{$site-prefix}-img-gallery-thumb {
   width: 150px;
   height: 150px;
 }
-.smd-image-gallery-caption {
+#{$site-prefix}-image-gallery-caption {
   width: 150px;
 }
 
@@ -332,10 +332,10 @@ hr {
 // $MODAL
 // ------------------------------------------------ //
 
-.smd-modal-content { 
+#{$site-prefix}-modal-content { 
   position: relative;
 }
-.smd-modal-header { 
+#{$site-prefix}-modal-header { 
   position: absolute; 
   top: 0; 
   left: 0; 
@@ -348,7 +348,7 @@ hr {
 // $LISTS
 // ------------------------------------------------ //
 
-.smd-ul {
+#{$site-prefix}-ul {
   list-style-position: outside;
   margin: $spacer 0 $spacer*1.5 0;
   padding-left: $spacer;
@@ -401,7 +401,7 @@ hr {
 // $FOOTER
 // ------------------------------------------------ //
 
-.smd-footer-wrapper {
+#{$site-prefix}-footer-wrapper {
   background: rgba($background-l-30, .2);
 }
 
@@ -412,7 +412,7 @@ hr {
 
 // Default button
 .btn-smd {
-  @extend .smd-transition-bg-01s;
+  @extend #{$site-prefix}-transition-bg-01s;
   color: $white;
   background-color: $heading-l-10;
 
@@ -424,7 +424,7 @@ hr {
 
 // Default call-to-action
 .btn-smd-cta {
-  @extend .smd-tx-shadow;
+  @extend #{$site-prefix}-tx-shadow;
   background-color: $link-l-60 !important;
   color: $black;
   border-bottom: 2px solid $link-l-20;
@@ -461,7 +461,7 @@ hr {
 }
 // Label link
 .btn-label-smd-link {
-  @extend .smd-transition-bg-03s;
+  @extend #{$site-prefix}-transition-bg-03s;
   &:hover {
     color: $link-l-80 !important;
     background-color: $background-d-70;
@@ -473,20 +473,20 @@ hr {
 // $EFFECTS
 // ------------------------------------------------ //
 
-.smd-mask-texture {
+#{$site-prefix}-mask-texture {
   -webkit-mask-image: url(/assets/images/heading-texture.png);
   mask-image: url(/assets/images/heading-texture.png);
 }
 
 // Translucent BG
 // ------------------------------------------------ *
-.smd-translucent-bg {
+#{$site-prefix}-translucent-bg {
   background: rgba($background-l-30, .3);
 }
 
 // Text shadow
 // ------------------------------------------------ *
-.smd-tx-shadow {
+#{$site-prefix}-tx-shadow {
   text-shadow: 0px 0px 0px #fff, 0 0 0 #000, 0px 1px 1px #fff;
 }
 
@@ -505,7 +505,7 @@ hr {
 // * smd-transition-opacity-01s
 // * smd-transition-opacity-03s
 // ------------------------------------------------ *
-.smd-transition {
+#{$site-prefix}-transition {
     // Background
     &-bg-01s:hover      { transition: background-color 0.1s ease-in !important; }
     &-bg-03s:hover      { transition: background-color 0.3s ease-in !important; }
@@ -529,20 +529,20 @@ hr {
 
 // Text rotation
 // ------------------------------------------------ *
-.smd-text-rotate {
+#{$site-prefix}-text-rotate {
   transform: rotate(359deg);
 }
 
 // Letter spacing
 // ------------------------------------------------ *
-.smd-letter-spacing-w1 {
+#{$site-prefix}-letter-spacing-w1 {
   letter-spacing: $letter-spacing-wide-1;
 }
 
 // Mark (highlights)
 // ------------------------------------------------ *
 mark {
-  &.smd-highlight {
+  &#{$site-prefix}-highlight {
     display: inline-block;
     border-radius: 1.5rem 0.5rem 1.2rem 0.7rem;
     background-image: linear-gradient(-100deg, rgba(255,224,0,0.1), rgba(255,224,0,0.5) 95%, rgba(255,224,0,0.2));

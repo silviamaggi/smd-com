@@ -18,12 +18,12 @@
   font-weight: normal;
   font-style: italic;
 }
-.smd-sans {
+#{$site-prefix}-sans {
   font-family: $font-family-base;
 }
-.smd-serif {
+#{$site-prefix}-serif {
   font-family: 'SourceSerifProBold', serif;
 }
-.smd-serif-italic {
+#{$site-prefix}-serif-italic {
   font-family: 'SourceSerifProItalic', serif;
 }
