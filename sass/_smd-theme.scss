@@ -110,7 +110,9 @@ cite {
 .smd-link {
   @extend .smd-transition-txtdec-03s;
   color: $link-color;
-  text-decoration: solid underline $link-decoration 4px;
+  text-decoration-line: underline;
+  text-decoration-color: $link-decoration;
+  text-decoration-thickness: 4px;
 
   &:hover {
     color: $link-hover-color;
