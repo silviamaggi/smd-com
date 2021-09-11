@@ -3,7 +3,7 @@ layout: portfolio-content
 title: UniCredit acquisition landing pages and forms
 featured-post: true
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2021-09-11T19:10:13.190Z'
+last_modified_at: '2021-09-11T19:17:25.902Z'
 description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 excerpt: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
@@ -77,9 +77,9 @@ I prototyped the pages directly in-browser, thanks to UI Farm’s framework.
   <li>The free number button initiates a phone call to the support team, thanks to the adaptive capabilities of our framework.</li>
 </ul>
 
-{% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-top.png" caption="Landing page wireframe, desktop" width="1024" height="600" %}
+{% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-top.png" caption="Details of landing page wireframes, desktop" width="1024" height="600" %}
 
-{% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-bottom.png" caption="Landing page wireframe, desktop" width="1024" height="600" %}
+{% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-bottom.png" caption="Details of landing page wireframes, desktop" width="1024" height="600" %}
 
 ## Clever sticky header
 
