@@ -1,10 +1,8 @@
 <header class="site-header sticky-md-top pe-5 pt-4">
   {% include site-logo.html %}
-  {% unless page.title contains "homepage" %}
   <div class="mini-tagline small mt-3">
     <p>{{ site.brand.smd_pitch }}</p>
   </div>
-  {% endunless %}
   {%- include navigation-main.html %}
   {%- include navigation-social.html %}
   {%- if page.id -%}{%- unless page.url contains "portfolio" -%}
