@@ -70,16 +70,6 @@ $nav-link-font-weight: bold;
 $nav-link-padding-x: 0.5rem;
 $nav-link-padding-x: 0;
 
-// Accordion
-$accordion-bg:                  $background-l-90;
-$accordion-border-width:        0;
-$accordion-button-bg:           $background-l-50;
-$accordion-button-active-bg:    $background-l-70;
-$accordion-button-active-color: $smd-heading-color-base;
-$accordion-icon-color:          $smd-heading-color-base;
-$accordion-icon-active-color:   $smd-heading-color-base;
-$accordion-body-padding-y:      $spacer;
-
 // Tables
 $table-striped-order: even;
 $table-striped-bg: rgba($background-d-90, $table-striped-bg-factor);

@@ -66,31 +66,37 @@ h4 {
 // $TYPOGRAPHY
 // ------------------------------------------------ //
 
+p {
+  @extend %smd-entry-fs;
+  hyphens: auto;
+
+  // Lead paragraphs
+  &.lead {
+    font-size: rfs-fluid-value(26px);
+    line-height: 1.3;
+    text-indent: 0;
+    text-align: left !important;
+    margin: $spacer*2 0 !important;
+  }
+}
+
 // Font micro size
 #{$site-prefix}-font-micro {
   @include font-size($micro-font-size);
-}
-
-// Lead paragraphs
-.lead {
-  font-size: rfs-fluid-value(24px);
-  line-height: 1.35;
-  text-indent: 0;
-  text-align: left !important;
-  margin: $spacer*2 0;
+  line-height: 1.2;
 }
 
 // Blockquote
 blockquote {
   @extend .blockquote;
   width: 80%;
-  line-height: 1.3;
   margin-top: $spacer*2;
   padding-left: $spacer*1.25;
   border-left: 2px solid $background-d-10;
   p {
     display: inline;
     text-indent: 0;
+    line-height: 1.4;
 
     &:first-child {
       margin-bottom: $spacer;
@@ -144,7 +150,7 @@ cite {
 // Default entry font size
 %smd-entry-fs,
 #{$site-prefix}-entry-fs {
-  font-size: rfs-fluid-value(20px);
+  font-size: rfs-fluid-value(21px);
 }
 
 #{$site-prefix}-entry {
@@ -154,15 +160,11 @@ cite {
     margin-top: $spacer * 3;
   }
   
-  // Entry block paragraphs
+  // Entry block paragraphs: justified and indented
   p {
     text-align: justify;
-    hyphens: auto;
-
+    margin-bottom: 0;
     &:not(.lead) {
-      @extend %smd-entry-fs;
-      line-height: 1.5;
-      margin-bottom: 0;
       // First paragraph after interruption not indented
       & + p {
         text-indent: $spacer*2;
@@ -256,10 +258,10 @@ cite {
 #{$site-prefix}-portfolio-quote {
   width: rfs-fluid-value(350px) !important;
 }
-#{$site-prefix}-portfolio-intro {
-  font-size: rfs-fluid-value(16px) !important;
-  text-align: left !important;
-}
+// #{$site-prefix}-portfolio-intro {
+//   font-size: rfs-fluid-value(16px) !important;
+//   text-align: left !important;
+// }
 .layout-portfolio-content {
   h2 { @extend .display-5; }
   h3 { @extend .fs-3; }

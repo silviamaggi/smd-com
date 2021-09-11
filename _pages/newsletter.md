@@ -2,7 +2,7 @@
 layout: page
 title: 'Design, Digested Newsletter'
 date: 2020-02-27T17:03:58.000Z
-last_modified_at: '2021-09-11T14:06:03.893Z'
+last_modified_at: '2021-09-11T14:49:59.208Z'
 description: 'Subscribe to Design, Digested, a newsletter about design, tech, their implication in our lives and the occasional photography work.'
 excerpt: 'Subscribe to Design, Digested, a newsletter about design, tech, their implication in our lives and the occasional photography work.'
 permalink: /design-inspiration-newsletter-silvia-maggi/
@@ -19,4 +19,4 @@ redirect_from:
 
 {%- include pattern-newsletter-sub.html %}
 
-<span class="smd-font-micro">By subscribing, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="/privacy-policy/#newsletter-privacy">Learn more</a>.</span>
+<p class="small">By subscribing, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="/privacy-policy/#newsletter-privacy">Learn more</a>.</p>

@@ -23,9 +23,7 @@ The website is built with [Jekyll](https://jekyllrb.com/){:target="_blank" rel="
 
 ### Embedded content from other websites
 
-Articles on this site may include embedded content from other websites: they behave in the exact same way as if the visitor has visited the other website.
-
-They may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+Articles on this site may include embedded content from other websites: they behave in the exact same way as if the visitor has visited the other website. They may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
 An exception to the above is for **YouTube videos**, where all the embeds specifically come from `https://www.youtube-nocookie.com`.
 
