@@ -1,3 +1,5 @@
+- name: Search
+  link: /search/
 - name: RSS feed
   link: /feed.xml
 - name: Archive
