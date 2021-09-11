@@ -10,12 +10,12 @@
       <li class="breadcrumb-item"><a href="{{ site.url }}">Homepage</a></li>
       {% if page.url contains "/category/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
-      <li class="breadcrumb-item"><a href="{{ site.url }}/categories/">Categories</a></li>
+      <li class="breadcrumb-item"><a href="{{ site.url }}/archive/">Archive</a></li>
       {% elsif page.url contains "/categories/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
       {% elsif page.url contains "/tag/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
-      <li class="breadcrumb-item"><a href="{{ site.url }}/tags/">Tags</a></li>
+      <li class="breadcrumb-item"><a href="{{ site.url }}/archive/">Archive</a></li>
       {% elsif page.url contains "/tags/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
       {% elsif page.url contains "/portfolio/" %}
@@ -24,14 +24,16 @@
       {%- if page.url contains "blog" -%}
       <li class="breadcrumb-item">Blog (Page {{ paginator.page }} of {{ paginator.total_pages }})</li>
       {%- endif -%}
+      {%- if page.url contains "/archive/" -%}
+      <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
+      <li class="breadcrumb-item">Archive</li>
+      {%- endif -%}
       {% if page.id %}{% unless page.url contains "/portfolio/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
-      <li class="breadcrumb-item"><a href="{{ site.url }}/categories/">Categories</a></li>
-      <li class="breadcrumb-item">{% for category in categories %}<a href="/category/{{ category | slugify }}/">{{ category | capitalize | replace:"-"," " }}</a>{% endfor %}</li>
       {% endunless %}
       {% endif %}
       {% unless page.title contains 'Blog' -%}{%- unless page.title contains 'homepage' %}
-      <li class="breadcrumb-item" aria-current="page">{% if page.collection == 'casestudies' or page.collection == 'sideprojects' %}{{ page.title | replace:"archive","" }}{% else %}{{ page.title | replace:"archive","" | truncate: 35 }}{% endif %}</li>
+      <li class="breadcrumb-item" aria-current="page">{% if page.collection == 'casestudies' or page.collection == 'sideprojects' %}{{ page.title | replace:"archive","" }}{% else %}{{ page.title | replace:"archive","" }}{% endif %}</li>
       {% endunless %}{% endunless %}
     </ol>
   </nav>
