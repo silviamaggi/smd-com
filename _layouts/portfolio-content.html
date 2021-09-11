@@ -22,20 +22,19 @@ layout: portfolio-single
 <div class="container-portfolio">
   <div class="row">
     <div class="col mb-5">
-      <div class="accordion accordion-flush w-50" id="accordionToc">
-        <div class="accordion-item">
-          <h2 class="accordion-header mt-0" id="flush-headingOne">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-              Table of content
-            </button>
-          </h2>
-          <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionToc">
-            <div class="accordion-body bg-white ps-4">
-              {% include toc.html html=content sanitize=true class="inline_toc smd-ul smd-serif" id="smd-casestudy-toc" h_min=2 h_max=3 %}
-            </div>
+      {%- comment -%}TOC accordion{%- endcomment -%}
+      <nav class="smd-accordion smd-accordion-arrows w-50 py-4">
+        <input type="radio" name="accordion" id="smd-accordion-1" class="visually-hidden" />
+        <div class="smd-accordion-box">
+          <label class="smd-accordion-box-title" for="smd-accordion-1"><h4 class="my-0">Table of contents</h4></label>
+          <label class="smd-accordion-box-close" for="smd-accordion-close"><span class="visually-hidden">Close table of contents</span></label>
+          <div class="smd-accordion-box-content">
+            {% include pattern-toc.html html=content sanitize=true class="inline_toc smd-ul smd-serif" id="smd-casestudy-toc" h_min=2 h_max=3 %}
           </div>
         </div>
-      </div>
+        {%- comment -%}End TOC{%- endcomment -%}
+        <input type="radio" name="accordion" id="smd-accordion-close" class="visually-hidden" />
+      </nav>
       {{ content }}
     </div>
   </div>
