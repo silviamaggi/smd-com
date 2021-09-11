@@ -1,10 +1,8 @@
-- name: Search
-  link: /search/
-- name: Categories
-  link: /categories/
-- name: Tags
-  link: /tags/
+- name: RSS feed
+  link: /feed.xml
+- name: Archive
+  link: /archive/
 - name: Jeremy Bearimy
   link: /jeremybearimy/
-- name: Privacy Policy
+- name: Your privacy
   link: /privacy-policy/
