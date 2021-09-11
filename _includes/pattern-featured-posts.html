@@ -9,7 +9,7 @@
       {%- assign caseFeat = site.casestudies | where: 'featured-post', 'true' -%}
       {%- assign featured = postFeat | concat: caseFeat -%}
 
-      {% for post in featured limit:3 %}
+      {% for post in featured reversed limit:3 %}
         <div class="col smd-transition-opacity-03s">
           <div class="card h-100 smd-transition-border-03s">
             <img src="{{ site.url }}/assets/images/highlights/highlighted-{%- if postFeat -%}{{ post.featured-image }}{%- elsif caseFeat -%}{{ casestudy.featured-image }}{%- endif -%}" class="card-img-top" alt="{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}" width="300" height="169">
