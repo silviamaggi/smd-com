@@ -14,6 +14,7 @@ html {
   border: 1rem solid $white;
 }
 body {
+  // min-height: calc(100vh - 2rem);
   background: $background-l-80 url('/assets/images/smd-bg-texture.jpg') no-repeat bottom left;
   background-size: 100% auto;
 }
