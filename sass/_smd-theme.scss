@@ -186,20 +186,19 @@ cite {
     &[href^="/tag/"] {
       text-transform: capitalize;
       &::before {
-        content: 'Tag: ';
+        content: 'Archive: ';
       }
     }
     
     // Category results link in search page
     &[href^="/category/"]::before {
-      content: 'Category: ';
+      content: 'Archive: ';
     }
   }
 
   // Italic
   em {
     @extend #{$site-prefix}-serif-italic;
-    // font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
   // Entry block ordered lists
