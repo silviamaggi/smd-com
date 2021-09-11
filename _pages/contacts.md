@@ -25,4 +25,4 @@ Have a question, or simply want to start a conversation? Feel free to connect on
 
 {%- include pattern-newsletter-sub.html %}
 
-<span class="smd-font-micro">By subscribing, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank" rel="noopener">Learn more about Mailchimp’s privacy practices</a>.</span>
+<span class="smd-font-micro">By subscribing, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="/privacy-policy/#newsletter-privacy">Learn more</a>.</span>

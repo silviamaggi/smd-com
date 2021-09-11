@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 date: 2020-02-27T16:38:23.000Z
-last_modified_at: '2021-09-04T18:33:19.006Z'
+last_modified_at: '2021-09-11T14:03:14.128Z'
 description: 'I am Silvia Maggi, and this is the privacy policy for my website. By default, the website does not collect any personal data about visitors.'
 permalink: /privacy-policy/
 redirect_from:
@@ -36,6 +36,10 @@ The website adopts a secure <abbr title="Secure Sockets Layer">SSL</abbr> protoc
 <h2 class="display-6">Analytics</h2>
 
 Cloudflare Pages analytics don’t cookie visitors, collect their personal information, or track them across sites. [Read more](https://www.cloudflare.com/web-analytics/){:target="_blank" rel="noopener"}.
+
+<h2 class="display-6" id="newsletter-privacy">Newsletter</h2>
+
+If you subscribe to my newsletter, I will collect your email address, which will be stored on Mailchimp. Your email will be used solely to send you emails. I do not share it with third parties. You can unsubscribe at any moment via the link in my newsletters, or <a href="mailto:contacts@silviamaggidesign.com" title="Email me">by writing to me</a>. Learn more about <a href="https://mailchimp.com/legal/" target="_blank" rel="noopener">Mailchimp’s privacy practices</a>.
 
 <h2 class="display-6">Contact information</h2>
 
