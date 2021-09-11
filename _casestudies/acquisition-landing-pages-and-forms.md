@@ -3,7 +3,7 @@ layout: portfolio-content
 title: UniCredit acquisition landing pages and forms
 featured-post: true
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2021-09-11T11:12:54.927Z'
+last_modified_at: '2021-09-11T19:10:13.190Z'
 description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 excerpt: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
@@ -77,19 +77,19 @@ I prototyped the pages directly in-browser, thanks to UI Farm’s framework.
   <li>The free number button initiates a phone call to the support team, thanks to the adaptive capabilities of our framework.</li>
 </ul>
 
-View the whole mobile and desktop wireframes below:
+{% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-top.png" caption="Landing page wireframe, desktop" width="1024" height="600" %}
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-unicredit-case-study/gallery-2" id="2" %}
-
-<!-- {% include pattern-figure.html image="/assets/images/unicredit-landing-wireframes.png" caption="Landing page wireframe, desktop" width="1024" height="2852" %} -->
+{% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-bottom.png" caption="Landing page wireframe, desktop" width="1024" height="600" %}
 
 ## Clever sticky header
 
-My colleagues and I felt that having the Call to Actions repeated at the end of each product feature wasn’t going to reflect our best output. We found a solution that was technically feasible, elegant, and that would allow us to stay within budget and timeline. The solution, which UniCredit approved, is a dynamic sticky header.
+My colleagues and I felt that having the Calls to Action repeated at the end of each product feature wasn’t going to reflect our best output. We found a solution that was technically feasible, elegant, and that would allow us to stay within budget and timeline. The solution, which UniCredit approved, is a dynamic sticky header.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-unicredit-case-study/gallery-3" id="3" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-ctas-mobile.jpg" image2="/assets/images/unicredit-freenumber-mobile.jpg" alt="Sticky header on mobile" caption="Sticky header on mobile" width="487" height="1000" %}
 
-When the Call to Actions are visible in the page, the sticky header shows the Free number button instead.
+{% include pattern-figure.html image="/assets/images/unicredit-sticky-header-desktop.jpg" caption="Sticky header on desktop" width="1200" height="563" %}
+
+When the Calls to Action are visible in the page, the sticky header shows the Free number button instead.
 
 ## Forms
 
@@ -111,13 +111,21 @@ Users click on the link received via email and start the request process.
 
 We applied the same principles — conditionally loaded elements, and ability to call the support from mobile — to the forms. Of great importance is the the lock icon at the top right: together with the browser icon for secure connections, it reassures users this is a safe procedure.
 
-<!-- {% include pattern-figure.html image="/assets/images/unicredit-forms-wireframes_mobile.png" caption="Forms wireframes, mobile" width="79" height="736" %} -->
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-forms-wireframes-mobile-1.jpg" image2="/assets/images/unicredit-forms-wireframes-mobile-2.jpg" alt="Details of the forms wireframes, mobile" caption="Details of the forms wireframes, mobile" width="800" height="1224" %}
 
 ## Final result
 
 Having started the wireframing phase in-browser meant that, once the client was happy with the result, I could work on the visual design directly in HTML/CSS. Using SASS, I could rapidly wrap reusable elements — such as brand colours, typography, buttons — into variables and patterns. My colleagues could simultaneously work on the functionality.
 
 UniCredit had live access to the prototype and could interact with us, commenting on the progress as needed through our JIRA board. Soon, we were ready to deliver and wait for the client to start the testing phase.
+
+## Landing pages
+
+{% include pattern-figure.html image="/assets/images/unicredit-landingpages-final.jpg" caption="Landing pages final design" width="1200" height="548" %}
+
+## Forms
+
+{% include pattern-figure.html image="/assets/images/unicredit-forms-final.jpg" caption="Forms final design" width="1200" height="548" %}
 
 ## Conclusions
 
