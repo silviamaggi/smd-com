@@ -3,7 +3,7 @@ layout: portfolio-content
 title: Acclimatize.me - Notification app for travellers
 featured-post: true
 date: 2021-02-18T21:39:15.000Z
-last_modified_at: '2021-09-12T13:31:23.318Z'
+last_modified_at: '2021-09-12T14:41:22.566Z'
 description: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
 excerpt: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
 featured-image: feat-acclimatize-case-study-featured-img.jpg
@@ -85,7 +85,7 @@ With the intent of **guiding the users through an intuitive procedure** to set u
 
 ## Conclusions
 
-Copy here.
+Starting from the straightforward process of setting up alerts, this app has potential. It can have discussion forums and be a place where to share travel experiences, make new friends and even meet them to explore new places together. Although, the market offers similar tools — e.g. Tripadvisor — and I believe apps should be helping as opposed to creating more noise in people's lives. Acclimatize.me should be an app you set up and forget.
 
 ## Contact
 

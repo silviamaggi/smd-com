@@ -2,7 +2,7 @@
 layout: page
 title: Colophon
 date: '2021-08-13 15:50'
-last_modified_at: '2021-09-11T19:29:31.531Z'
+last_modified_at: '2021-09-12T14:55:06.859Z'
 description: null
 permalink: /colophon/
 ---
@@ -31,4 +31,4 @@ Hosted on [CloudFlare Pages](https://pages.cloudflare.com/){:target="_blank" rel
 
 ## Copyright
 
-Content here.
+Unless explicitly stated, all contents of this website (copy, images, files, interface, branding and code) are copyright of Silvia Maggi. If you wish to reshare or use my content, please attribute it to me.
