@@ -19,11 +19,11 @@
   font-style: italic;
 }
 #{$site-prefix}-sans {
-  font-family: $font-family-base;
+  font-family: $font-family-base !important;
 }
 #{$site-prefix}-serif {
-  font-family: 'SourceSerifProBold', serif;
+  font-family: 'SourceSerifProBold', serif !important;
 }
 #{$site-prefix}-serif-italic {
-  font-family: 'SourceSerifProItalic', serif;
+  font-family: 'SourceSerifProItalic', serif !important;
 }

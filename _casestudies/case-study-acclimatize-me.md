@@ -3,7 +3,7 @@ layout: portfolio-content
 title: Acclimatize.me - Notification app for travellers
 featured-post: true
 date: 2021-02-18T21:39:15.000Z
-last_modified_at: '2021-09-12T11:44:05.138Z'
+last_modified_at: '2021-09-12T13:31:23.318Z'
 description: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
 excerpt: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
 featured-image: feat-acclimatize-case-study-featured-img.jpg
@@ -19,51 +19,37 @@ tools:
   - Pen and Paper
   - Miro
   - Figma
-problem: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
+problem: How can you design a product that <strong>helps travellers prepare and acclimatize fast for their trip</strong> so they don’t miss a minute of fun?
 solution: 'A mobile app that gives people access to accurate weather information about their travel destinations, and to crucial messages from local authorities.'
-myrole: 'Solo project, based on a  where I explored the process from finding the users’ needs to visual design.'
+myrole: 'Solo project, where I explored the process from finding the users’ needs to visual design.'
 ---
-## End users
-
-Travellers who want to be able to enjoy their trips in full.
-
 ## Job story
 
-> When I travel I want to what to expect so I can enjoy my stay from start to finish.
+> *When I travel I want to what to expect so I can enjoy my stay from start to finish.*
 
 ## Proto-persona
 
-<!-- Jill enjoys travelling and often plans a weekend away. Whether to ski or to relax on a beach, Jill worries her trips will be ruined if she doesn’t know enough about her destination. It happened a few times already.
-
-She is used to spending time researching a destination, but it feels like only local people are prepared for certain types of weather and events. As her job keeps her increasingly busy, Jill would love to find a smart way to stay in the know.
-
-### Goal
-
-Jill’s goal is to acclimatize rapidly to her destination and be prepared for any changes so that she can enjoy every minute of her trip.
-
-### Behaviour
-
-Jill is tech-savvy. She always makes time to read books and travel. Fascinated by other cultures, she loves to learn as much as possible about them. That’s why Jill treasures her trips and the local people she meets. -->
-
-<!-- ## Use case
-
-For the sake of this case study, I focus on the interaction of setting up and receiving weather and local authorities notifications. This will help users manage weather changes without ruining their trips. -->
+<div class="clearfix">
+{% include pattern-figure.html image="/assets/images/acclimatize.me-wanderer-jill.png" caption="Wanderer Jill" class="float-md-start mb-lg-5 mb-sm-3 me-md-4 text-center" width="150" height="150" %}
+<p>Jill enjoys travelling and often plans a weekend away. Whether to ski or to relax on a beach, <strong>she worries her trips will be ruined</strong> if she doesn’t know enough about her destination. It happened a few times already.<br>She is used to spending time researching a destination, but it feels like <em>only local people are prepared for certain types of events</em>. As her job keeps her increasingly busy, Jill would love to find a smart way to stay in the know.</p>
+</div>
 
 ## Storyboard
 
-<ul class="smd-ul">
-<li>On the web version of the app, which Jill visits before her trip to Chamonix, she checks the weather and all the information and advice available.</li>
-<li>After arriving at her destination, she sets up the alerts. On a day when she wanted to ski, the weather is forecast to change dramatically for the worst.</li>
-<li>Jill can change plans in time and make the most of her day.</li>
-</ul>
+<ol>
+<li>Jill visits the web version of the app before travelling. She checks the weather and all the information and advice available.</li>
+<li>She starts her trip to Chamonix.</li>
+<li>After arriving at her destination, she sets up the alerts.</li>
+<li>On a day when she wanted to ski, the weather is forecast to change dramatically for the worst.</li>
+<li>Jill can change plans in time.</li>
+<li>She makes the most of her day.</li>
+</ol>
 
 {% include pattern-figure.html image="/assets/images/acclimatize-me-storyboard.png" caption="Paper storyboard" width="1399" height="977" %}
 
 ## User flow
 
-Let’s explore what are the steps Jill will take to set up the alerts.
-
-First, she decides to allow notifications. Then, she selects the destination, the date range of her stay, and what type of alerts she wants.
+Let’s explore what are the steps Jill will take to set up the alerts. First, she decides to allow notifications. Then, she selects the destination, a date range for her stay, and what type of alerts she wants.
 
 Any important weather changes or communication from the local authorities will trigger notifications on her phone.
 
@@ -77,21 +63,17 @@ The basic screens involved in setting the alerts.
 
 ## Wireframes
 
-During this phase, the interaction became clearer and the screens more detailed.
-
 I used the wireframes to test the solution, and subsequently iterated based on the feedback received.
 
 {% include pattern-figure.html image="/assets/images/acclimatize-me-wireframes-flow.jpeg" caption="App wireframes and flow on Figma" width="1400" height="703" %}
 
 ## Visual design
 
-The latest iteration of the solution is represented by the visual design.
-
-With the intent of guiding the users through an intuitive procedure to set up the alerts, I:
+With the intent of **guiding the users through an intuitive procedure** to set up the alerts, I:
 
 <ul class="smd-ul">
-<li>added more navigational elements (breadcrumbs) to help users know where they are and how long is the process.</li>
-<li>used typography and colour to highlight hierarchy and functionality.</li>
+<li>added more navigational elements (breadcrumbs) to help them know where they are and how long is the process;</li>
+<li>used typography and colour to highlight hierarchy and functionality;</li>
 <li>took care of the details and consistency of the interface.</li>
 </ul>
 
@@ -103,3 +85,8 @@ With the intent of guiding the users through an intuitive procedure to set up th
 
 ## Conclusions
 
+Copy here.
+
+## Contact
+
+<a href="mailto:contacts@silviamaggidesign.com" title="Email me">Get in touch</a> to talk about your next project.

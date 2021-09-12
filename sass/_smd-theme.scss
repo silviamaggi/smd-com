@@ -578,8 +578,12 @@ hr {
 // ------------------------------------------------ //
 
 #{$site-prefix}-mask-texture {
-  -webkit-mask-image: url(/assets/images/heading-texture.png);
-  mask-image: url(/assets/images/heading-texture.png);
+  -webkit-mask-image: url('/assets/images/heading-texture.png');
+  mask-image: url('/assets/images/heading-texture.png');
+}
+#{$site-prefix}-unmask-texture {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
 }
 
 // Translucent BG
@@ -625,10 +629,10 @@ hr {
     &-opacity-01s:hover { opacity: .8; transition: opacity .1s ease-in-out !important; }
     &-opacity-03s:hover { opacity: .8; transition: opacity .3s ease-in-out !important; }
     // Borders
-    &-border-01s        { border: 2px solid transparent; }
-    &-border-03s        { border: 2px solid transparent; }
-    &-border-01s:hover  { border: 2px solid $background-l-20; transition: border 0.1s ease-in !important; }
-    &-border-03s:hover  { border: 2px solid $background-l-20; transition: border 0.3s ease-in !important; }
+    &-border-01s        { border: 3px solid transparent; }
+    &-border-03s        { border: 3px solid transparent; }
+    &-border-01s:hover  { border: 3px solid $background-l-20; transition: border 0.1s ease-in !important; }
+    &-border-03s:hover  { border: 3px solid $background-l-20; transition: border 0.3s ease-in !important; }
 }
 
 // Text rotation
