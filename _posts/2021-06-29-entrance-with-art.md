@@ -1,6 +1,6 @@
 ---
 title: Entrance with art
-last_modified_at: '2021-09-12 21:31:15'
+last_modified_at: '2021-09-13 01:12:48'
 featured-post: false
 categories:
   - Photography
@@ -16,7 +16,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure-featured.html image="/assets/images/20210628-ravenna_5660.jpg" caption="Entrance with art" width="1280" height="886" %}
+{% include pattern-figure.html image="/assets/images/20210628-ravenna_5660.jpg" caption="Entrance with art" width="1280" height="886" %}
 
 This photo marks the first time I used my camera since 3 April, when the [wisteria started to bloom]({{ site.url }}/photography/wisteria-in-bloom/) in the seaside town.
 

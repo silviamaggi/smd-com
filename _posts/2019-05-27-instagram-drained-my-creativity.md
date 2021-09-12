@@ -1,6 +1,6 @@
 ---
 title: How Instagram drained my creativity
-last_modified_at: '2021-09-12T18:15:32.269Z'
+last_modified_at: '2021-09-13 01:12:05'
 featured-post: false
 categories:
   - Photography
@@ -17,7 +17,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure-featured.html image="/assets/images/20171218_lago_2001-silviamaggi.jpg" alt="Ferry on Lake Maggiore" width="1400" height="738" id="1" %}
+{% include pattern-figure.html image="/assets/images/20171218_lago_2001-silviamaggi.jpg" alt="Ferry on Lake Maggiore" width="1400" height="738" id="1" %}
 
 My efforts went into keeping my Instagram grid fed with pictures, no matter what. But having to think about the do’s and don’ts of Instagram is very tiring, and my passion for photography waned. It took me a long time to understand that I was in a loop. The gratifications I received made me believe that sticking to a specific subject and style was the right choice. Whenever I wanted to make a change, my creativity was satisfied, but **Instagram’s algorithm was never on my side**.
 

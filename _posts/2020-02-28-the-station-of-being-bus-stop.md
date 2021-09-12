@@ -1,6 +1,6 @@
 ---
 title: The station of being bus stop experience
-last_modified_at: '2021-09-12T18:16:31.499Z'
+last_modified_at: '2021-09-13 01:12:11'
 featured-post: false
 categories:
   - Design
@@ -17,7 +17,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure-featured.html image="/assets/images/station-of-being-samuel-pettersson.jpg" caption="Photo by Samuel Pettersson" width="1024" height="682" %}
+{% include pattern-figure.html image="/assets/images/station-of-being-samuel-pettersson.jpg" caption="Photo by Samuel Pettersson" width="1024" height="682" %}
 
 Architecture studio [Rombout Frieling Lab](http://www.rombout.design/station-of-being.html){:target="_blank" rel="noopener"} and [Research Institutes of Sweden](https://www.ri.se/en){:target="_blank" rel="noopener"} have created the _Station of Being_ as a prototype bus stop in the city of Umeå, in the north of the country.
 

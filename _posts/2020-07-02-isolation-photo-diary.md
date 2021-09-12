@@ -1,6 +1,6 @@
 ---
 title: Isolation photo diary
-last_modified_at: '2021-09-12T18:23:37.579Z'
+last_modified_at: '2021-09-13 01:12:16'
 featured-post: false
 categories:
   - Photography
@@ -17,7 +17,7 @@ redirect_from:
 
 <p class="lead">Between the ups and downs of the global pandemic and lockdown, I kept taking pictures. I intended to have a photo diary to describe my take on isolation and the extraordinary circumstances we’re living.</p>
 
-{% include pattern-figure-featured.html image="/assets/images/isolation-photo-diary-silviamaggi-2.jpg" alt="Isolation #2" width="1280" height="853" %}
+{% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-2.jpg" alt="Isolation #2" width="1280" height="853" %}
 
 {% include pattern-figure.html image="/assets/images/isolation-photo-diary-silviamaggi-3.jpg" alt="Isolation #3" width="1280" height="853" %}
 

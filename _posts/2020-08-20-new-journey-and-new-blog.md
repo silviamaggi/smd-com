@@ -1,6 +1,6 @@
 ---
 title: New journey and new blog
-last_modified_at: '2021-09-04T17:05:06.799Z'
+last_modified_at: '2021-09-13 01:12:32'
 featured-post: false
 categories:
   - Personal
@@ -18,7 +18,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure-featured.html image="/assets/images/north-sea-cromer.jpg" caption="The North Sea at Cromer" width="1400" height="933" %}
+{% include pattern-figure.html image="/assets/images/north-sea-cromer.jpg" caption="The North Sea at Cromer" width="1400" height="933" %}
 
 It feels like hitting the reset button: a much-needed pause to regroup and understand what to do next. We’ll be writing both in English and in Italian, on the blog [Oregano Dangereux](https://oreganodangereux.wordpress.com/){:target="_blank" rel="noopener"}.
 

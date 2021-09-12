@@ -1,6 +1,6 @@
 ---
 title: Four days in Bordeaux
-last_modified_at: '2021-09-05T21:57:25.423Z'
+last_modified_at: '2021-09-13 01:11:56'
 featured-post: false
 categories:
   - Photography
@@ -14,6 +14,8 @@ featured-image: feat-20180524_bordeaux_2793.jpg
 <p class="lead">A few weeks ago, my husband and I travelled outside the UK for a different reason other than visiting family and friends: we spent four days in Bordeaux.</p>
 
 <!--more-->
+
+{% include pattern-figure-featured.html image="/assets/images/feat-20180524_bordeaux_2793.jpg" alt="Four days in Bordeaux" width="1200" height="500" %}
 
 Our accommodation was in Chartrons, a beautiful part of the city—in particular, a street famous for its antiquity shops. Without a plan or a travel card, we walked around and visited without any pressure.
 
