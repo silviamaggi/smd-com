@@ -3,13 +3,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {%- if page.robots %}
 <meta name="robots" content="{{ page.robots }}" />
-{% endif -%}
+{% endif %}
 <title>
   {%- if page.url == "/" -%}
-  {{ site.title }} - {{ site.tagline }}
+  {{ site.title | append: ' &ndash; ' }}{{ site.tagline }}
   {%- elsif page.type == 'category' or page.type == 'tag' -%}
-  {{ page.type | capitalize }}: {{ page.title | capitalize }} - {{ site.title }} {{ site.tagline }}
+  {{ page.type | capitalize }}: {{ page.title | capitalize | append: ' &ndash; ' }}{{ site.title }} {{ site.tagline }}
   {%- else -%}
-  {{ page.title }} &ndash; {{ site.title }} {{ site.tagline }}
+  {{ page.title | append: ' &ndash; ' }}{{ site.title }} {{ site.tagline }}
   {%- endif -%}</title>
 {% feed_meta %}
