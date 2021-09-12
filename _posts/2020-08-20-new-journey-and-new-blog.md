@@ -6,10 +6,9 @@ categories:
   - Personal
 tags:
   - blog
-  - oregano dangereux
   - italy
   - uk
-description: Follow our blog Oregano Dangereux as my husband and I we move back to Italy from the UK.
+description: Follow our blog Oregano Dangereux as my husband and I move back to Italy from the UK.
 featured-image: feat-new-journey-new-blog.jpg
 redirect_from:
   - /photography/new-journey-new-blog/

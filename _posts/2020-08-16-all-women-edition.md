@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 11. All-women edition'
-last_modified_at: '2021-09-03T19:37:50.959Z'
+last_modified_at: '2021-09-12 21:46:53'
 featured-post: false
 categories:
   - Design Digested
@@ -17,7 +17,6 @@ redirect_from:
   - /diversity/design-digested-11-all-women-edition/
   - /diversity/all-women-edition/
 ---
-
 <p class="lead">Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.</p>
 
 <!--more-->

@@ -87,7 +87,6 @@ excerpt_separator: <!--more-->
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-archives
 

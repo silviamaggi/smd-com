@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 12. Social media content moderation issues'
-last_modified_at: '2021-09-03T19:40:17.579Z'
+last_modified_at: '2021-09-12T18:40:02.981Z'
 featured-post: false
 categories:
   - Design Digested
@@ -9,7 +9,7 @@ tags:
   - books
   - facebook
   - social media
-description: 'This week''s focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.'
+description: "This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism."
 featured-image: feat-design-digested-12.jpg
 permalink: '/design-digested/:title/'
 redirect_from:

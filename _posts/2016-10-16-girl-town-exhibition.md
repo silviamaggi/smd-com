@@ -1,6 +1,6 @@
 ---
 title: GIRL TOWN Exhibition
-last_modified_at: '2021-09-08T20:27:25.637Z'
+last_modified_at: '2021-09-12 21:41:53'
 featured-post: false
 categories:
   - Photography
@@ -10,8 +10,8 @@ tags:
   - photomonth
   - london
   - uk
-description: 'On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched GIRL TOWN at London Photomonth, and I’m proudly part of it.'
-excerpt: 'On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched GIRL TOWN at London Photomonth, and I’m proudly part of it.'
+description: "On Thursday 6th October 2016, Shutter Hub and the Old Girl's Club launched GIRL TOWN at London Photomonth, and I'm proudly part of it."
+excerpt: "On Thursday 6th October 2016, Shutter Hub and the Old Girl's Club launched GIRL TOWN at London Photomonth, and I'm proudly part of it."
 featured-image: feat-20160916_girltown-empty-3502.jpg
 ---
 <p class="lead">On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched <em>GIRL TOWN Exhibition</em> at London Photomonth, and I’m very proudly part of it.</p>

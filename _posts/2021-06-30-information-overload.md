@@ -1,6 +1,6 @@
 ---
 title: Information overload
-last_modified_at: '2021-09-04T19:20:29.703Z'
+last_modified_at: '2021-09-12 21:31:28'
 featured-post: false
 categories:
   - UX

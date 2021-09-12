@@ -1,13 +1,13 @@
 ---
 title: Brilliant culture and design books I’m reading
-last_modified_at: '2021-09-08T20:09:43.049Z'
+last_modified_at: '2021-09-12T18:48:48.858Z'
 featured-post: false
 categories:
   - Books
 tags:
   - design
   - social media
-description: 'Here are the culture and design books I''m reading. Some are ideal if you''re a designer, others are either very interesting or funny – or both – for anyone.'
+description: "Here are the culture and design books I'm reading. Some are ideal if you're a designer, others are either very interesting or funny — or both — for anyone."
 featured-image: feat-recommended-reads.jpg
 redirect_from:
   - /social-media/culture-and-design-books/

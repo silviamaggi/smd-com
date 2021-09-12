@@ -11,16 +11,18 @@ Y88b  d88P 888   "   888 888  .d88P
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
-{% if page.redirection -%}
+{%- if page.redirection %}
 <meta http-equiv="refresh" content="0;url='{{ page.redirection }}'" />
-{%- endif -%}
-{% include site-meta.html -%}
-{% if jekyll.environment == "production" %}
+{% endif -%}
+{% include site-meta.html %}
+{% if jekyll.environment == "production" -%}
 <link rel="stylesheet" href="{{ site.url }}/assets/css/smd.min.css">
-{% else %}
+{% else -%}
 <link rel="stylesheet" href="{{ site.url }}/assets/css/smd.css">
-{% endif %}
-{%- include seo.html -%}
+{%- endif -%}
+{% unless page.redirection %}
+{% include seo.html -%}
+{% endunless %}
 {%- include site-favicons.html %}
 </head>
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">

@@ -9,7 +9,7 @@ tags:
   - inclusion
   - ravelry
   - ux
-description: A well-known website lost community trust with a redesign that didn't take into account its users with disabilities.
+description: "A well-known website lost community trust with a redesign that didn't take into account its users with disabilities."
 featured-image: feat-design-digested-8.jpg
 permalink: '/design-digested/:title/'
 redirect_from:

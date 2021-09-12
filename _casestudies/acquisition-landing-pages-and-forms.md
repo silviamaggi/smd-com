@@ -3,10 +3,10 @@ layout: portfolio-content
 title: UniCredit acquisition landing pages and forms
 featured-post: true
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2021-09-11T20:27:06.973Z'
-description: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
+last_modified_at: '2021-09-12 21:38:30'
+description: UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
-excerpt: UniCredit Bank wanted to reach a wider range of clients. We helped them increase the conversion rates of their mobile pages.
+excerpt: UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.
 skills:
   - User interviews
   - Content Strategy

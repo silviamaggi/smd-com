@@ -1,6 +1,6 @@
 ---
 title: Because We Can Exhibition at Festival Pil’Ours
-last_modified_at: '2021-09-03T23:29:39.950Z'
+last_modified_at: '2021-09-12T18:08:12.329Z'
 featured-post: false
 categories:
   - Photography
@@ -8,7 +8,7 @@ tags:
   - exhibition
   - france
   - shutter hub
-description: 'I’m presenting three pictures at the Because We Can! exhibition by Shutter Hub, part of Festival Pil’Ours.'
+description: "I'm presenting three pictures at the Because We Can! exhibition by Shutter Hub, part of Festival Pil'Ours."
 featured-image: feat-jayne_180718_7765-header.jpg
 redirect_from:
   - /because-we-can-shutter-hub-exhibition-festival-pilours/

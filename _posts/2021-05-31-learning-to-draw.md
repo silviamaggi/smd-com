@@ -1,6 +1,6 @@
 ---
 title: Learning to draw. A journey
-last_modified_at: '2021-09-03T20:00:11.648Z'
+last_modified_at: '2021-09-12 21:29:34'
 featured-post: false
 categories:
   - Drawing
@@ -8,7 +8,7 @@ tags:
   - drawabox
   - design
   - personal
-description: As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey.
+description: "As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey."
 featured-image: feat-sam-rios-unsplash.jpg
 redirect_from:
   - /design/learning-to-draw/

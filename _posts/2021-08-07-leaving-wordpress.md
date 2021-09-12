@@ -1,6 +1,6 @@
 ---
 title: Leaving WordPress
-last_modified_at: '2021-09-03T19:55:00.596Z'
+last_modified_at: '2021-09-12 21:33:23'
 featured-post: false
 categories:
   - Personal

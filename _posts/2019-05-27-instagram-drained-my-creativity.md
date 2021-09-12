@@ -1,6 +1,6 @@
 ---
 title: How Instagram drained my creativity
-last_modified_at: '2021-09-06T12:05:15.775Z'
+last_modified_at: '2021-09-12T18:15:32.269Z'
 featured-post: false
 categories:
   - Photography
@@ -8,7 +8,7 @@ tags:
   - creativity
   - instagram
   - social media
-description: 'While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here''s how my love for photography helped.'
+description: "While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here's how my love for photography helped."
 featured-image: feat-20171218_lago_2001-silviamaggi.jpg
 redirect_from:
   - /photography/how-instagram-drained-my-creativity/

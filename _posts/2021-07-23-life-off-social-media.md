@@ -1,12 +1,12 @@
 ---
 title: 'Life off social media, six months in'
-last_modified_at: '2021-09-07T21:59:41.218Z'
+last_modified_at: '2021-09-12 21:32:20'
 featured-post: false
 categories:
   - Personal
 tags:
   - social media
-description: 'I tell you what happened when I quit social media six months ago, and why I don''t want to come back.'
+description: "I tell you what happened when I quit social media six months ago, and why I don't want to come back."
 featured-image: feat-max-van-den-oetelaar-unsplash.jpg
 redirect_from:
   - /social-media/life-off-social-media/
