@@ -2,7 +2,7 @@
 title: Brand new website
 date: 2021-09-12
 last_modified_at: '2021-09-13 00:31:38'
-featured-post: false
+featured-post: true
 categories:
   - Design
 tags:
@@ -12,12 +12,14 @@ tags:
   - sustainability
   - privacy
 description: 'I built my new website from scratch using Jekyll, a static site generator. Welcome to my new virtual house.'
-featured-image: null
+featured-image: feat-brand-new-website.jpg
 permalink: brand-new-website
 ---
 <p class="lead">About a month after <a href="{{ site.url }}/personal/leaving-wordpress/">announcing it</a>, I'm excited to welcome you to my new virtual house. Can I offer you a drink?</p>
 
 <!--more-->
+
+{% include pattern-figure-featured.html image="/assets/images/feat-brand-new-website.jpg" caption="New website, new branding" alt="Silvia Maggi Design new website" width="1200" height="500" %}
 
 <a href="https://minutestomidnight.co.uk" target="_blank" rel="noopener">Simone</a> and I built my new website from scratch using [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noopener"} — a static site generator — and <a href="{{ site.url }}/colophon/">several other tools</a>. *I now have complete control over the code*. It felt natural to refresh logo and styling as well, like it often happens during a home restoration. I made some important changes, too. Let me show you around.
 
