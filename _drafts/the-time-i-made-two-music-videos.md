@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The time I made two music videos
-# date: 2021-04-14 21:57
+date: 2021-09-12T00:00:00.000Z
 categories:
   - Photography
 tags:
@@ -9,8 +9,8 @@ tags:
   - after 1989
   - music video
   - side project
-# permalink:
-excerpt: 'After 1989: A trip to freedom' is my husband Simone's debut solo album, and an emotional journey. I documented it with pictures and created two music videos.
+permalink: two-music-videos
+last_modified_at: '2021-09-12T15:24:52.302Z'
 ---
 ‘**After 1989: A trip to freedom**‘ is my husband [Simone](https://minutestomidnight.co.uk/){:target="_blank" rel="noopener"}‘s debut solo album, and an emotional journey. I documented it with pictures and created two music videos.
 

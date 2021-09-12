@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Lunch time with the Helios-44m
-# date:
+date: 2021-09-12
 featured-post: false
 categories: Photography
 tags:
   - photography
   - cambridge
-  - helios-44m
-# permalink:
+last_modified_at: '2021-09-12T15:20:40.931Z'
+permalink: lunch-time-helios-44m
 ---
 I'm pretty pleased with the results of the Helios-44M, and by the fact that I can easily bring the camera to work without carrying too much weight.
 

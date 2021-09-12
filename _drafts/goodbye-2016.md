@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Goodbye, 2016
-#date:
+title: 'Goodbye, 2016'
+date: 2017-01-01T00:00:00.000Z
 featured-post: false
 categories: Photography
 tags:
-  - 2016
-  - Cambridge
-  - New Year's Eve
-#permalink:
-excerpt: Last day of the year, the infamous 2016 and, as usual, it's almost impossible not to think back to what happened and decide whether it has been a great year or not.
+  - cambridge
+excerpt: 'Last day of the year, the infamous 2016 and, as usual, it''s almost impossible not to think back to what happened and decide whether it has been a great year or not.'
+last_modified_at: '2021-09-12T15:28:03.036Z'
+permalink: goodbye
 ---
 Last day of the year &mdash; the infamous 2016 &mdash; and as usual, it's almost impossible not to think back to what happened, and decide whether it has been a great year or not.
 

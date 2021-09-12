@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Waiting for the season change
-# date: 2021-04-05 21:39
+date: '2021-04-05 21:39'
 categories:
   - Photography
 tags:
   - photography
   - cambridge
   - uk
-# permalink:
+permalink: waiting-for-season-change
+last_modified_at: '2021-09-12T15:23:53.924Z'
 ---
 It’s been a while since the last time I posted something or went out to take some pictures.
 

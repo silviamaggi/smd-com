@@ -1,17 +1,16 @@
 ---
 layout: post
-title: The Day I Glimpsed Inside Your Soul – Photo Project
-# date:
+title: The Day I Glimpsed Inside Your Soul
+date: 2021-09-12
 categories:
   - Photography
 tags:
   - photography
   - berlin
-  - concentration camp
   - germany
   - sachsenhausen
   - world war ii
-# permalink:
+permalink: day-i-glimpsed-inside-your-soul
 excerpt: On a murky cold day, my husband and I visited Sachsenhausen concentration camp. Despite many other visitors were there, silence dominated the visit.
 ---
 On a murky cold day, my husband and I visited the [Sachsenhausen concentration camp](http://www.stiftung-bg.de/gums/en/){:target="_blank" rel="noopener"}. Despite many other visitors were there, silence dominated the visit.

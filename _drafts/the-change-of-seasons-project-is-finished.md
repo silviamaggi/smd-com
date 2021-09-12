@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Change of Seasons Project is Finished
-# date:
+date: 2021-09-12T00:00:00.000Z
 featured-post: false
 categories:
   - Photography
@@ -10,9 +10,10 @@ tags:
   - cambridge
   - camera phone
   - my commute
-# permalink:
+permalink: change-of-seasons
 featured-image: feat-20161205-seasons-img_1369.jpg
-excerpt: For months, almost daily, I took pictures with my mobile phone of my commute to work. Some of them are published on my Instagram account. I wanted to have a recollection of the views, always the same but always changing.
+excerpt: 'For months, almost daily, I took pictures with my mobile phone of my commute to work. Some of them are published on my Instagram account. I wanted to have a recollection of the views, always the same but always changing.'
+last_modified_at: '2021-09-12T15:25:36.829Z'
 ---
 For months, almost daily, I took pictures with my mobile phone of my commute to work. Some of them are published on my Instagram account. I wanted to have a recollection of the views, always the same but always changing.
 

@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Purple and Orange
-# date:
+date: 2021-09-12
 featured-post: false
 categories: Photography
 tags:
   - photography
   - cambridge
-  - helios-44m
   - uk
-# permalink:
+permalink: purple-and-orange
 ---
 
 <!-- =================== CHECK THE FOLLOWING INTERNAL LINK! -->

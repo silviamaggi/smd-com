@@ -19,7 +19,7 @@ My website address is: <a href="https://silviamaggidesign.com/">https://silviama
 
 <h2 class="display-6">Your personal data</h2>
 
-The website is built with [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noopener"}, which is a static web generator, therefore it does not collect any personal data about visitors.
+The website is built with [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noopener"}, which is a static web generator, and it does not collect any personal data about visitors.
 
 ### Embedded content from other websites
 

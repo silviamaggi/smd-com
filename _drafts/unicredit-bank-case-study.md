@@ -1,15 +1,17 @@
 ---
 layout: post
 title: UniCredit Bank case study
+date: 2021-09-12T00:00:00.000Z
 categories:
   - UX
 tags:
-  - UX
+  - ux
   - case study
   - portfolio
-  - Responsive Web Design
+  - responsive web design
 excerpt: UniCredit bank wanted to reach a wider range of clients. UI Farm helped them increase the conversion rates of their mobile pages. UX case study by Silvia Maggi.
-last_modified_at: '2021-09-04T15:30:01.836Z'
+permalink: unicredit-bank-case-study
+last_modified_at: '2021-09-12T15:35:22.604Z'
 ---
 UniCredit Bank wanted to reach a wider range of clients. UI Farm helped them increase the conversion rates of their mobile pages.
 

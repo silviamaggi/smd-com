@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Photo Project: The Change Of Seasons, Part 1 – Summer
-# date:
+title: 'Photo Project — The Change Of Seasons, Part 1 Summer'
+date: 2021-09-12T00:00:00.000Z
 featured-post: false
 categories: Photography
 tags:
@@ -9,8 +9,9 @@ tags:
   - cambridge
   - camera phone
   - my commute
-# permalink:
-excerpt: For months, almost daily, I published photos of my commute on my Instagram account. I wanted to have a recollection of the views, always the same but always changing. This is an ongoing project, tracking the change of seasons. It starts with Summer.
+excerpt: 'For months, almost daily, I published photos of my commute on my Instagram account. I wanted to have a recollection of the views, always the same but always changing. This is an ongoing project, tracking the change of seasons. It starts with Summer.'
+permalink: change-of-seasons-summer
+last_modified_at: '2021-09-12T15:26:03.051Z'
 ---
 Having started working for a company in Cambridge in July, and commuting every day with my bicycle, I saw the opportunity to take pictures.
 
