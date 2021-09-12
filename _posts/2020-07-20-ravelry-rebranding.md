@@ -17,7 +17,7 @@ redirect_from:
   - /2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/
   - /design/how-rebranding-cost-ravelry-the-trust-of-their-community/
 ---
-{% include pattern-figure-featured.html image="/assets/images/feat-ravelry-rebranding.jpg" alt="Ravelry lost the trust of their community" width="1200" height="500" caption='Photo by <a href="https://unsplash.com/photos/IcvR0jFbsz0" target="_blank" rel="noopener">Tara Evans</a>' %}
+{% include pattern-figure-featured.html width="1200" height="500" caption='Photo by <a href="https://unsplash.com/photos/IcvR0jFbsz0" target="_blank" rel="noopener">Tara Evans</a>' %}
 
 <p class="lead">Knitting website Ravelry lost the trust of their community after a rebranding effort caused several users adverse side effects from browsing the site. Well-known among knitters, crocheters, designers, spinners, and dyers, Ravelry is a free platform where users can organise and keep track of their projects, network with other people and sell their designs.</p>
 
