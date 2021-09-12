@@ -1,6 +1,6 @@
 ---
 title: Girl Town moved to Tel Aviv
-last_modified_at: '2021-09-08T20:22:09.411Z'
+last_modified_at: '2021-09-13 00:59:58'
 featured-post: false
 categories:
   - Photography
@@ -15,7 +15,7 @@ redirect_from:
 ---
 <p class="lead">The <em>GIRL TOWN Exhibition</em> moved to Tel Aviv, Israel, where it ran from 8 February to 9 March 2018 at the Alfred Gallery.</p>
 
-{% include pattern-figure-featured.html image="/assets/images/girl-town-silviamaggi-entry.jpg" caption="Girl Town – Back from the office, &copy; Silvia Maggi" width="768" height="1024" %}
+{% include pattern-figure.html image="/assets/images/girl-town-silviamaggi-entry.jpg" caption="Girl Town – Back from the office, &copy; Silvia Maggi" width="768" height="1024" %}
 
 Originally presented at Photomonth East London International Photography Festival in 2016, the show celebrates the culture of the female in the 21th century.
 

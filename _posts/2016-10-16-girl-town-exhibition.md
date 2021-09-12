@@ -1,6 +1,6 @@
 ---
 title: GIRL TOWN Exhibition
-last_modified_at: '2021-09-12 21:41:53'
+last_modified_at: '2021-09-13 01:01:44'
 featured-post: false
 categories:
   - Photography
@@ -16,7 +16,7 @@ featured-image: feat-20160916_girltown-empty-3502.jpg
 ---
 <p class="lead">On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched <em>GIRL TOWN Exhibition</em> at London Photomonth, and I’m very proudly part of it.</p>
 
-{% include pattern-figure-featured.html image="/assets/images/girl-town-silviamaggi-entry.jpg" caption="Girl Town — Back from the office &copy; Silvia Maggi" width="768" height="1024" %}
+{% include pattern-figure.html image="/assets/images/girl-town-silviamaggi-entry.jpg" caption="Girl Town — Back from the office &copy; Silvia Maggi" width="768" height="1024" %}
 
 _GIRL TOWN_ is a selected exhibition of photography celebrating the culture of the female in the 21st Century. It’s been curated through Instagram, so it is possible to see all the entries by exploring the hashtag `#girltownPM`. The selected 200 photos are visible at the lovely St Margaret’s House, London, until 1st November 2016.
 

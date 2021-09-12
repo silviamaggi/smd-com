@@ -1,6 +1,6 @@
 ---
 title: Because We Can Exhibition at Festival Pil’Ours
-last_modified_at: '2021-09-12T18:08:12.329Z'
+last_modified_at: '2021-09-13 00:58:28'
 featured-post: false
 categories:
   - Photography
@@ -21,7 +21,7 @@ redirect_from:
 
 <!--more-->
 
-{% include pattern-figure-featured.html image="/assets/images/jayne_180718_7736.jpg" caption="Shutter Hub at Festival Pil’ours, Saint-Gilles-Croix-de-Vie, France credit &copy; Jayne Lloyd / Shutter Hub" width="933" height="1400" %}
+{% include pattern-figure.html image="/assets/images/jayne_180718_7736.jpg" caption="Shutter Hub at Festival Pil’ours, Saint-Gilles-Croix-de-Vie, France credit &copy; Jayne Lloyd / Shutter Hub" width="933" height="1400" %}
 
 ## My entries
 

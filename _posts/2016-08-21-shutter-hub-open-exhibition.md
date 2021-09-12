@@ -1,6 +1,6 @@
 ---
 title: Shutter Hub Open Exhibition 2016
-last_modified_at: '2021-09-12 21:41:03'
+last_modified_at: '2021-09-13 01:02:09'
 featured-post: false
 categories:
   - Photography
@@ -16,7 +16,7 @@ featured-image: feat-gonville-and-caius-silviamaggi.jpg
 
 <!--more-->
 
-{% include pattern-figure-featured.html image="/assets/images/gonville-and-caius-silviamaggi.jpg" caption="The Gonville and Caius Gate at Night" width="682" height="1024" %}
+{% include pattern-figure.html image="/assets/images/gonville-and-caius-silviamaggi.jpg" caption="The Gonville and Caius Gate at Night" width="682" height="1024" %}
 
 I could never thank enough the lovely people at Shutter Hub, for the wonderful and exciting opportunity. It’s been an honour for me to be a contributor to such an amazing event.
 

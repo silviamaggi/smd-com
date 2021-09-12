@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 14. Elimination of violence against women'
-last_modified_at: '2021-09-03T19:42:19.888Z'
+last_modified_at: '2021-09-13 01:02:37'
 featured-post: false
 categories:
   - Design Digested
@@ -18,7 +18,7 @@ redirect_from:
 <p class="lead">25 November marks the <a href="https://www.un.org/en/observances/ending-violence-against-women-day" target="_blank" rel="noopener">International Day for the Elimination of Violence against Women</a>.
 This year the day is even more important as data and reports show that violence against women and girls intensified during the pandemic.</p>
 
-{% include pattern-figure.html image="/assets/images/feat-design-digested-14.jpg" alt="Design, Digested #14" width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-14.jpg" alt="Design, Digested #14" width="1200" height="500" %}
 
 ## There’s a pandemic of online violence against women and girls
 

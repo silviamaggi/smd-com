@@ -1,7 +1,7 @@
 ---
 title: Brand new website
 date: 2021-09-12
-last_modified_at: '2021-09-13 00:31:38'
+last_modified_at: '2021-09-13 01:02:22'
 featured-post: true
 categories:
   - Design
@@ -12,12 +12,11 @@ tags:
   - sustainability
   - privacy
 description: 'I built my new website from scratch using Jekyll, a static site generator. Welcome to my new virtual house.'
+excerpt: 'I built my new website from scratch using Jekyll, a static site generator. Welcome to my new virtual house. Let me show you around.'
 featured-image: feat-brand-new-website.jpg
 permalink: brand-new-website
 ---
 <p class="lead">About a month after <a href="{{ site.url }}/personal/leaving-wordpress/">announcing it</a>, I'm excited to welcome you to my new virtual house. Can I offer you a drink?</p>
-
-<!--more-->
 
 {% include pattern-figure-featured.html image="/assets/images/feat-brand-new-website.jpg" caption="New website, new branding" alt="Silvia Maggi Design new website" width="1200" height="500" %}
 
@@ -42,7 +41,7 @@ Moving the content from WordPress to Jekyll — and within a new layout — mean
 
 My database on WordPress ballooned, so I seized the opportunity to delete useless tags and categories, reorganising the information architecture of the blog. If you like numbers, I used to have <code>303</code> tags! Most of which were, of course, barely used. You can find the renewed taxonomy in the footer menu, under [Archive]({{ site.url }}/archive/).
 
-{% include pattern-figure-featured.html image="/assets/images/smd-footer.jpg" alt="Silvia Maggi Design website footer menu" caption="The footer menu containing the archive" width="754" height="149" %}
+{% include pattern-figure.html image="/assets/images/smd-footer.jpg" alt="Silvia Maggi Design website footer menu" caption="The footer menu containing the archive" width="754" height="149" %}
 
 ## Sustainability
 

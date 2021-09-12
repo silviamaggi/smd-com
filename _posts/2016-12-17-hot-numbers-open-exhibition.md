@@ -1,6 +1,6 @@
 ---
 title: Hot Numbers Open Exhibition
-last_modified_at: '2021-09-04T12:02:43.333Z'
+last_modified_at: '2021-09-13 01:01:22'
 featured-post: false
 categories:
   - Photography
@@ -15,7 +15,7 @@ featured-image: feat-20160506-img_2730.jpg
 ---
 <p class="lead">Starting 12 December 2016, until 22 January 2017, one of my photos is part of the <em>Hot Numbers Open Exhibition</em> in Cambridge.</p>
 
-{% include pattern-figure-featured.html image="/assets/images/20160506-boatspotting-img_27301.jpg" caption="Boatspotting" width="933" height="1400" %}
+{% include pattern-figure.html image="/assets/images/20160506-boatspotting-img_27301.jpg" caption="Boatspotting" width="933" height="1400" %}
 
 Taken on a warm sunny day in May 2016, to me the photo represents contemplation and the somehow strange and unnatural feeling of being so close to a massive cruise.
 
