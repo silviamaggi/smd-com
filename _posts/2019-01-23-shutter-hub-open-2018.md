@@ -10,7 +10,7 @@ tags:
   - photomonth
   - london
   - uk
-description: Two pictures of mine part of the Shutter Hub exhibition in London and Amsterdam between October 2018 and January 2019.
+description: "Two pictures of mine are part of the Shutter Hub exhibition in London and Amsterdam between October 2018 and January 2019."
 featured-image: feat-JayneLloyd_ShutterHubOPEN_PhotoMonth_ExhibitionTheOldTrumanBrewery_7069.jpg
 ---
 <p class="lead">It's a pleasure to announce that I partecipated as a contributor at the <em>Shutter Hub Open Exhibition 2018</em>, which took place in London and Amsterdam.</p>

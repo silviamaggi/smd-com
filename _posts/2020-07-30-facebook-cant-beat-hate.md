@@ -1,6 +1,6 @@
 ---
-title: 'Design, Digested 9. Facebook can’t beat hate'
-last_modified_at: '2021-09-03T22:21:01.391Z'
+title: "Design, Digested 9. Facebook can't beat hate"
+last_modified_at: '2021-09-12T18:32:38.221Z'
 featured-post: false
 categories:
   - Design Digested
@@ -8,7 +8,7 @@ tags:
   - disinformation
   - facebook
   - world wide web
-description: 'Design inspiration series. Why Facebook can’t beat hate, a safe haven for press freedom, a game to recognise disinformation.'
+description: "Design inspiration series. Why Facebook can't beat hate, a safe haven for press freedom, a game to recognise disinformation."
 featured-image: feat-design-digested-9.jpg
 permalink: '/design-digested/:title/'
 redirect_from:

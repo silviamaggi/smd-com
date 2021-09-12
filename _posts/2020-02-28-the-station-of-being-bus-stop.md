@@ -1,13 +1,13 @@
 ---
 title: The station of being bus stop experience
-last_modified_at: '2021-09-08T20:20:38.372Z'
+last_modified_at: '2021-09-12T18:16:31.499Z'
 featured-post: false
 categories:
   - Design
 tags:
   - ux
   - sweden
-description: A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.
+description: "A deep understanding of users' needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers."
 featured-image: feat-station-of-being-samuel-pettersson.jpg
 redirect_from:
   - /design/design-the-station-of-being-bus-stop-experience/

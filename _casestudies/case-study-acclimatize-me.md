@@ -1,11 +1,11 @@
 ---
 layout: portfolio-content
-title: Acclimatize.me - Notification app for travellers
+title: 'Acclimatize.me - Notification app for travellers'
 featured-post: true
 date: 2021-02-18T21:39:15.000Z
-last_modified_at: '2021-09-12T14:41:22.566Z'
-description: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
-excerpt: How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don’t miss a minute of fun?
+last_modified_at: '2021-09-12 21:35:32'
+description: "How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don't miss a minute of fun?"
+excerpt: "How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don't miss a minute of fun?"
 featured-image: feat-acclimatize-case-study-featured-img.jpg
 skills:
   - User interviews
@@ -19,9 +19,9 @@ tools:
   - Pen and Paper
   - Miro
   - Figma
-problem: How can you design a product that <strong>helps travellers prepare and acclimatize fast for their trip</strong> so they don’t miss a minute of fun?
-solution: 'A mobile app that gives people access to accurate weather information about their travel destinations, and to crucial messages from local authorities.'
-myrole: 'Solo project, where I explored the process from finding the users’ needs to visual design.'
+problem: "How can you design a product that <strong>helps travellers prepare and acclimatize fast for their trip</strong> so they don’t miss a minute of fun?"
+solution: "A mobile app that gives people access to accurate weather information about their travel destinations, and to crucial messages from local authorities."
+myrole: "Solo project, where I explored the process from finding the users’ needs to visual design."
 ---
 ## Job story
 

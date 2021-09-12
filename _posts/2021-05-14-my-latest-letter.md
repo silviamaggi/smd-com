@@ -1,6 +1,6 @@
 ---
 title: My latest letter
-last_modified_at: '2021-09-04T19:19:42.605Z'
+last_modified_at: '2021-09-12 21:21:39'
 featured-post: false
 categories:
   - Design
@@ -8,7 +8,7 @@ tags:
   - books
   - letter
   - photography
-description: 'Every couple of weeks, I write a letter to the nice people subscribed to Design, Digested. This is the one where I didn''t know what to write.'
+description: "Every couple of weeks, I write a letter to the nice people subscribed to Design, Digested. This is the one where I didn't know what to write."
 featured-image: feat-smd-blog-featured-image_lettera.jpg
 permalink: '/design-digested/:title/'
 redirect_from:

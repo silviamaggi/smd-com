@@ -3,7 +3,7 @@ layout: portfolio-content
 title: Turtle nest monitoring app
 featured-post: false
 date: 2021-08-09T18:14:09.000Z
-last_modified_at: '2021-09-12T13:30:34.835Z'
+last_modified_at: '2021-09-12 21:34:54'
 description: Scientists need to monitor turtle nests and record their status to measure the effectiveness of strategies to protect the aquatic megafauna and their habitats.
 excerpt: Scientists need to monitor turtle nests and record their status to measure the effectiveness of strategies to protect the aquatic megafauna and their habitats.
 featured-image: feat-turtle-nest-monitoring-app-featured-img.jpg
@@ -13,7 +13,7 @@ skills:
 tools:
   - Figma
 problem: 'Turtle scientists need to monitor nests and record status and number of hatchings so that they can measure the effectiveness of <a href="https://www.ammco.org" target="_blank" rel="noopener">AMMC</a> strategies to protect the aquatic megafauna and their habitats.'
-solution: I designed the interaction for a mobile app that allows turtle scientists to record new turtle nests and receive notifications when they’re ready to hatch. This would help them checking how many eggs have hatched and how many have not.
+solution: "I designed the interaction for a mobile app that allows turtle scientists to record new turtle nests and receive notifications when they're ready to hatch. This would help them checking how many eggs have hatched and how many have not."
 myrole: 'This is a design challenge from <a href="https://www.uxrescue.org/" target="_blank" rel="noopener">UX Rescue</a>. Based on a definition of the user group, their needs, user stories, and the data recorded, I proposed wireframes and a live prototype.'
 ---
 ## Overview

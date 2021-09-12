@@ -6,7 +6,7 @@ categories:
   - Personal
 tags:
   - social media
-description: Today I tell you why I deleted my Twitter account and give you an update on why I've been silent on my blog lately.
+description: "Today I tell you why I deleted my Twitter account and give you an update on why I've been silent on my blog lately."
 featured-image: feat-i-deleted-my-twitter-account.jpg
 redirect_from:
   - /social-media/why-i-deleted-my-twitter-account-and-an-update/

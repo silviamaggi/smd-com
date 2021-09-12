@@ -1,6 +1,6 @@
 ---
 title: I deactivated my Instagram account. What now?
-last_modified_at: '2021-09-03T19:47:22.972Z'
+last_modified_at: '2021-09-12T18:46:23.572Z'
 featured-post: false
 categories:
   - Personal
@@ -8,7 +8,7 @@ tags:
   - instagram
   - photography
   - social media
-description: 'I deactivated my Instagram account. What now? If it sounds like a big a deal, it''s because it is. My first week post-Instagram.'
+description: "I deactivated my Instagram account. What now? If it sounds like a big a deal, it's because it is. My first week post-Instagram."
 featured-image: feat-deactivated-instagram-account.jpg
 redirect_from:
   - /i-deactivated-my-instagram-account-what-now/
