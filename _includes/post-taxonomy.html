@@ -5,7 +5,7 @@
   {% else %}
   {% assign categories = page.categories %}
   {% endif %}
-  <span class="me-1">
+  <span class="d-block">
     <span class="d-inline-block smd-font-micro me-1">Filed under</span> {% for category in categories %}<a class="text-decoration-none" href="{{ site.url }}/category/{{ category | slugify | append: '/' }}"><span class="btn btn-lg btn-label-smd btn-label-smd-bg btn-label-smd-link fw-bold smd-font-micro"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></a>{% endfor %}
   </span>
 {% endunless %}
@@ -16,7 +16,7 @@
   {% else %}
   {% assign tags = page.tags %}
   {% endif %}
-  <span class="ms-1">
+  <span class="d-block">
     <span class="d-inline-block smd-font-micro me-1">Tagged</span> {% for tag in tags %}<a class="me-2 text-decoration-none" href="{{ site.url }}/tag/{{ tag | slugify | append: '/' }}"><span class="btn btn-lg btn-label-smd btn-label-smd-bg btn-label-smd-link fw-bold smd-font-micro"><strong>{{ tag | upcase }}</strong></span></a>{% unless forloop.last %}{% endunless %}{% endfor %}
   </span>
 {% endunless %}
