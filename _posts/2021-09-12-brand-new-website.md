@@ -59,9 +59,9 @@ This website does not collect any personal data about visitors. I painstakingly 
 Deploying the site is a first step, but there is still a lot to do. Here's a quick list of what's next:
 
 <ul class="smd-ul">
-<li>Import comments from the previous website version;</li>
-<li>Implement <a href="https://indieweb.org/Webmention" title="Read about Webmentions on IndieWeb" target="_blank" rel="noopener">Webmentions</a>;</li>
-<li>Join <a href="https://indieweb.org/" title="Go to the IndieWeb website" target="_blank" rel="noopener">Indieweb</a>.</li>
+<li>import comments from the previous website version;</li>
+<li>implement <a href="https://indieweb.org/Webmention" title="Read about Webmentions on IndieWeb" target="_blank" rel="noopener">Webmentions</a>;</li>
+<li>join <a href="https://indieweb.org/" title="Go to the IndieWeb website" target="_blank" rel="noopener">Indieweb</a>.</li>
 </ul>
 
 Stop by again soon, I will tell you more. 
