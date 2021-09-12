@@ -21,6 +21,8 @@
   ],
   "scripts": {
     "serve": "jekyll serve --livereload",
+    "servedraft": "jekyll serve --drafts --livereload",
+    "servefuture": "jekyll serve --drafts --future --livereload",
     "start": "npm-run-all --parallel watch",
     "bundlewatch": "bundlewatch --config .bundlewatch.config.json",
     "css-purge": "purgecss --css \"assets/css/smd.css\" --content \"_site/**/*.html\" --safelist active --output \"assets/css\"",
