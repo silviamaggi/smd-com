@@ -3,7 +3,7 @@ layout: portfolio-content
 title: Turtle nest monitoring app
 featured-post: false
 date: 2021-08-09T18:14:09.000Z
-last_modified_at: '2021-09-09T12:43:09.257Z'
+last_modified_at: '2021-09-12T12:20:54.618Z'
 description: Scientists need to monitor turtle nests and record their status to measure the effectiveness of strategies to protect the aquatic megafauna and their habitats.
 excerpt: Scientists need to monitor turtle nests and record their status to measure the effectiveness of strategies to protect the aquatic megafauna and their habitats.
 featured-image: feat-turtle-nest-monitoring-app-featured-img.jpg
@@ -39,7 +39,7 @@ The scientist adds the nest:
 <li>The scientist activates the notifications to be ready to go and record the status of the eggs.</li>
 </ul>
 
-{% include pattern-figure.html image="/assets/images/Siren-add-nest_wireframes.png" caption="Add nest interaction wireframes" width="1400" height="621" %}
+{% include pattern-figure.html image="/assets/images/Siren-add-nest_wireframes.jpg" caption="Add nest interaction wireframes" width="1400" height="722" %}
 
 ### Notifications interaction
 
@@ -51,7 +51,7 @@ After receiving the notification, the scientist can fill in the latest data reco
 <li>Number of eggs dead</li>
 </ul>
 
-{% include pattern-figure.html image="/assets/images/Siren-notifications_wireframes.png" caption="Notifications interaction wireframes" width="1400" height="594" %}
+{% include pattern-figure.html image="/assets/images/Siren-notifications_wireframes.jpg" caption="Notifications interaction wireframes" width="1400" height="722" %}
 
 ## Prototype
 
