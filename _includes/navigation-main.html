@@ -1,5 +1,7 @@
 <nav class="navigation-main mt-4 mb-4" role="navigation" aria-label="Primary">
-  {% for item in site.data.nav-site -%}
-  <a href="{{ item.link }}" class="nav-link fs-4 text-decoration-none py-2{% if page.url contains item.link %} smd-current{% endif %}">{{ item.name }}</a>
-  {% endfor -%}
+  <ul class="navbar-nav w-50">
+    {% for item in site.data.nav-site -%}
+    <li class="nav-item d-inline-block"><a href="{{ item.link }}" class="nav-link fs-4 text-decoration-none py-2{% if page.url contains item.link %} smd-current{% endif %}">{{ item.name }}</a></li>
+    {% endfor -%}
+  </ul>
 </nav>

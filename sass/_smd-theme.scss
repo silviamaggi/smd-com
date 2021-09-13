@@ -60,6 +60,16 @@ h4 {
 #{$site-prefix}-current {
   color: $link-d-40;
 }
+#{$site-prefix}-right-arrow::after {
+  display: inline-block;
+  content: '\203a';
+  padding-left: 2px;
+}
+#{$site-prefix}-left-arrow::before {
+  display: inline-block;
+  content: '\2039';
+  padding-right: 2px;
+}
 
 
 // ------------------------------------------------ \\
