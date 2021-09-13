@@ -538,7 +538,6 @@ hr {
 
 // Default call-to-action
 .btn-smd-cta {
-  @extend #{$site-prefix}-tx-shadow;
   background-color: $link-l-60 !important;
   color: $black;
   border-bottom: 2px solid $link-l-20;
