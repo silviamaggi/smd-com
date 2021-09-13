@@ -8,8 +8,6 @@ permalink: /privacy-policy/
 redirect_from:
   - /it/privacy-policy/
 ---
-# {{ page.title }}
-
 <h2 class="display-6">Who I am</h2>
 
 <p>I am Silvia Maggi, and this is my personal website. 

@@ -6,8 +6,6 @@ last_modified_at: '2021-09-12T14:55:06.859Z'
 description: null
 permalink: /colophon/
 ---
-# {{ page.title }}
-
 Designed by Silvia Maggi.<br>
 Developed by Silvia Maggi and [Simone Silvestroni](https://minutestomidnight.co.uk){:target="_blank" rel="noopener"}.
 

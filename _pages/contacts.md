@@ -13,8 +13,6 @@ redirect_from:
 ---
 {%- assign socialnav = site.data.nav-social -%}
 
-# {{ page.title }}
-
 <p class="lead">Are you looking for help with UX, responsive web design, information architecture? <strong>I&rsquo;m available for hire</strong> — <a href="mailto:contacts@silviamaggidesign.com" title="Email me">let&rsquo;s get in touch</a>.</p>
 
 Have a question, or simply want to start a conversation? Feel free to connect on <a href="{{ socialnav[0].link }}" target="_blank" rel="noopener">{{ socialnav[0].name }}</a>, <a href="{{ socialnav[2].link }}" target="_blank" rel="noopener">{{ socialnav[2].name }}</a> and <a href="{{ socialnav[1].link }}" target="_blank" rel="noopener">{{ socialnav[1].name }}</a>.

@@ -89,6 +89,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-archives
-
-  # Server
-host: 0.0.0.0

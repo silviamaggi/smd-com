@@ -11,7 +11,10 @@
 // $GENERAL
 // ------------------------------------------------ //
 html {
-  border: 1rem solid $white;
+  border: 0.3rem solid $white;
+  @include media-breakpoint-up(md) {
+    border: 1rem solid $white;
+  }
 }
 body {
   background: $background-l-80 url('/assets/images/smd-bg-texture.jpg') no-repeat bottom left;
@@ -35,6 +38,33 @@ main {
 
 
 // ------------------------------------------------ \\
+// $RESPONSIVE
+// ------------------------------------------------ //
+@include media-breakpoint-down(md) {
+  .smd-logo {
+    width: 200px;
+  }
+
+  .navigation-main {
+    position: fixed;
+    z-index: 9000;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    border-left: 0.3rem solid $white;
+    border-right: 0.3rem solid $white;
+    border-bottom: 0.3rem solid $white;
+    background-color: $background-d-70;
+
+    a {
+      color: $white;
+    }
+  }  
+}
+
+
+// ------------------------------------------------ \\
 // $HEADINGS
 // ------------------------------------------------ //
 
@@ -54,6 +84,7 @@ h4 {
 // ------------------------------------------------ \\
 // $NAVIGATION
 // ------------------------------------------------ //
+
 .navigation-main {
   font-family: $headings-font-family;
 }
@@ -99,15 +130,16 @@ p {
 // Blockquote
 blockquote {
   @extend .blockquote;
-  width: 80%;
   margin-top: $spacer*2;
   padding-left: $spacer*1.25;
   border-left: 2px solid $background-d-10;
+  line-height: 1.3;
+  @include media-breakpoint-up(md) {
+    width: 80%;
+  }
   p {
     display: inline;
     text-indent: 0;
-    line-height: 1.4;
-
     &:first-child {
       margin-bottom: $spacer;
     }
@@ -142,6 +174,12 @@ cite {
   }
 }
 
+.previous-next-post-links {
+  a {
+    line-height: 1.3;
+  }
+}
+
 // Stretched link (TwBs utility class - redefined)
 .stretched-link {
   @extend %smd-link;
@@ -172,8 +210,13 @@ cite {
   
   // Entry block paragraphs: justified and indented
   p {
-    text-align: justify;
     margin-bottom: 0;
+    line-height: 1.3;
+    @include media-breakpoint-up(xxl) {
+      text-align: justify;
+      line-height: 1.5;
+    }
+
     &:not(.lead) {
       // First paragraph after interruption not indented
       & + p {
@@ -259,18 +302,15 @@ cite {
 // ------------------------------------------------ \\
 // $PORTFOLIO
 // ------------------------------------------------ //
-
 .container-portfolio {
-  @include make-container();
-  width: 800px;
+  @include media-breakpoint-up(md) {
+    @include make-container();
+    width: 800px;
+  }
 }
 #{$site-prefix}-portfolio-quote {
   width: rfs-fluid-value(350px) !important;
 }
-// #{$site-prefix}-portfolio-intro {
-//   font-size: rfs-fluid-value(16px) !important;
-//   text-align: left !important;
-// }
 .layout-portfolio-content {
   h2 { @extend .display-5; }
   h3 { @extend .fs-3; }
@@ -296,7 +336,7 @@ cite {
 
   &-box {
     position: relative;
-    height: rfs-fluid-value(48px);
+    height: 3rem;
     border-radius: 4px;
 
     &::before {
@@ -313,29 +353,29 @@ cite {
 
     &-title {
       width: 100%;
-      height: rfs-fluid-value(48px);
-      line-height: rfs-fluid-value(48px);
-      padding: 0 rfs-fluid-value(20px);
+      height: 3rem;
+      line-height: 3rem;
+      padding: 0 1.5rem;
       display: inline-block;
       background-color: $background-l-60;
       cursor: pointer;
       user-select: none;
 
       h4 {
-        line-height: rfs-fluid-value(48px);
+        line-height: 3rem;
       }
     }
 
     &-content {
       width: 100%;
-      padding: rfs-fluid-value(12px) rfs-fluid-value(24px) rfs-fluid-value(24px) rfs-fluid-value(24px);
+      padding: 0.75rem 1.5rem 1.5rem 1.5rem;
       display: none;
       background: $white;
     }
 
     &-close {
       position: absolute;
-      height: rfs-fluid-value(48px);
+      height: 3rem;
       width: 100%;
       top: 0;
       left: 0;
@@ -361,15 +401,15 @@ input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-clos
   display: inline-block;
 }
 #{$site-prefix}-accordion-arrows #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-title {
-  padding-left: rfs-fluid-value(44px);
+  padding-left: 2.75rem;
   width: 100%;
 }
 #{$site-prefix}-accordion-arrows #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-title:before {
   position: absolute;
   display: block;
   content: '\203a';
-  font-size: rfs-fluid-value(24px);
-  left: rfs-fluid-value(20px);
+  font-size: 1.5rem;
+  left: 1.25rem;
   top: -2px;
   color: $background-d-40;
   transition: all .2s ease-in-out;
@@ -411,6 +451,11 @@ img         { max-width: 100%; height: auto; }
 figure      { margin: auto; }
 figcaption  { @extend .initialism; }
 .comp-logos { width: 130px; height: auto; }
+#{$site-prefix}-logo {
+  svg {
+    max-width: 100%;
+  }
+}
 
 // Horizontal line spacer
 hr {

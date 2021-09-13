@@ -2,28 +2,28 @@
 layout: portfolio-single
 ---
 {% unless page.collection == 'sideprojects' %}
-<div class="container mt-3 mb-5 pb-4">
+<div class="container mt-3 mb-md-5 pb-4">
   <div class="row gx-5">
-    <div class="col-4 text-center">
+    <div class="col-md-4 mb-5 mb-md-0 text-center">
       <h2 class="fs-2 mt-0">Problem</h2>
       <p class="fs-6 text-start">{{ page.problem }}</p>
     </div> 
-    <div class="col-4 text-center">
+    <div class="col-md-4 mb-5 mb-md-0 text-center">
       <h2 class="fs-2 mt-0">Solution</h2>
       <p class="fs-6 text-start">{{ page.solution }}</p>
     </div> 
-    <div class="col-4 text-center">
+    <div class="col-md-4 text-center">
       <h2 class="fs-2 mt-0">My role</h2>
       <p class="fs-6 text-start">{{ page.myrole }}</p>
     </div>
   </div>
 </div>
 {% endunless %}
-<div class="container-portfolio">
+<div class="container container-portfolio">
   <div class="row">
     <div class="col mb-5">
       {%- comment -%}TOC accordion{%- endcomment -%}
-      <nav class="smd-accordion smd-accordion-arrows w-50 py-4">
+      <nav class="smd-accordion smd-accordion-arrows pt-3">
         <input type="radio" name="accordion" id="smd-accordion-1" class="visually-hidden" />
         <div class="smd-accordion-box">
           <label class="smd-accordion-box-title" for="smd-accordion-1"><h4 class="my-0">Table of contents</h4></label>

@@ -1,9 +1,9 @@
-<section class="featured-posts my-5 pt-3">
+<section class="featured-posts my-2 my-md-5 pt-3">
 
   <h3 class="text-center display-5 smd-mask-texture mb-5">Highlights</h3>
 
     <div class="card-group">
-      <div class="row row-cols-3 g-4">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
 
       {%- assign postFeat = site.posts | where: 'featured-post', 'true' -%}
       {%- assign caseFeat = site.casestudies | where: 'featured-post', 'true' -%}
@@ -12,7 +12,7 @@
       {% for post in featured reversed limit:3 %}
         <div class="col smd-transition-opacity-03s">
           <div class="card h-100 smd-transition-border-03s">
-            <img src="{{ site.url }}/assets/images/highlights/highlighted-{%- if postFeat -%}{{ post.featured-image }}{%- elsif caseFeat -%}{{ casestudy.featured-image }}{%- endif -%}" class="card-img-top" alt="{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}" width="300" height="169">
+            <img class="card-img-top" src="{{ site.url }}/assets/images/highlights/highlighted-{%- if postFeat -%}{{ post.featured-image }}{%- elsif caseFeat -%}{{ casestudy.featured-image }}{%- endif -%}" alt="{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}" width="300" height="169">
             <div class="card-body">
               <h4 class="mb-3">{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}</h4>
               <div class="post-meta mb-3">

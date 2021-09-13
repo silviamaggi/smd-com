@@ -27,12 +27,12 @@ Y88b  d88P 888   "   888 888  .d88P
 </head>
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
   <main>
-    <div class="container">
-      <div class="row gx-5">
-        <div class="col-4">
+    <div class="container-lg">
+      <div class="row gx-md-5">
+        <div class="col-md-4">
           {% include site-header.html %}
         </div>
-        <div class="col-8">
+        <div class="col-md-8">
           {{ content }}
         </div>
       </div>
