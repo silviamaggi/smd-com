@@ -7,3 +7,5 @@ assets/css/smd.css.map
 assets/css/smd.min.css
 assets/css/smd.min.css.map
 .jekyll-metadata
+Gemfile.lock
+package-lock.json
