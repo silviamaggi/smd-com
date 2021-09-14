@@ -173,7 +173,19 @@ cite {
     text-decoration-color: $link-hover-decoration;
   }
 }
-
+// Tag & cats results link in search page + 404 page
+.page-page-not-found a:not(.btn),
+.page-search a:not(.btn) {
+  &[href^="/tag/"] {
+    text-transform: capitalize;
+    &::before {
+      content: 'Tag Archive: ';
+    }
+  }
+  &[href^="/category/"]::before {
+    content: 'Category Archive: ';
+  }
+}
 .previous-next-post-links {
   a {
     line-height: 1.3;
@@ -234,19 +246,6 @@ cite {
   // Entry block link
   a:not(.btn) {
     @extend %smd-link;
-
-    // Tag results link in search page
-    &[href^="/tag/"] {
-      text-transform: capitalize;
-      &::before {
-        content: 'Archive: ';
-      }
-    }
-    
-    // Category results link in search page
-    &[href^="/category/"]::before {
-      content: 'Archive: ';
-    }
   }
 
   // Italic

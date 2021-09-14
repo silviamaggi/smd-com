@@ -21,7 +21,7 @@
               <p class="card-text small">{%- if postFeat -%}{{ post.excerpt | markdownify | strip_html }}{%- elsif caseFeat -%}{{ casestudy.excerpt | markdownify | strip_html }}{%- endif -%}</p>
             </div>
             <div class="card-footer text-center pb-3">
-              <a class="stretched-link" href="{{ site.url }}{{ post.url }}" title="Read: {{ post.title }}">Read {% if post.url contains '/portfolio/' -%}the case study{% else -%}the post{%- endif -%}</a> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg>
+              <a class="stretched-link" href="{{ post.url }}" title="Read: {{ post.title }}">Read {% if post.url contains '/portfolio/' -%}the case study{% else -%}the post{%- endif -%}</a> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg>
             </div>
           </div>
         </div>

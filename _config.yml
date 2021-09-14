@@ -1,3 +1,5 @@
+baseurl: ""
+
 # SEO
 title: Silvia Maggi Design
 tagline: UX Designer
@@ -89,3 +91,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-archives
+
+#host: '0.0.0.0'
