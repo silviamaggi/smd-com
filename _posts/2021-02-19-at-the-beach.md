@@ -9,6 +9,7 @@ tags:
   - ravenna
 description: 'People, face masks, sun, mild temperatures. Pictures I took today at the beach in Marina di Ravenna.'
 featured-image: feat-at-the-beach-silviamaggi.jpg
+carousel: true
 redirect_from:
   - /it/fotografia/in-spiaggia/
 ---

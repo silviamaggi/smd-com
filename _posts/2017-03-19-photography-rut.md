@@ -12,6 +12,7 @@ tags:
 description: 'Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.'
 excerpt: 'Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.'
 featured-image: feat-20170319-img_4269.jpg
+carousel: true
 redirect_from:
   - /creativity/photography-rut-and-little-things-in-my-garden/
   - /creativity/photography-rut/
