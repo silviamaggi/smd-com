@@ -2,30 +2,30 @@
 layout: page
 title: Colophon
 date: '2021-08-13 15:50'
-last_modified_at: '2021-09-12T14:55:06.859Z'
+last_modified_at: '2021-09-15 20:25:24'
 description: null
 permalink: /colophon/
 ---
 Designed by Silvia Maggi.<br>
-Developed by Silvia Maggi and [Simone Silvestroni](https://minutestomidnight.co.uk){:target="_blank" rel="noopener"}.
+Developed by Silvia Maggi and [Simone Silvestroni](https://minutestomidnight.co.uk){:target="_blank" rel="noopener" title="Go to Minutes to Midnight's website"}.
 
 ## Tools
 
 Built with:
 
 <ul class="smd-ul">
-<li><a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a></li>
-<li><a href="https://sass-lang.com/" target="_blank" rel="noopener"><abbr title="Syntactically Awesome Style Sheets">SASS</abbr></a></li>
-<li><a href="https://getbootstrap.com/" target="_blank" rel="noopener">Bootstrap 5</a></li>
-<li><a href="https://nodejs.org/" target="_blank" rel="noopener">Node.js</a></li>
-<li><a href="https://github.com" target="_blank" rel="noopener">GitHub</a></li>
+<li><a href="https://jekyllrb.com/" target="_blank" rel="noopener" title="Go to the Jekyll website">Jekyll</a></li>
+<li><a href="https://sass-lang.com/" target="_blank" rel="noopener" title="Go to the Sass website"><abbr title="Syntactically Awesome Style Sheets">SASS</abbr></a></li>
+<li><a href="https://getbootstrap.com/" target="_blank" rel="noopener" title="Go to the Bootstrap website">Bootstrap 5</a></li>
+<li><a href="https://nodejs.org/" target="_blank" rel="noopener" title="Go to the Node.js website">Node.js</a></li>
+<li><a href="https://github.com" target="_blank" rel="noopener" title="Go to the GitHub website">GitHub</a></li>
 </ul>
 
-Search module by [David Darnes](https://github.com/daviddarnes){:target="_blank" rel="noopener"}.
+Search module by [David Darnes](https://github.com/daviddarnes){:target="_blank" rel="noopener" title="Go to his GitHub page"}.
 <br>
-Watercolor texture by [Alexandra M&aacute;rquez](https://www.freepik.com/vectors/background/){:target="_blank" rel="noopener"}.
+Watercolor texture by [Alexandra M&aacute;rquez](https://www.freepik.com/vectors/background/){:target="_blank" rel="noopener" title="View the image on Freepik"}.
 <br>
-Hosted on [CloudFlare Pages](https://pages.cloudflare.com/){:target="_blank" rel="noopener"}.
+Hosted on [CloudFlare Pages](https://pages.cloudflare.com/){:target="_blank" rel="noopener" title="Go to the Cloudflare website"}.
 
 ## Copyright
 
