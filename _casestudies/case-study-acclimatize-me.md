@@ -30,7 +30,7 @@ myrole: "Solo project, where I explored the process from finding the users’ ne
 ## Proto-persona
 
 <div class="clearfix">
-{% include pattern-figure.html image="/assets/images/acclimatize.me-wanderer-jill.png" caption="Wanderer Jill" class="float-md-start mb-lg-5 mb-sm-3 me-md-4 text-center" width="150" height="150" %}
+{% include pattern-figure.html image="/assets/images/acclimatize.me-wanderer-jill.png" caption="Wanderer Jill" class="float-md-start mb-3 mb-lg-5 me-md-4 text-center" width="150" height="150" %}
 <p>Jill enjoys travelling and often plans a weekend away. Whether to ski or to relax on a beach, <strong>she worries her trips will be ruined</strong> if she doesn’t know enough about her destination. It happened a few times already.<br>She is used to spending time researching a destination, but it feels like <em>only local people are prepared for certain types of events</em>. As her job keeps her increasingly busy, Jill would love to find a smart way to stay in the know.</p>
 </div>
 

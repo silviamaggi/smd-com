@@ -15,6 +15,8 @@ tools:
   - Final Cut Pro X
   - Fujifilm X-T20
 ---
+## The story
+
 While working on his debut solo album, my husband [Simone](https://minutestomidnight.co.uk/){:target="_blank" rel="noopener"} embarked on an emotional journey. He retraced his grandfather’s steps in Berlin, where he was imprisoned for four years during World War II.
 
   > *After 1989 is the story of how a young man escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.*
