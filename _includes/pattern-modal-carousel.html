@@ -7,22 +7,20 @@
       <div class="modal-body align-items-stretch px-0 py-0">
         <div id="smdImgGalleryCarousel{{ include.id }}" class="carousel slide" data-bs-ride="carousel" data-bs-interval="false">
           <div class="carousel-inner">
-
-      {%- for image in site.static_files -%}
-      {%- capture galleryPath -%}{{ include.folder }}{%- endcapture -%}
-        {%- unless image.path contains 'thumb-' -%}
-          {%- if image.path contains galleryPath -%}
-          {%- assign filenameparts = image.path | split: "/" -%}
-          {%- assign imgCaption = filenameparts | last | replace: image.extname,'' | replace: '1-', '' | replace: '-',' ' | replace: '_',' ' -%}
-            <div class="carousel-item{%- if image.path contains '1-'-%} active{%- endif -%}">
+            {%- for image in site.static_files -%}
+            {% capture galleryPath %}{{ include.folder }}{% endcapture %}
+            {%- assign filenameparts = image.path | split: "/" -%}
+            {%- assign imgCaption = filenameparts | last | replace: image.extname,'' | replace: '1-', '' | replace: '-',' ' | replace: '_',' ' -%}
+            {%- unless image.path contains 'thumb-' -%}
+            {%- if image.path contains galleryPath -%}
+            <div class="carousel-item{% if image.path contains '1-'%} active{% endif %}">
               <div class="d-flex justify-content-center">
                 <img loading="lazy" src="{{ image.path }}" class="img-slide smd-img-gallery-picture" alt="{{ imgCaption | capitalize }}" title="{{ imgCaption | capitalize }}">
               </div>
             </div>
-          {%- endif -%}
-        {%- endunless -%}
-      {%- endfor -%}
-
+            {%- endif -%}
+            {%- endunless -%}
+            {%- endfor -%}
             <button class="carousel-control-prev" type="button" data-bs-target="#smdImgGalleryCarousel{{ include.id }}" data-bs-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Previous</span>
