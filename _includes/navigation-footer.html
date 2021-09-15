@@ -1,4 +1,4 @@
-<nav class="mb-0 text-center text-md-start" role="navigation" aria-label="Secondary">
+<nav class="mb-0 text-center text-md-start" aria-label="Secondary">
   {% for item in site.data.nav-footer -%}
   <a class="smd-serif fs-5 lh-lg lh-md-base px-2 text-decoration-none{% if page.url == item.link %} smd-current{% endif %}" href="{{ item.link }}" title="{{ item.name }}">{{ item.name }}</a>
   {% endfor -%}

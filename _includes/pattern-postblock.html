@@ -2,7 +2,7 @@
   {% for category in categories %}
   <span class="p-category btn-label-smd btn-label-smd-bg d-inline-block initialism fw-bold me-1 rounded"><strong>{{ category | upcase | replace:"-"," " }}</strong></span>
   {% endfor %}
-  <h{% if page.url == '/' %}4{% else %}2{% endif %} class="{% if page.url == '/' %}h2 {% endif %}p-name fs-1 mt-2 mb-0"><a class="text-decoration-none" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+  <h{% if page.url == '/' %}4{% else %}2{% endif %} class="{% if page.url == '/' %}h2 {% endif %}p-name fs-1 mt-2 mb-0"><a class="text-decoration-none" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h{% if page.url == '/' %}4{% else %}2{% endif %}>
   <div class="post-meta mt-3">
     {% include post-meta.html date=page %}{% if page.url == '/' %}&nbsp;/&nbsp;{% endif %}{% include pattern-readingtime.html content=post.content -%}
   </div>
