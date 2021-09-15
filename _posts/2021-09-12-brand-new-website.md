@@ -1,7 +1,7 @@
 ---
 title: Brand new website
 date: 2021-09-12
-last_modified_at: '2021-09-15 18:38:25'
+last_modified_at: '2021-09-15 20:05:27'
 featured-post: true
 categories:
   - Design
@@ -62,7 +62,7 @@ Deploying the site is a first step, but there is still work to do, and the most 
 <ul class="smd-ul">
 <li>implement <a href="https://indieweb.org/Webmention" title="Read about Webmentions on IndieWeb" target="_blank" rel="noopener">Webmentions</a>;</li>
 <li>join <a href="https://indieweb.org/" title="Go to the IndieWeb website" target="_blank" rel="noopener">Indieweb</a>;</li>
-<li>set up <abbr title="Publish (on your) Own Site, Syndicate Elsewhere">POSSE</abbr>, to post here first, and <a href="https://indieweb.org/POSSE" target="_blank" rel="noopener">syndicate elsewhere</a>.</li>
+<li>set up <abbr title="Publish (on your) Own Site, Syndicate Elsewhere">POSSE</abbr>, to post here first, and <a href="https://indieweb.org/POSSE" target="_blank" rel="noopener" title="Read about POSSE on the IndieWeb website">syndicate elsewhere</a>.</li>
 </ul>
 
 Stop by again soon, I will tell you more. 

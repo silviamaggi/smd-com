@@ -1,6 +1,6 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2021-09-15 18:15:18'
+last_modified_at: '2021-09-15 19:56:39'
 featured-post: true
 categories:
   - Design
@@ -49,7 +49,7 @@ The Epilepsy Foundation of America issued a warning and indicated what might be 
 
 The new branding is colourful: there are at least three bright accent colours and two others that are more neutral. The layout elements have dark solid borders, while the background is white. People tend to spend a lot of time looking for patterns and instructions: arguably, a less contrasted interface might have worked better. 
 
-To avoid causing problems, I’ve created a [separate page](/how-rebranding-cost-ravelry-the-trust-of-their-community-images){:target="Visit the page to see the interface"} to **show a couple of screenshots of the redesigned interface**.
+To avoid causing problems, I’ve created a [separate page](/how-rebranding-cost-ravelry-the-trust-of-their-community-images){:title="Visit the page to see the interface"} to **show a couple of screenshots of the redesigned interface**.
 
 ### The icons
 

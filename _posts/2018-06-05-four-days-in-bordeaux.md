@@ -34,7 +34,7 @@ One of the many things I noticed is people entering a restaurant or a cafe and s
 
 ## Le Miroir d’Eau
 
-Located between the Garonne and Place de la Bourse, [Le Miroir d’Eau](https://youtu.be/0s8RIkpMf8Q){:target="_blank" rel="noopener" title="Watch a video of the 'Miroir d'Eau' fountain in action"} is a fountain that creates special effects with water and artificial misting against the stunning 18th century’s architecture of the square. We admired the reflections and refreshing mist just like anyone else: it’s remarkable how something so simple, yet ingenious, can entertain and amuse everyone — children and adults alike.
+Located between the Garonne and Place de la Bourse, [Le Miroir d’Eau](https://youtu.be/0s8RIkpMf8Q){:target="_blank" rel="noopener" title="Watch a video of the 'Miroir d'Eau' fountain in action on YouTube"} is a fountain that creates special effects with water and artificial misting against the stunning 18th century’s architecture of the square. We admired the reflections and refreshing mist just like anyone else: it’s remarkable how something so simple, yet ingenious, can entertain and amuse everyone — children and adults alike.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-four-day-in-bordeaux/gallery-3/" id="3" %}
 

@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 10. Inclusive design'
-last_modified_at: '2021-09-15 18:16:17'
+last_modified_at: '2021-09-15 19:57:12'
 featured-post: false
 categories:
   - Design Digested
@@ -26,7 +26,7 @@ redirect_from:
 
 ## Why is designing for inclusion still treated as optional?
 
-Karishma Patel takes us through her journey to integrate accessibility and inclusive design in UX work, and the barriers she encouters. She shares valuable resources and, if you’re interested in more, check the links at the bottom of my article _[How Rebranding Cost Ravelry the Trust of Their Community](/design/ravelry-rebranding/){:title="Read the blog post"}_.
+Karishma Patel takes us through her journey to integrate accessibility and inclusive design in UX work, and the barriers she encouters. She shares valuable resources and, if you’re interested in more, check the links at the bottom of my article _[How Rebranding Cost Ravelry the Trust of Their Community](/design/ravelry-rebranding/){:title="Read the article on my website"}_.
 
 <p class="detached">🔗 <a href="https://uxdesign.cc/why-is-designing-for-inclusion-still-treated-as-optional-c3f9fd759c03" target="_blank" rel="noopener">Read the article</a> (on Medium)</p>
 
