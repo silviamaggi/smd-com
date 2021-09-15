@@ -1,3 +1,4 @@
+host: "localhost"
 baseurl: ""
 
 # SEO
@@ -91,5 +92,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-archives
-
-#host: '0.0.0.0'
