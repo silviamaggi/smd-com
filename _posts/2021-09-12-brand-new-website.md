@@ -37,7 +37,7 @@ Every time I separated my passions, I ended up not writing, or not taking photos
 
 ## Spark joy
 
-Moving the content from WordPress to Jekyll — and within a new layout — meant every post, photo, case study, underwent a **major overhaul**. Helped by Simone's expertise as an editor, I kept what still made sense, rewrote what didn't look good, and found a more relaxed way to emphasise text. Featured images are missing from most of my posts: there is one when it has meaning, not for the sake of <abbr title="Search Engine Optimization">SEO</abbr>. 
+Moving the content from WordPress to Jekyll — and within a new layout — meant every post, photo, case study, underwent a overhaul. Helped by Simone's expertise as an editor, I kept what still made sense, rewrote what didn't look good, and found a more relaxed way to emphasise text. Featured images are missing from most of my posts: there is one when it has meaning, not for the sake of <abbr title="Search Engine Optimization">SEO</abbr>. 
 
 My database on WordPress ballooned, so I seized the opportunity to delete useless tags and categories, reorganising the information architecture of the blog. If you like numbers, I used to have <code>303</code> tags! Most of which were, of course, barely used. You can find the renewed taxonomy in the footer menu, under [Archive](/archive/).
 
