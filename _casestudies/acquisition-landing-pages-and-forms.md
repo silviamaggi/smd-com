@@ -3,7 +3,7 @@ layout: portfolio-content
 title: UniCredit acquisition landing pages and forms
 featured-post: true
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2021-09-12 21:38:30'
+last_modified_at: '2021-09-15 18:50:49'
 description: UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 carousel: true
@@ -19,7 +19,7 @@ skills:
 tools:
   - Sketch app
   - Responsive framework
-problem: '<a href="https://unicredit.it/" target="_blank" rel="noopener">UniCredit</a>, a leading European commercial bank headquartered in Italy, wants to leverage the increasing use of smartphones to reach a wider range of clients. Their acquisition landing pages and forms <strong>look outdated and not mobile friendly</strong>. An overhaul is essential for the bank to remain competitive.'
+problem: '<a href="https://unicredit.it/" target="_blank" rel="noopener" title="Go to the Unicredit Bank website">UniCredit</a>, a leading European commercial bank headquartered in Italy, wants to leverage the increasing use of smartphones to reach a wider range of clients. Their acquisition landing pages and forms <strong>look outdated and not mobile friendly</strong>. An overhaul is essential for the bank to remain competitive.'
 solution: 'Within a single codebase, we created custom experiences for smartphone, tablet and desktop to replace the existing pages and forms. The goal was to increase their trustworthiness and conversion rates.'
 myrole: 'I <strong>led the project</strong> and worked on the UX and final designs. My colleagues at UI Farm provided valuable feedback, collaborating to devise the best content strategy. Their expertise completed the project with state-of-the-art frontend development.'
 ---
@@ -27,9 +27,9 @@ myrole: 'I <strong>led the project</strong> and worked on the UX and final desig
 
 > *In 2013, only 37% of users used their smartphones to go online, while 84% declared to have such a habit in 2017. [...] Between 2013 and 2018, purchases via smartphone increased from barely 6% to over 26% of total online purchase in Italy.*
 >
-> <cite>**Source**: Statista Research Department <a href="https://www.statista.com/statistics/800840/smartphone-and-internet-usage-in-italy/" target="_blank" rel="noopener">1</a> and <a href="https://www.statista.com/statistics/579435/incidence-rate-of-mobile-devices-on-online-purchases-by-type-in-italy/" target="_blank" rel="noopener">2</a></cite>
+> <cite>**Source**: Statista Research Department <a href="https://www.statista.com/statistics/800840/smartphone-and-internet-usage-in-italy/" target="_blank" rel="noopener" title="Go to the statistics page">1</a> and <a href="https://www.statista.com/statistics/579435/incidence-rate-of-mobile-devices-on-online-purchases-by-type-in-italy/" target="_blank" rel="noopener" title="Go to the statistics page">2</a></cite>
 
-It’s 2013. In Italy, a small percentage of people uses smartphones to go online; even fewer to make purchases. UniCredit sees the potential of mobile and wants to invest to widen their customer base, reach younger people and innovate. To do so, they contacted [UI Farm](https://uifarm.co.uk/){:target="_blank" rel="noopener"}, the London-based web agency I co-founded that specialised in device-agnostic responsive design. We focused on why their potential clients were less likely to open a bank account from a mobile device:
+It’s 2013. In Italy, a small percentage of people uses smartphones to go online; even fewer to make purchases. UniCredit sees the potential of mobile and wants to invest to widen their customer base, reach younger people and innovate. To do so, they contacted [UI Farm](https://uifarm.co.uk/){:target="_blank" rel="noopener" title="Go to the UI Farm website"}, the London-based web agency I co-founded that specialised in device-agnostic responsive design. We focused on why their potential clients were less likely to open a bank account from a mobile device:
 
 <ul class="smd-ul">
 <li>slow technology adoption in an ageing society;</li>
@@ -128,7 +128,7 @@ The landing pages had been received well and **boosted conversions**. However, t
 
 > *The number of users of banking services such as home and corporate banking steadily increased, growing from approximately 30.4 million in 2010 to nearly 58 million in 2019.*
 >
-> <cite><strong>Source</strong>: <a href="https://www.statista.com/statistics/737981/number-of-home-and-corporate-banking-users-in-italy/" class="rank-math-link" target="_blank" rel="noopener">Statista Research Department</a></cite>
+> <cite><strong>Source</strong>: <a href="https://www.statista.com/statistics/737981/number-of-home-and-corporate-banking-users-in-italy/" class="rank-math-link" target="_blank" rel="noopener" title="Go to the statistics page">Statista Research Department</a></cite>
 
 This project proved how important culture is when designing. Getting to know **the context of use**, how a population responds to changes and the reasons behind behaviours is paramount to avoid costly mistakes.
 
@@ -140,7 +140,7 @@ This project proved how important culture is when designing. Getting to know **t
 
 ### Further information
 
-🔗 Read about [UI Farm’s workflow for the multi-device Web](https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b){:target="_blank" rel="noopener"}
+🔗 Read about [UI Farm’s workflow for the multi-device Web](https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b){:target="_blank" rel="noopener" title="Read the article on Medium"}
 
 ## Contact
 

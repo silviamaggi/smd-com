@@ -18,13 +18,13 @@ tools:
 ---
 ## The story
 
-While working on his debut solo album, my husband [Simone](https://minutestomidnight.co.uk/){:target="_blank" rel="noopener"} embarked on an emotional journey. He retraced his grandfather’s steps in Berlin, where he was imprisoned for four years during World War II.
+While working on his debut solo album, my husband [Simone](https://minutestomidnight.co.uk/){:target="_blank" rel="noopener" title="Go to Minutes to Midnight website"} embarked on an emotional journey. He retraced his grandfather’s steps in Berlin, where he was imprisoned for four years during World War II.
 
   > *After 1989 is the story of how a young man escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.*
   >
-  > <cite><a href="https://minutestomidnight.co.uk/after-1989-a-trip-to-freedom/" target="_blank" rel="noopener">Minutes to Midnight</a></cite>
+  > <cite><a href="https://minutestomidnight.co.uk/after-1989-a-trip-to-freedom/" target="_blank" rel="noopener" title="Go to 'After 1989: A trip to Freedom' page">Minutes to Midnight</a></cite>
 
-I was beside him all the way, including the visits to [Sachsenhausen concentration camp](https://www.sachsenhausen-sbg.de/en/){:target="_blank" rel="noopener"}. The photos and videos I took were both for private documentation and for the album’s launch. Before taking different professional paths, Simone and I used to work together, and **having a project where to converge our skills** was terrific.
+I was beside him all the way, including the visits to [Sachsenhausen concentration camp](https://www.sachsenhausen-sbg.de/en/){:target="_blank" rel="noopener" title="Go to the Sachsenhausen Concentration Camp website"}. The photos and videos I took were both for private documentation and for the album’s launch. Before taking different professional paths, Simone and I used to work together, and **having a project where to converge our skills** was terrific.
 
 ## The journey
 
@@ -50,7 +50,7 @@ At the end of the song, we can hear that *Berlin has fallen*. A few days earlier
 
 I love all the songs in the album, but _Love Field_ holds a special place in my heart. It is musically beautiful, and its story is captivating. The world was shocked to learn that JFK was killed, an **event that altered the course of history**. Many times Simone imagined what would be like to be in the shoes of the people involved.
 
-By the time I made this video, I had acquired confidence and proficiency with Final Cut Pro, thus was able create something more sophisticated. Most of the footage comes from the [JFK Library](https://www.jfklibrary.org/){:target="_blank" rel="noopener"}, which hosts a vast collection of photos, film, audio and documents. Initially, I used copyrighted material, and was dismayed when I realised that I had to start from scratch. Luckily, the JKF Library footage is mesmerizing as well as free to use.
+By the time I made this video, I had acquired confidence and proficiency with Final Cut Pro, thus was able create something more sophisticated. Most of the footage comes from the [JFK Library](https://www.jfklibrary.org/){:target="_blank" rel="noopener" title="Go to the JFK Libray website"}, which hosts a vast collection of photos, film, audio and documents. Initially, I used copyrighted material, and was dismayed when I realised that I had to start from scratch. Luckily, the JKF Library footage is mesmerizing as well as free to use.
 
 What initially was a _faux pas_, turned out to be what I needed to convey the message: it now **felt more personal**, closer to their protagonists, from angles rarely or never previously seen. The video wants to tell the story from different point of views: the crowd, the Kennedys, the bodyguards, the assassin. And through different moods: joy, fear, confusion, sadness.
 
@@ -68,7 +68,7 @@ I loved to contribute to a great project like _After 1989_. It gave me the oppor
 
 Whether it’s music, photography or UX, **storytelling plays a crucial role**. Without it, what we do doesn’t travel far, as it’s difficult to capture people’s attention and get messages across.
 
-<p class="detached">🔗 <a href="https://minutestomidnight.co.uk/after-1989-a-trip-to-freedom/" target="_blank" rel="noopener">Read the story and listen to After 1989: A Trip To Freedom</a></p>
+<p class="detached">🔗 <a href="https://minutestomidnight.co.uk/after-1989-a-trip-to-freedom/" target="_blank" rel="noopener" title="Go to the album page">Read the story and listen to After 1989: A Trip To Freedom</a></p>
 
 ## Contact
 
