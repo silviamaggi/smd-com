@@ -255,29 +255,29 @@ cite {
 
   // Entry block ordered lists
   ol {
-    list-style: none;
-    counter-reset: smd-counter 0;
+    // list-style: none;
+    // counter-reset: smd-counter 0;
     margin-top: $spacer*1.5;
-    padding-left: $spacer;
+    padding-left: 1.3rem;
     @include media-breakpoint-up(md) {
       width: 80%;
     }
     
     li {
       @extend %smd-entry-fs;
-      counter-increment: smd-counter;
+      // counter-increment: smd-counter;
       line-height: 1.6;
       hyphens: auto;
-      padding-left: $spacer*.5;
-      &::before {
-        display: inline-block;
-        width: 1.5rem;
-        content: counter(smd-counter) ".";
-        font-family: $headings-font-family;
-        font-weight: bold;
-        color: $link-d-20;
-        margin-left: -1.5rem;
-      }
+      // padding-left: $spacer*.5;
+      // &::before {
+      //   display: inline-block;
+      //   width: 1.5rem;
+      //   content: counter(smd-counter) ".";
+      //   font-family: $headings-font-family;
+      //   font-weight: bold;
+      //   color: $link-d-20;
+      //   margin-left: -1.5rem;
+      // }
 
       ol {
         margin-top: 0;
