@@ -32,7 +32,7 @@ exclude:
   - build
   - js
   - sass
-include: ["_pages"]
+include: ["_pages", "_redirects"]
 
 # Defaults
 defaults:
