@@ -13,8 +13,6 @@ redirect_from:
 ---
 <p class="lead"><em>Design, Digested</em> is a newsletter about design, tech, and their implications in our lives. Delivered every two weeks to your mailbox, it contains posts from the blog and carefully curated inspiration stories. Both in English and Italian.</p>
 
-<p>Would like a preview? Check the <a href="https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8" target="_blank" rel="noopener">newletter archive</a>.</p>
-
 {%- include pattern-newsletter-sub.html %}
 
 <p class="small">By subscribing, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="/privacy-policy/#newsletter-privacy">Learn more</a>.</p>
