@@ -2,7 +2,7 @@
   <ul class="flex-row flex-md-column d-flex justify-content-around mb-0 ps-0 w-md-50">
     {% for item in site.data.nav-site -%}
     <li class="nav-item text-center text-md-start mx-0 d-inline-block d-md-block">
-      <a class="nav-link fs-4 text-decoration-none w-50 py-2{% if page.url contains item.link %} smd-current{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
+      <a class="nav-link fs-4 text-decoration-none w-50 py-2{% if page.url contains item.link %} smd-current{% endif %}" href="{{ item.link }}" title="{{ item.name }}">{{ item.name }}</a>
     </li>
     {% endfor -%}
   </ul>
