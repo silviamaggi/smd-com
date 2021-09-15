@@ -13,6 +13,7 @@ tags:
 description: "Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo."
 excerpt: "Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo."
 featured-image: feat-201701-angleseyabbey_2366.jpg
+carousel: true
 ---
 <p class="lead">The last time I was out and about with the intention of taking pictures, was in November 2016, in <a href="{{ site.url }}/photography/the-berlin-fascination/">Berlin</a>.</p>
 

@@ -10,6 +10,7 @@ tags:
   - social media
 description: "While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here's how my love for photography helped."
 featured-image: feat-20171218_lago_2001-silviamaggi.jpg
+carousel: true
 redirect_from:
   - /photography/how-instagram-drained-my-creativity/
 ---

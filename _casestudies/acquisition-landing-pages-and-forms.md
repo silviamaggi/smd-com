@@ -6,6 +6,7 @@ date: 2021-04-13T16:05:42.000Z
 last_modified_at: '2021-09-12 21:38:30'
 description: UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
+carousel: true
 excerpt: UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.
 skills:
   - User interviews

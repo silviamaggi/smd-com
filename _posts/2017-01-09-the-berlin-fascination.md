@@ -11,6 +11,7 @@ tags:
 description: "By walking around Berlin, you see it's headed somewhere. Only, the destination is unknown and nobody is running."
 excerpt: "Berlin is well known for being a fresh ever-changing city. By walking around, you see it's headed somewhere. Only, the destination is unknown and nobody is running."
 featured-image: feat_berlin_4132.jpg
+carousel: true
 ---
 <p class="lead">Watching the documentary <a href="http://www.bbc.co.uk/iplayer/episode/b088ktm6/david-bowie-the-last-five-years" target="_blank" rel="noopener"><em>David Bowie: The Last Five Years</em></a>, I realised there still were two excellent albums for me to discover. I somehow missed <em>The Next Day</em>, and, knowing it was supposed to be his parting gift, I’ve never been able to fully listen to <em>Blackstar</em>.</p>
 

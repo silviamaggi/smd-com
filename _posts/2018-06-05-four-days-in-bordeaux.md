@@ -10,6 +10,7 @@ tags:
   - travel
 description: 'My husband and I spent four days in Bordeaux, France. Read about what we saw and did, and look at the photos I took in this beautiful city.'
 featured-image: feat-20180524_bordeaux_2793.jpg
+carousel: true
 ---
 <p class="lead">A few weeks ago, my husband and I travelled outside the UK for a different reason other than visiting family and friends: we spent four days in Bordeaux.</p>
 
