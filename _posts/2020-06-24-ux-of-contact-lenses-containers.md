@@ -1,6 +1,6 @@
 ---
 title: The UX of contact lenses containers
-last_modified_at: '2021-09-03T22:55:29.827Z'
+last_modified_at: '2021-09-15 18:40:46'
 featured-post: false
 categories:
   - UX
@@ -51,6 +51,6 @@ Always give people more than one way to achieve their goals, and avoid relying o
 
 Sometimes, sticking to pre-existing conventions is good, but it doesn’t necessarily mean never to innovate. Give people enough clues and test, test, test.
 
-The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.
+The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener" title="Read more about the book on Goodreads"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.
 
 <!-- <small>Photo by [David Travis](https://unsplash.com/photos/WC6MJ0kRzGw){:target="_blank" rel="noopener"} on Unsplash</small> -->

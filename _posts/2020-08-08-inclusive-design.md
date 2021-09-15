@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 10. Inclusive design'
-last_modified_at: '2021-09-03T19:36:34.379Z'
+last_modified_at: '2021-09-15 18:16:17'
 featured-post: false
 categories:
   - Design Digested
@@ -26,7 +26,7 @@ redirect_from:
 
 ## Why is designing for inclusion still treated as optional?
 
-Karishma Patel takes us through her journey to integrate accessibility and inclusive design in UX work, and the barriers she encouters. She shares valuable resources and, if you’re interested in more, check the links at the bottom of my article _[How Rebranding Cost Ravelry the Trust of Their Community]({{ site.url }}/design/ravelry-rebranding/)_.
+Karishma Patel takes us through her journey to integrate accessibility and inclusive design in UX work, and the barriers she encouters. She shares valuable resources and, if you’re interested in more, check the links at the bottom of my article _[How Rebranding Cost Ravelry the Trust of Their Community](/design/ravelry-rebranding/){:title="Read the blog post"}_.
 
 <p class="detached">🔗 <a href="https://uxdesign.cc/why-is-designing-for-inclusion-still-treated-as-optional-c3f9fd759c03" target="_blank" rel="noopener">Read the article</a> (on Medium)</p>
 
@@ -38,13 +38,13 @@ Game accessibility has come a long way recently, but legible font is still one o
 
 ## User Defenders
 
-The following video is a one-hour live episode of the podcast _[User Defenders](https://userdefenders.com/){:target="_blank" rel="noopener"}_ recorded in December 2019 at [An Event Apart Denver](https://aneventapart.com/){:target="_blank" rel="noopener"}. Jason Ogle, together with Mina Markham, Farai Madzima and Derek Featherstone touch on important topics as accessibility, design inclusion and ethics, hiring and retaining talent and landing a job in UX.
+The following video is a one-hour live episode of the podcast _[User Defenders](https://userdefenders.com/){:target="_blank" rel="noopener" title="Go to the podcast website "}_ recorded in December 2019 at [An Event Apart Denver](https://aneventapart.com/){:target="_blank" rel="noopener" title="Go to the Event Apart Denver website"}. Jason Ogle, together with Mina Markham, Farai Madzima and Derek Featherstone touch on important topics as accessibility, design inclusion and ethics, hiring and retaining talent and landing a job in UX.
 
 {% include pattern-video.html id="i9mTeKl3NVQ" title="071: Live Podcast at An Event Apart w Mina Markham, Farai Madzima, & Derek Featherstone" %}
 
 ## Facebook ignored racial bias research, employees say
 
-Towards the end of July, The Wall Street Journal reported that Facebook was [creating new teams to study racial bias on its platforms](https://www.wsj.com/articles/facebook-creates-teams-to-study-racial-bias-on-its-platforms-11595362939){:target="_blank" rel="noopener"}. The following article explores what happended when its researchers studied how reporting and moderation work and found alarming results.
+Towards the end of July, The Wall Street Journal reported that Facebook was [creating new teams to study racial bias on its platforms](https://www.wsj.com/articles/facebook-creates-teams-to-study-racial-bias-on-its-platforms-11595362939){:target="_blank" rel="noopener" title="Read the article 'Facebook Creates Teams to Study Racial Bias, After Previously Limiting Such Efforts' on The Wall Street Journal"}. The following article explores what happended when its researchers studied how reporting and moderation work and found alarming results.
 
 <p class="detached">🔗 <a href="https://www.nbcnews.com/tech/tech-news/facebook-management-ignored-internal-research-showing-racial-bias-current-former-n1234746" target="_blank" rel="noopener">Read the article</a> (on NBC News)</p>
 
@@ -62,8 +62,8 @@ Less than a month ago, Twitter suffered an unprecedented security breach. The la
 
 ## A Little Boy That Santa Claus Forgot On A B-29
 
-On 6 of August 2020, Japan marked 75 years since the nuclear attack on Hiroshima. Around the same time, two young men escaped from Sachsenhausen concentration camp in Berlin. One of them was [Minutes to Midnight](https://blog.minutestomidnight.co.uk/2020/08/06/a-little-boy-that-santa-claus-forgot-on-a-b-29/){:target="_blank" rel="noopener"}‘s grandfather.
+On 6 of August 2020, Japan marked 75 years since the nuclear attack on Hiroshima. Around the same time, two young men escaped from Sachsenhausen concentration camp in Berlin. One of them was [Minutes to Midnight](https://blog.minutestomidnight.co.uk/2020/08/06/a-little-boy-that-santa-claus-forgot-on-a-b-29/){:target="_blank" rel="noopener" title="Read the post on Minutes to Midnight website"}‘s grandfather.
 
-Watch the official video of the song _A Little Boy That Santa Claus Forgot On A B-29_, the second song from the concept album _[After 1989: A Trip to Freedom](https://minutestomidnight.co.uk/new-album-after-1989/){:target="_blank" rel="noopener"}_. Disclaimer: Minutes to Midnight is my husband. I’m sharing his music because I believe it’s a unique and touching project. Check his [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg/){:target="_blank" rel="noopener"} to discover the entire album.
+Watch the official video of the song _A Little Boy That Santa Claus Forgot On A B-29_, the second song from the concept album _[After 1989: A Trip to Freedom](https://minutestomidnight.co.uk/new-album-after-1989/){:target="_blank" rel="noopener" title="Read more on Minutes to Midnight website"}_. Disclaimer: Minutes to Midnight is my husband. I’m sharing his music because I believe it’s a unique and touching project. Check his [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg/){:target="_blank" rel="noopener"} to discover the entire album.
 
 {% include pattern-video.html id="5M1XTw483Ew" title="Minutes to Midnight - A Little Boy That Santa Claus Forgot On A B-29 [Rock] (2019) Music Video" %}

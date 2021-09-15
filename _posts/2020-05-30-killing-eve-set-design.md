@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 1. Killing Eve set design, and more'
-last_modified_at: '2021-09-08T20:19:32.547Z'
+last_modified_at: '2021-09-15 18:14:48'
 featured-post: false
 categories:
   - Design Digested
@@ -42,7 +42,7 @@ Design is what determines a good or bad experience on websites and, either consc
 
 ## Planned Obsolescence, by Unusable podcast
 
-Do you remember when it was possible to change the battery of a car or phone without asking a professional? Or when you [didn’t have to buy]({{ site.url }}/design/pandemic-opportunity-for-change/) a new fridge-freezer when one of the two parts broke?
+Do you remember when it was possible to change the battery of a car or phone without asking a professional? Or when you [didn’t have to buy](/design/pandemic-opportunity-for-change/){:title="Read the post 'The pandemic is a massive opportunity for change' on my website"} a new fridge-freezer when one of the two parts broke?
 
 Planned obsolescence is the practise of designing products with a short expiry date. David and Andrew explain how it works, present us with seven types of planned obsolescence and many other interesting examples.
 

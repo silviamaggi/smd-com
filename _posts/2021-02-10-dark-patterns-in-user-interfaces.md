@@ -1,6 +1,6 @@
 ---
 title: Design, Digested 16. Dark patterns in user interfaces
-last_modified_at: '2021-09-03T15:33:55.102Z'
+last_modified_at: '2021-09-15 18:42:09'
 featured-post: false
 categories:
   - Design Digested
@@ -33,7 +33,9 @@ The many examples of UI dark patterns in the articles show how shady the interne
 <li><strong>Interested</strong> in exploring ethical and privacy-focused alternatives to the most used services.</li>
 </ul>
 
-### Read the articles
+## Read the articles
 
-<p class="detached">🔗 <a href="https://prototypr.io/post/we-value-your-privacy-at-about-0-50-dark-patterns-in-ui-copy/" target="_blank" rel="noopener">We Value Your Privacy (At About $0.50): Dark Patterns in UI Copy</a>, by Graeme Fulton<br>
-🔗 <a href="https://uxplanet.org/dark-design-patterns-in-your-everyday-apps-3627e439a8a1" target="_blank" rel="noopener">Dark Patterns in Your Everyday App</a>, by Mariana Vargas</p>
+<ul class="smd-ul">
+<li><a href="https://prototypr.io/post/we-value-your-privacy-at-about-0-50-dark-patterns-in-ui-copy/" target="_blank" rel="noopener">We Value Your Privacy (At About $0.50): Dark Patterns in UI Copy</a> by Graeme Fulton</li>
+<li><a href="https://uxplanet.org/dark-design-patterns-in-your-everyday-apps-3627e439a8a1" target="_blank" rel="noopener">Dark Patterns in Your Everyday App</a> by Mariana Vargas</li>
+</ul>

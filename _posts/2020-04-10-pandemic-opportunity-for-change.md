@@ -1,6 +1,6 @@
 ---
 title: The pandemic is a massive opportunity for change
-last_modified_at: '2021-09-12T18:18:26.429Z'
+last_modified_at: '2021-09-15 18:40:17'
 featured-post: false
 categories:
   - Design
@@ -28,7 +28,7 @@ I watched _Rams_, a documentary on Dieter Rams, one of the most influential desi
 
 {% include pattern-figure.html image="/assets/images/dieter-rams-braun-t-3-pocket-radio.jpg" caption="Dieter Rams Braun T 3 pocket radio. Image credit: Sgustok Design" width="1400" height="1080" %}
 
-Rams’ design philosophy puts function before form. The product’s aesthetics depends on its purpose, not the other way round; every little detail is thought through as a sign of respect for its users. In the 70s, he published the [_Ten Principles for Good Design_](https://www.vitsoe.com/gb/about/good-design){:target="_blank" rel="noopener"}, which are relevant today more than ever.
+Rams’ design philosophy puts function before form. The product’s aesthetics depends on its purpose, not the other way round; every little detail is thought through as a sign of respect for its users. In the 70s, he published the [_Ten Principles for Good Design_](https://www.vitsoe.com/eu/about/good-design){:target="_blank" rel="noopener" title="Read the principles on the Vits&oelig; website"}, which are relevant today more than ever.
 
 Even though two of the principles define good design to be long-lasting and environmental-friendly, Dieter Rams regrets not promoting his ideas about sustainable design to the masses. Or, perhaps, they weren’t understood the right way. If he could go back and do it all over again, he would have chosen to become a landscape architect or an urban planner instead.
 
@@ -36,7 +36,7 @@ There is a bigger system at play. Within a culture of overconsumption, every sin
 
 _“Less, but better”_ is Rams’ motto. He invites us to think about what we’re designing, how and why. As everything interacts and is dependant on other things, his message couldn’t be more appropriate today.
 
-{% include pattern-figure.html image="/assets/images/dieter-rams-606-universal-shelving-system.jpg" caption="Vitsoe 606 Universal Shelving System, 1960, by Dieter Rams. Image credit: Sgustok Design" width="1400" height="875" %}
+{% include pattern-figure.html image="/assets/images/dieter-rams-606-universal-shelving-system.jpg" caption="Vits&oelig; 606 Universal Shelving System, 1960, by Dieter Rams. Image credit: Sgustok Design" width="1400" height="875" %}
 
 Within our throwaway society, we are rarely concerned about what happens after we discard an object. It’s easier to replace something than repair it, most of the times because of the way it was designed.
 
@@ -57,4 +57,4 @@ Rams’ suggestion is all about taking into consideration what we produce, how i
 I believe that anyone can apply this way of thinking. We are now aware of how we are all connected; our actions and choices influence our family, neighbours and society for better or worse. Whatever our jobs or roles, we should think about the consequences of what we do, and strive for better.
 
 ---
-🔗 _Rams_ is a documentary by Gary Hustwit. Watch it [here](https://hustwit.vhx.tv/){:target="_blank" rel="noopener"}.
+🔗 _Rams_ is a documentary by Gary Hustwit. Watch it [here](https://hustwit.vhx.tv/){:target="_blank" rel="noopener" title="Go to Gary Hustwit's website"}.

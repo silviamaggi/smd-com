@@ -1,6 +1,6 @@
 ---
 title: Brilliant culture and design books I’m reading
-last_modified_at: '2021-09-12T18:48:48.858Z'
+last_modified_at: '2021-09-15 18:42:17'
 featured-post: false
 categories:
   - Books
@@ -33,7 +33,7 @@ Even if, initially, the book might seem to be aimed at business people, I found 
 
 I believe this book is a must-read for any company employing people from different countries. Generally, employees have to understand and adapt to the culture of a company; yet, it’s much less common to have open discussions about our differences, how they impact our work and how to approach them successfully.
 
-<p class="detached">🔗 <a href="https://www.goodreads.com/book/show/22085568-the-culture-map" target="_blank" rel="noopener">Read the book</a></p>
+<p class="detached">🔗 <a href="https://www.goodreads.com/book/show/22085568-the-culture-map" target="_blank" rel="noopener">Read the about book</a> (on Goodreads)</p>
 
 ## Ten Arguments For Deleting Your Social Media Accounts Right Now, by Jaron Lanier
 
@@ -41,13 +41,13 @@ I believe this book is a must-read for any company employing people from differe
 
 <mark class="smd-highlight mb-4">Status: finished</mark>
 
-Even if you decide not to delete your social media accounts, this book is a compelling read. Jaron Lanier is a Silicon Valley pioneer, and a [founder of the field of virtual reality](https://en.wikipedia.org/wiki/Jaron_Lanier){:target="_blank" rel="noopener"}, who tells us why social media are dangerous. If you saw _The Social Dilemma_, you know him as one of the interviewees.
+Even if you decide not to delete your social media accounts, this book is a compelling read. Jaron Lanier is a Silicon Valley pioneer, and a [founder of the field of virtual reality](https://en.wikipedia.org/wiki/Jaron_Lanier){:target="_blank" rel="noopener" title="Read more on Wikipedia"}, who tells us why social media are dangerous. If you saw _The Social Dilemma_, you know him as one of the interviewees.
 
 Within their current business models, the tech giants manipulate our behaviour to sell us something. While their clients are happy, we’re prodded and inundated with ads. He provides powerfully argued reasons to leave the social networks, suggesting life is better off them.
 
 Lanier explains how algorithms work in general — pointing out how the ones built by Big Tech are among the best-kept secrets in the world — and why it’s almost impossible to discuss with people holding different views. I had doubts about social media well before reading the book, but some of the arguments convinced me to finally act.
 
-<p class="detached">🔗 <a href="https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now" target="_blank" rel="noopener">Read the book</a></p>
+<p class="detached">🔗 <a href="https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now" target="_blank" rel="noopener">Read about the book</a> (on Goodreads)</p>
 
 ## Cross-Cultural Design, by Senongo Akpem
 
@@ -55,9 +55,9 @@ Lanier explains how algorithms work in general — pointing out how the ones bui
 
 <mark class="smd-highlight mb-4">Status: in progress</mark>
 
-I bookmarked this book in [June]({{ site.url }}/books/design-community-solidarity/) and picked it up again recently. Coupled with _The Culture Map_, it’s a fundamental read for anyone in the web field. Whereas many of us think of our users as wealthy, Western people, our audience is much more diverse. So we better design for them too.
+I bookmarked this book in [June](/design-digested/design-community-solidarity/){:title="Read the 'Design, Digested 2. Design community solidarity' post on my website"} and picked it up again recently. Coupled with _The Culture Map_, it’s a fundamental read for anyone in the web field. Whereas many of us think of our users as wealthy, Western people, our audience is much more diverse. So we better design for them too.
 
-<p class="detached">🔗 <a href="https://abookapart.com/products/cross-cultural-design" target="_blank" rel="noopener">Read the book</a></p>
+<p class="detached">🔗 <a href="https://abookapart.com/products/cross-cultural-design" target="_blank" rel="noopener">Read about the book</a> (on A Book Apart)</p>
 
 ## My Bass and Other Animals, by Guy Pratt
 
@@ -69,7 +69,7 @@ If you don’t know him by name, chances are you heard him playing bass in many 
 
 At some point, he also did stand up shows, on which this book is based. I was lucky enough to both see him playing live and hear his recollection of his almost-encounter with Michael Jackson. Expect a very entertaining, funny read.
 
-<p class="detached">🔗 <a href="https://www.goodreads.com/book/show/2822087-my-bass-and-other-animals" target="_blank" rel="noopener">Read the book</a></p>
+<p class="detached">🔗 <a href="https://www.goodreads.com/book/show/2822087-my-bass-and-other-animals" target="_blank" rel="noopener">Read about the book</a> (on Goodreads)</p>
 
 ## La Testa degli Italiani, by Beppe Severgnini
 
@@ -79,7 +79,6 @@ At some point, he also did stand up shows, on which this book is based. I was lu
 
 _The Culture Map_ prompted to ask myself what it means to be Italian. When I moved to the UK, it soon became clear that I was born and raised in a very different culture. I appreciated and embraced every difference, in a process that I can retroactively describe as a mediation between two worlds. Before clarifying how the mediation happened — what was instrinsically mine and what I absorbed — I need to understand what makes me Italian. 
 
-Servegnini is a respected journalist, whose column, _[Italians](https://italians.corriere.it/){:target="_blank" rel="noopener"},_ I used to follow many years ago. He wrote _La Testa degli Italiani_ with a lot of sense of humour, so you should approach the book as a semi-serious portrait of a country that is often romanticised or condemned.
+Servegnini is a respected journalist, whose column, _[Italians](https://italians.corriere.it/){:target="_blank" rel="noopener" title="Go to the column page on Corriere.it"},_ I used to follow many years ago. He wrote _La Testa degli Italiani_ with a lot of sense of humour, so you should approach the book as a semi-serious portrait of a country that is often romanticised or condemned.
 
-<p class="detached">🔗 <a href="https://www.goodreads.com/book/show/1564625.La_testa_degli_italiani" target="_blank" rel="noopener">Read the book in Italian</a><br>
-🔗 <a href="https://www.goodreads.com/book/show/581712.La_Bella_Figura" target="_blank" rel="noopener">Read the book in English</a></p>
+<p class="detached">🔗 <a href="https://www.goodreads.com/book/show/1564625.La_testa_degli_italiani" target="_blank" rel="noopener">Read the book in Italian</a> or <a href="https://www.goodreads.com/book/show/581712.La_Bella_Figura" target="_blank" rel="noopener">in English</a></p>

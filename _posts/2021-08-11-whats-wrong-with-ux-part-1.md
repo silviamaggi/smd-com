@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 19. What&rsquo;s wrong with UX (Part 1)'
-last_modified_at: '2021-09-07T12:14:41.123Z'
+last_modified_at: '2021-09-15 18:42:41'
 featured-post: false
 categories:
   - Design Digested
@@ -12,7 +12,7 @@ description: 'In the first installment of the Design, Digested series since Marc
 featured-image: feat-smd-blog-dd-19.jpg
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">In the first instalment of the <a href="https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8" target="_blank" rel="noopener"><em>Design, Digested</em></a> series since March, I share with you three reasons why the UX industry is currently broken.</p>
+<p class="lead">In the first instalment of the <a href="https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8" target="_blank" rel="noopener" title="View the newsletter archive on Mailchimp"><em>Design, Digested</em></a> series since March, I share with you three reasons why the UX industry is currently broken.</p>
 
 <!--more-->
 

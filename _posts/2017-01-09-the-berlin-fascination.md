@@ -1,6 +1,6 @@
 ---
 title: The Berlin fascination
-last_modified_at: '2021-09-13 01:16:04'
+last_modified_at: '2021-09-15 18:39:01'
 featured-post: false
 categories:
   - Photography
@@ -13,7 +13,7 @@ excerpt: "Berlin is well known for being a fresh ever-changing city. By walking 
 featured-image: feat_berlin_4132.jpg
 carousel: true
 ---
-<p class="lead">Watching the documentary <a href="http://www.bbc.co.uk/iplayer/episode/b088ktm6/david-bowie-the-last-five-years" target="_blank" rel="noopener"><em>David Bowie: The Last Five Years</em></a>, I realised there still were two excellent albums for me to discover. I somehow missed <em>The Next Day</em>, and, knowing it was supposed to be his parting gift, I’ve never been able to fully listen to <em>Blackstar</em>.</p>
+<p class="lead">Watching the documentary <a href="http://www.bbc.co.uk/iplayer/episode/b088ktm6/david-bowie-the-last-five-years" target="_blank" rel="noopener" title="View the documentary on the BBC Player"><em>David Bowie: The Last Five Years</em></a>, I realised there still were two excellent albums for me to discover. I somehow missed <em>The Next Day</em>, and, knowing it was supposed to be his parting gift, I’ve never been able to fully listen to <em>Blackstar</em>.</p>
 
 {% include pattern-figure.html image="/assets/images/20161123-rathaus-4132.jpg" caption="Rathaus Schöneberg station" width="1400" height="933" %}
 

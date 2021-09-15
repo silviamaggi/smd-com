@@ -1,6 +1,6 @@
 ---
 title: A glimpse of the sea
-last_modified_at: '2021-09-13 01:16:17'
+last_modified_at: '2021-09-15 18:38:41'
 featured-post: false
 categories:
   - Photography
@@ -18,7 +18,7 @@ As a kid, the biggest event of the year was waking up incredibly early to reach 
 
 {% include pattern-figure.html image="/assets/images/20160819-cromer-33121.jpg" caption="The Nothern sea from a window" width="1400" height="933" %}
 
-I would spend hours in the backseat of the car, with a stereo, cassettes, a few books and a pillow. I used to wake up at dawn, turn my head left, and see the first sunlight of the day refracting on [Lake Lesina](https://en.wikipedia.org/wiki/Lake_Lesina){:target="_blank" rel="noopener"}. Further ahead, a small stripe of land and then, barely visible, the sea.
+I would spend hours in the backseat of the car, with a stereo, cassettes, a few books and a pillow. I used to wake up at dawn, turn my head left, and see the first sunlight of the day refracting on [Lake Lesina](https://en.wikipedia.org/wiki/Lake_Lesina){:target="_blank" rel="noopener" title="Read about Lake Lesina on Wikipedia"}. Further ahead, a small stripe of land and then, barely visible, the sea.
 
 The glimpse of the sea marked the start of the holiday. That sight was one of the most joyful feelings. Today, not much changed.
 

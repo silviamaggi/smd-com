@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 2. Design community solidarity'
-last_modified_at: '2021-09-03T18:31:05.964Z'
+last_modified_at: '2021-09-15 18:40:25'
 featured-post: false
 categories:
   - Design Digested
@@ -54,6 +54,6 @@ Following on the topic of an ever more globalised world, this book is not much a
 
 ## About Race with Reni Eddo-Lodge
 
-Reni Eddo-Logde is the author of the book [Why I’m Not Longer Talking To White People About Race](http://renieddolodge.co.uk/books/){:target="_blank" rel="noopener"}. Her 2018 podcast takes the conversation further, by looking at recent history that lead to the politics of today.
+Reni Eddo-Logde is the author of the book [Why I’m Not Longer Talking To White People About Race](http://renieddolodge.co.uk/books/){:target="_blank" rel="noopener" title="Read more abou the book on author's website"}. Her 2018 podcast takes the conversation further, by looking at recent history that lead to the politics of today.
 
 <p class="detached">🔗 <a href="https://www.aboutracepodcast.com/" target="_blank" rel="noopener">Listen here</a> or on your favourite podcast platform.</p>

@@ -1,6 +1,6 @@
 ---
 title: Learning to draw. A journey
-last_modified_at: '2021-09-12 21:29:34'
+last_modified_at: '2021-09-15 18:23:34'
 featured-post: false
 categories:
   - Drawing
@@ -13,13 +13,13 @@ featured-image: feat-sam-rios-unsplash.jpg
 redirect_from:
   - /design/learning-to-draw/
 ---
-<p class="lead">In my latest <em>Design, Digested</em> post titled <a href="{{ site.url }}/design-digested/importance-of-sketching-in-ux/">The importance of sketching in UX and beyond</a>, I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing <em>what</em> to draw, and then give up.</p>
+<p class="lead">In my latest <em>Design, Digested</em> post titled <a href="/design-digested/importance-of-sketching-in-ux/" title="Read the post on my website">The importance of sketching in UX and beyond</a>, I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing <em>what</em> to draw, and then give up.</p>
 
 <!--more-->
 
 Being a life-long learner, I love to develop news skills. However, if there is something I know about myself, is that I need structure and some guidance, otherwise every attempt will be void.
 
-I’ve encountered an article wrote by Jane Zhang, an independent data visualization designer, about [why she’s finally learning to draw](https://janezhang.ca/posts/why-im-learning-to-draw/){:target="_blank" rel="noopener"}. Jane is following the lessons from [Drawabox.com](https://drawabox.com/){:target="_blank" rel="noopener"}, and shared a video from their instructor that perfectly describes what happens every time I’m faced with a blank page.
+I’ve encountered an article wrote by Jane Zhang, an independent data visualization designer, about [why she’s finally learning to draw](https://janezhang.ca/posts/why-im-learning-to-draw/){:target="_blank" rel="noopener" title="Read Jane's post"}. Jane is following the lessons from [Drawabox.com](https://drawabox.com/){:target="_blank" rel="noopener" title="Go to the Drawabox website"}, and shared a video from their instructor that perfectly describes what happens every time I’m faced with a blank page.
 
 {% include pattern-video.html id="mgl6Ll3K3gw" title="Overcoming the Fear of a Blank Page" %}
 
@@ -41,7 +41,7 @@ I could see where I lost focus and, more importantly, I could see progress betwe
 
 {% include pattern-figure.html image="/assets/images/superimposed-lines_2.jpg" caption="The second page filled with lines and curves. I was able to start each superimposed line with more precision: I felt less anxious, and took more time to focus on my task" width="1280" height="960" %}
 
-This journey is going to be long. And it feels like it’s been designed that way. It doesn’t have to be a solo adventure though, as there is a [Patreon](https://patreon.com/uncomfortable){:target="_blank" rel="noopener"} page where to get feedback from the instructor and teaching assistant, as well as active communities on [Reddit (known as ArtsFundamentals)](https://reddit.com/r/ArtFundamentals){:target="_blank" rel="noopener"} and [Discord](https://discord.gg/FtSS4hhqSu){:target="_blank" rel="noopener"}.
+This journey is going to be long. And it feels like it’s been designed that way. It doesn’t have to be a solo adventure though, as there is a [Patreon](https://patreon.com/uncomfortable){:target="_blank" rel="noopener" title="Go to Drawabox's Patreon page"} page where to get feedback from the instructor and teaching assistant, as well as active communities on [Reddit (known as ArtsFundamentals)](https://reddit.com/r/ArtFundamentals){:target="_blank" rel="noopener" title="Go to Drawabox's subreddit"} and [Discord](https://discord.gg/FtSS4hhqSu){:target="_blank" rel="noopener" title="Open Drawabox on Discord"}.
 
 ## What I wish to achieve
 

@@ -1,6 +1,6 @@
 ---
 title: Girl Town moved to Tel Aviv
-last_modified_at: '2021-09-13 00:59:58'
+last_modified_at: '2021-09-15 18:39:41'
 featured-post: false
 categories:
   - Photography
@@ -19,16 +19,16 @@ redirect_from:
 
 Originally presented at Photomonth East London International Photography Festival in 2016, the show celebrates the culture of the female in the 21th century.
 
-Initially, the exhibition was curated on Instagram, and I’ve been proudly part of it ever since the beginning. Shutter Hub shared impressions, reactions and photos from the private view. Head over their [website to read more](https://shutterhub.org.uk/blog/girl-town-tel-aviv-shutter-hub-exhibition-launch-event-and-pictures){:target="_blank" rel="noopener"}.
+Initially, the exhibition was curated on Instagram, and I’ve been proudly part of it ever since the beginning. Shutter Hub shared impressions, reactions and photos from the private view. Head over their [website to read more](https://shutterhub.org.uk/blog/girl-town-tel-aviv-shutter-hub-exhibition-launch-event-and-pictures){:target="_blank" rel="noopener" title="Go to the Shutter Hub website"}.
 
 ## About Shutter Hub
 
 The photography organisation providing opportunities, support and networking for creative photographers worldwide.  
 
-<p class="detached">🔗 <a href="http://shutterhub.org.uk" target="_blank" rel="noopener">http://shutterhub.org.uk</a></p>
+<p class="detached">🔗 <a href="https://shutterhub.org.uk" target="_blank" rel="noopener" title="Go to the Shutter Hub website">https://shutterhub.org.uk</a></p>
 
 ## About Alfred Institute
 
 Alfred Gallery is a cooperative space that welcomes international exhibitions and collaborative projects in Simtat Shlush.
 
-<p class="detached">🔗 <a href="http://www.alfredinstitute.org/eng/alfred-institute-welcome" target="_blank" rel="noopener">www.alfredinstitute.org</a></p>
+<p class="detached">🔗 <a href="http://www.alfredinstitute.org/eng/alfred-institute-welcome" target="_blank" rel="noopener" title="Go to the Alfred Institute website">www.alfredinstitute.org</a></p>

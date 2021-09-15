@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 5. Diversity bias'
-last_modified_at: '2021-09-03T16:57:35.443Z'
+last_modified_at: '2021-09-15 18:40:52'
 featured-post: false
 categories:
   - Design Digested
@@ -26,7 +26,7 @@ redirect_from:
 
 Phil Bennett wrote a compelling article that touches the main problems in tech: diversity and bias. A must-read, all backed by data.
 
-<p class="detached">🔗 <a href="https://www.softwareiseasypeoplearehard.com/are-you-building-straight-white-male-middle-class-products-for-straight-white-male-middle-class-people/" target="_blank" rel="noopener">Read the article</a></p>
+<p class="detached">🔗 <a href="https://www.softwareiseasypeoplearehard.com/are-you-building-straight-white-male-middle-class-products-for-straight-white-male-middle-class-people/" target="_blank" rel="noopener">Read the article</a> (on Phil Bennet's website)</p>
 
 ## Menus, Metaphors and Materials: Milestones of User Interface Design
 
@@ -42,13 +42,13 @@ Morgane Peng introduces us to the UX Efficient Frontier concept for business int
 
 ## Anti-racist Reading List For Designers
 
-The design industry is [_71% White_](https://designcensus.org/){:target="_blank" rel="noopener"}. Lexi Namer listed books and articles aimed at designers with the intent of starting a dialogue about our privilege, assumption and biases as designers.
+The design industry is 71% White. Lexi Namer listed books and articles aimed at designers with the intent of starting a dialogue about our privilege, assumption and biases as designers.
 
 <p class="detached">🔗 <a href="https://uxdesign.cc/anti-racist-reading-list-for-designers-e51b3ac4bd0" target="_blank" rel="noopener">Read the article</a> (on Medium)</p>
 
 ## It’s Not You. Bad Doors Are Everywhere
 
-In his best-selling book [The Design Of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener"}, Donald A. Norman highlighted the issues with most doors. Their design gives people the wrong signal, which then needs an explanation to make it work. It’s not you.
+In his best-selling book [The Design Of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener" title="Read more about the book on Goodreads"}, Donald A. Norman highlighted the issues with most doors. Their design gives people the wrong signal, which then needs an explanation to make it work. It’s not you.
 
 {% include pattern-video.html id="yY96hTb8WgI" title="It's not you. Bad doors are everywhere." %}
 
@@ -57,4 +57,4 @@ In his best-selling book [The Design Of Everyday Things](https://www.goodreads.c
 > _Invisible Women_ […] exposes the gender data gap – a gap in our knowledge that is at the root of perpetual, systemic discrimination against women, and that has created a pervasive but invisible bias with a profound effect on women’s lives.
 
 
-<p class="detached">🔗 <a href="https://www.carolinecriadoperez.com/books" target="_blank" rel="noopener">Read about the book</a></p>
+<p class="detached">🔗 <a href="https://www.carolinecriadoperez.com/books" target="_blank" rel="noopener">Read about the book</a> (on Caroline Criado Perez's website)</p>

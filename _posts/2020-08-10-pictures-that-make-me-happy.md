@@ -1,6 +1,6 @@
 ---
 title: Pictures that make me happy
-last_modified_at: '2021-09-13 01:12:27'
+last_modified_at: '2021-09-15 18:41:37'
 featured-post: false
 categories:
   - Photography
@@ -27,7 +27,7 @@ I took them a few years ago when we first planted meadow flowers in our garden. 
 
 {% include pattern-figure.html image="/assets/images/pictures-that-make-me-happy-4.jpg" caption="Pictures that make me happy #4" width="1400" height="933" %}
 
-The swirly effect in most of the pictures is courtesy of the [Helios 44M lens](https://vintage-camera-lenses.com/helios-44-2-58mm-f2/){:target="_blank" rel="noopener"} that I use when there is plenty of time to compose and take the shot. It feels like carefully crafting something important. That is one of the factors that make me happy about them.
+The swirly effect in most of the pictures is courtesy of the [Helios 44M lens](https://vintage-camera-lenses.com/helios-44-2-58mm-f2/){:target="_blank" rel="noopener" title="Go to the Vintage Camera Lenses website"} that I use when there is plenty of time to compose and take the shot. It feels like carefully crafting something important. That is one of the factors that make me happy about them.
 
 <p class="detached">These photos featured on the previous version of my website.</p>
 

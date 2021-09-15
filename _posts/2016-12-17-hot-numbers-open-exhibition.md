@@ -1,6 +1,6 @@
 ---
 title: Hot Numbers Open Exhibition
-last_modified_at: '2021-09-13 01:01:22'
+last_modified_at: '2021-09-15 18:38:55'
 featured-post: false
 categories:
   - Photography
@@ -21,6 +21,6 @@ Taken on a warm sunny day in May 2016, to me the photo represents contemplation 
 
 It’s been printed on Kodak Metallic Paper, which renders both colour and monochrome photos beautifully. The exhibition includes beautiful photos, paintings and drawings, and I am very happy to be part of it.
 
-<p class="detached"><a href="https://hotnumberscoffee.co.uk/gwydir-st/" target="_blank" rel="noopener">Hot Numbers</a><br>
+<p class="detached"><a href="https://hotnumberscoffee.co.uk/gwydir-st/" target="_blank" rel="noopener" title="Go to the Hot Numbers website">Hot Numbers</a><br>
 Units 5/6 Dales Brewery, Gwydir Street,<br>
 Cambridge CB1 2LJ</p>

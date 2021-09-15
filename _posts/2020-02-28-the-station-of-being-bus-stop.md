@@ -1,6 +1,6 @@
 ---
 title: The station of being bus stop experience
-last_modified_at: '2021-09-13 01:12:11'
+last_modified_at: '2021-09-15 18:40:10'
 featured-post: false
 categories:
   - Design
@@ -19,9 +19,9 @@ redirect_from:
 
 {% include pattern-figure.html image="/assets/images/station-of-being-samuel-pettersson.jpg" caption="Photo by Samuel Pettersson" width="1024" height="682" %}
 
-Architecture studio [Rombout Frieling Lab](http://www.rombout.design/station-of-being.html){:target="_blank" rel="noopener"} and [Research Institutes of Sweden](https://www.ri.se/en){:target="_blank" rel="noopener"} have created the _Station of Being_ as a prototype bus stop in the city of Umeå, in the north of the country.
+Architecture studio [Rombout Frieling Lab](http://www.rombout.design/station-of-being.html){:target="_blank" rel="noopener" title="Go to the Rombout Frieling Lab website"} and [Research Institutes of Sweden](https://www.ri.se/en){:target="_blank" rel="noopener" title="Go to the Research Institutes of Sweden website"} have created the _Station of Being_ as a prototype bus stop in the city of Umeå, in the north of the country.
 
-The bus stop intends to improve and enhance the waiting experience for people using public transport in cold weather conditions. The project can make public transport significantly more attractive. Based on what Rombout Frieling told [Deezen](https://www.dezeen.com/2019/12/11/rombout-frieling-lab-arctic-bus-stop-umea-sweden/){:target="_blank" rel="noopener"}, and the case study on the studio’s website, the research they carried out revealed that:
+The bus stop intends to improve and enhance the waiting experience for people using public transport in cold weather conditions. The project can make public transport significantly more attractive. Based on what Rombout Frieling told [Deezen](https://www.dezeen.com/2019/12/11/rombout-frieling-lab-arctic-bus-stop-umea-sweden/){:target="_blank" rel="noopener" title="Read the article on Deezen"}, and the case study on the studio’s website, the research they carried out revealed that:
 
 <ul class="smd-ul">
 <li>It is annoying to continually be on the lookout to be sure not to miss the bus.</li>

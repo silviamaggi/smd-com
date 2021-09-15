@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 12. Social media content moderation issues'
-last_modified_at: '2021-09-12T18:40:02.981Z'
+last_modified_at: '2021-09-15 18:16:44'
 featured-post: false
 categories:
   - Design Digested
@@ -17,7 +17,7 @@ redirect_from:
   - /social-media/design-digested-12-social-media-issues-complicated-products-and-redesigning-capitalism/
   - /social-media/social-media-content-moderation/
 ---
-<p class="lead">After a two-month <a href="{{ site.url }}/photography/after-the-rain/">hiatus</a>, the design inspiration series is back with a focus on social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.</p>
+<p class="lead">After a two-month <a href="/photography/after-the-rain/" title="Read the blog post 'After the rain' on my website">hiatus</a>, the design inspiration series is back with a focus on social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.</p>
 
 <!--more-->
 

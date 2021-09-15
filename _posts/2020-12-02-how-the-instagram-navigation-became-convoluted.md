@@ -1,6 +1,6 @@
 ---
 title: How the Instagram navigation became convoluted
-last_modified_at: '2021-09-03T21:56:57.594Z'
+last_modified_at: '2021-09-15 18:16:39'
 featured-post: false
 categories:
   - UX
@@ -18,7 +18,7 @@ redirect_from:
 
 ## The reason
 
-[Announcing the changes](https://about.instagram.com/blog/announcements/introducing-reels-and-shop-tabs){:target="_blank" rel="noopener"}, Adam Mosseri, Head of Instagram, pointed out how the pandemic changed the way people use the app. Short and entertaining videos became prominent, and people started buying more online. Young people and creators are at the centre of Instagram’s focus, which is the reason behind the positioning of the two new tabs in the bottom navigation.
+[Announcing the changes](https://about.instagram.com/blog/announcements/introducing-reels-and-shop-tabs){:target="_blank" rel="noopener" title="Read the announcement on Instagram's website"}, Adam Mosseri, Head of Instagram, pointed out how the pandemic changed the way people use the app. Short and entertaining videos became prominent, and people started buying more online. Young people and creators are at the centre of Instagram’s focus, which is the reason behind the positioning of the two new tabs in the bottom navigation.
 
 ## The science
 
@@ -58,7 +58,7 @@ In the meantime, if you updated the app and felt lost, know that it’s not you.
 
 ## Conclusions
 
-The products we design or use can get complicated over time, mainly when they become established. It happens when users ask for more features or when they change the way they use it. See [Design, Digested #12 – Struggling with growth]({{ site.url }}/design-digested/social-media-content-moderation/).
+The products we design or use can get complicated over time, mainly when they become established. It happens when users ask for more features or when they change the way they use it. See [Design, Digested #12 – Struggling with growth](/design-digested/social-media-content-moderation/){:title="View the post on my website"}.
 
 Sometimes it happens when the business model changes: if the goal is to keep people engaged — and watching reels and looking for things to buy do it — then these actions need to take priority on the screen.
 

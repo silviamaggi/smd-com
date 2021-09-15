@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 11. All-women edition'
-last_modified_at: '2021-09-12 21:46:53'
+last_modified_at: '2021-09-15 18:41:43'
 featured-post: false
 categories:
   - Design Digested
@@ -31,15 +31,15 @@ Four years ago, as as a graduate at MIT’s Media Lab, Joy Buolamwini started lo
 
 ## You are not your data but your data is still you
 
-We conceptualise our [personally identifiable information](https://en.wikipedia.org/wiki/Personal_data){:target="_blank" rel="noopener"} (PII) through privacy, which treats it as a property that is separate from us. Although, we don’t own the data the same way we own a house: _it is us_. In the article, Tricia Wand explains how the processes that involve algorithmic decision-making over human beings can become threats to our lives and communities.
+We conceptualise our [personally identifiable information](https://en.wikipedia.org/wiki/Personal_data){:target="_blank" rel="noopener" title="Read more on Wikipedia"} (PII) through privacy, which treats it as a property that is separate from us. Although, we don’t own the data the same way we own a house: _it is us_. In the article, Tricia Wand explains how the processes that involve algorithmic decision-making over human beings can become threats to our lives and communities.
 
 <p class="detached">🔗 <a href="https://deepdives.in/you-are-not-your-data-but-your-data-is-still-you-b41d2478ece2" target="_blank" rel="noopener">Read the article</a> (on Medium)</p>
 
 ## WordPress All-women Release Squad
 
-A release squad of people, who identify as women, will ship the next stable version of [WordPress CMS](https://en.wikipedia.org/wiki/WordPress){:target="_blank" rel="noopener"} — the 5.5. It means giving equal opportunities, sharing experience and empowering. Kudos for this initiative.
+A release squad of people, who identify as women, will ship the next stable version of [WordPress CMS](https://en.wikipedia.org/wiki/WordPress){:target="_blank" rel="noopener" title="Read more on Wikipedia"} — the 5.5. It means giving equal opportunities, sharing experience and empowering. Kudos for this initiative.
 
-<p class="detached">🔗 <a href="https://make.wordpress.org/core/2020/03/11/all-women-release-squad/">Read the article</a> and the <a href="https://make.wordpress.org/core/2020/08/13/wordpress-5-6-release-planning/" target="_blank" rel="noopener">release planning</a> (on WordPress.org)</p>
+<p class="detached">🔗 <a href="https://make.wordpress.org/core/2020/03/11/all-women-release-squad/" target="_blank" rel="noopener">Read the article</a> and the <a href="https://make.wordpress.org/core/2020/08/13/wordpress-5-6-release-planning/" target="_blank" rel="noopener">release planning</a> (on WordPress.org)</p>
 
 ## Benevolent sexism: a feminist comic explains how it holds women back
 

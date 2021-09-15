@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 3. Responsive design at 10'
-last_modified_at: '2021-09-04T14:59:28.393Z'
+last_modified_at: '2021-09-15 18:40:31'
 featured-post: false
 categories:
   - Design Digested
@@ -49,9 +49,9 @@ Time flies. Ever since the original _Responsive Web Design_ article ten years ag
 
 If social distancing is the new norm for the foreseeable future, we need to understand how to design with this constraint in mind and with regard to what we know about collaboration, privacy, space and expectations.
 
-<p class="detached">By <a href="https://www.linkedin.com/in/frankspillers/" target="_blank" rel="noopener">Frank Spillers</a> of Experience Dynamic, Inc.<br>
+<p class="detached">By Frank Spillers of Experience Dynamic, Inc.<br>
 When: Friday June 26th 7am PST; (10am EST; 3pm GMT)<br><br>
-🔗 <a href="https://lnkd.in/dM3g_gR" target="_blank" rel="noopener">Register for free</a></p>
+🔗 <a href="https://lnkd.in/dM3g_gR" target="_blank" rel="noopener" title="Go to the event's page on LinkedIn">Register for free</a></p>
 
 ## Mobile First by Luke Wroblewski
 

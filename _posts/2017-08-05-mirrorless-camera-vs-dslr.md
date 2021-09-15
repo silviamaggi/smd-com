@@ -1,6 +1,6 @@
 ---
 title: Mirrorless camera vs DSLR. My experience in Edinburgh
-last_modified_at: '2021-09-13 01:13:22'
+last_modified_at: '2021-09-15 18:15:22'
 featured-post: false
 categories:
   - Photography
@@ -21,7 +21,7 @@ redirect_from:
 
 {% include pattern-figure.html image="/assets/images/20170804_edinburgh_1265.jpg" caption="Calton Hill, Edinburgh" width="1400" height="740" %}
 
-I bought a [Fujifilm X-T20](https://fujifilm-x.com/en-us/products/cameras/x-t20/){:target="_blank" rel="noopener"}. The main reason for me to switch from an entry-level Canon
+I bought a [Fujifilm X-T20](https://fujifilm-x.com/en-us/products/cameras/x-t20/){:target="_blank" rel="noopener" title="Go to the FujiFilm website"}. The main reason for me to switch from an entry-level Canon
 <abbr title="Digital Single-Lense Reflex">DSLR</abbr> to a mirrorless camera was initially to carry less weight around.
 
 After reading the manual, though, it became clear that the little camera would make a more profound change in the way I take and process my pictures.
@@ -30,7 +30,7 @@ After reading the manual, though, it became clear that the little camera would m
 
 ## The Test
 
-A visit to Edinburgh, where a photo of mine was exhibited at the _[Shutter Hub Open exhibition at Retina Festival]({{ site.url }}/photography/shutter-hub-open-retina-festival/)_, seemed the right occasion for trying out the new entry. I’ve decided to make good use of the help the camera can give me by using the following settings:
+A visit to Edinburgh, where a photo of mine was exhibited at the _[Shutter Hub Open exhibition at Retina Festival](/photography/shutter-hub-open-retina-festival/){:title="Read the post on my website"}_, seemed the right occasion for trying out the new entry. I’ve decided to make good use of the help the camera can give me by using the following settings:
 
 <ul class="smd-ul">
 <li>Automatic white balance</li>

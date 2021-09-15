@@ -1,6 +1,6 @@
 ---
 title: I have a thing for trees
-last_modified_at: '2021-09-13 01:15:30'
+last_modified_at: '2021-09-15 18:15:28'
 featured-post: false
 categories:
   - Photography
@@ -15,7 +15,7 @@ excerpt: "Going through last year's photos, I found quite a few of them have tre
 featured-image: feat-201701-angleseyabbey_2366.jpg
 carousel: true
 ---
-<p class="lead">The last time I was out and about with the intention of taking pictures, was in November 2016, in <a href="{{ site.url }}/photography/the-berlin-fascination/">Berlin</a>.</p>
+<p class="lead">The last time I was out and about with the intention of taking pictures, was in November 2016, in <a href="/photography/the-berlin-fascination/" target="_blank" rel="noopener" title="View the blog post 'The Berlin Fascination' on my website">Berlin</a>.</p>
 
 {% include pattern-figure.html image="/assets/images/201701-angleseyabbey-2366.jpg" caption="Bloossoms, Anglesey Abbey, March 2016" width="1400" height="740" %}
 
@@ -29,7 +29,7 @@ Going through last year's photos, I found quite a few of them have trees as a su
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-trees/gallery-1/" id="1" %}
 
-Some are more striking than others, like the ones at [Sachsenhausen Concentration Camp](https://www.sachsenhausen-sbg.de/en/){:target="_blank" rel="noopener"}. They're beautiful figures in a former place of terror and death, and probably their falling leaves and autumnal aspect contributed to the disturbing atmosphere.
+Some are more striking than others, like the ones at [Sachsenhausen Concentration Camp](https://www.sachsenhausen-sbg.de/en/){:target="_blank" rel="noopener" title="Go to the Sachsenshausen Concentration Camp website"}. They're beautiful figures in a former place of terror and death, and probably their falling leaves and autumnal aspect contributed to the disturbing atmosphere.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-trees/gallery-2/" id="2" %}
 

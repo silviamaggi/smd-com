@@ -1,6 +1,6 @@
 ---
 title: Entrance with art
-last_modified_at: '2021-09-13 01:12:48'
+last_modified_at: '2021-09-15 18:17:28'
 featured-post: false
 categories:
   - Photography
@@ -18,6 +18,6 @@ redirect_from:
 
 {% include pattern-figure.html image="/assets/images/20210628-ravenna_5660.jpg" caption="Entrance with art" width="1280" height="886" %}
 
-This photo marks the first time I used my camera since 3 April, when the [wisteria started to bloom]({{ site.url }}/photography/wisteria-in-bloom/) in the seaside town.
+This photo marks the first time I used my camera since 3 April, when the [wisteria started to bloom](/photography/wisteria-in-bloom/){:title="View the photos of the wisteria"} in the seaside town.
 
 <p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>

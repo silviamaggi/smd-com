@@ -1,6 +1,6 @@
 ---
 title: Because We Can Exhibition at Festival Pil’Ours
-last_modified_at: '2021-09-13 00:58:28'
+last_modified_at: '2021-09-15 18:39:52'
 featured-post: false
 categories:
   - Photography
@@ -28,12 +28,12 @@ redirect_from:
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-because-we-can-exhibition/" %}
 
-Read more about the exhibition on the [Shutter Hub blog](https://shutterhub.org.uk/because-we-can-exhibition-launch-and-photos/){:target="_blank" rel="noopener"}.
+Read more about the exhibition on the [Shutter Hub blog](https://shutterhub.org.uk/because-we-can-exhibition-launch-and-photos/){:target="_blank" rel="noopener" title="Read the post on the Shutter Hub website"}.
 
 ## About Shutter Hub
 
 The photography organisation providing opportunities, support and networking for creative photographers worldwide.  
 
-<p class="detached">🔗 <a href="http://shutterhub.org.uk" target="_blank" rel="noopener">http://shutterhub.org.uk</a></p>
+<p class="detached">🔗 <a href="https://shutterhub.org.uk" target="_blank" rel="noopener" title="Go to the Shutter Hub website">https://shutterhub.org.uk</a></p>
 
 <!-- <small>Header and first picture credit &copy; Jayne Lloyd / Shutter Hub - Shutter Hub at Festival Pil'ours, Saint-Gilles-Croix-de-Vie, France.</small> -->

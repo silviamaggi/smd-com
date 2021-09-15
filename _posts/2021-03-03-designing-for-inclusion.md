@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 17. Start designing for inclusion'
-last_modified_at: '2021-09-04T19:14:38.721Z'
+last_modified_at: '2021-09-15 18:10:20'
 featured-post: false
 categories:
   - Design Digested
@@ -24,7 +24,7 @@ For Stacie Sheldon, an American Indian UX professional, it all starts with words
 >
 > <cite>— Stacie Sheldon</cite>
 
-<p class="detached">🔗 <a href="https://uxdesign.cc/from-scientific-racism-to-inclusive-design-c8b43a4b757d" target="_blank" rel="noopener">From scientific racism to inclusive design</a> (on Medium)</p>
+<p class="detached">🔗 <a href="https://uxdesign.cc/from-scientific-racism-to-inclusive-design-c8b43a4b757d" target="_blank" rel="noopener" title="Read the article">From scientific racism to inclusive design</a> (on Medium)</p>
 
 <hr>
 
@@ -34,12 +34,12 @@ Designing for inclusion also means thinking about how the design of content can 
 >
 > <cite>— Daniel Carter, Carra Martinez</cite>
 
-<p class="detached">🔗 <a href="https://alistapart.com/article/designing-inclusive-content-models/" target="_blank" rel="noopener">Designing Inclusive Content Models</a> (on A List Apart)</p>
+<p class="detached">🔗 <a href="https://alistapart.com/article/designing-inclusive-content-models/" target="_blank" rel="noopener" title="Read the article">Designing Inclusive Content Models</a> (on A List Apart)</p>
 
 ## Further resources
 
 <ul class="smd-ul">
-<li><a href="https://www.microsoft.com/design/inclusive/" target="_blank" rel="noopener">Microsoft Design: Inclusive Design Principles</a></li>
-<li><a href="https://stephaniewalter.design/blog/52-ux-cards-to-discover-cognitive-biases/" target="_blank" rel="noopener">52 UX Cards to Discover Cognitive Biases</a></li>
-<li><a href="https://growth.design/psychology/" target="_blank" rel="noopener">The Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX</a></li>
+<li><a href="https://www.microsoft.com/design/inclusive/" target="_blank" rel="noopener">Microsoft Design: Inclusive Design Principles</a> (on Microsoft's website)</li>
+<li><a href="https://stephaniewalter.design/blog/52-ux-cards-to-discover-cognitive-biases/" target="_blank" rel="noopener">52 UX Cards to Discover Cognitive Biases</a> (on St&eacute;phanie Walter's website)</li>
+<li><a href="https://growth.design/psychology/" target="_blank" rel="noopener">The Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX</a> (on Growth Design)</li>
 </ul>

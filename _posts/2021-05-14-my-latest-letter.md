@@ -1,6 +1,6 @@
 ---
 title: My latest letter
-last_modified_at: '2021-09-12 21:21:39'
+last_modified_at: '2021-09-15 18:16:49'
 featured-post: false
 categories:
   - Design
@@ -14,7 +14,7 @@ permalink: '/design-digested/:title/'
 redirect_from:
   - /it/design-it/una-lettera/
 ---
-<p class="lead">Every couple of weeks, I write a letter to the nice people subscribed to <a href="https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8" target="_blank" rel="noopener"><em>Design, Digested</em></a>. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.</p>
+<p class="lead">Every couple of weeks, I write a letter to the nice people subscribed to <a href="https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8" target="_blank" rel="noopener" title="View the newsletter archive on Mailchimp"><em>Design, Digested</em></a>. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.</p>
 
 <!--more-->
 

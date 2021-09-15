@@ -1,6 +1,6 @@
 ---
 title: Wisteria in bloom
-last_modified_at: '2021-09-13 01:12:43'
+last_modified_at: '2021-09-15 18:11:40'
 featured-post: false
 categories:
   - Photography
@@ -25,6 +25,6 @@ redirect_from:
 
 Only a few days ago, the wisteria in the yard was pretty much asleep. Now, it’s giving us a hint of its beauty.
 
-I know the plant as _glicine_ (ˈɡlitʃine). Its Italian name derives from the Greek _glykýs_, which means ‘sweet’. Wisteria evokes the warm, sunny afternoons spent underneath a pergola [by the lake]({{ site.url }}/photography/instagram-drained-my-creativity/) in my hometown. I can’t wait to see this one at its peak.
+I know the plant as _glicine_ (ˈɡlitʃine). Its Italian name derives from the Greek _glykýs_, which means ‘sweet’. Wisteria evokes the warm, sunny afternoons spent underneath a pergola [by the lake](/photography/instagram-drained-my-creativity/){:title="View pictures from my hometown"} in my hometown. I can’t wait to see this one at its peak.
 
 <p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>

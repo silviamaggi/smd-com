@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 18. The importance of sketching in UX'
-last_modified_at: '2021-09-12T19:03:27.521Z'
+last_modified_at: '2021-09-15 18:09:49'
 featured-post: false
 categories:
   - Design Digested
@@ -37,7 +37,7 @@ You don’t need to be an artist to sketch effectively but there are a few techn
 
 {% include pattern-video.html id="vN2MFF2YZjo" title="Sketching Techniques #1" %}
 
-I used Matt’s advice to refine storyboard and wireframes for the [Acclimatize.me case study]({{ site.url }}/portfolio/case-study-acclimatize-me/), and I’m happy with the result.
+I used Matt’s advice to refine storyboard and wireframes for the [Acclimatize.me case study](/portfolio/case-study-acclimatize-me/){:title="View the case study on my website"}, and I’m happy with the result.
 
 ## Go beyond
 
@@ -47,7 +47,7 @@ Whether you’re a UX designer or not, learning how to sketch can benefit you in
 >
 > <cite>— José Torre</cite>
 
-The secret is repetition, says José Torre. You just need to get started. In the article he explains why, when, what and how to start drawing today. José also suggests you can use drawings to illustrate your ideas in presentations as well. He reminded me of the insightful and delightful webinar by UX designer [Morgane Peng](https://www.morganepeng.com/){:target="_blank" rel="noopener"}, [_How to Deal with People Who Don’t “Get” Design_](https://youtu.be/jXkMWvXx3MI){:target="_blank" rel="noopener"}. Her illustrations complement perfectly her message while making the talk enjoyable and fun.
+The secret is repetition, says José Torre. You just need to get started. In the article he explains why, when, what and how to start drawing today. José also suggests you can use drawings to illustrate your ideas in presentations as well. He reminded me of the insightful and delightful webinar by UX designer [Morgane Peng](https://www.morganepeng.com/){:target="_blank" rel="noopener" title="Go to Morgane's website"}, [_How to Deal with People Who Don’t “Get” Design_](https://youtu.be/jXkMWvXx3MI){:target="_blank" rel="noopener" title="Watch the webinar on YouTube"}. Her illustrations complement perfectly her message while making the talk enjoyable and fun.
 
 <p class="detached">🔗 <a href="https://uxdesign.cc/why-should-you-start-drawing-today-6e7fb8956bd7" target="_blank" rel="noopener">Read the article</a> (on Medium)</p>
 
@@ -67,11 +67,13 @@ The workbook is the ideal companion of the book, where the theory behind the tec
 
 {% include pattern-figure.html image="/assets/images/drawing-on-the-right-side-of-the-brain-1.jpg" caption="The new drawing on the right side of the brain workbook" width="229" height="315" %}
 
-<p class="detached">🔗 <a href="https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain" target="_blank" rel="noopener">The New Drawing on the Right Side of the Brain</a><br>
-🔗 <a href="https://www.goodreads.com/book/show/74124.The_New_Drawing_on_the_Right_Side_of_the_Brain_Workbook" target="_blank" rel="noopener">The New Drawing on the Right Side of the Brain Workbook: Guided Practice in the Five Basic Skills of Drawing</a></p>
+<ul class="smd-ul">
+<li><a href="https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain" target="_blank" rel="noopener" title="Read more about the book">The New Drawing on the Right Side of the Brain</a> (on Goodreads)</li>
+<li><a href="https://www.goodreads.com/book/show/74124.The_New_Drawing_on_the_Right_Side_of_the_Brain_Workbook" target="_blank" rel="noopener" title="Read more about the book">The New Drawing on the Right Side of the Brain Workbook: Guided Practice in the Five Basic Skills of Drawing</a> (on Goodreads)</li>
+</ul>
 
 ## Update
 
-As much as wanted to follow my own advice and sketch every day, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up. After reading an article, I started a new journey and wrote about it on the post [Learning to draw: a journey]({{ site.url }}/drawing/learning-to-draw/).
+As much as wanted to follow my own advice and sketch every day, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up. After reading an article, I started a new journey and wrote about it on the post [Learning to draw: a journey](/drawing/learning-to-draw/){:title="Read the post on my website"}.
 
 <!-- <small>Photo and design by Silvia Maggi</small> -->

@@ -1,6 +1,6 @@
 ---
 title: Today I saw
-last_modified_at: '2021-09-13 01:12:22'
+last_modified_at: '2021-09-15 18:15:57'
 featured-post: false
 categories:
   - Photography
@@ -21,7 +21,7 @@ redirect_from:
 
 {% include pattern-figure.html image="/assets/images/today-i-saw.jpg" caption="An abandoned cobweb in my garden" width="1280" height="844" %}
 
-It happens a lot: I even wrote a post called [How Instagram Drained My Creativity]({{ site.url }}/photography/instagram-drained-my-creativity/), where I described what made me appreciate photography again. More than a year later, I’ve yet to free myself from the loop of brief satisfaction of the numbers and the desire to have more.
+It happens a lot: I even wrote a post called [How Instagram Drained My Creativity](/photography/instagram-drained-my-creativity/){:title="Read the post on my website"}, where I described what made me appreciate photography again. More than a year later, I’ve yet to free myself from the loop of brief satisfaction of the numbers and the desire to have more.
 
 ## Breaking The Loop
 
@@ -29,6 +29,6 @@ The stark reality is that the recipe for success on Instagram is merely a way to
 
 ## What I Like About Today’s Photo
 
-I saw it yesterday, while out in the garden. I liked the shimmers of light on the abandoned cobweb and the fact that it is attached to our now dry flowers. It’s a stark contrast to [the way they looked a few months ago]({{ site.url }}/photography/isolation-photo-diary/).
+I saw it yesterday, while out in the garden. I liked the shimmers of light on the abandoned cobweb and the fact that it is attached to our now dry flowers. It’s a stark contrast to [the way they looked a few months ago](/photography/isolation-photo-diary/){:title="View the photography project on my website"}.
 
 <p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>
