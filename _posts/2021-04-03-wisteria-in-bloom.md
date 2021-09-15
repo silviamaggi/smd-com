@@ -11,9 +11,6 @@ tags:
   - italy
 description: 'As the weather warms, the wisteria in the yard is blooming. I took a couple of pictures of it.'
 featured-image: feat-20210403-wisteria-in-bloom-1.jpg
-redirect_from:
-  - /it/oggi-ho-visto/glicine-in-fiore/
-  - /today-i-saw/wisteria-in-bloom
 ---
 <p class="lead">Before the weather turned chilly again, we’ve enjoyed very mild temperatures. It’s easy to think the winter has gone, when the temperature is 22ºC and the flowers are blooming.</p>
 

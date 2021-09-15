@@ -12,8 +12,6 @@ description: The new instalment of the digest is dedicated to the elimination of
 excerpt: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
 featured-image: feat-design-digested-14.jpg
 permalink: '/design-digested/:title/'
-redirect_from:
-  - /design-digested/design-digested-14-elimination-of-violence-against-women-edition/
 ---
 <p class="lead">25 November marks the <a href="https://www.un.org/en/observances/ending-violence-against-women-day" target="_blank" rel="noopener" title="Go to the UN website">International Day for the Elimination of Violence against Women</a>.
 This year the day is even more important as data and reports show that violence against women and girls intensified during the pandemic.</p>

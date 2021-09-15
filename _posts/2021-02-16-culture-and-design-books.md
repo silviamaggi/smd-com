@@ -9,9 +9,6 @@ tags:
   - social media
 description: "Here are the culture and design books I'm reading. Some are ideal if you're a designer, others are either very interesting or funny — or both — for anyone."
 featured-image: feat-recommended-reads.jpg
-redirect_from:
-  - /social-media/culture-and-design-books/
-  - /it/libri/libri-di-cultura-e-design/
 ---
 <p class="lead">As a child, I always had books with me. I loved losing myself into good stories, to the point it hurt when they finished. In later years, my attention span became ridiculously short.</p>
 

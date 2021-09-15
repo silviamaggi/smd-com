@@ -6,10 +6,6 @@ last_modified_at: '2021-09-11T14:49:59.208Z'
 description: 'Subscribe to Design, Digested, a newsletter about design, tech, their implication in our lives and the occasional photography work.'
 excerpt: 'Subscribe to Design, Digested, a newsletter about design, tech, their implication in our lives and the occasional photography work.'
 permalink: /design-inspiration-newsletter-silvia-maggi/
-redirect_from:
-  - /design-digested-a-newsletter-by-silvia-maggi/
-  - /design-inspiration-newsletter-by-silvia-maggi
-  - /design-digested-newsletter-by-silvia-maggi
 ---
 <p class="lead"><em>Design, Digested</em> is a newsletter about design, tech, and their implications in our lives. Delivered every two weeks to your mailbox, it contains posts from the blog and carefully curated inspiration stories. Both in English and Italian.</p>
 

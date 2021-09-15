@@ -11,8 +11,6 @@ tags:
 description: After the initial shock, the lockdown and subsequent isolation prompted me to point the lens to my emotions and immediate surroundings.
 excerpt: "Between the ups and downs of the global pandemic and lockdown, I kept taking pictures. I intended to have a photo diary to describe my take on isolation and the extraordinary circumstances we're living."
 featured-image: feat-isolation-photo-diary-silviamaggi.jpg
-redirect_from:
-  - /creativity/isolation-photo-diary/
 ---
 
 <p class="lead">Between the ups and downs of the global pandemic and lockdown, I kept taking pictures. I intended to have a photo diary to describe my take on isolation and the extraordinary circumstances we’re living.</p>

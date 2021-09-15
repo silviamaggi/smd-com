@@ -12,12 +12,6 @@ tags:
 description: I share a compelling article about dark patterns in UI to help you recognise them.
 featured-image: feat-design-digested-16.jpg
 permalink: '/design-digested/:title/'
-redirect_from:
-  - /it/design-it/dark-patterns-web/
-  - /it/design-it/dark-pattern-web/
-  - /it/design/dark-patterns-web/
-  - /it/uncategorized-it/dark-patterns-web/
-  - /design/dark-patterns-in-user-interfaces/
 ---
 <p class="lead">Recently, I read a couple of compelling blog post about dark patterns in user interfaces copy. An essential read to understand what they are, how they’re used to deceive people and how to recognise them.</p>
 

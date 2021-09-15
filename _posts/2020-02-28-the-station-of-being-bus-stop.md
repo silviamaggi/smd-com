@@ -9,9 +9,6 @@ tags:
   - sweden
 description: "A deep understanding of users' needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers."
 featured-image: feat-station-of-being-samuel-pettersson.jpg
-redirect_from:
-  - /design/design-the-station-of-being-bus-stop-experience/
-  - /design/design-the-station-of-being-bus-stop/
 ---
 <p class="lead">A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.</p>
 

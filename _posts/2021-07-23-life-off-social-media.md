@@ -8,8 +8,6 @@ tags:
   - social media
 description: "I tell you what happened when I quit social media six months ago, and why I don't want to come back."
 featured-image: feat-max-van-den-oetelaar-unsplash.jpg
-redirect_from:
-  - /social-media/life-off-social-media/
 ---
 <p class="lead">I used to be everywhere. Name the social media and, most probably, I had an account. Internet’s always been a big thing for me, and a certain kind of online presence was good for my profession, hobbies and relationships.</p>
 

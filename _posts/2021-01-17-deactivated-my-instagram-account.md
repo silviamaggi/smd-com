@@ -10,11 +10,6 @@ tags:
   - social media
 description: "I deactivated my Instagram account. What now? If it sounds like a big a deal, it's because it is. My first week post-Instagram."
 featured-image: feat-deactivated-instagram-account.jpg
-redirect_from:
-  - /i-deactivated-my-instagram-account-what-now/
-  - /photography/i-deactivated-my-instagram-account-what-now/
-  - /photography/i-deactivated-my-instagram-account/
-  - /photography/deactivated-my-instagram-account/
 ---
 <p class="lead">If it sounds like a big deal, it’s because it is. For someone passionate about photography, deciding to break with one of the most popular social networks might seem counter-productive.</p>
 

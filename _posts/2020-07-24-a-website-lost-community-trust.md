@@ -12,9 +12,6 @@ tags:
 description: "A well-known website lost community trust with a redesign that didn't take into account its users with disabilities."
 featured-image: feat-design-digested-8.jpg
 permalink: '/design-digested/:title/'
-redirect_from:
-  - /accessibility/design-digested-8-how-a-well-known-website-lost-the-trust-of-their-community/
-  - /accessibility/a-website-lost-community-trust/
 ---
 <p class="lead">In this inspiration series: a well-known website lost community trust with a redesign that didn’t take into account its users with disabilities.</p>
 

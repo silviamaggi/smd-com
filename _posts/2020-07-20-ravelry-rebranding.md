@@ -13,9 +13,6 @@ description: Knitting website Ravelry lost the trust of their community after th
 excerpt: Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.
 featured-image: feat-ravelry-rebranding.jpg
 permalink: '/design/:title/'
-redirect_from:
-  - /2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/
-  - /design/how-rebranding-cost-ravelry-the-trust-of-their-community/
 ---
 {% include pattern-figure-featured.html width="1200" height="500" caption='Photo by <a href="https://unsplash.com/photos/IcvR0jFbsz0" target="_blank" rel="noopener">Tara Evans</a>' %}
 

@@ -12,9 +12,6 @@ description: 'Design, Digested 15. This week we look into the toxic dogmatism of
 excerpt: 'Design, Digested 15. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.'
 featured-image: feat-design-digested-15.jpg
 permalink: '/design-digested/:title/'
-redirect_from:
-  - /design/undoing-toxic-dogmatism-designing-less-be-more-effective/
-  - /design/undoing-toxic-dogmatism/
 ---
 
 <p class="lead">Design inspiration series. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.</p>

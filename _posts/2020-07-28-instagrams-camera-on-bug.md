@@ -10,8 +10,6 @@ tags:
   - social media
 description: "Instagram is reportedly fixing the camera on bug, which was discovered by a user while testing Apple's iOS 14 beta version."
 featured-image: feat-instagram-bug.jpg
-redirect_from:
-  - /social-media/instagrams-camera-on-bug/
 ---
 <p class="lead">Instagram is reportedly fixing the camera-on bug, which was discovered by a user while testing Apple’s iOS 14 beta version.</p>
 

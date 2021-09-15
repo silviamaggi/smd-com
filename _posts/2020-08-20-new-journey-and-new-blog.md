@@ -10,9 +10,6 @@ tags:
   - uk
 description: Follow our blog Oregano Dangereux as my husband and I move back to Italy from the UK.
 featured-image: feat-new-journey-new-blog.jpg
-redirect_from:
-  - /photography/new-journey-new-blog/
-  - /photography/new-journey-and-new-blog/
 ---
 <p class="lead">New journey and new blog for my husband and I to record thoughts, experiences and memories. After nine years, we’re going back to our home country, Italy, where we’ll stay until the pandemic is under control.</p>
 

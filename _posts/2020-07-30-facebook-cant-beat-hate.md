@@ -11,10 +11,6 @@ tags:
 description: "Design inspiration series. Why Facebook can't beat hate, a safe haven for press freedom, a game to recognise disinformation."
 featured-image: feat-design-digested-9.jpg
 permalink: '/design-digested/:title/'
-redirect_from:
-  - /2020/07/30/design-digested-9-facebook-cant-beat-hate-the-uncensored-library-and-get-bad-news/
-  - /social-media/design-digested-9-facebook-cant-beat-hate-the-uncensored-library-and-get-bad-news/
-  - /social-media/facebook-cant-beat-hate/
 ---
 <p class="lead">Design inspiration series. Why Facebook can’t beat hate, a safe haven for press freedom, a game to recognise disinformation.</p>
 

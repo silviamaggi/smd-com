@@ -12,10 +12,6 @@ tags:
 description: 'On information overload and my plans for the newsletter Design, Digested.'
 featured-image: feat-smd-blog-featured-image_lettera.jpg
 permalink: '/design-digested/:title/'
-redirect_from:
-  - /design/information-overload/
-  - /it/design-it/sovraccarico-di-informazioni/
-  - /it/design-digested-it/sovraccarico-di-informazioni/
 ---
 <p class="lead">On the latest letter I sent out on 20 June, I set out my plans for the next few months. Ever felt overwhelmed by the quantity of information found on the internet? Then you’ll know what I’m talking about.</p>
 

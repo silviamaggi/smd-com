@@ -13,10 +13,6 @@ description: 'The role of fear in our lives and how it affects decision-making, 
 excerpt: 'The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.'
 featured-image: feat-design-digested-13.jpg
 permalink: '/design-digested/:title/'
-redirect_from:
-  - /2020/11/03/design-digested-13-fear-ai-bias-and-enzo-mari-legacy/
-  - /design/design-digested-13-fear-ai-bias-and-enzo-mari-legacy/
-  - /design/ai-bias-and-enzo-mari-legacy/
 ---
 <p class="lead">On the design inspiration new instalment: the role of fear in our lives and how it affects decision-making, how bias in AI happens and the legacy of “giant” of Italian design Enzo Mari.</p>
 

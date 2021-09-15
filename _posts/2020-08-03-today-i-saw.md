@@ -12,8 +12,6 @@ tags:
   - uk
 description: "With the intent of staying away from social media, I started 'Today I Saw', a series where I post one photo and a few thoughts about it."
 featured-image: feat-today-i-saw-silviamaggi.jpg
-redirect_from:
-  - /today-i-saw/today-i-saw/
 ---
 <p class="lead">It’s that itch again. Today I saw something I like but can’t take a picture. Or, I can and do, but it doesn’t work on Instagram.</p>
 

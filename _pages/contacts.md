@@ -6,10 +6,6 @@ last_modified_at: '2021-09-15 20:25:17'
 description: 'Get in touch via email, connect on LinkedIn, Flickr, and GitHub. You can also subscribe to my RSS feed or newsletter.'
 excerpt: 'Get in touch via email, connect on LinkedIn, Flickr, and GitHub. You can also subscribe to my RSS feed or newsletter.'
 permalink: /get-in-touch-silviamaggi/
-redirect_from:
-  - /contact/
-  - /contacts-silviamaggi/
-  - /it/contatti/
 ---
 {%- assign socialnav = site.data.nav-social -%}
 

@@ -10,8 +10,6 @@ tags:
   - personal
 description: "As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey."
 featured-image: feat-sam-rios-unsplash.jpg
-redirect_from:
-  - /design/learning-to-draw/
 ---
 <p class="lead">In my latest <em>Design, Digested</em> post titled <a href="/design-digested/importance-of-sketching-in-ux/" title="Read the post on my website">The importance of sketching in UX and beyond</a>, I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing <em>what</em> to draw, and then give up.</p>
 

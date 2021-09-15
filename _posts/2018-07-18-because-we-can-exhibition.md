@@ -11,12 +11,6 @@ tags:
 description: "I'm presenting three pictures at the Because We Can! exhibition by Shutter Hub, part of Festival Pil'Ours."
 featured-image: feat-jayne_180718_7765-header.jpg
 carousel: true
-redirect_from:
-  - /because-we-can-shutter-hub-exhibition-festival-pilours/
-  - /exhibition/because-we-can-exhibition-festival-pilours/
-  - /exhibition/because-we-can-exhibition-shutter-hub-festival-pilours/
-  - /exhibition/because-we-can-shutter-hub-exhibition-festival-pilours/
-  - /exhibition/because-we-can-exhibition/
 ---
 <p class="lead">It is with great excitement that I can say three of my pictures are part of the <em>Because We Can! Exhibition</em> by Shutter Hub, part of Festival Pil’Ours.</p>
 

@@ -11,8 +11,6 @@ tags:
 description: "Every couple of weeks, I write a letter to the nice people subscribed to Design, Digested. This is the one where I didn't know what to write."
 featured-image: feat-smd-blog-featured-image_lettera.jpg
 permalink: '/design-digested/:title/'
-redirect_from:
-  - /it/design-it/una-lettera/
 ---
 <p class="lead">Every couple of weeks, I write a letter to the nice people subscribed to <a href="https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8" target="_blank" rel="noopener" title="View the newsletter archive on Mailchimp"><em>Design, Digested</em></a>. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.</p>
 

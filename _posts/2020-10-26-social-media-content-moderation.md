@@ -12,10 +12,6 @@ tags:
 description: "This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism."
 featured-image: feat-design-digested-12.jpg
 permalink: '/design-digested/:title/'
-redirect_from:
-  - /2020/10/26/design-digested-12-social-media-issues-complicated-products-and-redesigning-capitalism/
-  - /social-media/design-digested-12-social-media-issues-complicated-products-and-redesigning-capitalism/
-  - /social-media/social-media-content-moderation/
 ---
 <p class="lead">After a two-month <a href="/photography/after-the-rain/" title="Read the blog post 'After the rain' on my website">hiatus</a>, the design inspiration series is back with a focus on social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.</p>
 

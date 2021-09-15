@@ -10,8 +10,6 @@ tags:
   - uk
 description: 'Today I took time to appreciate my surroundings. After the rain shower, I shot a few pictures in my garden.'
 featured-image: feat-after-the-rain-silviamaggi.jpg
-redirect_from:
-  - /today-i-saw/after-the-rain/
 ---
 <p class="lead">Today, I used the tripod to take a few short videos in the garden. I took time to appreciate my surroundings after a rain shower.</p>
 

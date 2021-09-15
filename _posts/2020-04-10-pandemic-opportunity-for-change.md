@@ -11,8 +11,6 @@ tags:
 description: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
 excerpt: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
 featured-image: feat-charlie-deets.jpg
-redirect_from:
-  - /design/crisis-opportunity-to-shape-a-better-society/
 ---
 <p class="lead">The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.</p>
 

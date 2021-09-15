@@ -12,9 +12,6 @@ tags:
 description: 'Design inspiration series. Four anti-racist lessons, problems with empathic design and the misogyny of the workforce.'
 featured-image: feat-design-digested-6.jpg
 permalink: '/design-digested/:title/'
-redirect_from:
-  - /design/design-digested-6-anti-racist-lessons-empathic-design-misogyny-of-the-workforce/
-  - /design/design-digested-empathic-design/
 ---
 <p class="lead">Design inspiration series. This week: four anti-racism lessons, Don Norman doesn’t believe in empathic design and working in tech as a woman.</p>
 

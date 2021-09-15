@@ -9,8 +9,6 @@ tags:
   - italy
 description: 'How is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.'
 featured-image: feat-20210628-entrance-with-art.jpg
-redirect_from:
-  - /it/fotografia/entrata-con-arte/
 ---
 <p class="lead">Stepping into our new house for the summer, I wonder: how is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.</p>
 

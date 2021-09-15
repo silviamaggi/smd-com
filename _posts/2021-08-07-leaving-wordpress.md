@@ -10,8 +10,6 @@ tags:
   - wordpress
 description: An announcement to my WordPress followers.
 featured-image: feat-marco-chilese-unsplash.jpg
-redirect_from:
-  - /it/personale/lascio-wordpress/
 ---
 <p class="lead">An announcement to my WordPress followers.
 Soon, I’ll be starting a process to move away from the platform: my website will have a new house, look, and ways to be managed.</p>
