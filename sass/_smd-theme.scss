@@ -269,11 +269,14 @@ cite {
       line-height: 1.6;
       hyphens: auto;
       padding-left: $spacer*.5;
-      &::marker {
-        font-family: $headings-font-family;
+      &::before {
+        display: inline-block;
+        width: 1.5rem;
         content: counter(smd-counter) ".";
-        color: $link-d-20;
+        font-family: $headings-font-family;
         font-weight: bold;
+        color: $link-d-20;
+        margin-left: -1.5rem;
       }
 
       ol {
