@@ -17,7 +17,7 @@ permalink: /silvia-maggi-portfolio/
       {% for casestudy in site.casestudies %}
       <div class="col smd-transition-opacity-03s">
         <div class="card h-100 smd-transition-border-03s">
-          <img class="card-img-top" src="/assets/images/highlights/highlighted-{{ casestudy.featured-image }}" alt="{{ casestudy.title }}" width="300" height="169">
+          <img class="card-img-top" src="/assets/images/highlights/highlighted-{{ casestudy.featured-image }}" alt="{{ casestudy.featured-image-alt }}" width="300" height="169">
           <div class="card-body">
             <h4 class="mt-1 mb-3">{{ casestudy.title }}</h4>
             <p class="small card-text">{{ casestudy.description }}</p>
@@ -56,7 +56,7 @@ permalink: /silvia-maggi-portfolio/
       {% for sideproject in site.sideprojects %}
       <div class="col smd-transition-opacity-03s">
         <div class="card h-100 smd-transition-border-03s">
-          <img class="card-img-top" loading="lazy" src="/assets/images/highlights/highlighted-{{ sideproject.featured-image }}" alt="{{ sideproject.title }}" width="300" height="169">
+          <img class="card-img-top" loading="lazy" src="/assets/images/highlights/highlighted-{{ sideproject.featured-image }}" alt="{{ sideproject.featured-image-alt }}" width="300" height="169">
           <div class="card-body">
             <h4 class="mt-1 mb-3">{{ sideproject.title }}</h4>
             <p class="small card-text">{{ sideproject.description }}</p>
