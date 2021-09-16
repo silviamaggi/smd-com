@@ -29,7 +29,9 @@ The website adopts a secure <abbr title="Secure Sockets Layer">SSL</abbr> protoc
 
 <h2 class="display-6">Analytics</h2>
 
-Cloudflare Pages analytics don’t cookie visitors, collect their personal information, or track them across sites. [Read more](https://www.cloudflare.com/web-analytics/){:target="_blank" rel="noopener" title="Read about it on the Cloudflare website"}.
+> *Cloudflare Web Analytics does not use any client-side state, such as cookies or localStorage, to collect usage metrics. We also don’t “fingerprint” individuals via their IP address, User Agent string, or any other data for the purpose of displaying analytics.*
+>
+> <cite><a href="https://www.cloudflare.com/web-analytics/" target="_blank" rel="noopener" title="Read about it on the Cloudflare website">Cloudflare Pages</a></cite>
 
 <h2 class="display-6" id="newsletter-privacy">Newsletter</h2>
 
