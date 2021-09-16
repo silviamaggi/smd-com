@@ -4,7 +4,7 @@ layout: default
 {%- if page.category -%}
 {% assign catName = page.category %}
 {% assign catLoop = site.categories[catName] %}
-<h1>Category: {{ catName }}</h1>
+<h1 class="text-center text-md-start mt-4 mt-md-0">aaaCategory: {{ catName }}</h1>
 {% for post in catLoop %}
 <div class="card">
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -14,7 +14,7 @@ layout: default
 {% endfor %}
 {%- endif -%}
 {%- if page.tag -%}
-<h1>Tag: {{ page.tag | capitalize | replace:"-"," " }}</h1>
+<h1 class="text-center text-md-start mt-4 mt-md-0">aaaTag: {{ page.tag | capitalize | replace:"-"," " }}</h1>
 {% for post in site.tags[page.tag] %}
 <div class="card">
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
