@@ -1,9 +1,9 @@
 <a class="visually-hidden" href="#smd-content">Skip to the content</a>
 <nav class="navigation-main mt-md-4 mb-md-4" aria-label="Primary">
-  <ul class="flex-row flex-md-column d-flex justify-content-around mb-0 ps-0 w-md-50">
+  <ul>
     {% for item in site.data.nav-site -%}
-    <li class="nav-item text-center text-md-start mx-0 d-inline-block d-md-block">
-      <a class="nav-link fs-4 text-decoration-none w-50 py-2{% if page.url contains item.link %} smd-current{% endif %}" href="{{ item.link }}" title="{{ item.name }}">{{ item.name }}</a>
+    <li class="nav-item text-center text-md-start mx-0">
+      <a class="nav-link text-decoration-none{% if page.url contains item.link %} smd-current{% endif %}" href="{{ item.link }}" title="{{ item.name }}">{{ item.name }}</a>
     </li>
     {% endfor -%}
   </ul>
