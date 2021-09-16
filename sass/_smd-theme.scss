@@ -68,6 +68,7 @@ h4 {
 // $NAVIGATION
 // ------------------------------------------------ //
 
+/* purgecss start ignore */
 .navigation-main {
   @include media-breakpoint-down(md) {
     position: fixed;
@@ -120,6 +121,7 @@ h4 {
     display: inline-block;
   }
 }
+/* purgecss end ignore */
 #{$site-prefix}-current {
   color: $link-d-40;
 }
