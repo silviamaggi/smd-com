@@ -14,7 +14,8 @@ permalink: /silvia-maggi-portfolio/
   <h2 class="text-center display-6 mb-5">Case studies</h2>
   <div class="card-group">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
-      {% for casestudy in site.casestudies %}
+      {% assign caseStudies = site.casestudies | sort: 'casestudy-order' %}
+      {% for casestudy in caseStudies %}
       <div class="col smd-transition-opacity-03s">
         <div class="card h-100 smd-transition-border-03s">
           <img class="card-img-top" src="/assets/images/highlights/highlighted-{{ casestudy.featured-image }}" alt="{{ casestudy.featured-image-alt }}" width="300" height="169">
