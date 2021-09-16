@@ -1,7 +1,7 @@
 ---
 title: Brand new website
 date: 2021-09-16
-last_modified_at: '2021-09-16 16:08:51'
+last_modified_at: '2021-09-16 21:47:33'
 featured-post: true
 categories:
   - Design
@@ -21,7 +21,7 @@ permalink: brand-new-website
 
 {% include pattern-figure-featured.html image="/assets/images/feat-brand-new-website.jpg" caption="New website, new branding" alt="Silvia Maggi Design new website" width="1200" height="500" %}
 
-<a href="https://minutestomidnight.co.uk" target="_blank" rel="noopener" title="Go to Simone's website">Simone</a> and I built my new website from scratch using [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noopener" title="Go to the Jekyll website"} — a static site generator — and <a href="/colophon/" title="Read more about the technology used on my website">several other tools</a>. *I now have complete control over the code*. It felt natural to refresh logo and styling as well, like it often happens during a home restoration. I made some important changes, too. Let me show you around.
+<a href="https://minutestomidnight.co.uk" target="_blank" rel="noopener" title="Go to Simone's website">Simone</a> and I built my new website from scratch using **Jekyll** — a static site generator — and <a href="/colophon/" title="Read more about the technology used on my website">several other tools</a>. *I now have complete control over the code*. It felt natural to refresh logo and styling as well, like it often happens during a home restoration. I made some important changes, too. Let me show you around.
 
 ## Lock, stock, and barrel
 
@@ -42,7 +42,7 @@ Moving the content from WordPress to Jekyll — and within a new layout — mean
 
 My database on WordPress ballooned, so I seized the opportunity to delete useless tags and categories, reorganising the information architecture of the blog. If you like numbers, I used to have <code>303</code> tags! Most of which were, of course, barely used. You can find the renewed taxonomy in the footer menu, under [Archive](/archive/).
 
-{% include pattern-figure.html image="/assets/images/smd-footer.jpg" alt="Silvia Maggi Design website footer menu" caption="The footer menu containing the archive" width="754" height="149" %}
+{% include pattern-figure.html image="/assets/images/smd-footer.jpg" alt="Silvia Maggi Design website footer menu" caption="The footer menu containing the archive" width="754" height="147" %}
 
 ## Sustainability
 
