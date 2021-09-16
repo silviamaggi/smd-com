@@ -153,6 +153,12 @@ p {
   }
 }
 
+code {
+  background-color: $white;
+  padding: $spacer*0.1;
+  border-radius: 3px;
+}
+
 // Font micro size
 #{$site-prefix}-font-micro {
   @include font-size($micro-font-size);
