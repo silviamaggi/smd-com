@@ -25,7 +25,7 @@ Search module by [David Darnes](https://github.com/daviddarnes){:target="_blank"
 <br>
 Watercolor texture by [Alexandra M&aacute;rquez](https://www.freepik.com/vectors/background/){:target="_blank" rel="noopener" title="View the image on Freepik"}.
 <br>
-Hosted on [CloudFlare Pages](https://pages.cloudflare.com/){:target="_blank" rel="noopener" title="Go to the Cloudflare website"}.
+Hosted on [Netlify](https://www.netlify.com/){:target="_blank" rel="noopener"}.
 
 ## Accessibility
 
@@ -37,13 +37,13 @@ Hosted on [CloudFlare Pages](https://pages.cloudflare.com/){:target="_blank" rel
 <li>
 ✅ Valid markup code for <abbr title="World Wide Web Consortium">W3C</abbr> on <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsilviamaggidesign.com%2F" target="_blank">W3C validator</a>.</li>
 <li>
-✅ <a href="https://developers.google.com/speed/pagespeed/insights/?url=silviamaggidesign.com" target="_blank">Pagespeed benchmark</a> score: <code>99</code>.
+✅ <a href="https://developers.google.com/speed/pagespeed/insights/?url=silviamaggidesign.com" target="_blank">Pagespeed benchmark</a> score: <code>100</code>.
 </li>
 <li>
-✅ <a href="https://gtmetrix.com/reports/silviamaggidesign.com/lo7jWUdi/" target="_blank">GTmetrix</a> performance report:
+✅ <a href="https://gtmetrix.com/reports/silviamaggidesign.com/9yZf6j3w/" target="_blank">GTmetrix</a> performance report:
 <ul>
-<li>Grade: <code>A (99% performance, 100% structure)</code></li>
-<li>Fully loaded time: <code>1.3 seconds</code></li>
+<li>Grade: <code>A (100% performance, 99% structure)</code></li>
+<li>Fully loaded time: <code>748 milliseconds</code></li>
 </ul>
 </li>
 </ul>
