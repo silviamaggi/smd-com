@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 date: 2020-02-27T16:38:23.000Z
-last_modified_at: '2021-09-15 20:24:59'
+last_modified_at: '2021-09-17 23:09:14'
 description: 'I am Silvia Maggi, and this is the privacy policy for my website. By default, the website does not collect any personal data about visitors.'
 permalink: /privacy-policy/
 ---
@@ -25,11 +25,11 @@ An exception to the above is for **YouTube videos**, where all the embeds specif
 
 <h2 class="display-6">Security</h2>
 
-The website adopts a secure <abbr title="Secure Sockets Layer">SSL</abbr> protocol and it's hosted on [Cloudflare Pages](https://pages.cloudflare.com/){:target="_blank" rel="noopener" title="Go to the Cloudflare website"}.
+The website adopts a secure <abbr title="Secure Sockets Layer">SSL</abbr> protocol and it's hosted on [Netlify](https://www.netlify.com/){:target="_blank" rel="noopener" title="Go to the Netlify website"}.
 
 <h2 class="display-6">Analytics</h2>
 
-Cloudflare Pages analytics don’t cookie visitors, collect their personal information, or track them across sites. [Read more](https://www.cloudflare.com/web-analytics/){:target="_blank" rel="noopener" title="Read about it on the Cloudflare website"}.
+This website doesn't use analytics, therefore it doesn't track visits.
 
 <h2 class="display-6" id="newsletter-privacy">Newsletter</h2>
 
