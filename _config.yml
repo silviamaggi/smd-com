@@ -1,5 +1,5 @@
 host: "localhost"
-url: "https://silviamaggidesign.pages.dev"
+url: "https://silviamaggidesign.com"
 baseurl: ""
 
 # SEO
@@ -9,7 +9,8 @@ description: Welcome. Silvia Maggi is a UX Designer striving to create meaningfu
 permalink: /:categories/:title/
 keywords:
   uxdesign,
-  design
+  design,
+  responsive web design
 timezone: Europe/Rome
 logo: /assets/images/silviamaggi-og-image.jpg
 author:
