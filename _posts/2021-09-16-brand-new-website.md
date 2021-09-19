@@ -15,7 +15,6 @@ description: 'I built my new website from scratch using Jekyll, a static site ge
 excerpt: 'I built my new website from scratch using Jekyll, a static site generator. Welcome to my new virtual house. Let me show you around.'
 featured-image: feat-brand-new-website.jpg
 featured-image-alt: New logo and brand image
-permalink: brand-new-website
 ---
 <p class="lead">About a month after <a href="/personal/leaving-wordpress/" title="Read the post 'Leaving WordPress' on my website">announcing it</a>, I'm excited to welcome you to my new virtual house. Can I offer you a drink?</p>
 
