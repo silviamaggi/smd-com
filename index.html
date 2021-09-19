@@ -11,7 +11,10 @@ last_modified_at: 2021-09-16 18:51:16
           <span class="display-4 smd-serif d-inline-block px-4 py-2 text-white smd-text-rotate smd-bg-d-70">{{ site.brand.smd_tagline }}</span>
         </div>
         <div class="col-md-3 d-flex justify-content-md-end">
-          {% include pattern-avatar.html alt="Silvia Maggi portrait" width="120" height="120" %}
+          <div class="h-card">
+            <a class="p-name u-url" href="https://silviamaggidesign.com/about/">{% include pattern-avatar.html alt="Silvia Maggi" width="120" height="120" %}</a> 
+            <a class="p-org h-card visually-hidden" href="https://silviamaggidesign.com/">Silvia Maggi Design</a>
+          </div>
         </div>
         <div class="col-md-9">
           <h1 class="h4 smd-sans smd-unmask-texture text-center text-md-start mt-3 mt-md-0 mb-0">{{ site.brand.smd_pitch }}</h1>
