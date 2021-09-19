@@ -1,28 +1,4 @@
-<!-- 
-   __ _           _    _____ _     _     _ _ 
-  / _(_)         | |  / ____| |   (_)   | (_)
- | |_ _ _ __   __| | | |    | |__  _  __| |_ 
- |  _| | '_ \ / _` | | |    | '_ \| |/ _` | |
- | | | | | | | (_| | | |____| | | | | (_| | |
- |_| |_|_| |_|\__,_|  \_____|_| |_|_|\__,_|_|
--->
-<!DOCTYPE html>
-<html lang="en" dir="ltr" itemscope itemtype="http://schema.org/WebPage">
-<head>
-{%- if page.redirection %}
-<meta http-equiv="refresh" content="0;url='{{ page.redirection }}'" />
-{% endif -%}
-{% include site-meta.html %}
-{% if jekyll.environment == "production" -%}
-<link rel="stylesheet" href="{{ site.url }}/assets/css/smd.min.css">
-{% else -%}
-<link rel="stylesheet" href="{{ site.url }}/assets/css/smd.css">
-{%- endif -%}
-{% unless page.redirection %}
-{% include seo.html -%}
-{% endunless %}
-{%- include site-favicons.html %}
-</head>
+{%- include site-head.html -%}
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
   <main>
     <div class="container-lg mb-5 pb-3">

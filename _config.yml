@@ -87,21 +87,9 @@ paginate_path: "/blog/page/:num/"
 
 excerpt_separator: <!--more-->
 
-# Webmentions
-webmentions:
-  username: silviamaggidesign.com
-  throttle_lookups:
-    last_week: daily
-    last_month: weekly
-    last_year: every 2 weeks
-    older: monthly
-  cache_bad_uris_for: 5
-  js: false
-
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-archives
-  - jekyll-webmention_io
