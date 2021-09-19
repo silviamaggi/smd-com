@@ -1,7 +1,9 @@
-<header class="h-card site-header sticky-md-top pe-lg-5 pt-2 pt-md-4">
-  <span class="u-logo">{% include site-logo.html %}</span>
-  <div class="h-card smd-mini-tagline d-none d-md-block mt-3">
-    <p class="p-note small">{{ site.brand.smd_pitch }}</p>
+<header class="site-header sticky-md-top pe-lg-5 pt-2 pt-md-4">
+  <div class="h-card">
+    <span class="u-logo">{% include site-logo.html %}</span>
+    <div class="smd-mini-tagline d-none d-md-block mt-3">
+      <p class="p-note small">{{ site.brand.smd_pitch }}</p>
+    </div>  
   </div>
   {%- include navigation-main.html %}
   <div class="d-none d-md-block mb-4">{%- include navigation-social.html %}</div>
