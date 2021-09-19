@@ -25,13 +25,11 @@ An exception to the above is for **YouTube videos**, where all the embeds specif
 
 <h2 class="display-6">Security</h2>
 
-The website adopts a secure <abbr title="Secure Sockets Layer">SSL</abbr> protocol and it's hosted on [Cloudflare Pages](https://pages.cloudflare.com/){:target="_blank" rel="noopener" title="Go to the Cloudflare website"}.
+The website adopts a secure <abbr title="Secure Sockets Layer">SSL</abbr> protocol and it's hosted on [Netlify](https://www.netlify.com/){:target="_blank" rel="noopener" title="Go to the Netlify website"}.
 
 <h2 class="display-6">Analytics</h2>
 
-> *Cloudflare Web Analytics does not use any client-side state, such as cookies or localStorage, to collect usage metrics. We also don’t “fingerprint” individuals via their IP address, User Agent string, or any other data for the purpose of displaying analytics.*
->
-> <cite><a href="https://www.cloudflare.com/web-analytics/" target="_blank" rel="noopener" title="Read about it on the Cloudflare website">Cloudflare Pages</a></cite>
+This website doesn't use analytics, therefore it doesn't track visits.
 
 <h2 class="display-6" id="newsletter-privacy">Newsletter</h2>
 
