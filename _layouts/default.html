@@ -22,6 +22,7 @@
 {% include seo.html -%}
 {% endunless %}
 {%- include site-favicons.html %}
+{% webmentions_head %}
 </head>
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
   <main>

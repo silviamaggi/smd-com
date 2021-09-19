@@ -7,10 +7,12 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "webrick", "~> 1.7"
 gem "open_uri_redirections"
+gem "kramdown-parser-gfm"
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-feed'
   gem 'jekyll-paginate'
   gem 'jekyll-archives'
+  gem 'jekyll-webmention_io'
 end
