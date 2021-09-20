@@ -5,7 +5,7 @@ date: 2021-04-13 17:31
 last_modified_at:
 description: This is Silvia Maggi's blog, a place where I write about design, tech, and their implications in our lives.
 ---
-<section class="blogroll">
+<section class="h-feed">
   {% for post in paginator.posts %}
   {% if post %}
   {% assign categories = post.categories %}
@@ -28,7 +28,7 @@ description: This is Silvia Maggi's blog, a place where I write about design, te
   {%- endunless -%}
   {%- if paginator.previous_page %}{%- unless paginator.page == secondPage %}
   <div class="d-inline-block my-2 mx-2 lh-1">
-    <a class="pagination pagination-previous text-decoration-none" href="{{ paginator.previous_page_path }}"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M12 8a.5.5 0 0 1-.5.5H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5a.5.5 0 0 1 .5.5z"/></svg>&nbsp;Previous</a>
+    <a class="pagination pagination-previous text-decoration-none" href="{{ paginator.previous_page_path }}" rel="previous"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M12 8a.5.5 0 0 1-.5.5H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5a.5.5 0 0 1 .5.5z"/></svg>&nbsp;Previous</a>
   </div>
   {%- endunless -%}
   {%- endif %}
@@ -37,7 +37,7 @@ description: This is Silvia Maggi's blog, a place where I write about design, te
   </div>
   {% if paginator.next_page -%}{%- unless paginator.page == secondToLast -%}
   <div class="d-inline-block my-2 mx-2 lh-1">
-    <a class="pagination pagination-next text-decoration-none" href="{{ paginator.next_page_path }}">Next&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg></a>
+    <a class="pagination pagination-next text-decoration-none" href="{{ paginator.next_page_path }}" rel="next">Next&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg></a>
   </div>
   {% endunless -%}{%- endif -%}
   {%- unless paginator.page == lastPage -%}
