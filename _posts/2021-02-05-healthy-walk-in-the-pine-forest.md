@@ -25,3 +25,19 @@ Walking does magic to the body, but today my legs remind me that, during the pas
 The pine forest features the stillness I used to feel in the mountains. Even if there’s a road on one side, it’s easy to forget about it. The soil, covered with pine needles, is soft. The smell of wood is in the air. Today I saw the pine forest, but I also inhaled it and felt it.
 
 <p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.thebookfamilyrogerson.com/" target="_blank">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
+        <span>How therapeutic! Pine forests do have that extra sensory edge. I'm glad you were able to get outside and enjoy nature x</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@The Book Family Rogerson</code>
+        <span> It's delightful to have such beautiful places so close and accessible! The challenge is to go out more to enjoy them x</span>
+      </li>
+    </ul>
+  </div>
+</div>

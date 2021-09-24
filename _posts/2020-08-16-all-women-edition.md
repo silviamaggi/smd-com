@@ -50,3 +50,27 @@ Set designer Es Devlin and design associate Machiko Weston created _I Saw The Wo
 {% include pattern-video.html id="MyNeu7C2ilc" title="I Saw The World End | Es Devlin and Machiko Weston" %}
 
 <p class="detached">🔗 <a href="https://www.dezeen.com/2020/08/13/es-devlin-machiko-weston-hiroshima-bombing-i-saw-the-world-end/" target="_blank" rel="noopener">Read the article</a> (on Dezeen)</p>
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.thebookfamilyrogerson.com/" target="_blank">💬 <strong>Mel Rogerson</strong>&nbsp;&ndash;</a>
+        <span>Thanks for this digest Silvia. I'm looking forward to reading these articles.</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Mel Rogerson</code>
+        <span>Thank you for taking the time to read and comment, Mel! I hope you'll find the article interesting and inspiring.</span>
+      </li>
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.designmortals.com/" target="_blank">💬 <strong>Be a better designer</strong>&nbsp;&ndash;</a>
+        <span>Very informative digest ! Looking forward to more such articles.</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Be a better designer</code>
+        <span>Thank you!</span>
+      </li>
+    </ul>
+  </div>
+</div>

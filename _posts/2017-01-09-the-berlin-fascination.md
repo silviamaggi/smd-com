@@ -36,3 +36,19 @@ Stories and facts are still discussed, and passed on to the younger generations.
 {% include pattern-imagegallery.html folder="/assets/images/gallery-berlin-fascination/" id="1" %}
 
 <p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://hikeminded.wordpress.com" target="_blank">💬 <strong>hikeminded</strong>&nbsp;&ndash;</a>
+        <span>Nice!</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@hikeminded</code>
+        <span>Thank you very much!</span>
+      </li>
+    </ul>
+  </div>
+</div>

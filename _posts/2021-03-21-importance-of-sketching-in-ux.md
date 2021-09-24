@@ -77,3 +77,27 @@ The workbook is the ideal companion of the book, where the theory behind the tec
 As much as wanted to follow my own advice and sketch every day, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up. After reading an article, I started a new journey and wrote about it on the post [Learning to draw: a journey](/drawing/learning-to-draw/){:title="Read the post on my website"}.
 
 <!-- <small>Photo and design by Silvia Maggi</small> -->
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.thebookfamilyrogerson.com/" target="_blank">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
+        <span>Thanks for this Silvia. I would like to have a go at designing an app one day so this really helps :)</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@The Book Family Rogerson</code>
+        <span>Glad this article could help, Mel! I definitively would want to see your app when you have something ready – and, of course, I'm available for feedback :)</span>
+      </li>
+      <li>
+        <span class="reaction">💬 <strong>Vanessa Dennett</strong>&nbsp;&ndash;</span>
+        <span>This is really interesting Silvia, and actually very helpful. When imagining pictures I’d like to make I know that sketching them would help, but I’m so hopeless at drawing that I put it off. I’m going to delve into these resources. Xx</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Vanessa Dennett</code>
+        <span>Vanessa, that's a very interesting point. You reminded me that I did the same. I wonder whether this will change once I'll feel more confident in drawing. You might find Matt Corrall's second video useful for this (it's mentioned in the one embedded in my post): he shows how it's okay to use reference pictures and how to use colour. Hope it helps! xx</span>
+      </li>
+    </ul>
+  </div>
+</div>

@@ -55,6 +55,14 @@ While Instagram main interest switched to creators, brands and what they sell, *
   <div class="webmentions">
     <ul class="comments">
       <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://thebookfamilyrogerson.com" target="_blank">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
+        <span>It must be so freeing to leave social media. It now forms the basis of my job, and I enjoy many aspects of it, but there are question marks too. I'm looking forward to finding out how your response to that world changes over time x</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@The Book Family Rogerson</code>
+        <span>Who knows what will be: big tech might need to adapt to stricter rules, and social networks might change as a consequence. So far, though, I’m not missing any of them. Such was the prominence of social media in my life, that I feel so much lighter now. I also stopped checking the news multiple times a day, and I completely avoid live news feeds. The background noise is gone. It is freeing indeed x</span>
+      </li>
+      <li>
         <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.vanessasimpson.co.uk" target="_blank">💬 <strong>Vanessa Dennett</strong>&nbsp;&ndash;</a>
         <span>Silvia I can understand your reasons for leaving entirely, I too question social media’s role in my life and endeavour to be extremely conscious of the way that I use it. I’m trying to make clear decisions about how I will use it going forwards, but do reassure myself that there are other ways of keeping in touch with one another! x</span>
       </li>

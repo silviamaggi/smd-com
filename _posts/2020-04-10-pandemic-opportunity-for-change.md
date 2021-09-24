@@ -55,4 +55,37 @@ Rams’ suggestion is all about taking into consideration what we produce, how i
 I believe that anyone can apply this way of thinking. We are now aware of how we are all connected; our actions and choices influence our family, neighbours and society for better or worse. Whatever our jobs or roles, we should think about the consequences of what we do, and strive for better.
 
 ---
+
 🔗 _Rams_ is a documentary by Gary Hustwit. Watch it [here](https://hustwit.vhx.tv/){:target="_blank" rel="noopener" title="Go to Gary Hustwit's website"}.
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <span class="reaction">💬 <strong>Mel</strong>&nbsp;&ndash;</span>
+        <span>I would love to move to this form of consumption but fear that profit will triumph over planet once we're out of this. If we look at cutting cause rather than symptom, we'd do well to profile business &amp; political leaders psychologically before appointing them!</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Mel</code>
+        <span>Surely there is a risk of everything going back to exactly how it was, after the crisis will be over. But I hope people will not forget how politicians acted when it was it needed, and then choose accordingly. The same could be applied to business leaders.</span>
+      </li>
+      <li>
+        <span class="reaction">💬 <strong>Denise Pemrick</strong>&nbsp;&ndash;</span>
+        <span>I really enjoyed this piece. I loved how you expressed that less, but better not just for objects but for behaviour. It is the simple acts which are the most meaningful. I do hope this crisis and the many lives lost has not been in vain and that we can design a better more functional and fair society. To me that’s how it could become beautiful.</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Denise Pemrick</code>
+        <span>Thank you, Denise, I’m glad you enjoyed the post! I hope so too. But I don’t expect the governments of the affected countries will all make good choices, so I believe it’s up to all of us.</span>
+      </li>
+      <li>
+        <span class="reaction">💬 <strong>Vanessa</strong>&nbsp;&ndash;</span>
+        <span>Silvia this was such a pertinent article for me to read this morning as we consider how we might continue to develop our home and garden. I particularly resonate with the idea of ‘less’ and the importance of function. I’m becoming more and more aware of design’s role in society, and sincerely hope that we will all take this pause to consider it with more respect.</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Vanessa</code>
+        <span>Thank you, Vanessa! The more I think about it, the more I’m convinced that it’s up to us. Everything is designed, and we are the users. We can, and should, demand for better.</span>
+      </li>
+    </ul>
+  </div>
+</div>

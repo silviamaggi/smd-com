@@ -7,6 +7,7 @@ categories:
 tags:
   - ravenna
   - italy
+  - art
 description: 'How is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.'
 featured-image: feat-20210628-entrance-with-art.jpg
 ---

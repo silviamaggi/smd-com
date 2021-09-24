@@ -46,3 +46,19 @@ Planned obsolescence is the practise of designing products with a short expiry d
 <p class="detached">🔗 <a href="https://podcast.theunusable.com/podcasts/017-planned-obsolescence.mp3" target="_blank" rel="noopener">Listen to the episode</a></p>
 
 <!-- <small>Image credits: Sid Gentle and Ian Johnson Publicity, Unknown, Jorge Gonzalez / Copyright terms and licence: CC BY-SA 2.0</small> -->
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <span class="reaction">💬 <strong>Nancy Moon</strong>&nbsp;&ndash;</span>
+        <span>Fantastic series. Smart. Insightful. Keep up the good work. I’m eager to read just about anything on *creativity.</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Nancy Moon</code>
+        <span>Thank you very much, Nancy! Glad you liked it. </span>
+      </li>
+    </ul>
+  </div>
+</div>

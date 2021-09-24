@@ -30,3 +30,19 @@ The photography organisation providing opportunities, support and networking for
 Alfred Gallery is a cooperative space that welcomes international exhibitions and collaborative projects in Simtat Shlush.
 
 <p class="detached">🔗 <a href="http://www.alfredinstitute.org/eng/alfred-institute-welcome" target="_blank" rel="noopener" title="Go to the Alfred Institute website">www.alfredinstitute.org</a></p>
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <span class="reaction">💬 <strong>Nancy Moon</strong>&nbsp;&ndash;</span>
+        <span>Congratulations on the fine work! Nancy</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Nancy Moon</code>
+        <span>Thank you very much, Nancy!</span>
+      </li>
+    </ul>
+  </div>
+</div>
