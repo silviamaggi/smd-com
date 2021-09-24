@@ -101,3 +101,35 @@ The text has been corrected to delete inaccuracies about when the old design wil
 <li><a href="https://www.accessibility.works/blog/avoid-accessibility-overlay-tools-toolbar-plugins/" target="_blank" rel="noopener">Why Accessibility Overlay Solutions Fail to Protect or Serve</a> (on Accessibility Works)</li>
 <li><a href="https://www.a11yproject.com/" target="_blank" rel="noopener" title="Go to A11Y Project's website">The A11Y Project – Accessibility helps everyone</a></li>
 </ul>
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="{{ site.url }}" target="_blank">💬 <strong>Silvia Maggi</strong>&nbsp;&ndash;</a>
+        <span>Stitched In The Middle wrote a very informative post explaining how accessibility helps everyone. Read it here: <a href="https://stitchedinthemiddle.com/ravelry-disability-and-accessibility-part-1/" target="_blank" rel="nofollow noopener">https://stitchedinthemiddle.com/ravelry-disability-and-accessibility-part-1/</a></span>
+      </li>
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="http://mtnbeachmama.wordpress.com" target="_blank">💬 <strong>mtnbeachmama</strong>&nbsp;&ndash;</a>
+        <span>Your blog post was excellent. It explained everything so well. I am heartened to see that the Black Lives Matter is getting the attention it deserves. I want to see each of the marginalized peoples get the attention they deserve, and that necessary changes are made for all that need them. Ravelry's disastrous and totally tone deaf manner of updated has put the focus on a diverse and serious group of marginalized users. I discovered a setting in my laptop that allows me the option of dimming the contrast, but Ravelry still bothers my eyes. I have downloaded all of the patterns I had saved in my account. I am dismantling my account, have left all of the groups, and use only my pages when I am there. It is heartbreaking, but I am going to move on from Ravelry. I will miss the knit a longs I was participated in. My hope is that enough of us will move on, and utilize other platforms to access the designers we love. That the individual designers will not suffer, but will realize how important it is to be aware of and sensitive to the needs of all of their users. Ravelry is saying all of the right things about inclusivity, but their actions prove they 'talk the talk' but don't know how to (or don't really care about) walking the walk. Thank you for an excellent article!</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@mtnbeachmama</code>
+        <span>Thank you so much for reading and commenting! I’m glad you liked it, and I’m sorry your experience with the new Ravelry is not good. I’m not an assiduous knitter, and I wasn’t using the platform that much, so deleting my account was a natural step. But I believe that moving on is the best thing to do now. I understand that for someone it’ll be difficult, but I saw a few designers offer now alternative spaces where to buy their patterns. It’s good to see that the community is actively looking for ways to help who cannot access the website.</span>
+      </li>
+      <li>
+        <span class="reaction">💬 <strong>Jennifer</strong>&nbsp;&ndash;</span>
+        <span>I like your summary very much! While I developed a mild headache after viewing patterns through the new interface, it was the callous disregard for others in the Ravelry response that has left me avoiding the site. I hadn’t considered Ravelry as an industry monopoly before this occurred, but I’m now left me hoping to support some form of competition!</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Jennifer</code>
+        <span>Thank you very much, Jennifer! I felt the same. It’s quite scary to think that a company has had a monopoly on a market for so much time, even if it happens very frequently these days. That's probably because Ravelry was always perceived as a community. Looking at the bright side, this could be the right moment for bringing about some healthy competition and other ways or spaces to meet.</span>
+      </li>
+      <li>
+        <span class="reaction">💬 <strong>Carrie</strong>&nbsp;&ndash;</span>
+        <span> Same. They've doubled down now and issued a form letter heavily implying that the people having difficulties are making it up, and that no one from the Epilepsy group actually looked at the site. I'm so disappointed in them.</span>
+      </li>
+    </ul>
+  </div>
+</div>

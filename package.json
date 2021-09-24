@@ -93,6 +93,7 @@
     "url": "https://opencollective.com/bootstrap"
   },
   "dependencies": {
+    "@remy/webmention": "^1.4.5",
     "jekyll": "^3.0.0-beta1",
     "purgecss": "^4.0.3"
   },

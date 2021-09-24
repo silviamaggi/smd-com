@@ -56,3 +56,42 @@ We won’t forget our adventure in Bordeaux. The food, the wine, the limestone b
 Lessons learnt: use weather apps that provide detailed international weather alerts, and always bring a change of trousers and shoes, even when travelling light.
 
 <p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://minutestomidnight.co.uk" target="_blank">💬 <strong>Simone</strong>&nbsp;&ndash;</a>
+        <span>Beautiful pictures!</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Simone</code>
+        <span>Thank you :*</span>
+      </li>
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="http://www.inyourdreams.fi" target="_blank">💬 <strong>AndiA</strong>&nbsp;&ndash;</a>
+        <span>Bon! J'adore Bordeaux! Champagne region too?I dont remember seing soo much great architecture! I also love the well manered polite Frenchies too?</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@AndiA</code>
+        <span>I love everything French, but for some reason only ever visited Paris and Bordeaux. I feel like I need to make up for this :)</span>
+      </li>
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.thesimpsonsisters.co.uk" target="_blank">💬 <strong>Vanessa</strong>&nbsp;&ndash;</a>
+        <span>It's a really beautiful looking city, I'm very much looking forward to visiting in a couple of weeks but am hopeful I'll avoid a hail storm! x</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Vanessa</code> <span>I hope that too, Vanessa! Thank you for stopping by and comment x</span>
+      </li>
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="http://www.overthemoonabout.com" target="_blank">💬 <strong>Nancy Moon</strong>&nbsp;&ndash;</a>
+        <span>Hi there Silvia, Lovely Lovely place! And you photography is really excellent, you are a great travel photographer! Nancy</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Nancy</code> 
+        <span>Thank you very much, Nancy! That's a great compliment.</span>
+      </li>
+    </ul>
+  </div>
+</div>

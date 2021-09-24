@@ -48,3 +48,19 @@ The products we design and use can get complicated over time. The co-founder of 
 Nina Montgomery, the author of the newsletter _Reimagining Capitalism_, studied how a dozen of forward-looking companies are rethinking the way they generate value and who they serve.
 
 <p class="detached">🔗 <a href="https://www.ideo.com/journal/capitalism-needs-a-redesign-but-where-do-we-start" target="_blank" rel="noopener">Read the article</a> (on IDEO)</p>
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://thebookfamilyrogerson.com" target="_blank">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
+        <span>Looking forward to reading these - all fascinating!</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@The Book Family Rogerson</code>
+        <span>Thank you, Mel! I hope you'll find them interesting</span>
+      </li>
+    </ul>
+  </div>
+</div>

@@ -32,3 +32,23 @@ The swirly effect in most of the pictures is courtesy of the [Helios 44M lens](h
 <p class="detached">These photos featured on the previous version of my website.</p>
 
 <p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://forestwoodfolkart.wordpress.com" target="_blank">💬 <strong>Forestwood</strong>&nbsp;&ndash;</a>
+        <span>I love the first photo. Amazing red flowers, and such intensity in the main object of focus.</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Forestwood</code>
+        <span>Thank you so much, Amanda! That photo is my favourite too. We never had those beautiful flowers again in our garden, so I'm glad I took the picture.</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://forestwoodfolkart.wordpress.com" target="_blank">↪️ <strong>Forestwood</strong></a>&nbsp;&ndash;&nbsp;<code>@Silvia</code>
+        <span>A photo to treasure, for sure.</span>
+      </li>
+    </ul>
+  </div>
+</div>

@@ -54,3 +54,19 @@ In his book _The Design of Everyday Things_, Donald A. Norman showed us how it�
 During his 70-year long career, Elliot Erwitt witnessed some of the most notable moments of modern history. A man of few words, he lets his photography speak for himself, and reminds us that the best things happen when we take our camera with us.
 
 <p class="detached">🔗 <a href="https://www.theguardian.com/artanddesign/2020/nov/09/elliott-erwitt-interview-photographer" target="_blank" rel="noopener">Read the article</a> (on The Guardian)</p>
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://thebookfamilyrogerson.com" target="_blank">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
+        <span>I read the Lisa Angela and although I'm not a designer, I agree with what she says. There's not enough daring experimentation or evolution in design because the ideas pot is too stagnant. I'm hoping to see some really groundbreaking systems in the next 5 years as the field widens.</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@The Book Family Rogerson</code>
+        <span>Hi Mel, I hope that too. In general, we're seeing a lot of design problems solved the same way, and features copied between an app to the other. Most of the times, the pace of business is too fast for people to come with new and yet to be tested ideas, but it's going to be crucial.</span>
+      </li>
+    </ul>
+  </div>
+</div>

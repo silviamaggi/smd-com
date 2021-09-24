@@ -24,3 +24,19 @@ Many don’t trust Facebook and its practices. Do you trust Instagram more, even
 <p class="detached">🔗 <a href="https://www.theverge.com/2020/7/25/21338151/instagram-bug-camera-privacy-ios14-apple" target="_blank" rel="noopener">Read more</a> (on The Verge)</p>
 
 <!-- <small>Photo by [NeONBRAND](https://unsplash.com/photos/nZJBt4gQlKI){:target="_blank" rel="noopener"} on Unsplash</small> -->
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://minutestomidnight.co.uk" target="_blank">💬 <strong>Simone</strong>&nbsp;&ndash;</a>
+        <span>When these companies get caught while snooping, it's always a 'bug'. </span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Simone</code>
+        <span>Yes, it sounds dodgy, and it’s hardly a poster for privacy and security, whether they’re doing it on purpose or not.</span>
+      </li>
+    </ul>
+  </div>
+</div>

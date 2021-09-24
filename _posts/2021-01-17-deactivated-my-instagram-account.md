@@ -50,4 +50,20 @@ While Instagram main interest switched to creators, brands and what they sell, *
 <li><a href="https://blog.flickr.net/en" target="_blank" rel="noopener">Flickr Blog</a></li>
 </ul>
 
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.vanessasimpson.co.uk" target="_blank">💬 <strong>Vanessa Dennett</strong>&nbsp;&ndash;</a>
+        <span>Silvia I can understand your reasons for leaving entirely, I too question social media’s role in my life and endeavour to be extremely conscious of the way that I use it. I’m trying to make clear decisions about how I will use it going forwards, but do reassure myself that there are other ways of keeping in touch with one another! x</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@Vanessa</code>
+        <span>Hi Vanessa, it's nice to see you here! Whatever you decide, I can assure you that there definitively are ways of keeping in touch, it's just a matter of finding the right ones. I believe with social media we got used to keep in touch using tools that seem irreplaceable, but there are alternatives. x</span>
+      </li>
+    </ul>
+  </div>
+</div>
+
 <!-- <small>Photo by [Prateek Katyal](https://unsplash.com/@prateekkatyal){:target="_blank" rel="noopener"} on Unsplash</small> -->

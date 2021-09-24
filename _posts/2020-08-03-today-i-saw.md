@@ -30,3 +30,27 @@ The stark reality is that the recipe for success on Instagram is merely a way to
 I saw it yesterday, while out in the garden. I liked the shimmers of light on the abandoned cobweb and the fact that it is attached to our now dry flowers. It’s a stark contrast to [the way they looked a few months ago](/photography/isolation-photo-diary/){:title="View the photography project on my website"}.
 
 <p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>
+
+<div class="smd-responses my-5 pt-3">
+  <h2>Comments</h2>
+  <div class="webmentions">
+    <ul class="comments">
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://deramateurphotograph.de/" target="_blank">💬 <strong>bernhard1965</strong>&nbsp;&ndash;</a>
+        <span>Concratulation, free your creativity don't accept restriction of a tool (e.g. instagram). Best regards, Bernhard</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@bernhard1965</code>
+        <span>Thank you, Bernhard! It's such a simple concept, that somehow I've ignored for too long.</span>
+      </li>
+      <li>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="http://thebookfamilyrogerson.com" target="_blank">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
+        <span>Such intricate detail in this photo. I completely understand your thoughts about Instagram. I've had photos bomb on there and be successful elsewhere. It depends on so many factors.</span>
+      </li>
+      <li class="reaction-reply">
+        <a class="reaction" title="mentioned" href="{{ site.url }}">↪️ <strong>Silvia Maggi</strong></a>&nbsp;&ndash;&nbsp;<code>@The Book Family Rogerson</code>
+        <span>Thank you, Mel! That's true, and I guess the most important thing is to be happy about the photos we take, no matter what. But I don't think I can be happy on Instagram, not now, because of the loop I've mentioned.</span>
+      </li>
+    </ul>
+  </div>
+</div>
