@@ -93,3 +93,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-responsive-image
