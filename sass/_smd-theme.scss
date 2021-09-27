@@ -378,6 +378,10 @@ cite {
   a {
     &.reaction {
       text-decoration: none;
+
+      img {
+        @extend .visually-hidden;
+      }
     }
   }
 }
