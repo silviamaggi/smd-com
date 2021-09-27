@@ -10,11 +10,11 @@ tags:
 - inclusion
 - design
 - photography
-description: "This week's Design, Digested series features inclusive language, the work women designers, the healing power of photography."
+description: "This week's Design, Digested series features inclusive language, the work of women designers, and the healing power of photography."
 featured-image: feat-design-digested-20.jpg
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">This week: inclusive language, the work women designers, and the healing power of photography.</p>
+<p class="lead">This week: inclusive language, the work of women designers, and the healing power of photography.</p>
 
 <!--more-->
 
