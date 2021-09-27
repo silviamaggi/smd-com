@@ -14,7 +14,7 @@ description: "This week's Design, Digested series features inclusive language, t
 featured-image: feat-design-digested-20.jpg
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">This week: inclusive language, the work women designers, the healing power of photography.</p>
+<p class="lead">This week: inclusive language, the work women designers, and the healing power of photography.</p>
 
 <!--more-->
 
