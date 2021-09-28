@@ -4,7 +4,7 @@ title: 'Acclimatize.me - Notification app for travellers'
 featured-post: false
 casestudy-order: 2
 date: 2021-02-18T21:39:15.000Z
-last_modified_at: '2021-09-12 21:35:32'
+last_modified_at: '2021-09-28 19:34:20'
 description: "How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don't miss a minute of fun?"
 excerpt: "How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don't miss a minute of fun?"
 featured-image: feat-acclimatize-case-study-featured-img.jpg
@@ -22,7 +22,7 @@ tools:
   - Miro
   - Figma
 problem: "How can you design a product that <strong>helps travellers prepare and acclimatize fast for their trip</strong> so they don’t miss a minute of fun?"
-solution: "A mobile app that gives people access to accurate weather information about their travel destinations, and to crucial messages from local authorities."
+solution: "A prototype of a mobile app that lets people set up alerts about weather changes, and notifications from local authorities."
 myrole: "Solo project, where I explored the process from finding the users’ needs to visual design."
 ---
 ## Job story
