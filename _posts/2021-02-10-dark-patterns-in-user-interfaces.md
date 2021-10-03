@@ -1,5 +1,5 @@
 ---
-title: Design, Digested 16. Dark patterns in user interfaces
+title: "Design, Digested 16: Dark patterns in user interfaces"
 last_modified_at: '2021-09-15 18:42:09'
 featured-post: false
 categories:

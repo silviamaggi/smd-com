@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 6. Anti-Racism, misogyny of the workforce'
+title: "Design, Digested 6: Anti-Racism, misogyny of the workforce"
 last_modified_at: '2021-09-03T22:49:37.756Z'
 featured-post: false
 categories:

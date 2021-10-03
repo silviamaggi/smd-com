@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 17. Start designing for inclusion'
+title: "Design, Digested 17: Start designing for inclusion"
 last_modified_at: '2021-09-15 18:10:20'
 featured-post: false
 categories:

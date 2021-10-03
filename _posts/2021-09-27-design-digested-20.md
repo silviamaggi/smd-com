@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 20. Gender-neutral language'
+title: "Design, Digested 20: Gender-neutral language"
 last_modified_at: '2021-09-27 13:51:03'
 featured-post: false
 categories:

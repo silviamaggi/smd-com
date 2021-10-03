@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 1. Killing Eve set design, and more'
+title: "Design, Digested 1: Killing Eve set design, and more"
 last_modified_at: '2021-09-15 18:14:48'
 featured-post: false
 categories:

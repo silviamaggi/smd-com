@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 15. Undoing toxic dogmatism; designing less'
+title: "Design, Digested 15: Undoing toxic dogmatism; designing less"
 last_modified_at: '2021-09-13 01:02:29'
 featured-post: false
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 13. Fear, AI bias and Enzo Mari legacy'
+title: "Design, Digested 13: Fear, AI bias and Enzo Mari legacy"
 last_modified_at: '2021-09-03T19:40:56.090Z'
 featured-post: false
 categories:

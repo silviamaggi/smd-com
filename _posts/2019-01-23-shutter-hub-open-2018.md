@@ -1,5 +1,5 @@
 ---
-title: 'Shutter Hub Open Exhibition 2018, London and Amsterdam'
+title: Shutter Hub Open Exhibition 2018, London and Amsterdam'
 last_modified_at: '2021-09-15 18:39:58'
 featured-post: false
 categories:
