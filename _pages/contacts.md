@@ -27,11 +27,15 @@ Have a question, or simply want to start a conversation? Feel free to connect on
   <div style="display: none;"><label>Don’t fill this out if you're human: <input name="not-for-humans" /></label></div>
   <div class="mb-3">
     <label class="form-label" for="guestName">Name</label>
-    <input class="form-control form-control-lg" placeholder="Your name" type="text" name="name" id="guestName">
+    <input class="form-control form-control-lg" placeholder="Your name" type="text" name="name" id="guestName" required>
+  </div>
+  <div class="mb-3">
+    <label class="form-label" for="guestURL">Website (optional)</label>
+    <input class="form-control form-control-lg" placeholder="Your website" type="text" name="website" id="guestURL">
   </div>
   <div class="mb-3">
     <label class="form-label" for="guestMessage">Message</label>
-    <textarea class="form-control form-control-lg" rows="3" name="message" placeholder="Your message" id="guestMessage"></textarea>
+    <textarea class="form-control form-control-lg" rows="3" name="message" placeholder="Your message" id="guestMessage" required></textarea>
   </div>
   <button class="btn btn-lg btn-smd fw-bold" type="submit">Submit</button>
 </form>
