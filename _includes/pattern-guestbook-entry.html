@@ -1,0 +1,6 @@
+{% for message in site.data.guestbook_messages reversed %}
+<div>
+  <div><span style="font-weight: bold;">{{ message.author }}</span> on {{ message.timestamp | date: "%d/%m/%Y" }} wrote:</div>
+  <div>{{ message.body }}</div>
+</div>
+{% endfor %}
