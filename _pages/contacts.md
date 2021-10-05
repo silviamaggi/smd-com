@@ -21,7 +21,7 @@ Have a question, or simply want to start a conversation? Feel free to connect on
 
 <h2 id="guestbook">Guestbook</h2>
 
-👋 Leave a message using the form below, like in [the early days of the Web](https://neustadt.fr/essays/the-small-web/){:target="_blank" rel="noopener" title="Go to Parimal Satyal's article about the small web"}. Thank you for stopping by!
+👋 Sign the guestbook using the form below, like in [the early days of the Web](https://neustadt.fr/essays/the-small-web/){:target="_blank" rel="noopener" title="Go to Parimal Satyal's article about the small web"}. Thank you for stopping by!
 
 <form class="my-4 pt-3" action="/guestbooked" name="guestbook" netlify netlify-honeypot="not-for-humans">
   <div style="display: none;"><label>Don’t fill this out if you're human: <input name="not-for-humans" /></label></div>
