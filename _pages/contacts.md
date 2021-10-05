@@ -31,7 +31,7 @@ Have a question, or simply want to start a conversation? Feel free to connect on
   </div>
   <div class="mb-3">
     <label class="form-label" for="guestURL">Website (optional)</label>
-    <input class="form-control form-control-lg" placeholder="Your website" type="text" name="company" id="guestURL">
+    <input class="form-control form-control-lg" placeholder="Your website" type="text" name="website" id="guestURL">
   </div>
   <div class="mb-3">
     <label class="form-label" for="guestMessage">Message</label>

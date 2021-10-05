@@ -18,7 +18,6 @@ raw_messages_from_api.each do |raw_message|
   messages_from_api[raw_message['id']] = {
     'netlify_submission_id' => raw_message['id'],
     'author' => CGI.escapeHTML(raw_message['name']),
-    'website' => raw_message['company'],
     'timestamp' => DateTime.parse(raw_message['created_at']).strftime('%FT%T%:z'),
     'body' => CGI.escapeHTML(raw_message['body']),
   }
