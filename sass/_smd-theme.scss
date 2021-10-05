@@ -536,10 +536,21 @@ input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-titl
 // $IMAGES
 // ------------------------------------------------ //
 
-img         { max-width: 100%; height: auto; }
-figure      { margin: auto; }
-figcaption  { @extend .initialism; }
-.comp-logos { width: 130px; height: auto; }
+img { 
+  max-width: 100%; 
+  height: auto;
+}
+figure,
+picture { 
+  margin: auto;
+}
+figcaption  {
+  @extend .initialism;
+}
+.comp-logos { 
+  width: 130px; 
+  height: auto;
+}
 #{$site-prefix}-logo {
   svg {
     max-width: 100%;
