@@ -10,5 +10,3 @@ permalink: /design-inspiration-newsletter-silvia-maggi/
 <p class="lead"><em>Design, Digested</em> is a newsletter about design, tech, and their implications in our lives. Delivered every two weeks to your mailbox, it contains posts from the blog and carefully curated inspiration stories. Both in English and Italian.</p>
 
 {%- include pattern-newsletter-sub.html %}
-
-<p class="small">By subscribing, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="/privacy-policy/#newsletter-privacy">Learn more</a>.</p>

@@ -8,3 +8,4 @@ assets/js/webmention.js
 .jekyll-metadata
 Gemfile.lock
 package-lock.json
+local_netlify.rb
