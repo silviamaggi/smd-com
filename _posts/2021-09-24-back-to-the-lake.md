@@ -20,4 +20,4 @@ excerpt: After almost two years, I'm back to Lake Maggiore, visiting my family.
 
 <p class="meta small">Also on <a rel="syndication" class="u-syndication u-tag-of" href="https://flic.kr/p/2mtXweC">Flickr</a>.</p>
 
-<p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>
+<p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>

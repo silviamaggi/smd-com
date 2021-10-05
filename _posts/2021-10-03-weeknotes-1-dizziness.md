@@ -26,4 +26,4 @@ excerpt: 'This is the beginning of a new series, where I tell you about my week.
 <li>Having spent a year in <a href="/tag/ravenna/" title="Explore the posts about Ravenna">Ravenna</a>, Milan — or even just this borough — feels immense. The last time I lived in a big city was back in 2015, when we left London for Cambridge.</li>
 </ul>
 
-{% include pattern-figure.html image="/assets/images/20210927-lake.jpg" caption="A beach on Lake Maggiore" alt="A serene scene of a small beach on Lake Maggiore" width="900" height="675" %}
+{% responsive_image path: assets/images/20210927-lake.jpg alt: "A serene scene of a small beach on Lake Maggiore" caption: "A beach on Lake Maggiore" %}
