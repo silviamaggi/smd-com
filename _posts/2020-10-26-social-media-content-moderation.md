@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 12. Social media content moderation issues'
+title: "Design, Digested 12: Social media content moderation issues"
 last_modified_at: '2021-09-15 18:16:44'
 featured-post: false
 categories:

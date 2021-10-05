@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 2. Design community solidarity'
+title: "Design, Digested 2: Design community solidarity"
 last_modified_at: '2021-09-15 18:40:25'
 featured-post: false
 categories:

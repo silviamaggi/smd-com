@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 10. Inclusive design'
+title: "Design, Digested 10: Inclusive design"
 last_modified_at: '2021-09-15 19:57:12'
 featured-post: false
 categories:

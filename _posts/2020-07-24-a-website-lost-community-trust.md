@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 8. How a website lost community trust'
+title: "Design, Digested 8: How a website lost community trust"
 last_modified_at: '2021-09-15 18:15:40'
 featured-post: false
 categories:

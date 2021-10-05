@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 14. Elimination of violence against women'
+title: "Design, Digested 14: Elimination of violence against women"
 last_modified_at: '2021-09-15 18:41:55'
 featured-post: false
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 9. Facebook can't beat hate"
+title: "Design, Digested 9: Facebook can't beat hate"
 last_modified_at: '2021-09-12T18:32:38.221Z'
 featured-post: false
 categories:
