@@ -4,7 +4,7 @@ title: 'Acclimatize.me - Notification app for travellers'
 featured-post: false
 casestudy-order: 2
 date: 2021-02-18T21:39:15.000Z
-last_modified_at: '2021-09-28 19:34:20'
+last_modified_at: '2021-10-08 10:54:29'
 description: "How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don't miss a minute of fun?"
 excerpt: "How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don't miss a minute of fun?"
 featured-image: feat-acclimatize-case-study-featured-img.jpg
@@ -22,10 +22,10 @@ tools:
   - Miro
   - Figma
 problem: "How can you design a product that <strong>helps travellers prepare and acclimatize fast for their trip</strong> so they don’t miss a minute of fun?"
-solution: "A prototype of a mobile app that lets people set up alerts about weather changes, and notifications from local authorities."
+solution: "The prototype of a mobile app that lets people set up alerts about weather changes, and notifications from local authorities."
 myrole: "Solo project, where I explored the process from finding the users’ needs to visual design."
 ---
-## Job story
+## User story
 
 > *When I travel I want to what to expect so I can enjoy my stay from start to finish.*
 
@@ -39,15 +39,15 @@ myrole: "Solo project, where I explored the process from finding the users’ ne
 ## Storyboard
 
 <ol>
-<li>Jill visits the web version of the app before travelling. She checks the weather and all the information and advice available.</li>
+<li>Jill visits the web version of the app before travelling. She checks the weather and all the available information and advice.</li>
 <li>She starts her trip to Chamonix.</li>
-<li>After arriving at her destination, she sets up the alerts.</li>
+<li>Upon arrival, she sets up the alerts.</li>
 <li>On a day when she wanted to ski, the weather is forecast to change dramatically for the worst.</li>
 <li>Jill can change plans in time.</li>
 <li>She makes the most of her day.</li>
 </ol>
 
-{% include pattern-figure.html image="/assets/images/acclimatize-me-storyboard.png" caption="Paper storyboard" width="1399" height="977" %}
+{% include pattern-figure.html image="/assets/images/acclimatize-me-storyboard.png" caption="Paper storyboard" width="1400" height="978" %}
 
 ## User flow
 
@@ -59,9 +59,13 @@ Any important weather changes or communication from the local authorities will t
 
 ## Sketches
 
-The basic screens involved in setting the alerts.
+Setting up the alerts.
 
-{% include pattern-figure.html image="/assets/images/acclimatize-me-sketches.jpeg" caption="Notification setup sketches" width="1400" height="643" %}
+{% include pattern-figure.html image="/assets/images/acclimatize-me-alert-sketches.jpeg" caption="Alert setup sketches" width="1400" height="643" %}
+
+Receiving the notifications.
+
+{% include pattern-figure.html image="/assets/images/acclimatize-me-notifications-sketches.png" caption="Notification sketches" width="1400" height="823" %}
 
 ## Wireframes
 
@@ -70,6 +74,19 @@ I used the wireframes to test the solution, and subsequently iterated based on t
 {% include pattern-figure.html image="/assets/images/acclimatize-me-wireframes-flow.jpeg" caption="App wireframes and flow on Figma" width="1400" height="703" %}
 
 ## Visual design
+
+Following feedback from travellers and interviewers, I've updated the design of the app to be:
+
+<ul class="smd-ul">
+<li><strong>Simpler</strong>. The initial idea was for it to be a tool that does one thing: setting up alerts to avoid travel uncertainties.</li>
+<li><strong>More private</strong>. People shouldn't need to create an account to receive notifications.</li>
+</ul>
+
+{% include pattern-figure.html image="/assets/images/acclimatize-me-v2-visual-design.jpg" caption="App main screens" width="1400" height="609" %}
+
+{% include pattern-figure.html image="/assets/images/acclimatize-me-v2-visual-design-notifications.jpg" caption="Notification received" width="1400" height="800" %}
+
+### Previous version
 
 With the intent of **guiding the users through an intuitive procedure** to set up the alerts, I:
 
@@ -83,7 +100,9 @@ With the intent of **guiding the users through an intuitive procedure** to set u
 
 ## Prototype
 
-<div class="iframe-container"><iframe loading="lazy" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2F2UOI7kiE7NHy3jpxTwmbXx%2FAcclimatize.me-App%3Fnode-id%3D221%253A499" allowfullscreen=""></iframe></div>
+Try the prototype — fullscreen available using the controls within the container below.
+
+<div class="iframe-container"><iframe loading="lazy" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F2UOI7kiE7NHy3jpxTwmbXx%2FAcclimatize.me-App%3Fpage-id%3D1108%253A397%26node-id%3D1202%253A384%26viewport%3D241%252C48%252C0.37%26scaling%3Dscale-down%26starting-point-node-id%3D1202%253A384" allowfullscreen=""></iframe></div>
 
 ## Conclusions
 
