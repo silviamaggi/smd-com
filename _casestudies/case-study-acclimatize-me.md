@@ -1,9 +1,9 @@
 ---
 layout: portfolio-content
 title: 'Acclimatize.me - Notification app for travellers'
-featured-post: false
+featured-post: true
 casestudy-order: 2
-date: 2021-02-18T21:39:15.000Z
+date: '2021-02-18 21:39:15'
 last_modified_at: '2021-10-08 10:54:29'
 description: "How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don't miss a minute of fun?"
 excerpt: "How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don't miss a minute of fun?"
