@@ -14,7 +14,7 @@ description: "Design, Digested 22: the Hook model and UX design's dirty secret"
 featured-image: feat-design-digested-22.jpg
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">This week: how to protect ourselves against the Hook model, UX Theatre, dark patterns, and circular economy.</p>
+<p class="lead">This week: how to protect ourselves against the Hook model, <em>UX Theatre</em>, dark patterns, and circular economy.</p>
 
 <!--more-->
 
