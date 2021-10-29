@@ -40,7 +40,7 @@ permalink: '/design-digested/:title/'
 
 ## I, Obscura
 
-> I, Obscura illuminates dark design patterns by telling stories. A compilation of case studies, this zine offers readers a set of dark pattern examples, along with possible design and policy solutions. These examples assist with demystifying deceptive design the possible harms to individuals, and to prompt policymakers to action.
+> I, Obscura illuminates dark design patterns by telling stories. A compilation of case studies, this zine offers readers a set of dark pattern examples, along with possible design and policy solutions.
 
 <p class="detached">🔗 <a href="https://issuu.com/stanforddcsl/docs/dcsl_darkpatternszine_2021\" target="_blank" rel="noopener">Read the article</a> (on ISSUU)</p>
 
