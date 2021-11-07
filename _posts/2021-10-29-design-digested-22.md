@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 22: the Hook model and UX design's dirty secret"
+title: "Design, Digested 22: the Hook model and UX design’s dirty secret"
 last_modified_at: '2021-10-29 12:41:08'
 featured-post: false
 categories:
@@ -10,7 +10,7 @@ tags:
   - facebook
   - dark patterns
   - sustainability
-description: "Design, Digested 22: the Hook model and UX design's dirty secret"
+description: "Design, Digested 22: The Hook model and UX design’s dirty secret"
 featured-image: feat-design-digested-22.jpg
 permalink: '/design-digested/:title/'
 ---
@@ -18,7 +18,7 @@ permalink: '/design-digested/:title/'
 
 <!--more-->
 
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-22.jpg" alt="Design, Digested #22: " width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-22.jpg" alt="Design, Digested #22: The Hook model and UX design’s dirty secret" width="1200" height="500" %}
 
 ## The Hook Model: when our hormones work against us
 
