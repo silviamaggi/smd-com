@@ -3,7 +3,7 @@ title: "Design, Digested: Solidarity in the design community"
 last_modified_at: '2021-11-08 12:37:06'
 featured-post: false
 description: "Design, Digested: Solidarity in the design community."
-permalink: '/newsletter-archive/:title/'
+permalink: '/newsletter/archive/:title/'
 ---
 
 <p class="lead">Designing for belonging, equality and diversity, cross-cultural design and more.</p>

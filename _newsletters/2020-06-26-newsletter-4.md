@@ -3,7 +3,7 @@ title: "Diversity problems and bias"
 last_modified_at: '2021-11-09 13:20:30'
 featured-post: false
 description: "Diversity problems and bias."
-permalink: '/newsletter-archive/:title/'
+permalink: '/newsletter/archive/:title/'
 ---
 
 <p class="lead">White, middle-class males designed the world, for themselves.</p>

@@ -3,7 +3,7 @@ title: "Language, Mobile Approach and Responsive Design at 10"
 last_modified_at: '2021-11-08 15:30:24'
 featured-post: false
 description: "Language, Mobile Approach and Responsive Design at 10."
-permalink: '/newsletter-archive/:title/'
+permalink: '/newsletter/archive/:title/'
 ---
 
 <p class="lead">Defining books, the words we use and more.</p>

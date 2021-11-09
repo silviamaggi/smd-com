@@ -3,7 +3,7 @@ title: "Inclusive design, problematic social media facts"
 last_modified_at: '2021-11-09 13:30:59'
 featured-post: false
 description: "Inclusive design, problematic social media facts."
-permalink: '/newsletter-archive/:title/'
+permalink: '/newsletter/archive/:title/'
 ---
 
 <p class="lead">Plus, a great music project and a break.</p>

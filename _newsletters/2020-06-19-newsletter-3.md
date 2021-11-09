@@ -3,7 +3,7 @@ title: "Black women in UX, how to foster creativity and an unimpressed Bowie"
 last_modified_at: '2021-11-09 13:20:13'
 featured-post: false
 description: "Black women in UX, how to foster creativity and an unimpressed Bowie."
-permalink: '/newsletter-archive/:title/'
+permalink: '/newsletter/archive/:title/'
 ---
 
 <p class="lead">It’s up to us.</p>

@@ -24,15 +24,14 @@
       {%- if page.url contains "blog" -%}
       <li class="breadcrumb-item">Blog (Page {{ paginator.page }} of {{ paginator.total_pages }})</li>
       {%- endif -%}
-      {%- if page.url contains "/archive/" -%}
+      {%- if page.url contains "/archive/" -%}{% unless page.url contains "/newsletter/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
-      {%- endif -%}
-      {% if page.id %}{% unless page.url contains "/portfolio/" or page.url contains "/newsletter-archive/" %}
+      {% endunless %}{%- endif -%}
+      {% if page.id %}{% unless page.url contains "portfolio/" %}{% unless page.url contains "/newsletter/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
-      {%- endunless -%}
-      {% if page.url contains "/newsletter-archive/" %}
-      <li class="breadcrumb-item"><a href="{{ site.url }}/newsletter-archive/">Newsletter Archive</a></li>  
-      {% endif %}
+      {%- endunless -%}{%- endunless -%}{% endif %}
+      {% if page.url contains "/newsletter/" %}
+      <li class="breadcrumb-item"><a href="{{ site.url }}/newsletter/">Newsletter</a></li>  
       {%- endif -%}
       {%- unless page.title contains 'Blog' -%}{%- unless page.title contains 'homepage' %}
       <li class="breadcrumb-item" aria-current="page">{% if page.collection == 'casestudies' or page.collection == 'sideprojects' %}{{ page.title | replace:"archive","" }}{% else %}{{ page.title | replace:"archive","" }}{% endif %}</li>

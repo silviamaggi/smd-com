@@ -3,7 +3,7 @@ title: "A safe and accessible web for everyone"
 last_modified_at: '2021-11-09 13:30:35'
 featured-post: false
 description: "A safe and accessible web for everyone"
-permalink: '/newsletter-archive/:title/'
+permalink: '/newsletter/archive/:title/'
 ---
 
 <p class="lead">Looking at you, Facebook.</p>

@@ -17,13 +17,13 @@ layout: default
 <div class="e-content">
   {{ content }}
 </div>
-{% unless page.url contains "/newsletter-archive/" %}
+{% unless page.url contains "/newsletter/" %}
 {%- include pattern-responses.html -%}
 {% endunless %}
 </article>
 
 {%- include post-navigation.html -%}
-{% unless page.url contains "/newsletter-archive/" %}
+{% unless page.url contains "/newsletter/" %}
 {%- include pattern-relatedposts.html -%}
 {% endunless %}
 

@@ -3,7 +3,7 @@ title: "Anti-racist lessons, empathic design, misogyny"
 last_modified_at: '2021-11-08 16:22:39'
 featured-post: false
 description: "Anti-racist lessons, empathic design, misogyny."
-permalink: '/newsletter-archive/:title/'
+permalink: '/newsletter/archive/:title/'
 ---
 
 <p class="lead">Honest conversations and some fun.</p>

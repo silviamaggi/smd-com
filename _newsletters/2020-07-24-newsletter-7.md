@@ -3,7 +3,7 @@ title: "How a well-known website lost trust of their community"
 last_modified_at: '2021-11-09 13:23:32'
 featured-post: false
 description: "How a well-known website lost trust of their community."
-permalink: '/newsletter-archive/:title/'
+permalink: '/newsletter/archive/:title/'
 ---
 
 <p class="lead">Accessibility is everyone’s business.</p>

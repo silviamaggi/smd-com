@@ -7,9 +7,10 @@ https://blog.silviamaggidesign.com/* https://silviamaggidesign.com/blog/:splat 3
 /contact/ /get-in-touch-silviamaggi/ 301
 /contacts-silviamaggi/ /get-in-touch-silviamaggi/ 301
 /it/contatti/ /get-in-touch-silviamaggi/ 301
-/design-digested-a-newsletter-by-silvia-maggi/ /design-inspiration-newsletter-silvia-maggi/ 301
-/design-inspiration-newsletter-by-silvia-maggi /design-inspiration-newsletter-silvia-maggi/ 301
-/design-digested-newsletter-by-silvia-maggi /design-inspiration-newsletter-silvia-maggi/ 301
+/design-digested-a-newsletter-by-silvia-maggi/ /newsletter/ 301
+/design-inspiration-newsletter-by-silvia-maggi /newsletter/ 301
+/design-digested-newsletter-by-silvia-maggi /newsletter/ 301
+/design-inspiration-newsletter-silvia-maggi/ /newsletter/ 301
 /it/privacy-policy/ /privacy-policy/ 301
 /portfolio/ /silvia-maggi-portfolio/ 301
 /interaction-design-foundation-review/ https://www.interaction-design.org/ 301

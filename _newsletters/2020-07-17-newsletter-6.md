@@ -3,7 +3,7 @@ title: "Biased AI, phone addiction and social media manipulation"
 last_modified_at: '2021-11-09 13:22:33'
 featured-post: false
 description: "Biased AI, phone addiction and social media manipulation."
-permalink: '/newsletter-archive/:title/'
+permalink: '/newsletter/archive/:title/'
 ---
 
 <p class="lead">Time to take care of our digital lives.</p>

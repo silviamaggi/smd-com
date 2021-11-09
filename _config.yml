@@ -72,7 +72,7 @@ collections:
     permalink: /portfolio/:path/
   newsletters:
     output: true
-    permalink: /newsletter-archive/:path/
+    permalink: /newsletter/:path/
   jeremybearimies:
     output: true
     permalink: /jeremybearimy/:path/
