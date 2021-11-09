@@ -9,7 +9,7 @@ permalink: /get-in-touch-silviamaggi/
 ---
 {%- assign socialnav = site.data.nav-social -%}
 
-<p class="lead">Are you looking for help with UX, responsive web design, information architecture? <strong>I&rsquo;m available for hire</strong> — <a href="mailto:contacts@silviamaggidesign.com" title="Email me" title="Write me an email">let&rsquo;s get in touch</a>.</p>
+<p class="lead">Are you looking for help with UX, responsive web design, information architecture? <strong>I&rsquo;m available for hire</strong> — <a href="mailto:contacts@silviamaggidesign.com" title="Write me an email">let&rsquo;s get in touch</a>.</p>
 
 Have a question, or simply want to start a conversation? Feel free to connect on <a href="{{ socialnav[0].link }}" rel="nofollow me">{{ socialnav[0].name }}</a>, <a href="{{ socialnav[2].link }}" rel="nofollow me">{{ socialnav[2].name }}</a> and <a href="{{ socialnav[1].link }}" rel="nofollow me">{{ socialnav[1].name }}</a>.
 
