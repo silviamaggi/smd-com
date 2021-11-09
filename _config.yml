@@ -53,6 +53,11 @@ defaults:
       layout: "page"
   - scope:
       path: ""
+      type: "newsletters"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
       type: "jeremybearimies"
     values:
       layout: "jeremy"
@@ -65,6 +70,9 @@ collections:
   sideprojects:
     output: true
     permalink: /portfolio/:path/
+  newsletters:
+    output: true
+    permalink: /newsletter-archive/:path/
   jeremybearimies:
     output: true
     permalink: /jeremybearimy/:path/

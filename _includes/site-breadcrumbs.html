@@ -27,9 +27,12 @@
       {%- if page.url contains "/archive/" -%}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
       {%- endif -%}
-      {% if page.id %}{% unless page.url contains "/portfolio/" %}
+      {% if page.id %}{% unless page.url contains "/portfolio/" or page.url contains "/newsletter-archive/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
       {%- endunless -%}
+      {% if page.url contains "/newsletter-archive/" %}
+      <li class="breadcrumb-item"><a href="{{ site.url }}/newsletter-archive/">Newsletter Archive</a></li>  
+      {% endif %}
       {%- endif -%}
       {%- unless page.title contains 'Blog' -%}{%- unless page.title contains 'homepage' %}
       <li class="breadcrumb-item" aria-current="page">{% if page.collection == 'casestudies' or page.collection == 'sideprojects' %}{{ page.title | replace:"archive","" }}{% else %}{{ page.title | replace:"archive","" }}{% endif %}</li>

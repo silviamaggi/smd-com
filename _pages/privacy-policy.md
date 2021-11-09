@@ -33,7 +33,7 @@ This website doesn't use analytics, therefore it doesn't track visits.
 
 <h2 class="display-6" id="newsletter-privacy">Newsletter</h2>
 
-If you subscribe to my newsletter, I will collect your email address, which will be stored by Mailchimp. It will be used solely to send you emails. I do not share it with third parties. You can unsubscribe at any moment via the link in my newsletters, or <a href="mailto:contacts@silviamaggidesign.com" title="Email me">by writing to me</a>. Learn more about <a href="https://mailchimp.com/legal/" target="_blank" rel="noopener" title="Go to the Mailchimp website">Mailchimp’s privacy practices</a>.
+If you subscribe to my newsletter, I will collect your email address, which will be stored on ProtonMail's servers. It will be used solely to send you emails. I do not share it with third parties. You can unsubscribe at any moment via the link in my newsletters, or <a href="mailto:contacts@silviamaggidesign.com" title="Email me">by writing to me</a>. Learn more about <a href="https://protonmail.com/privacy-policy" target="_blank" rel="noopener" title="Go to the ProtonMail website">ProtonMail’s privacy practices (Data Collection paragraph)</a>.
 
 <h2 class="display-6">Contact information</h2>
 
