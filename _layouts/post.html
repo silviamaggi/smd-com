@@ -27,4 +27,4 @@ layout: default
 {%- include pattern-relatedposts.html -%}
 {% endunless %}
 
-<div class="d-block d-md-none text-center mb-5">{%- include pattern-buymeacoffee.html %}</div>
+<div class="d-block d-md-none text-center mb-5{% if page.url contains '/newsletter/archive/' %} mt-5{% endif %}">{%- include pattern-buymeacoffee.html %}</div>
