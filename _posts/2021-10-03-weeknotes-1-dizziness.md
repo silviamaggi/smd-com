@@ -18,12 +18,12 @@ excerpt: 'This is the beginning of a new series, where I tell you about my week.
 <!--more-->
 
 <ul class="smd-ul">
-<li>While <a href="https://minutestomidnight.co.uk" target="_blank" rel="noopener" title="Go to Simone's website">Simone</a> went to Milan last week, I stayed with my parents after <a href="/photography/back-to-the-lake/" title="See the post 'Back to the Lake'">almost two years</a>.</li>
-<li>On Saturday, I joined him in Milan, bringing most of our stuff with my dad.</li>
-<li>I wanted to see more people while I was at the lake, but had strong dizziness on Tuesday morning, followed by a panic attack, and felt poorly for days.</li>
-<li>The doctor fixed my very blocked ear, which might have caused the dizziness. Or is it my neck telling me it's sick of changing pillows?</li>
-<li>We went out for a sushi in Milan, after a walk in the park. The sushi tasted so much better than the ones we had in Ravenna — which were actually decent.</li>
-<li>Having spent a year in <a href="/tag/ravenna/" title="Explore the posts about Ravenna">Ravenna</a>, Milan — or even just this borough — feels immense. The last time I lived in a big city was back in 2015, when we left London for Cambridge.</li>
+  <li>While <a href="https://minutestomidnight.co.uk" target="_blank" rel="noopener" title="Go to Simone's website">Simone</a> went to Milan last week, I stayed with my parents after <a href="/photography/back-to-the-lake/" title="See the post 'Back to the Lake'">almost two years</a>.</li>
+  <li>On Saturday, I joined him in Milan, bringing most of our stuff with my dad.</li>
+  <li>I wanted to see more people while I was at the lake, but had strong dizziness on Tuesday morning, followed by a panic attack, and felt poorly for days.</li>
+  <li>The doctor fixed my very blocked ear, which might have caused the dizziness. Or is it my neck telling me it's sick of changing pillows?</li>
+  <li>We went out for a sushi in Milan, after a walk in the park. The sushi tasted so much better than the ones we had in Ravenna — which were actually decent.</li>
+  <li>Having spent a year in <a href="/tag/ravenna/" title="Explore the posts about Ravenna">Ravenna</a>, Milan — or even just this borough — feels immense. The last time I lived in a big city was back in 2015, when we left London for Cambridge.</li>
 </ul>
 
 {% responsive_image path: assets/images/20210927-lake.jpg alt: "A serene scene of a small beach on Lake Maggiore" caption: "A beach on Lake Maggiore" %}
