@@ -8,6 +8,7 @@ tags:
   - disinformation
   - facebook
   - world wide web
+  - women in tech
 description: "Design inspiration series. Why Facebook can't beat hate, a safe haven for press freedom, a game to recognise disinformation."
 featured-image: feat-design-digested-9.jpg
 permalink: '/design-digested/:title/'

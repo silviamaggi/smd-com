@@ -7,6 +7,7 @@ categories:
 tags:
   - cognitive bias
   - inclusion
+  - women in tech
   - ux
 description: 'What does it mean designing for inclusion? Inclusive design is gaining a lot of attention lately, and rightly so. Articles and resources to start.'
 featured-image: feat-design-digested-17.jpg

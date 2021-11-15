@@ -5,6 +5,7 @@ featured-post: false
 categories:
   - Design Digested
 tags:
+  - women in tech
   - design
   - photography
   - privacy

@@ -9,6 +9,7 @@ tags:
   - sexism
   - racial bias
   - wordpress
+  - women in tech
 description: 'Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.'
 featured-image: feat-design-digested-11-all-women-edition.jpg
 permalink: '/design-digested/:title/'
