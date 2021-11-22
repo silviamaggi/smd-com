@@ -56,6 +56,6 @@ Everytime I had something to say or show, I’d post it on some social media alm
 
 ## Update
 
-<strong>22 November, 2021</strong>. Two months ago, I logged in on my Instagram account and felt nothing. I saw a friend's video at the top of my feed, but <em>didn't feel the need to see the rest</em>. There was no point in keeping the account inactive, so I set it for deletion. Now it's gone.  
+<strong>22 November, 2021</strong>. Two months ago, I logged in on my Instagram account and felt nothing. I saw a friend's video, but <em>didn't feel the need to see the rest of my feed</em>. There was no point in keeping the account inactive, so I set it for deletion. Now it's gone.  
 
 <!-- <small>Photo by [Max van den Oetelaar](https://unsplash.com/photos/buymYm3RQ3U) on Unsplash</small> -->
