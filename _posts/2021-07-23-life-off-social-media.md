@@ -1,6 +1,6 @@
 ---
 title: 'Life off social media, six months in'
-last_modified_at: '2021-09-15 18:28:59'
+last_modified_at: '2021-11-22 16:26:56'
 featured-post: false
 categories:
   - Personal
@@ -53,5 +53,9 @@ Everytime I had something to say or show, I’d post it on some social media alm
 <li><a href="https://www.humanetech.com/" target="_blank" rel="noopener">Center for Humane Technology</a></li>
 <li><a href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads" target="_blank" rel="noopener">We’re building a dystopia just to make people click on ads</a> TED Talk by Zeynep Tufekci</li>
 </ul>
+
+## Update
+
+<strong>22 November, 2021</strong>. Two months ago, I logged in on my Instagram account and felt nothing. I saw a friend's video at the top of my feed, but <em>didn't feel the need to see the rest</em>. There was no point in keeping the account inactive, so I set it for deletion. Now it's gone.  
 
 <!-- <small>Photo by [Max van den Oetelaar](https://unsplash.com/photos/buymYm3RQ3U) on Unsplash</small> -->
