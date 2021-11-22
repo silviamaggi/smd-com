@@ -1,6 +1,6 @@
 ---
 title: "Design, Digested 21: Exploring design cultures"
-last_modified_at: '2021-10-15 15:03:29'
+last_modified_at: '2021-11-20 17:09:18'
 featured-post: false
 categories:
   - Design Digested
@@ -8,7 +8,7 @@ tags:
 - design
 - diversity
 - inspiration
-description: ""
+description: "This week, tired of seeing social media-related articles, I'm sharing older ones as an inspiration to follow your own path."
 featured-image: feat-design-digested-21.jpg
 permalink: '/design-digested/:title/'
 ---

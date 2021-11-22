@@ -10,7 +10,7 @@ tags:
   - design
   - ux
 description: "Design, Digested 23: Imposter syndrome and pockets"
-excerpt: "This week, I gathered articles that made me see this phenomen from a different perspective. Time to reframe. And pockets. Women need pockets."
+excerpt: "This week, I gathered articles that made me see this phenomenon from a different perspective. Time to reframe. And pockets. Women need pockets."
 featured-image: feat-design-digested-23.jpg
 permalink: '/design-digested/:title/'
 ---
