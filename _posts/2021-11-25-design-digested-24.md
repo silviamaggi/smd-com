@@ -10,7 +10,7 @@ tags:
   - privacy
   - inclusion
   - facebook
-description: "This week: how to prevent user errors, the <em>curb-cut effect</em>, how creepy is that device, and users adapting to technology that wasn't designed with them in mind."
+description: "This week: how to prevent user errors, the curb-cut effect, how creepy is that device, and users adapting to technology that wasn't designed with them in mind."
 excerpt: "This week: how to prevent user errors, the curb-cut effect, how creepy is that device, and users adapting to technology that wasn't designed with them in mind."
 featured-image: feat-design-digested-24.jpg
 permalink: '/design-digested/:title/'
