@@ -57,6 +57,12 @@ Cambodians are ignoring keyboards, which are not designed for Khmer. They've ada
 
 <p class="detached">🔗 <a href="https://www.nationalgeographic.com/history/article/the-man-who-taught-humans-to-breathe-like-fish" target="_blank" rel="noopener">Read the article</a> (on National Geographic)</p>
 
+<hr>
+
+<p class="detached"><a href="/design-inspiration-newsletter-silvia-maggi/" title="Go to the Newsletter page">Design, Digested</a> is a newsletter about design, tech, and their implication in our lives.</p>
+
+{%- include pattern-newsletter-sub.html %}
+
 
 
 
