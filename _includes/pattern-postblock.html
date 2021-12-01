@@ -4,7 +4,7 @@
   {% endfor %}
   <h{% if page.url == '/' %}4{% else %}2{% endif %} class="{% if page.url == '/' %}h4 {% else %}h2 {% endif %}p-name mt-2 mb-0">{{ post.title }}</h{% if page.url == '/' %}4{% else %}2{% endif %}>
   <div class="post-meta mt-3">
-    {% include post-meta.html date=page %}{% if page.url == '/' %}&nbsp;/&nbsp;{% endif %}{% include pattern-readingtime.html content=post.content -%}
+    {% include post-meta.html date=page %}{% if page.url == '/' %}{% endif %}
   </div>
   <div class="e-content">
     <p class="p-summary mt-3{% if page.url == '/' %} small{% endif %}">{{ post.excerpt | markdownify | strip_html }}</p>
