@@ -45,7 +45,7 @@ Baymard Institute’s 12 years of large-scale checkout usability testing consist
 
 <p class="detached">🔗 <a href="https://baymard.com/blog/current-state-of-checkout-ux" target="_blank" rel="noopener">Read the article</a> (on Baymard Institute)</p>
 
-## Drawing a tree: uncommon vintage Italian meditation on the existential poetics of diversity and resilience through the art and science of tees
+## Drawing a tree: uncommon vintage Italian meditation on the existential poetics of diversity and resilience through the art and science of trees
 
 Bruno Munari — visionary Italian artist, designer, inventor, futurist and visual philosopher — explored the life-affirming dialogue between a tree’s predestined structure and its living shape in his 1978 <em>Drawing a tree</em>.
 
