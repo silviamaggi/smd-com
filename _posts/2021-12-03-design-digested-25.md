@@ -57,7 +57,7 @@ Toftan, Ektorp, Voxnan, Hemsjö, Kallax … These are all beautiful places in Sw
 
 <p class="detached">🔗 <a href="https://visitsweden.com/discover-the-originals/" target="_blank" rel="noopener">Read the article</a> (on Visit Sweden)</p>
 
-## Bonus: The IKEA Dictionary
+## The IKEA Dictionary
 
 Most of Ikea names categorised and explained by Lars Petrus. 
 
