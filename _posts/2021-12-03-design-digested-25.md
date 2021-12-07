@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 25: Blue Beany Day, UX of checkout flows, Ikea names"
+title: "Design, Digested 25: Blue Beanie Day, UX of checkout flows, Ikea names"
 last_modified_at: '2021-12-03 17:42:03'
 featured-post: false
 categories:
@@ -10,18 +10,18 @@ tags:
   - ux
   - drawing
   - sweden
-description: "This week: celebrating the web standards with Blue Beany Day, accessibility, the current state of checkout UX, the meaning of Ikea names, and more."
-excerpt: "This week: celebrating the web standards with Blue Beany Day, accessibility, the current state of checkout UX, the meaning of Ikea names, and more."
+description: "This week: celebrating the web standards with Blue Beanie Day, accessibility, the current state of checkout UX, the meaning of Ikea names, and more."
+excerpt: "This week: celebrating the web standards with Blue Beanie Day, accessibility, the current state of checkout UX, the meaning of Ikea names, and more."
 featured-image: feat-design-digested-25.jpg
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">This week: celebrating the web standards with Blue Beany Day, accessibility, the current state of the UX of checkout processes, the meaning of Ikea names, and more.</p>
+<p class="lead">This week: celebrating the web standards with Blue Beanie Day, accessibility, the current state of the UX of checkout processes, the meaning of Ikea names, and more.</p>
 
 <!--more-->
 
 {% include pattern-figure-featured.html image="/assets/images/feat-design-digested-25.jpg" alt="Design, Digested #25: " width="1200" height="500" %}
 
-## Blue Beany Day
+## Blue Beanie Day
 
 Ever since 2007, November 30 marks the invitation to design accessible, web-standards-based websites. Check also Jeffrey Zeldman's seminal book <a href="https://www.goodreads.com/book/show/259072.Designing_with_Web_Standards">Designing with Web Standards</a>.
 
