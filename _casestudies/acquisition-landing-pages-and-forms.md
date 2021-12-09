@@ -1,17 +1,19 @@
 ---
-layout: portfolio-content
+layout: post
 title: UniCredit acquisition landing pages and forms
 featured-post: true
 casestudy-order: 1
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2021-09-15 18:50:49'
+last_modified_at: '2021-12-08 17:02:03'
 description: UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 featured-image-alt: Screens showing UniCredit landing pages and forms
 carousel: true
 excerpt: UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.
+year: 
+  - 2014
 skills:
-  - User interviews
+  - Observational research
   - Content Strategy
   - User flows
   - Wireframing
@@ -21,10 +23,15 @@ skills:
 tools:
   - Sketch app
   - Responsive framework
-problem: '<a href="https://unicredit.it/" target="_blank" rel="noopener" title="Go to the Unicredit Bank website">UniCredit</a>, a leading European commercial bank headquartered in Italy, wants to leverage the increasing use of smartphones to reach a wider range of clients. Their acquisition landing pages and forms <strong>look outdated and not mobile friendly</strong>. An overhaul is essential for the bank to remain competitive.'
-solution: 'Within a single codebase, we created custom experiences for smartphone, tablet and desktop to replace the existing pages and forms. The goal was to increase their trustworthiness and conversion rates.'
-myrole: 'I <strong>led the project</strong> and worked on the UX and final designs. My colleagues at UI Farm provided valuable feedback, collaborating to devise the best content strategy. Their expertise completed the project with state-of-the-art frontend development.'
 ---
+## The problem
+
+<a href="https://unicredit.it/" target="_blank" rel="noopener" title="Go to the Unicredit Bank website">UniCredit</a>, a leading European commercial bank headquartered in Italy, wants to leverage the increasing use of smartphones to reach a wider range of clients. Their acquisition landing pages and forms <strong>look outdated and not mobile friendly</strong>. An overhaul is essential for the bank to remain competitive.
+
+## My role
+
+I <strong>led the project</strong> and worked on the UX and final designs. My colleagues at UI Farm provided valuable feedback, collaborating to devise the best content strategy. Their expertise completed the project with state-of-the-art frontend development.
+
 ## The context
 
 > *In 2013, only 37% of users used their smartphones to go online, while 84% declared to have such a habit in 2017. [...] Between 2013 and 2018, purchases via smartphone increased from barely 6% to over 26% of total online purchase in Italy.*
@@ -53,7 +60,7 @@ UniCredit know their customers well, thanks to their continuous research and usa
 
 Cross-referencing existing data with my research, I created customer journey maps for each persona.
 
-## Customer journey maps
+## Observational research
 
 To understand how straightforward it was to find the right information on the landing pages, I gave ten people a task and observed what they did. The maps follow the actions the personae take to reach their goals. I chose them over user flows because *they highlight thoughts and emotions*, useful to identify a journey’s pain points.
 
@@ -80,7 +87,7 @@ Thanks to UI Farm’s responsive framework, I prototyped the pages directly in t
 
 {% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-bottom.png" caption="Details of the landing page wireframes: desktop" width="1024" height="600" %}
 
-## Clever sticky header
+## Sticky header
 
 My colleagues and I felt that having the Calls to Action repeated at the end of each product feature wasn’t the best output. We found a solution that was technically feasible and elegant. 
 
@@ -138,7 +145,7 @@ This project proved how important culture is when designing. Getting to know **t
 
 > UI Farm’s innovative workflow and unique skills has given us a very clear insight into our customers’ behaviour and preferences, which has considerably boosted our account application conversions. Thanks to UI Farm’s approach, we have been able to significantly improve the experience delivered to our customers and prospects, and make changes that may have seemed minor to us but have resulted in significant conversion lifts. UI Farm has truly changed our approach to Interaction Design.
 >
-> <cite>*Gabriele Rosati, Head of Interaction Design at UniCredit.*</cite>
+> <cite>Gabriele Rosati, Head of Interaction Design at UniCredit.</cite>
 
 ### Further information
 

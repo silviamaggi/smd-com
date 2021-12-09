@@ -1,5 +1,5 @@
 ---
-layout: portfolio-content
+layout: post
 title: After 1989. A Trip To Freedom
 date: 2021-04-14T20:44:19.000Z
 last_modified_at: '2021-09-12T13:56:17.260Z'
@@ -9,6 +9,8 @@ excerpt: 'After 1989. A trip to freedom is my Minutes to Midnight’s debut solo
 featured-image: feat-after1989videos-featured-img.jpg
 featured-image-alt: Concentration camp gate entrance
 carousel: true
+year: 
+  - 2019
 skills:
   - Photography
   - Video Authoring

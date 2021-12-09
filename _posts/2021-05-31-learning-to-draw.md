@@ -1,7 +1,8 @@
 ---
 title: Learning to draw. A journey
-last_modified_at: '2021-09-15 18:23:34'
+last_modified_at: '2021-12-09 14:59:31'
 featured-post: false
+popular-post: true
 categories:
   - Drawing
 tags:
@@ -9,8 +10,11 @@ tags:
   - design
   - personal
 description: "As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey."
+excerpt: "As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey."
 featured-image: feat-sam-rios-unsplash.jpg
 ---
+{% include pattern-figure-featured.html width="1200" height="500" caption='Photo by <a href="https://unsplash.com/@samr1os_official" target="_blank" rel="noopener">Sam Rios</a>' %}
+
 <p class="lead">In my latest <em>Design, Digested</em> post titled <a href="/design-digested/importance-of-sketching-in-ux/" title="Read the post on my website">The importance of sketching in UX and beyond</a>, I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing <em>what</em> to draw, and then give up.</p>
 
 <!--more-->
@@ -55,5 +59,3 @@ My ultimate goal is to learn the fundamentals of drawing, and take it forward wi
 </ul>
 
 Let the journey begin!
-
-<!-- <small>Photo by [Sam Rios](https://unsplash.com/@samr1os_official){:target="_blank" rel="noopener"} on Unsplash</small> -->

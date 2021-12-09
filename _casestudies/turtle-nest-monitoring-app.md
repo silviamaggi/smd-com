@@ -1,5 +1,5 @@
 ---
-layout: portfolio-content
+layout: post
 title: Turtle nest monitoring app
 featured-post: false
 casestudy-order: 3
@@ -9,15 +9,22 @@ description: Scientists need to monitor turtle nests and record their status to 
 excerpt: Scientists need to monitor turtle nests and record their status to measure the effectiveness of strategies to protect the aquatic megafauna and their habitats.
 featured-image: feat-turtle-nest-monitoring-app-featured-img.jpg
 featured-image-alt: Wireframes screens showing interaction
+year: 
+  - 2021
 skills:
   - Wireframing
   - Prototyping
 tools:
   - Figma
-problem: 'Turtle scientists need to monitor nests and record status and number of hatchings so that they can measure the effectiveness of <a href="https://www.ammco.org" target="_blank" rel="noopener" title="Go to the African Marine Mammal Conservation Organization website">AMMC</a> strategies to protect the aquatic megafauna and their habitats.'
-solution: "I designed the interaction for a mobile app that allows turtle scientists to record new turtle nests and receive notifications when they're ready to hatch. This would help them checking how many eggs have hatched and how many have not."
-myrole: 'This is a design challenge from <a href="https://www.uxrescue.org/" target="_blank" rel="noopener" title="Go to the UX Rescue website">UX Rescue</a>. Based on a definition of the user group, their needs, user stories, and the data recorded, I proposed wireframes and a live prototype.'
 ---
+## The problem
+
+Turtle scientists need to monitor nests and record status and number of hatchings so that they can measure the effectiveness of <a href="https://www.ammco.org" target="_blank" rel="noopener" title="Go to the African Marine Mammal Conservation Organization website">AMMC</a> strategies to protect the aquatic megafauna and their habitats.
+
+## My role
+
+This is a design challenge from <a href="https://www.uxrescue.org/" target="_blank" rel="noopener" title="Go to the UX Rescue website">UX Rescue</a>. Based on a definition of the user group, their needs, user stories, and the data recorded, I proposed wireframes and a live prototype.
+
 ## Overview
 
 The African Marine Mammal Conservation Organization (AMMC) has created *Siren*, an open science software platform that helps local coastal communities, scientists, governments and NGOs understand data about marine mammal populations and solve conservation problems. *Siren* has already led to the legal protection of 5 marine mammals on the Western Coast of Africa and they are now expanding their outreach to protect 11 endangered species of sharks and rays including one that experts thought was extinct.

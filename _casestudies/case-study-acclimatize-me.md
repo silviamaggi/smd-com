@@ -1,5 +1,5 @@
 ---
-layout: portfolio-content
+layout: post
 title: 'Acclimatize.me - Notification app for travellers'
 featured-post: true
 casestudy-order: 2
@@ -9,6 +9,8 @@ description: "How can you design a product that helps travellers prepare and acc
 excerpt: "How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don't miss a minute of fun?"
 featured-image: feat-acclimatize-case-study-featured-img.jpg
 featured-image-alt: Composite of storyboard and wireframes
+year: 
+  - 2021
 skills:
   - User interviews
   - Sketches
@@ -21,10 +23,15 @@ tools:
   - Pen and Paper
   - Miro
   - Figma
-problem: "How can you design a product that <strong>helps travellers prepare and acclimatize fast for their trip</strong> so they don’t miss a minute of fun?"
-solution: "The prototype of a mobile app that lets people set up alerts about weather changes, and notifications from local authorities."
-myrole: "Solo project, where I explored the process from finding the users’ needs to visual design."
 ---
+## The problem
+
+How can you design a product that <strong>helps travellers prepare and acclimatize fast for their trip</strong> so they don’t miss a minute of fun?
+
+## My role
+
+Solo project, where I explored the process from finding the users’ needs to visual design.
+
 ## User story
 
 > *When I travel I want to what to expect so I can enjoy my stay from start to finish.*
@@ -106,7 +113,7 @@ Try the prototype — fullscreen available using the controls within the contain
 
 ## Conclusions
 
-Starting from the straightforward process of setting up alerts, this app has potential. It can have discussion forums and be a place where to share travel experiences, make new friends and even meet them to explore new places together. Although, the market offers similar tools — e.g. Tripadvisor — and I believe apps should be helping as opposed to creating more noise in people's lives. Acclimatize.me should be an app you set up and forget.
+Starting from the straightforward process of setting up alerts, this app has potential. It can have discussion forums and be a place where to share travel experiences, make new friends and even meet them to explore new places together. Although, the market offers similar tools — e.g. Tripadvisor — and I believe apps should be helping as opposed to creating more noise in people's lives. *Acclimatize.me* should be an app you set up and forget.
 
 ## Contact
 

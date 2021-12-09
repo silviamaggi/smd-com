@@ -1,14 +1,18 @@
 ---
 title: 'Life off social media, six months in'
-last_modified_at: '2021-11-22 16:26:56'
+last_modified_at: '2021-12-09 14:59:10'
 featured-post: false
+popular-post: true
 categories:
   - Personal
 tags:
   - social media
 description: "I tell you what happened when I quit social media six months ago, and why I don't want to come back."
+excerpt: "I tell you what happened when I quit social media six months ago, and why I don't want to come back."
 featured-image: feat-max-van-den-oetelaar-unsplash.jpg
 ---
+{% include pattern-figure-featured.html width="1200" height="500" caption='Photo by <a href="https://unsplash.com/photos/buymYm3RQ3U" target="_blank" rel="noopener">Max van den Oetelaar</a>' %}
+
 <p class="lead">I used to be everywhere. Name the social media and, most probably, I had an account. Internet’s always been a big thing for me, and a certain kind of online presence was good for my profession, hobbies and relationships.</p>
 
 <!--more-->
@@ -56,6 +60,4 @@ Everytime I had something to say or show, I’d post it on some social media alm
 
 ## Update
 
-<strong>22 November, 2021</strong>. Two months ago, I logged in on my Instagram account and felt nothing. I saw a friend's video, but <em>didn't feel the need to see the rest of my feed</em>. There was no point in keeping the account inactive, so I set it for deletion. Now it's gone.  
-
-<!-- <small>Photo by [Max van den Oetelaar](https://unsplash.com/photos/buymYm3RQ3U) on Unsplash</small> -->
+<strong>22 November, 2021</strong>. Two months ago, I logged in on my Instagram account and felt nothing. I saw a friend's video, but <em>didn't feel the need to see the rest of my feed</em>. There was no point in keeping the account inactive, so I set it for deletion. Now it's gone.

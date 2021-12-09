@@ -1,8 +1,78 @@
-{% if post %}
-{% assign date = post.date %}
-{% elsif page %}
-{% assign date = page.date %}
+{% assign casestudies = site.casestudies %}
+{% assign sideprojects = site.sideprojects %}
+{% assign studies = casestudies | concat:sideprojects %}
+{%- if post -%}
+  {%- assign categories = post.categories -%}
+{%- else -%}
+  {%- assign categories = page.categories -%}
+{%- endif -%}
+{% unless page.collection == 'newsletters' %}
+<table class="table table-sm">
+  <tbody>
+    {% unless page.collection == 'newsletters' %}
+    <tr class="post-taxonomy">
+      <td width="50">
+        <span class="smd-font-micro text-uppercase me-1">{% if page.url contains '/portfolio/' %}Year{% else %}Topic{% endif %}</span>
+      </td>
+      <td>
+      {% if page.url contains '/portfolio/' %}
+        <span class="fw-bold text-uppercase smd-font-micro d-inline-block"><strong>{{ page.year | date: "%Y" }}</strong></span>
+      {% endif %}
+      {%- for category in categories -%}
+        <a class="p-category text-decoration-none me-2 me-lg-1" href="{{ site.url }}/category/{{ category | slugify | append: '/' }}"><span class="btn btn-lg btn-label-smd btn-label-smd-bg btn-label-smd-link fw-bold smd-font-micro"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></a>
+      {%- endfor -%}
+      </td>
+    </tr>
+    {% endunless %}
+    {% if page.url contains '/portfolio/' %}
+    <tr>
+      <td width="50">
+        <span class="smd-font-micro text-uppercase me-1">Skills</span>
+      </td>
+      <td>
+        <span class="p-category">
+          {%- for skill in page.skills -%}
+          <span class="fw-bold text-uppercase smd-font-micro"><strong>{{ skill }} </strong></span><span class="d-inline-block mx-1">/</span> 
+          {%- endfor -%}
+        </span>
+      </td>
+    </tr>
+    {% endif %}
+    <tr class="post-taxonomy">
+    {%- unless page.tags == empty -%}
+      {%- if post -%}
+        {%- assign tags = post.tags -%}
+      {%- else -%}
+        {%- assign tags = page.tags -%}
+      {%- endif -%}
+      <td>
+        <span class="d-inline-block smd-font-micro text-uppercase me-1">Tags</span>
+      </td>
+      <td>
+        {% for tag in tags %}<a class="p-category me-2 text-decoration-none me-2 me-lg-1" href="{{ site.url }}/tag/{{ tag | slugify | append: '/' }}"><span class="btn btn-lg btn-label-smd btn-label-smd-bg btn-label-smd-link fw-bold smd-font-micro"><strong>{{ tag | upcase }}</strong></span></a>{% unless forloop.last %}{% endunless %}{% endfor %}
+      </td>
+    </tr>
+    <tr>
+      <td><span class="d-inline-block smd-font-micro text-uppercase me-1">Date</span></td>
+      <td>
+        {%- if post -%}
+          {% assign date = post.date %}
+        {%- elsif page -%}
+          {% assign date = page.date %}
+        {%- endif -%}
+        <time class="dt-published smd-font-micro fw-bold" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time>
+      </td>
+    </tr>
+    {%- endunless -%}
+  </tbody>
+</table>
+{%- endunless -%}
+
+{% if page.collection == 'newsletters' %}
+{%- if post -%}
+  {% assign date = post.date %}
+{%- elsif page -%}
+  {% assign date = page.date %}
+{%- endif -%}
+<time class="dt-published fw-bold" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time>
 {% endif %}
-<span class="d-inline-block smd-font-micro fw-bold">
-  <time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time>
-</span>{% unless page.title contains 'homepage' or page.collection == 'casestudies' or page.collection == 'sideprojects' %}  {% endunless %}

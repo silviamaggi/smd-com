@@ -180,6 +180,7 @@ blockquote {
   p {
     display: inline;
     text-indent: 0;
+    font-style: italic;
     &:first-child {
       margin-bottom: $spacer;
     }
@@ -190,6 +191,7 @@ blockquote {
 cite {
   display: block;
   font-style: normal;
+  font-weight: bold;
   text-indent: 0;
   margin-top: $spacer*0.5;
 }

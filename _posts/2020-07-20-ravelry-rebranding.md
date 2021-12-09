@@ -1,7 +1,8 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2021-10-19 11:47:07'
+last_modified_at: '2021-12-09 14:59:22'
 featured-post: false
+popular-post: true
 categories:
   - Design
 tags:
