@@ -5,7 +5,7 @@ baseurl: ""
 # SEO
 title: Silvia Maggi Design
 tagline: UX Designer
-description: Welcome. Silvia Maggi is a UX Designer striving to create meaningful, user-centric experiences. View her UX portfolio and latest blog posts.
+description: Welcome. Silvia Maggi is a UX Designer striving to create meaningful digital experiences. View her UX portfolio and latest blog posts.
 permalink: /:categories/:title/
 keywords:
   uxdesign,
