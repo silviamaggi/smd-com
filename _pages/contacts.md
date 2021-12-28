@@ -25,26 +25,3 @@ permalink: /get-in-touch-silviamaggi/
 <p><a href="/design-inspiration-newsletter-silvia-maggi/" title="Go to the Newsletter page">Design, Digested</a> is a newsletter about design, tech, and their implication in our lives.</p>
 
 {%- include pattern-newsletter-sub.html %}
-
-<h2 id="guestbook">Guestbook</h2>
-
-👋 Sign the guestbook using the form below, like in [the early days of the Web](https://neustadt.fr/essays/the-small-web/){:target="_blank" rel="noopener" title="Go to Parimal Satyal's article about the small web"}. Thank you for stopping by!
-
-<form class="my-4 pt-3" action="/guestbooked" name="guestbook" netlify netlify-honeypot="not-for-humans">
-  <div style="display: none;"><label>Don’t fill this out if you're human: <input name="not-for-humans" /></label></div>
-  <div class="mb-3">
-    <label class="form-label" for="guestName">Name</label>
-    <input class="form-control form-control-lg" placeholder="Your name" type="text" name="name" id="guestName" required>
-  </div>
-  <div class="mb-3">
-    <label class="form-label" for="guestURL">Website (optional)</label>
-    <input class="form-control form-control-lg" placeholder="Your website" type="text" name="website" id="guestURL">
-  </div>
-  <div class="mb-3">
-    <label class="form-label" for="guestMessage">Message</label>
-    <textarea class="form-control form-control-lg" rows="3" name="message" placeholder="Your message" id="guestMessage" required></textarea>
-  </div>
-  <button class="btn btn-lg btn-smd fw-bold" type="submit">Submit</button>
-</form>
-
-{%- include pattern-guestbook-entry.html -%}
