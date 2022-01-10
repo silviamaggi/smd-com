@@ -288,7 +288,7 @@ cite {
   }
 
   // Entry block link
-  a:not(.btn) {
+  a:not(.btn, .footnote, .reversefootnote) {
     @extend %smd-link;
   }
 
