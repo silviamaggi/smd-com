@@ -13,7 +13,7 @@ tags:
   - the tokyoiter
   - art
 description: "Stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
-excerpt: "On the first edition of the new year: stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
+excerpt: "Stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
 featured-image: feat-design-digested-26.jpg
 permalink: '/design-digested/:title/'
 ---
