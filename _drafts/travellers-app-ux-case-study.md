@@ -12,7 +12,7 @@ excerpt: 'For my UX portfolio, I created a prototype for an app that gives peopl
 permalink: travellers-app-case-study
 last_modified_at: '2021-09-04T15:29:22.236Z'
 ---
-Some time ago, I found the website [UX Challenge](http://www.uxchallenge.co/){:target="_blank" rel="noopener"}, signed up to their newsletter and started working on a problem. The initial intention was to exercise for interviews.
+Some time ago, I found the website [UX Challenge](http://www.uxchallenge.co/){:target="_blank"}, signed up to their newsletter and started working on a problem. The initial intention was to exercise for interviews.
 
 To answer the question:
 

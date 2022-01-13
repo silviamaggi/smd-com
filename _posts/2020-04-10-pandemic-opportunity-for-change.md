@@ -26,7 +26,7 @@ I watched _Rams_, a documentary on Dieter Rams, one of the most influential desi
 
 {% include pattern-figure.html image="/assets/images/dieter-rams-braun-t-3-pocket-radio.jpg" caption="Dieter Rams Braun T 3 pocket radio. Image credit: Sgustok Design" width="1400" height="1080" %}
 
-Rams’ design philosophy puts function before form. The product’s aesthetics depends on its purpose, not the other way round; every little detail is thought through as a sign of respect for its users. In the 70s, he published the [_Ten Principles for Good Design_](https://www.vitsoe.com/eu/about/good-design){:target="_blank" rel="noopener" title="Read the principles on the Vits&oelig; website"}, which are relevant today more than ever.
+Rams’ design philosophy puts function before form. The product’s aesthetics depends on its purpose, not the other way round; every little detail is thought through as a sign of respect for its users. In the 70s, he published the [_Ten Principles for Good Design_](https://www.vitsoe.com/eu/about/good-design){:title="Read the principles on the Vits&oelig; website"}, which are relevant today more than ever.
 
 Even though two of the principles define good design to be long-lasting and environmental-friendly, Dieter Rams regrets not promoting his ideas about sustainable design to the masses. Or, perhaps, they weren’t understood the right way. If he could go back and do it all over again, he would have chosen to become a landscape architect or an urban planner instead.
 
@@ -56,7 +56,7 @@ I believe that anyone can apply this way of thinking. We are now aware of how we
 
 ---
 
-🔗 _Rams_ is a documentary by Gary Hustwit. Watch it [here](https://hustwit.vhx.tv/){:target="_blank" rel="noopener" title="Go to Gary Hustwit's website"}.
+🔗 _Rams_ is a documentary by Gary Hustwit. Watch it [here](https://hustwit.vhx.tv/){:title="Go to Gary Hustwit's website"}.
 
 <div class="smd-responses my-5 pt-3">
   <h2>Comments</h2>

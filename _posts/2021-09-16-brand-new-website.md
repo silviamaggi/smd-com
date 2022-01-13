@@ -20,7 +20,7 @@ featured-image-alt: New logo and brand image
 
 {% include pattern-figure-featured.html image="/assets/images/feat-brand-new-website.jpg" caption="New website, new branding" alt="Silvia Maggi Design new website" width="1200" height="500" %}
 
-<a href="https://minutestomidnight.co.uk" target="_blank" rel="noopener" title="Go to Simone's website">Simone</a> and I built my new website from scratch using **Jekyll** — a static site generator — and <a href="/colophon/" title="Read more about the technology used on my website">several other tools</a>. *I now have complete control over the code*. It felt natural to refresh logo and styling as well, like it often happens during a home restoration. I made some important changes, too. Let me show you around.
+<a href="https://minutestomidnight.co.uk" title="Go to Simone's website">Simone</a> and I built my new website from scratch using **Jekyll** — a static site generator — and <a href="/colophon/" title="Read more about the technology used on my website">several other tools</a>. *I now have complete control over the code*. It felt natural to refresh logo and styling as well, like it often happens during a home restoration. I made some important changes, too. Let me show you around.
 
 ## Lock, stock, and barrel
 
@@ -60,9 +60,9 @@ This website does not collect any personal data about visitors. I painstakingly 
 Deploying the site is a first step, but there is still work to do, and the most exciting part has yet to come. This website will become *the centre of my digital life and identity*. What I'll post here will propagate on my accounts of choice — and any reaction from there will ping a feedback here. Here's a quick list of what's next:
 
 <ul class="smd-ul">
-<li>implement <a href="https://indieweb.org/Webmention" title="Read about Webmentions on IndieWeb" target="_blank" rel="noopener">Webmentions</a>;</li>
-<li>join <a href="https://indieweb.org/" title="Go to the IndieWeb website" target="_blank" rel="noopener">Indieweb</a>;</li>
-<li>set up <abbr title="Publish (on your) Own Site, Syndicate Elsewhere">POSSE</abbr>, to post here first, and <a href="https://indieweb.org/POSSE" target="_blank" rel="noopener" title="Read about POSSE on the IndieWeb website">syndicate elsewhere</a>.</li>
+<li>implement <a href="https://indieweb.org/Webmention" title="Read about Webmentions on IndieWeb">Webmentions</a>;</li>
+<li>join <a href="https://indieweb.org/" title="Go to the IndieWeb website">Indieweb</a>;</li>
+<li>set up <abbr title="Publish (on your) Own Site, Syndicate Elsewhere">POSSE</abbr>, to post here first, and <a href="https://indieweb.org/POSSE" title="Read about POSSE on the IndieWeb website">syndicate elsewhere</a>.</li>
 </ul>
 
 Stop by again soon, I will tell you more. 

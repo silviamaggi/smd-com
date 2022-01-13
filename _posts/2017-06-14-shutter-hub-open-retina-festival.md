@@ -34,7 +34,7 @@ The photo tells a personal story too, of a grandchild retracing his grandfather�
 
 The photography organisation providing opportunities, support and networking for creative photographers worldwide.
 
-<p class="detached">🔗 <a href="https://shutterhub.org.uk" target="_blank" rel="noopener" title="Go to the Shutter Hub website">https://shutterhub.org.uk</a></p>
+<p class="detached">🔗 <a href="https://shutterhub.org.uk" title="Go to the Shutter Hub website">https://shutterhub.org.uk</a></p>
 
 ## About Retina Scottish International photography festival
 

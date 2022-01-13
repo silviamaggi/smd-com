@@ -15,7 +15,7 @@ My website address is: <a href="https://silviamaggidesign.com/">https://silviama
 
 <h2 class="display-6">Your personal data</h2>
 
-The website is built with [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noopener" title="Go to the Jekyll website"}, which is a static web generator, and it does not collect any personal data about visitors.
+The website is built with [Jekyll](https://jekyllrb.com/){:title="Go to the Jekyll website"}, which is a static web generator, and it does not collect any personal data about visitors.
 
 ### Embedded content from other websites
 
@@ -25,7 +25,7 @@ An exception to the above is for **YouTube videos**, where all the embeds specif
 
 <h2 class="display-6">Security</h2>
 
-The website adopts a secure <abbr title="Secure Sockets Layer">SSL</abbr> protocol and it's hosted on [Netlify](https://www.netlify.com/){:target="_blank" rel="noopener" title="Go to the Netlify website"}.
+The website adopts a secure <abbr title="Secure Sockets Layer">SSL</abbr> protocol and it's hosted on [Netlify](https://www.netlify.com/){:title="Go to the Netlify website"}.
 
 <h2 class="display-6">Analytics</h2>
 
@@ -33,7 +33,7 @@ This website doesn't use analytics, therefore it doesn't track visits.
 
 <h2 class="display-6" id="newsletter-privacy">Newsletter</h2>
 
-If you subscribe to my newsletter, I will collect your email address, which will be stored on ProtonMail's servers. It will be used solely to send you emails. I do not share it with third parties. You can unsubscribe at any moment via the link in my newsletters, or <a href="mailto:contacts@silviamaggidesign.com" title="Email me">by writing to me</a>. Learn more about <a href="https://protonmail.com/privacy-policy" target="_blank" rel="noopener" title="Go to the ProtonMail website">ProtonMail’s privacy practices (Data Collection paragraph)</a>.
+If you subscribe to my newsletter, I will collect your email address, which will be stored on ProtonMail's servers. It will be used solely to send you emails. I do not share it with third parties. You can unsubscribe at any moment via the link in my newsletters, or <a href="mailto:contacts@silviamaggidesign.com" title="Email me">by writing to me</a>. Learn more about <a href="https://protonmail.com/privacy-policy" title="Go to the ProtonMail website">ProtonMail’s privacy practices (Data Collection paragraph)</a>.
 
 <h2 class="display-6">Contact information</h2>
 

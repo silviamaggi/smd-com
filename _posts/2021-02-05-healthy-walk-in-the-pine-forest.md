@@ -31,7 +31,7 @@ The pine forest features the stillness I used to feel in the mountains. Even if 
   <div class="webmentions">
     <ul class="comments">
       <li>
-        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.thebookfamilyrogerson.com/" target="_blank">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.thebookfamilyrogerson.com/">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
         <span>How therapeutic! Pine forests do have that extra sensory edge. I'm glad you were able to get outside and enjoy nature x</span>
       </li>
       <li class="reaction-reply">

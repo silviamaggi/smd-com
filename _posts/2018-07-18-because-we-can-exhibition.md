@@ -22,12 +22,12 @@ carousel: true
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-because-we-can-exhibition/" %}
 
-Read more about the exhibition on the [Shutter Hub blog](https://shutterhub.org.uk/because-we-can-exhibition-launch-and-photos/){:target="_blank" rel="noopener" title="Read the post on the Shutter Hub website"}.
+Read more about the exhibition on the [Shutter Hub blog](https://shutterhub.org.uk/because-we-can-exhibition-launch-and-photos/){:title="Read the post on the Shutter Hub website"}.
 
 ## About Shutter Hub
 
 The photography organisation providing opportunities, support and networking for creative photographers worldwide.  
 
-<p class="detached">🔗 <a href="https://shutterhub.org.uk" target="_blank" rel="noopener" title="Go to the Shutter Hub website">https://shutterhub.org.uk</a></p>
+<p class="detached">🔗 <a href="https://shutterhub.org.uk" title="Go to the Shutter Hub website">https://shutterhub.org.uk</a></p>
 
 <!-- <small>Header and first picture credit &copy; Jayne Lloyd / Shutter Hub - Shutter Hub at Festival Pil'ours, Saint-Gilles-Croix-de-Vie, France.</small> -->

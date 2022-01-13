@@ -29,7 +29,7 @@ Up until recently, drawing — or even writing something on a whiteboard — ter
 
 It can be a notebook, your phone’s camera, or both. Observing and recording our surroundings helps us develop a critical eye.
 
-<p class="detached">🔗 <a href="https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design" target="_blank" rel="noopener">Read the article</a> (on IDF)</p>
+<p class="detached">🔗 <a href="https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design">Read the article</a> (on IDF)</p>
 
 ## Start sketching
 
@@ -47,9 +47,9 @@ Whether you’re a UX designer or not, learning how to sketch can benefit you in
 >
 > <cite>— José Torre</cite>
 
-The secret is repetition, says José Torre. You just need to get started. In the article he explains why, when, what and how to start drawing today. José also suggests you can use drawings to illustrate your ideas in presentations as well. He reminded me of the insightful and delightful webinar by UX designer [Morgane Peng](https://www.morganepeng.com/){:target="_blank" rel="noopener" title="Go to Morgane's website"}, [_How to Deal with People Who Don’t “Get” Design_](https://youtu.be/jXkMWvXx3MI){:target="_blank" rel="noopener" title="Watch the webinar on YouTube"}. Her illustrations complement perfectly her message while making the talk enjoyable and fun.
+The secret is repetition, says José Torre. You just need to get started. In the article he explains why, when, what and how to start drawing today. José also suggests you can use drawings to illustrate your ideas in presentations as well. He reminded me of the insightful and delightful webinar by UX designer [Morgane Peng](https://www.morganepeng.com/){:title="Go to Morgane's website"}, [_How to Deal with People Who Don’t “Get” Design_](https://youtu.be/jXkMWvXx3MI){:title="Watch the webinar on YouTube"}. Her illustrations complement perfectly her message while making the talk enjoyable and fun.
 
-<p class="detached">🔗 <a href="https://uxdesign.cc/why-should-you-start-drawing-today-6e7fb8956bd7" target="_blank" rel="noopener">Read the article</a> (on Medium)</p>
+<p class="detached">🔗 <a href="https://uxdesign.cc/why-should-you-start-drawing-today-6e7fb8956bd7">Read the article</a> (on Medium)</p>
 
 <hr>
 
@@ -68,8 +68,8 @@ The workbook is the ideal companion of the book, where the theory behind the tec
 {% include pattern-figure.html image="/assets/images/drawing-on-the-right-side-of-the-brain-1.jpg" caption="The new drawing on the right side of the brain workbook" width="229" height="315" %}
 
 <ul class="smd-ul">
-<li><a href="https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain" target="_blank" rel="noopener" title="Read more about the book">The New Drawing on the Right Side of the Brain</a> (on Goodreads)</li>
-<li><a href="https://www.goodreads.com/book/show/74124.The_New_Drawing_on_the_Right_Side_of_the_Brain_Workbook" target="_blank" rel="noopener" title="Read more about the book">The New Drawing on the Right Side of the Brain Workbook: Guided Practice in the Five Basic Skills of Drawing</a> (on Goodreads)</li>
+<li><a href="https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain" title="Read more about the book">The New Drawing on the Right Side of the Brain</a> (on Goodreads)</li>
+<li><a href="https://www.goodreads.com/book/show/74124.The_New_Drawing_on_the_Right_Side_of_the_Brain_Workbook" title="Read more about the book">The New Drawing on the Right Side of the Brain Workbook: Guided Practice in the Five Basic Skills of Drawing</a> (on Goodreads)</li>
 </ul>
 
 ## Update
@@ -83,7 +83,7 @@ As much as wanted to follow my own advice and sketch every day, I couldn’t fol
   <div class="webmentions">
     <ul class="comments">
       <li>
-        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.thebookfamilyrogerson.com/" target="_blank">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.thebookfamilyrogerson.com/">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
         <span>Thanks for this Silvia. I would like to have a go at designing an app one day so this really helps :)</span>
       </li>
       <li class="reaction-reply">

@@ -11,7 +11,7 @@ description: "I tell you what happened when I quit social media six months ago, 
 excerpt: "I tell you what happened when I quit social media six months ago, and why I don't want to come back."
 featured-image: feat-max-van-den-oetelaar-unsplash.jpg
 ---
-{% include pattern-figure-featured.html width="1200" height="500" caption='Photo by <a href="https://unsplash.com/photos/buymYm3RQ3U" target="_blank" rel="noopener">Max van den Oetelaar</a>' %}
+{% include pattern-figure-featured.html width="1200" height="500" caption='Photo by <a href="https://unsplash.com/photos/buymYm3RQ3U">Max van den Oetelaar</a>' %}
 
 <p class="lead">I used to be everywhere. Name the social media and, most probably, I had an account. Internet’s always been a big thing for me, and a certain kind of online presence was good for my profession, hobbies and relationships.</p>
 
@@ -19,9 +19,9 @@ featured-image: feat-max-van-den-oetelaar-unsplash.jpg
 
 The ones I liked most were Twitter, Flickr and LinkedIn. I’ve been a fairly early adopter. Then came Facebook and Instagram, which became the main reasons why I closed most of my accounts. I’ve had a love-hate relationship with Facebook since the beginning. The first time I logged in, I hated the interface, the colours, and couldn’t understand its purpose. In fact, I closed my account right away, only to be enticed back some time later by friends because _“we’re all on there and it’s fun”_.
 
-With Instagram, it’s been a slow burn. My love for photography should have been satysfied by the app, but it was also a moment where filters were heavily used — the other famous picture-taking app at the time was [Hipstamatic](https://hipstamatic.com/camera/){:target="_blank" rel="noopener" title="Go to the Hipstamatic website"} — and I preferred taking photos with a camera anyway.
+With Instagram, it’s been a slow burn. My love for photography should have been satysfied by the app, but it was also a moment where filters were heavily used — the other famous picture-taking app at the time was [Hipstamatic](https://hipstamatic.com/camera/){:title="Go to the Hipstamatic website"} — and I preferred taking photos with a camera anyway.
 
-As the popularity of Instagram grew, together with the quality of its content, I was hooked. I never deleted my Flickr account, but I barely visited the platform: at some point, it felt like everyone migrated over the squared-pictures app. When Facebook [bought Instagram for $1 billion in 2012](https://www.businessinsider.com/facebook-buys-instagram-for-1-billion-what-you-need-to-know-2012-4){:target="_blank" rel="noopener" title="Read the article on Business Insider"} though, its future became sadly clear. Fast-forward to January 2021: [I deactivated what I once considered my precious Instagram account](/personal/deactivated-my-instagram-account/){:title="Read the post on my website"}, and closed my WhatsApp. Before that, [I closed my Twitter](/personal/i-deleted-my-twitter-account/){:title="Read the post on my website"}, Facebook, and Pinterest accounts. Six months later, here’s what happened.
+As the popularity of Instagram grew, together with the quality of its content, I was hooked. I never deleted my Flickr account, but I barely visited the platform: at some point, it felt like everyone migrated over the squared-pictures app. When Facebook [bought Instagram for $1 billion in 2012](https://www.businessinsider.com/facebook-buys-instagram-for-1-billion-what-you-need-to-know-2012-4){:title="Read the article on Business Insider"} though, its future became sadly clear. Fast-forward to January 2021: [I deactivated what I once considered my precious Instagram account](/personal/deactivated-my-instagram-account/){:title="Read the post on my website"}, and closed my WhatsApp. Before that, [I closed my Twitter](/personal/i-deleted-my-twitter-account/){:title="Read the post on my website"}, Facebook, and Pinterest accounts. Six months later, here’s what happened.
 
 ## The noise stopped
 
@@ -39,7 +39,7 @@ A few years ago, I thought having success on Instagram could become my side hust
 
 From that moment, I’ve been stuck in a loop. I’d go out and enthusiastically take photos, publish them, and check the statistic to see how they fared. I’ve had good moments, met great people, but it was never enough. _As a photographer, I was never enough_. The statistics became a problem: I was obsessed with them. I’d constantly check them, wondering what I was doing wrong. When it all became too much, I switched to a personal account, hoping to solve my the issue with the tap of a button. It didn’t happen: _the numbers weren’t the real problem_.
 
-Every time I was in a [photography rut and couldn’t take pictures](/photography/photography-rut/){:title="Read the post on my website"}, I’d feel guilty because I had nothing to post. My passion for photography went from being a hobby that never let me down to **a cause of anxiety and feelings of inadequacy**. Ever since I deactivated my Instagram account, I take photos whenever I feel like it. I post them [on Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank" rel="noopener" title="View my profile on Flickr"}, or keep them to myself. It doesn’t matter much anymore, as long as I have a creative outlet.
+Every time I was in a [photography rut and couldn’t take pictures](/photography/photography-rut/){:title="Read the post on my website"}, I’d feel guilty because I had nothing to post. My passion for photography went from being a hobby that never let me down to **a cause of anxiety and feelings of inadequacy**. Ever since I deactivated my Instagram account, I take photos whenever I feel like it. I post them [on Flickr](https://www.flickr.com/photos/silvia-m/){:title="View my profile on Flickr"}, or keep them to myself. It doesn’t matter much anymore, as long as I have a creative outlet.
 
 ## No more immediacy
 
@@ -52,10 +52,10 @@ Everytime I had something to say or show, I’d post it on some social media alm
 ## Go deeper
 
 <ul class="smd-ul">
-<li><a href="https://www.theatlantic.com/ideas/archive/2021/07/twitter-addict-realizes-she-needs-rehab/619343/" target="_blank" rel="noopener">You Really Need to Quit Twitter</a> – article on The Atlantic</li>
-<li><a href="https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media" target="_blank" rel="noopener">Why you should quit social media</a> TED Talk by Cal Newport</li>
-<li><a href="https://www.humanetech.com/" target="_blank" rel="noopener">Center for Humane Technology</a></li>
-<li><a href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads" target="_blank" rel="noopener">We’re building a dystopia just to make people click on ads</a> TED Talk by Zeynep Tufekci</li>
+<li><a href="https://www.theatlantic.com/ideas/archive/2021/07/twitter-addict-realizes-she-needs-rehab/619343/">You Really Need to Quit Twitter</a> – article on The Atlantic</li>
+<li><a href="https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media">Why you should quit social media</a> TED Talk by Cal Newport</li>
+<li><a href="https://www.humanetech.com/">Center for Humane Technology</a></li>
+<li><a href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads">We’re building a dystopia just to make people click on ads</a> TED Talk by Zeynep Tufekci</li>
 </ul>
 
 ## Update

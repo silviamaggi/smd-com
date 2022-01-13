@@ -19,11 +19,11 @@ tools:
 ---
 ## The problem
 
-Turtle scientists need to monitor nests and record status and number of hatchings so that they can measure the effectiveness of <a href="https://www.ammco.org" target="_blank" rel="noopener" title="Go to the African Marine Mammal Conservation Organization website">AMMC</a> strategies to protect the aquatic megafauna and their habitats.
+Turtle scientists need to monitor nests and record status and number of hatchings so that they can measure the effectiveness of <a href="https://www.ammco.org" title="Go to the African Marine Mammal Conservation Organization website">AMMC</a> strategies to protect the aquatic megafauna and their habitats.
 
 ## My role
 
-This is a design challenge from <a href="https://www.uxrescue.org/" target="_blank" rel="noopener" title="Go to the UX Rescue website">UX Rescue</a>. Based on a definition of the user group, their needs, user stories, and the data recorded, I proposed wireframes and a live prototype.
+This is a design challenge from <a href="https://www.uxrescue.org/" title="Go to the UX Rescue website">UX Rescue</a>. Based on a definition of the user group, their needs, user stories, and the data recorded, I proposed wireframes and a live prototype.
 
 ## Overview
 

@@ -2,7 +2,7 @@
 layout: page
 title: Colophon
 date: '2021-08-13 15:50'
-last_modified_at: '2022-01-13 17:15:31'
+last_modified_at: '2022-01-13 17:34:41'
 description: null
 permalink: /colophon/
 ---
@@ -21,7 +21,7 @@ Built with:
 <li><a href="https://github.com" title="Go to the GitHub website">GitHub</a></li>
 </ul>
 
-Search module by [David Darnes](https://github.com/daviddarnes){:target="_blank" rel="noopener" title="Go to his GitHub page"}.  
+Search module by [David Darnes](https://github.com/daviddarnes){:title="Go to his GitHub page"}.  
 Watercolor texture by [Alexandra M&aacute;rquez](https://www.freepik.com/vectors/background/){:title="View the image on Freepik"}.  
 Homepage illustrations by [Katerina Limpitsouni](https://undraw.co/){:title="Go to Undraw"}.  
 Hosted on [Netlify](https://www.netlify.com/).
@@ -32,13 +32,13 @@ Hosted on [Netlify](https://www.netlify.com/).
 
 ## Sustainability
 
-Only <code>0.20g of CO2</code> is produced every time someone visits the homepage. Cleaner than <code>85%</code> of <a href="https://www.websitecarbon.com/website/silviamaggidesign-com/" title="Visit Website carbon" target="_blank" rel="noopener">web pages tested</a>.
+Only <code>0.20g of CO2</code> is produced every time someone visits the homepage. Cleaner than <code>85%</code> of <a href="https://www.websitecarbon.com/website/silviamaggidesign-com/" title="Visit Website carbon">web pages tested</a>.
 
 ## Performance
 
 <ul class="smd-ul">
-  <li>✅ Valid markup code for <abbr title="World Wide Web Consortium">W3C</abbr> on <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsilviamaggidesign.com%2F" target="_blank">W3C validator</a>.</li>
-  <li>✅ <a href="https://developers.google.com/speed/pagespeed/insights/?url=silviamaggidesign.com" target="_blank">Pagespeed benchmark</a> score: <code>100</code>.</li>
+  <li>✅ Valid markup code for <abbr title="World Wide Web Consortium">W3C</abbr> on <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsilviamaggidesign.com%2F">W3C validator</a>.</li>
+  <li>✅ <a href="https://developers.google.com/speed/pagespeed/insights/?url=silviamaggidesign.com">Pagespeed benchmark</a> score: <code>100</code>.</li>
   <li>✅ GTmetrix performance report:
     <ul>
       <li>Grade: <code>A (100% performance, 99% structure)</code></li>

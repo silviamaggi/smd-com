@@ -24,25 +24,25 @@ permalink: '/design-digested/:title/'
 
 The root of racism is self-interest, say Brené Brown and Ibram X. Kendi. They offer us four valuable lessons to add to our anti-racist toolbox. You’ll find the entire podcast at the bottom of the article. What I found most striking is that shame doesn’t help anyone. Instead, we need to have honest conversations and accept that we’ll make mistakes along the way.
 
-<p class="detached">🔗 <a href="https://www.mindful.org/4-lessons-on-anti-racism-from-brene-brown-and-ibram-x-kendi/" target="_blank" rel="noopener">Read the article</a> (on Mindful)</p>
+<p class="detached">🔗 <a href="https://www.mindful.org/4-lessons-on-anti-racism-from-brene-brown-and-ibram-x-kendi/">Read the article</a> (on Mindful)</p>
 
 ## Why I Don’t Believe In Empathic Design
 
 Don Norman — human-centred design pioneer — explains why he thinks the concept of empathy in design is impossible; wrong even. In human-centred processes, empathy is always the starting point; we can’t build a product people will use without empathising with them, understanding their needs. Norman argues that designers can’t empathise with anyone’s condition. He offers his take on what we should do instead. Make sure to watch the video, as it explains very well his approach and the designers’ role.
 
-<p class="detached">🔗 <a href="https://xd.adobe.com/ideas/perspectives/leadership-insights/why-i-dont-believe-in-empathic-design-don-norman/" target="_blank" rel="noopener">Read the article</a> (on XD Ideas)</p>
+<p class="detached">🔗 <a href="https://xd.adobe.com/ideas/perspectives/leadership-insights/why-i-dont-believe-in-empathic-design-don-norman/">Read the article</a> (on XD Ideas)</p>
 
 ## Cookies UX: Just Stop the Madness
 
 Ever since the EU introduced GDPR rules in 2016, the cookies pop-up has become a familiar part of our lives. As the law tightened, the consent boxes became more complex, with some brands making it almost impossible to understand the options and make an informed decision. Those are the sites I usually skip, convinced that I could make a better use of my time. Rachel McConnell shows us a few examples, ugly and good.
 
-<p class="detached">🔗 <a href="https://uxdesign.cc/cookies-just-stop-the-madness-9da12fcfca94" target="_blank" rel="noopener">Read the article</a> (on Medium)</p>
+<p class="detached">🔗 <a href="https://uxdesign.cc/cookies-just-stop-the-madness-9da12fcfca94">Read the article</a> (on Medium)</p>
 
 ## To The People Who Told Me To “Think Like A Man”
 
 Jess Vergara’s message is simple: stop contributing to the misogyny of the workforce. Embrace yourself, all women, be inclusive of all women. Jess’ is an excellent article, where she tells her experience and shares resources to help to fix the problem. The lack of women in the tech industry is a problem, which cannot be solved if we keep denying our identities.
 
-<p class="detached">🔗 <a href="https://uxdesign.cc/to-the-people-who-told-me-to-think-like-a-man-a7ed0ad468b5" target="_blank" rel="noopener">Read the article</a> (on Medium)</p>
+<p class="detached">🔗 <a href="https://uxdesign.cc/to-the-people-who-told-me-to-think-like-a-man-a7ed0ad468b5">Read the article</a> (on Medium)</p>
 
 ## How The Inventor Of Mario Designs A Game
 

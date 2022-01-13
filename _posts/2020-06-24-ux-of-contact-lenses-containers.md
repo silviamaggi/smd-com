@@ -20,7 +20,7 @@ This little mishap prompted me to understand what went wrong. Of course, I might
 
 ## Comparing Contact Lenses Containers
 
-Something was off. After a quick [search](https://duckduckgo.com/?q=contact+lenses+container&t=ffab&atb=v281-1&iar=images&iax=images&ia=images){:target="_blank" rel="noopener"} (the link opens a DuckDuckGo search window), I found out that the containers look very similar – excluding the novelty ones. They usually have two colours and one letter on at least one lid, just like the one I was using.
+Something was off. After a quick [search](https://duckduckgo.com/?q=contact+lenses+container&t=ffab&atb=v281-1&iar=images&iax=images&ia=images){:target="_blank"} (the link opens a DuckDuckGo search window), I found out that the containers look very similar – excluding the novelty ones. They usually have two colours and one letter on at least one lid, just like the one I was using.
 
 {% include pattern-figure.html image="/assets/images/lenses-container-1.jpg" caption="Off-brand contact lenses container" width="1400" height="895" %}
 
@@ -48,6 +48,6 @@ Always give people more than one way to achieve their goals, and avoid relying o
 
 Sometimes, sticking to pre-existing conventions is good, but it doesn’t necessarily mean never to innovate. Give people enough clues and test, test, test.
 
-The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:target="_blank" rel="noopener" title="Read more about the book on Goodreads"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.
+The inspiration for this posts series comes from the best-selling book _[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things){:title="Read more about the book on Goodreads"}_ by Donald A. Norman. It’s a compelling read for anyone interested in design, psychology and understanding what makes the user experience of everyday things good as opposed to bad.
 
-<!-- <small>Photo by [David Travis](https://unsplash.com/photos/WC6MJ0kRzGw){:target="_blank" rel="noopener"} on Unsplash</small> -->
+<!-- <small>Photo by [David Travis](https://unsplash.com/photos/WC6MJ0kRzGw){:target="_blank"} on Unsplash</small> -->

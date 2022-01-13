@@ -18,6 +18,6 @@ featured-image: feat-berlin-night-silviamaggi.jpg
 
 Some of them probably don’t: they’re called _placebo buttons_. They do have a purpose though, as explained in this 2018 article by Jacopo Prisco on CNN. My long-time curiosity has finally been satisfied, and I hope yours will be too.
 
-<p class="detached">🔗 <a href="https://edition.cnn.com/style/article/placebo-buttons-design/index.html" target="_blank" rel="noopener">Read the article</a> (on CNN)</p>
+<p class="detached">🔗 <a href="https://edition.cnn.com/style/article/placebo-buttons-design/index.html">Read the article</a> (on CNN)</p>
 
 <p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>

@@ -36,7 +36,7 @@ I saw it yesterday, while out in the garden. I liked the shimmers of light on th
   <div class="webmentions">
     <ul class="comments">
       <li>
-        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://deramateurphotograph.de/" target="_blank">💬 <strong>bernhard1965</strong>&nbsp;&ndash;</a>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://deramateurphotograph.de/">💬 <strong>bernhard1965</strong>&nbsp;&ndash;</a>
         <span>Concratulation, free your creativity don't accept restriction of a tool (e.g. instagram). Best regards, Bernhard</span>
       </li>
       <li class="reaction-reply">
@@ -44,7 +44,7 @@ I saw it yesterday, while out in the garden. I liked the shimmers of light on th
         <span>Thank you, Bernhard! It's such a simple concept, that somehow I've ignored for too long.</span>
       </li>
       <li>
-        <a class="reaction" rel="nofollow ugc" title="mentioned" href="http://thebookfamilyrogerson.com" target="_blank">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="http://thebookfamilyrogerson.com">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
         <span>Such intricate detail in this photo. I completely understand your thoughts about Instagram. I've had photos bomb on there and be successful elsewhere. It depends on so many factors.</span>
       </li>
       <li class="reaction-reply">

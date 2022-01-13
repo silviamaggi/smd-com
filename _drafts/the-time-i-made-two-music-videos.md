@@ -12,7 +12,7 @@ tags:
 permalink: two-music-videos
 last_modified_at: '2021-09-12T15:24:52.302Z'
 ---
-‘**After 1989: A trip to freedom**‘ is my husband [Simone](https://minutestomidnight.co.uk/){:target="_blank" rel="noopener"}‘s debut solo album, and an emotional journey. I documented it with pictures and created two music videos.
+‘**After 1989: A trip to freedom**‘ is my husband [Simone](https://minutestomidnight.co.uk/){:target="_blank"}‘s debut solo album, and an emotional journey. I documented it with pictures and created two music videos.
 
 It’s been a while since I wanted to publish this project, and today I finally did. Because it seemed to be less important than the UX case studies, and I didn’t know how to present it, I postponed it indefinitively.
 

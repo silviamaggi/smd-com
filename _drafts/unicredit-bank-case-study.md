@@ -15,9 +15,9 @@ last_modified_at: '2021-09-12T15:35:22.604Z'
 ---
 UniCredit Bank wanted to reach a wider range of clients. UI Farm helped them increase the conversion rates of their mobile pages.
 
-[UniCredit Bank](https://unicredit.it/){:target="_blank" rel="noopener"}, a leading European commercial bank headquartered in Italy, wants to leverage the increasing use of smartphones to reach a wider range of clients.
+[UniCredit Bank](https://unicredit.it/){:target="_blank"}, a leading European commercial bank headquartered in Italy, wants to leverage the increasing use of smartphones to reach a wider range of clients.
 
-To do so, they contacted [UI Farm](https://uifarm.co.uk/){:target="_blank" rel="noopener"}, the London-based web agency I co-founded that specialised in **device-agnostic responsive design**.
+To do so, they contacted [UI Farm](https://uifarm.co.uk/){:target="_blank"}, the London-based web agency I co-founded that specialised in **device-agnostic responsive design**.
 
 It’s 2013. In Italy, a small percentage of people uses smartphones to go online; even fewer to make purchases.
 

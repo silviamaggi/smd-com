@@ -48,11 +48,11 @@ Unfortunately, I don’t have a recipe that will take people out of a creativity
 I put Instagram into perspective. It is, after all, merely one social network. Focusing on numbers drains creativity and makes us forget why we take and post pictures. I took the photos in this post during the past two visits to Lake Maggiore, and applied new edits. The lens I used was still the kit one, which did a decent job anyway. Below is the list of the videos I watched:
 
 <ul class="smd-ul">
-<li><a href="https://www.youtube.com/watch?v=jUOOzi5gukY" target="_blank" rel="noopener" title="Watch the video on YouTube">One Tip to Improve Your Photos in Lightroom</a></li>
-<li><a href="https://www.youtube.com/watch?v=af88_3Sgvc4" target="_blank" rel="noopener" title="Watch the video on YouTube">Edit your Photos UPSIDE-DOWN</a></li>
-<li><a href="https://www.youtube.com/watch?v=4pGlTw1rHy8" target="_blank" rel="noopener" title="Watch the video on YouTube">Understanding your Photography</a></li>
-<li><a href="https://www.youtube.com/watch?v=z3s_SmWLnMA" target="_blank" rel="noopener" title="Watch the video on YouTube">I have a PROBLEM, I love FLAT LIGHT</a></li>
-<li><a href="https://www.youtube.com/watch?v=3RNWJPbrZfo" target="_blank" rel="noopener" title="Watch the video on YouTube">9 Photography Tips you should IGNORE!</a></li>
+<li><a href="https://www.youtube.com/watch?v=jUOOzi5gukY" title="Watch the video on YouTube">One Tip to Improve Your Photos in Lightroom</a></li>
+<li><a href="https://www.youtube.com/watch?v=af88_3Sgvc4" title="Watch the video on YouTube">Edit your Photos UPSIDE-DOWN</a></li>
+<li><a href="https://www.youtube.com/watch?v=4pGlTw1rHy8" title="Watch the video on YouTube">Understanding your Photography</a></li>
+<li><a href="https://www.youtube.com/watch?v=z3s_SmWLnMA" title="Watch the video on YouTube">I have a PROBLEM, I love FLAT LIGHT</a></li>
+<li><a href="https://www.youtube.com/watch?v=3RNWJPbrZfo" title="Watch the video on YouTube">9 Photography Tips you should IGNORE!</a></li>
 </ul>
 
 <p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>

@@ -17,7 +17,7 @@ permalink: '/design-digested/:title/'
 
 <!--more-->
 
-{% include pattern-figure-featured.html image="/assets/images/feat-smd-blog-featured-image_lettera.jpg" alt="Letters" caption='Photo by <a href="https://unsplash.com/@flavioamiel" target="_blank" rel="noopener">Flavio Amiel</a>' width="1200" height="500" %}
+{% include pattern-figure-featured.html image="/assets/images/feat-smd-blog-featured-image_lettera.jpg" alt="Letters" caption='Photo by <a href="https://unsplash.com/@flavioamiel">Flavio Amiel</a>' width="1200" height="500" %}
 
 As the temperatures in this part of Italy hit 32˚C, I’m reminded how the human body takes time to adapt, and that I’m definitively still a stranger in my own country. Here’s the thing: I don’t want to get used to this. Let me switch the air conditioner on, so I can tell you with more clarity what’s to come.
 

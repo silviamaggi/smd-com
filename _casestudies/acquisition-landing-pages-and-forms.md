@@ -26,7 +26,7 @@ tools:
 ---
 ## The problem
 
-<a href="https://unicredit.it/" target="_blank" rel="noopener" title="Go to the Unicredit Bank website">UniCredit</a>, a leading European commercial bank headquartered in Italy, wants to leverage the increasing use of smartphones to reach a wider range of clients. Their acquisition landing pages and forms <strong>look outdated and are not mobile friendly</strong>. An overhaul is essential for the bank to remain competitive.
+<a href="https://unicredit.it/" title="Go to the Unicredit Bank website">UniCredit</a>, a leading European commercial bank headquartered in Italy, wants to leverage the increasing use of smartphones to reach a wider range of clients. Their acquisition landing pages and forms <strong>look outdated and are not mobile friendly</strong>. An overhaul is essential for the bank to remain competitive.
 
 ## My role
 
@@ -34,7 +34,7 @@ I <strong>led the project</strong> and worked on the UX and final designs. My co
 
 ## The context
 
-It’s 2013. A small percentage of Italians use smartphones for online services or purchases[^smartphone-habits]. UniCredit see the potential of mobile and wants to widen their customer base by reaching a younger audience. They contacted [UI Farm](https://uifarm.co.uk/){:target="_blank" rel="noopener" title="Go to the UI Farm website"}, the London-based web agency I co-founded that specialised in device-agnostic responsive design. We focused on why their potential clients were less likely to open a bank account from a mobile device:
+It’s 2013. A small percentage of Italians use smartphones for online services or purchases[^smartphone-habits]. UniCredit see the potential of mobile and wants to widen their customer base by reaching a younger audience. They contacted [UI Farm](https://uifarm.co.uk/){:title="Go to the UI Farm website"}, the London-based web agency I co-founded that specialised in device-agnostic responsive design. We focused on why their potential clients were less likely to open a bank account from a mobile device:
 
 <ul class="smd-ul">
 <li>slow technology adoption in an ageing society;</li>
@@ -141,8 +141,8 @@ This project proved how important culture is when designing. Getting to know **t
 
 ## Footnotes
 
-[^smartphone-habits]: "*In 2013, only 37% of users used their smartphones to go online, while 84% declared to have such a habit in 2017. [...] Between 2013 and 2018, purchases via smartphone increased from barely 6% to over 26% of total online purchase in Italy.*" — **Source**: Statista Research Department [<a href="https://www.statista.com/statistics/800840/smartphone-and-internet-usage-in-italy/" target="_blank" rel="noopener" title="Go to the statistics page">1</a> and <a href="https://www.statista.com/statistics/579435/incidence-rate-of-mobile-devices-on-online-purchases-by-type-in-italy/" target="_blank" rel="noopener" title="Go to the statistics page">2</a>]
+[^smartphone-habits]: "*In 2013, only 37% of users used their smartphones to go online, while 84% declared to have such a habit in 2017. [...] Between 2013 and 2018, purchases via smartphone increased from barely 6% to over 26% of total online purchase in Italy.*" — **Source**: Statista Research Department [<a href="https://www.statista.com/statistics/800840/smartphone-and-internet-usage-in-italy/" title="Go to the statistics page">1</a> and <a href="https://www.statista.com/statistics/579435/incidence-rate-of-mobile-devices-on-online-purchases-by-type-in-italy/" title="Go to the statistics page">2</a>]
 
-[^growing-users]: "*The number of users of banking services such as home and corporate banking steadily increased, growing from approximately 30.4 million in 2010 to nearly 58 million in 2019.*" — **Source**: <a href="https://www.statista.com/statistics/737981/number-of-home-and-corporate-banking-users-in-italy/" class="rank-math-link" target="_blank" rel="noopener" title="Go to the statistics page">Statista Research Department</a>
+[^growing-users]: "*The number of users of banking services such as home and corporate banking steadily increased, growing from approximately 30.4 million in 2010 to nearly 58 million in 2019.*" — **Source**: <a href="https://www.statista.com/statistics/737981/number-of-home-and-corporate-banking-users-in-italy/" title="Go to the statistics page">Statista Research Department</a>
 
-[^uifarm-workflow]: Read about [UI Farm’s workflow for the multi-device Web](https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b){:target="_blank" rel="noopener" title="Read the article on Medium"}
+[^uifarm-workflow]: Read about [UI Farm’s workflow for the multi-device Web](https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b){:title="Read the article on Medium"}

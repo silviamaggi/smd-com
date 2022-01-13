@@ -13,7 +13,7 @@ permalink: purple-and-orange
 
 <!-- =================== CHECK THE FOLLOWING INTERNAL LINK! -->
 
-There have been a lot of changes since my <a href="https://2017/03/19/photography-rut-and-little-things-in-my-garden/" target="_blank" rel="noopener noreferrer">last post with photos of flowers and plants in my garden</a>.
+There have been a lot of changes since my <a href="https://2017/03/19/photography-rut-and-little-things-in-my-garden/" rel="noopener noreferrer">last post with photos of flowers and plants in my garden</a>.
 
 The _Spanish Bluebells_ flowered.
 

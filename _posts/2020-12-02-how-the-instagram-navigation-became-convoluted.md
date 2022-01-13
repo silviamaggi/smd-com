@@ -16,7 +16,7 @@ featured-image: feat-lalo-hernandez-unsplash.jpg
 
 ## The reason
 
-[Announcing the changes](https://about.instagram.com/blog/announcements/introducing-reels-and-shop-tabs){:target="_blank" rel="noopener" title="Read the announcement on Instagram's website"}, Adam Mosseri, Head of Instagram, pointed out how the pandemic changed the way people use the app. Short and entertaining videos became prominent, and people started buying more online. Young people and creators are at the centre of Instagram’s focus, which is the reason behind the positioning of the two new tabs in the bottom navigation.
+[Announcing the changes](https://about.instagram.com/blog/announcements/introducing-reels-and-shop-tabs){:title="Read the announcement on Instagram's website"}, Adam Mosseri, Head of Instagram, pointed out how the pandemic changed the way people use the app. Short and entertaining videos became prominent, and people started buying more online. Young people and creators are at the centre of Instagram’s focus, which is the reason behind the positioning of the two new tabs in the bottom navigation.
 
 ## The science
 
@@ -63,10 +63,10 @@ Sometimes it happens when the business model changes: if the goal is to keep peo
 ## Useful links
 
 <ul class="smd-ul">
-<li><a href="https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/" target="_blank" rel="noopener">The Thumb Zone: Designing For Mobile Users by Samantha Ingram</a> (on Smashing Magazine)</li>
-<li><a href="https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/" target="_blank" rel="noopener">Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative? by Arturas Leonovas</a> (on Smashing Magazine)</li>
-<li><a href="https://www.nngroup.com/articles/mobile-navigation-patterns/" target="_blank" rel="noopener">Basic Patterns for Mobile Navigation: A Primer</a> (on NNg)</li>
-<li><a href="https://uxplanet.org/perfect-bottom-navigation-for-mobile-app-effabbb98c0f" target="_blank" rel="noopener">UX Design for Mobile: Bottom Navigation</a> (on Medium)</li>
+<li><a href="https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/">The Thumb Zone: Designing For Mobile Users by Samantha Ingram</a> (on Smashing Magazine)</li>
+<li><a href="https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/">Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative? by Arturas Leonovas</a> (on Smashing Magazine)</li>
+<li><a href="https://www.nngroup.com/articles/mobile-navigation-patterns/">Basic Patterns for Mobile Navigation: A Primer</a> (on NNg)</li>
+<li><a href="https://uxplanet.org/perfect-bottom-navigation-for-mobile-app-effabbb98c0f">UX Design for Mobile: Bottom Navigation</a> (on Medium)</li>
 </ul>
 
-<!-- <small>Photo by [Lalo Hernandez](https://unsplash.com/photos/r34cKhbEDCU){:target="_blank" rel="noopener"} on Unsplash</small> -->
+<!-- <small>Photo by [Lalo Hernandez](https://unsplash.com/photos/r34cKhbEDCU){:target="_blank"} on Unsplash</small> -->

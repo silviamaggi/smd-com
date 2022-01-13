@@ -37,17 +37,17 @@ I miss the people and feeling part of something, even if sometimes it was about 
 
 Without even wanting it, I started the new year by cleaning up my digital life. I deleted my Facebook, WhatsApp, Pinterest and Goodreads accounts. Finally, I deactivated the Instagram one. Last summer I left Twitter. It’s possible to spend too much time on LinkedIn, but that account stays.
 
-What I could never be able to delete is [my Flickr](https://www.flickr.com/photos/silvia-m/){:target="_blank" rel="noopener" title="View my profile on Flickr"}, even when I didn’t use it for long periods. The reasons are both emotional and practical: I have many pictures and memories organised in albums. When I browse them, I can see the progress made in photography and where I was in my life.
+What I could never be able to delete is [my Flickr](https://www.flickr.com/photos/silvia-m/){:title="View my profile on Flickr"}, even when I didn’t use it for long periods. The reasons are both emotional and practical: I have many pictures and memories organised in albums. When I browse them, I can see the progress made in photography and where I was in my life.
 
 While Instagram main interest switched to creators, brands and what they sell, **Flickr never changed its focus on photography**. I re-started from there, without feeling the urge to post something.
 
 ## Useful links
 
 <ul class="smd-ul">
-<li><a href="https://now.northropgrumman.com/this-is-your-brain-on-instagram-effects-of-social-media-on-the-brain/" target="_blank" rel="noopener">This is Your Brain on Instagram: Effects of Social Media on the Brain</a> (on Now)</li>
-<li><a href="http://www.theguardian.com/technology/2018/sep/17/instagram-is-supposed-to-be-friendly-so-why-is-it-making-people-so-miserable" target="_blank" rel="noopener">Instagram is supposed to be friendly. So why is it making people so miserable?</a> (on The Guardian)</li>
-<li><a href="https://www.flickr.com/about" target="_blank" rel="noopener">Flickr, About</a></li>
-<li><a href="https://blog.flickr.net/en" target="_blank" rel="noopener">Flickr Blog</a></li>
+<li><a href="https://now.northropgrumman.com/this-is-your-brain-on-instagram-effects-of-social-media-on-the-brain/">This is Your Brain on Instagram: Effects of Social Media on the Brain</a> (on Now)</li>
+<li><a href="http://www.theguardian.com/technology/2018/sep/17/instagram-is-supposed-to-be-friendly-so-why-is-it-making-people-so-miserable">Instagram is supposed to be friendly. So why is it making people so miserable?</a> (on The Guardian)</li>
+<li><a href="https://www.flickr.com/about">Flickr, About</a></li>
+<li><a href="https://blog.flickr.net/en">Flickr Blog</a></li>
 </ul>
 
 <div class="smd-responses my-5 pt-3">
@@ -55,7 +55,7 @@ While Instagram main interest switched to creators, brands and what they sell, *
   <div class="webmentions">
     <ul class="comments">
       <li>
-        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://thebookfamilyrogerson.com" target="_blank">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://thebookfamilyrogerson.com">💬 <strong>The Book Family Rogerson</strong>&nbsp;&ndash;</a>
         <span>It must be so freeing to leave social media. It now forms the basis of my job, and I enjoy many aspects of it, but there are question marks too. I'm looking forward to finding out how your response to that world changes over time x</span>
       </li>
       <li class="reaction-reply">
@@ -63,7 +63,7 @@ While Instagram main interest switched to creators, brands and what they sell, *
         <span>Who knows what will be: big tech might need to adapt to stricter rules, and social networks might change as a consequence. So far, though, I’m not missing any of them. Such was the prominence of social media in my life, that I feel so much lighter now. I also stopped checking the news multiple times a day, and I completely avoid live news feeds. The background noise is gone. It is freeing indeed x</span>
       </li>
       <li>
-        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.vanessasimpson.co.uk" target="_blank">💬 <strong>Vanessa Dennett</strong>&nbsp;&ndash;</a>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.vanessasimpson.co.uk">💬 <strong>Vanessa Dennett</strong>&nbsp;&ndash;</a>
         <span>Silvia I can understand your reasons for leaving entirely, I too question social media’s role in my life and endeavour to be extremely conscious of the way that I use it. I’m trying to make clear decisions about how I will use it going forwards, but do reassure myself that there are other ways of keeping in touch with one another! x</span>
       </li>
       <li class="reaction-reply">
@@ -74,4 +74,4 @@ While Instagram main interest switched to creators, brands and what they sell, *
   </div>
 </div>
 
-<!-- <small>Photo by [Prateek Katyal](https://unsplash.com/@prateekkatyal){:target="_blank" rel="noopener"} on Unsplash</small> -->
+<!-- <small>Photo by [Prateek Katyal](https://unsplash.com/@prateekkatyal){:target="_blank"} on Unsplash</small> -->

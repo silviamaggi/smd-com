@@ -27,7 +27,7 @@ I took them a few years ago when we first planted meadow flowers in our garden. 
 
 {% include pattern-figure.html image="/assets/images/pictures-that-make-me-happy-4.jpg" caption="Pictures that make me happy #4" width="1400" height="933" %}
 
-The swirly effect in most of the pictures is courtesy of the [Helios 44M lens](https://vintage-camera-lenses.com/helios-44-2-58mm-f2/){:target="_blank" rel="noopener" title="Go to the Vintage Camera Lenses website"} that I use when there is plenty of time to compose and take the shot. It feels like carefully crafting something important. That is one of the factors that make me happy about them.
+The swirly effect in most of the pictures is courtesy of the [Helios 44M lens](https://vintage-camera-lenses.com/helios-44-2-58mm-f2/){:title="Go to the Vintage Camera Lenses website"} that I use when there is plenty of time to compose and take the shot. It feels like carefully crafting something important. That is one of the factors that make me happy about them.
 
 <p class="detached">These photos featured on the previous version of my website.</p>
 
@@ -38,7 +38,7 @@ The swirly effect in most of the pictures is courtesy of the [Helios 44M lens](h
   <div class="webmentions">
     <ul class="comments">
       <li>
-        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://forestwoodfolkart.wordpress.com" target="_blank">💬 <strong>Forestwood</strong>&nbsp;&ndash;</a>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://forestwoodfolkart.wordpress.com">💬 <strong>Forestwood</strong>&nbsp;&ndash;</a>
         <span>I love the first photo. Amazing red flowers, and such intensity in the main object of focus.</span>
       </li>
       <li class="reaction-reply">
@@ -46,7 +46,7 @@ The swirly effect in most of the pictures is courtesy of the [Helios 44M lens](h
         <span>Thank you so much, Amanda! That photo is my favourite too. We never had those beautiful flowers again in our garden, so I'm glad I took the picture.</span>
       </li>
       <li class="reaction-reply">
-        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://forestwoodfolkart.wordpress.com" target="_blank">↪️ <strong>Forestwood</strong></a>&nbsp;&ndash;&nbsp;<code>@Silvia</code>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://forestwoodfolkart.wordpress.com">↪️ <strong>Forestwood</strong></a>&nbsp;&ndash;&nbsp;<code>@Silvia</code>
         <span>A photo to treasure, for sure.</span>
       </li>
     </ul>

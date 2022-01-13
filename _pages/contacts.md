@@ -24,6 +24,6 @@ permalink: /get-in-touch-silviamaggi/
 
 <h2>Newsletter</h2>
 
-<p><a href="/design-inspiration-newsletter-silvia-maggi/" title="Go to the Newsletter page">Design, Digested</a> is a newsletter about design, tech, and their implication in our lives.</p>
+<p><a href="/newsletter/" title="Go to the Newsletter page">Design, Digested</a> is a newsletter about design, tech, and their implication in our lives.</p>
 
 {%- include pattern-newsletter-sub.html %}

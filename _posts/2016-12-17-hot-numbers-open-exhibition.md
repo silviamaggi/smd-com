@@ -21,6 +21,6 @@ Taken on a warm sunny day in May 2016, to me the photo represents contemplation 
 
 It’s been printed on Kodak Metallic Paper, which renders both colour and monochrome photos beautifully. The exhibition includes beautiful photos, paintings and drawings, and I am very happy to be part of it.
 
-<p class="detached"><a href="https://hotnumberscoffee.co.uk/gwydir-st/" target="_blank" rel="noopener" title="Go to the Hot Numbers website">Hot Numbers</a><br>
+<p class="detached"><a href="https://hotnumberscoffee.co.uk/gwydir-st/" title="Go to the Hot Numbers website">Hot Numbers</a><br>
 Units 5/6 Dales Brewery, Gwydir Street,<br>
 Cambridge CB1 2LJ</p>

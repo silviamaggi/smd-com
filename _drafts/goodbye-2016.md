@@ -28,7 +28,7 @@ For the first time, we have a garden, which is a great way to understand how ev
 
 {% include pattern-figure.html image="/assets/3dba6-20160716-img_3117.jpg" caption="Tiny Flowers" width="1000" height="750" %}
 
-I'm very happy and still surprised some of my photos have been in [exhibitions](/tags/exhibitions/). It never happened before, and it all started after being contacted by [Shutter Hub](https://shutterhub.org.uk/){:target="_blank" rel="noopener"}'s Karen. Before that, all I did was taking lots of photos and forget them on a hard
+I'm very happy and still surprised some of my photos have been in [exhibitions](/tags/exhibitions/). It never happened before, and it all started after being contacted by [Shutter Hub](https://shutterhub.org.uk/){:target="_blank"}'s Karen. Before that, all I did was taking lots of photos and forget them on a hard
 drive.
 
 <!-- =================== CHECK THE FOLLOWING LINK -->
