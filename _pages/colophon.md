@@ -7,27 +7,24 @@ description: null
 permalink: /colophon/
 ---
 Designed by Silvia Maggi.<br>
-Developed by Silvia Maggi and [Simone Silvestroni](https://minutestomidnight.co.uk){:target="_blank" rel="noopener" title="Go to Minutes to Midnight's website"}.
+Developed by Silvia Maggi and [Simone Silvestroni](https://minutestomidnight.co.uk){:title="Go to Minutes to Midnight's website"}.
 
 ## Tools
 
 Built with:
 
 <ul class="smd-ul">
-<li><a href="https://jekyllrb.com/" target="_blank" rel="noopener" title="Go to the Jekyll website">Jekyll</a></li>
-<li><a href="https://sass-lang.com/" target="_blank" rel="noopener" title="Go to the Sass website"><abbr title="Syntactically Awesome Style Sheets">SASS</abbr></a></li>
-<li><a href="https://getbootstrap.com/" target="_blank" rel="noopener" title="Go to the Bootstrap website">Bootstrap 5</a></li>
-<li><a href="https://nodejs.org/" target="_blank" rel="noopener" title="Go to the Node.js website">Node.js</a></li>
-<li><a href="https://github.com" target="_blank" rel="noopener" title="Go to the GitHub website">GitHub</a></li>
+<li><a href="https://jekyllrb.com/" title="Go to the Jekyll website">Jekyll</a></li>
+<li><a href="https://sass-lang.com/" title="Go to the Sass website"><abbr title="Syntactically Awesome Style Sheets">SASS</abbr></a></li>
+<li><a href="https://getbootstrap.com/" title="Go to the Bootstrap website">Bootstrap 5</a></li>
+<li><a href="https://nodejs.org/" title="Go to the Node.js website">Node.js</a></li>
+<li><a href="https://github.com" title="Go to the GitHub website">GitHub</a></li>
 </ul>
 
-Search module by [David Darnes](https://github.com/daviddarnes){:target="_blank" rel="noopener" title="Go to his GitHub page"}.
-<br>
-Watercolor texture by [Alexandra M&aacute;rquez](https://www.freepik.com/vectors/background/){:target="_blank" rel="noopener" title="View the image on Freepik"}.
-<br>
-Hosted on [Netlify](https://www.netlify.com/){:target="_blank" rel="noopener"}.
-<br>
-> Homepage illustration by <a href="https://undraw.co/" title="Go to unDraw">Katerina Limpitsouni</a>
+Search module by [David Darnes](https://github.com/daviddarnes){:target="_blank" rel="noopener" title="Go to his GitHub page"}.  
+Watercolor texture by [Alexandra M&aacute;rquez](https://www.freepik.com/vectors/background/){:title="View the image on Freepik"}.  
+Homepage illustrations by [Katerina Limpitsouni](https://undraw.co/){:title="Go to Undraw"}.  
+Hosted on [Netlify](https://www.netlify.com/).
 
 ## Accessibility
 
