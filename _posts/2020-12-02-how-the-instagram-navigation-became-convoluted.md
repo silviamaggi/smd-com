@@ -69,4 +69,4 @@ Sometimes it happens when the business model changes: if the goal is to keep peo
 <li><a href="https://uxplanet.org/perfect-bottom-navigation-for-mobile-app-effabbb98c0f">UX Design for Mobile: Bottom Navigation</a> (on Medium)</li>
 </ul>
 
-<!-- <small>Photo by [Lalo Hernandez](https://unsplash.com/photos/r34cKhbEDCU){:target="_blank"} on Unsplash</small> -->
+<!-- <small>Photo by [Lalo Hernandez](https://unsplash.com/photos/r34cKhbEDCU) on Unsplash</small> -->

@@ -23,7 +23,7 @@ Many don’t trust Facebook and its practices. Do you trust Instagram more, even
 
 <p class="detached">🔗 <a href="https://www.theverge.com/2020/7/25/21338151/instagram-bug-camera-privacy-ios14-apple">Read more</a> (on The Verge)</p>
 
-<!-- <small>Photo by [NeONBRAND](https://unsplash.com/photos/nZJBt4gQlKI){:target="_blank"} on Unsplash</small> -->
+<!-- <small>Photo by [NeONBRAND](https://unsplash.com/photos/nZJBt4gQlKI) on Unsplash</small> -->
 
 <div class="smd-responses my-5 pt-3">
   <h2>Comments</h2>

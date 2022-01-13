@@ -12,7 +12,7 @@ description: "Every couple of weeks, I write a letter to the nice people subscri
 featured-image: feat-smd-blog-featured-image_lettera.jpg
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">Every couple of weeks, I write a letter to the nice people subscribed to <a href="https://us10.campaign-archive.com/home/?u=0c9027b00ef8ad1210adae70d&id=d77c0b18a8" title="View the newsletter archive on Mailchimp"><em>Design, Digested</em></a>. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.</p>
+<p class="lead">Every couple of weeks, I write a letter to the nice people subscribed to <a href="/newsletter/" title="View the newsletter archive"><em>Design, Digested</em></a>. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.</p>
 
 <!--more-->
 
@@ -64,6 +64,6 @@ As a person who likes almost everything digital and tech, I was surprised to rea
 
 ## Digital indigestion
 
-Simone Bossi, an Italian photographer, explains why he thinks digital photography is too much to digest. His approach is fascinating: even if now it’s possible to take thousands of pictures of the same angle, he takes one. The pictures he took at the [Surrey Docks Farm](https://www.dezeen.com/2020/03/15/pup-architects-surrey-docks-farm-extension-architecture-london/){:target="_blank"}, the place down the road we used to live in London, are precious.
+Simone Bossi, an Italian photographer, explains why he thinks digital photography is too much to digest. His approach is fascinating: even if now it’s possible to take thousands of pictures of the same angle, he takes one. The pictures he took at the [Surrey Docks Farm](https://www.dezeen.com/2020/03/15/pup-architects-surrey-docks-farm-extension-architecture-london/), the place down the road we used to live in London, are precious.
 
 <p class="detached">🔗 <a href="https://www.dezeen.com/2021/03/12/simone-bossi-architecture-photography-interview/">Read the article</a> (on Dezeen)</p>

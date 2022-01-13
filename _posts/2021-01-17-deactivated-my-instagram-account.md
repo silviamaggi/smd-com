@@ -74,4 +74,4 @@ While Instagram main interest switched to creators, brands and what they sell, *
   </div>
 </div>
 
-<!-- <small>Photo by [Prateek Katyal](https://unsplash.com/@prateekkatyal){:target="_blank"} on Unsplash</small> -->
+<!-- <small>Photo by [Prateek Katyal](https://unsplash.com/@prateekkatyal) on Unsplash</small> -->

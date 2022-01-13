@@ -17,7 +17,7 @@ featured-image: feat-new-journey-new-blog.jpg
 
 {% include pattern-figure.html image="/assets/images/north-sea-cromer.jpg" caption="The North Sea at Cromer" width="1400" height="933" %}
 
-It feels like hitting the reset button: a much-needed pause to regroup and understand what to do next. We’ll be writing both in English and in Italian, on the blog [Oregano Dangereux](https://oreganodangereux.wordpress.com/){:target="_blank"}.
+It feels like hitting the reset button: a much-needed pause to regroup and understand what to do next. We’ll be writing both in English and in Italian, on the blog [Oregano Dangereux](https://oreganodangereux.wordpress.com/).
 
 <p class="detached">I’d be glad if you’d like to accompany us on this journey.</p>
 

@@ -28,7 +28,7 @@ Hosted on [Netlify](https://www.netlify.com/).
 
 ## Accessibility
 
-✅ No accessibility errors for <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> detected on [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.com/){:target="_blank"}.
+✅ No accessibility errors for <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> detected on [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.com/).
 
 ## Sustainability
 

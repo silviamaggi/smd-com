@@ -15,9 +15,9 @@ last_modified_at: '2021-09-12T15:35:22.604Z'
 ---
 UniCredit Bank wanted to reach a wider range of clients. UI Farm helped them increase the conversion rates of their mobile pages.
 
-[UniCredit Bank](https://unicredit.it/){:target="_blank"}, a leading European commercial bank headquartered in Italy, wants to leverage the increasing use of smartphones to reach a wider range of clients.
+[UniCredit Bank](https://unicredit.it/), a leading European commercial bank headquartered in Italy, wants to leverage the increasing use of smartphones to reach a wider range of clients.
 
-To do so, they contacted [UI Farm](https://uifarm.co.uk/){:target="_blank"}, the London-based web agency I co-founded that specialised in **device-agnostic responsive design**.
+To do so, they contacted [UI Farm](https://uifarm.co.uk/), the London-based web agency I co-founded that specialised in **device-agnostic responsive design**.
 
 It’s 2013. In Italy, a small percentage of people uses smartphones to go online; even fewer to make purchases.
 
@@ -33,6 +33,6 @@ Working on case studies is not just something UX designers have to do, it’s a 
 
 Reminiscing about the work done for UniCredit **boosted my confidence and energy**. If you have the time to read it, I hope you enjoy it.
 
-&rarr; Check the [UniCredit Bank landing pages and forms case study]({{ site.url }}/portfolio/unicredit-landing-pages-and-forms/).
+&rarr; Check the [UniCredit Bank landing pages and forms case study](/portfolio/unicredit-landing-pages-and-forms/).
 
-&rarr; [Get in touch]({{ site.url }}/get-in-touch-silviamaggi/) for comments, feedback or if you wish to work with me.
+&rarr; [Get in touch](/get-in-touch-silviamaggi/) for comments, feedback or if you wish to work with me.

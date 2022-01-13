@@ -22,4 +22,4 @@ Leaving is a bittersweet sensation, as it’s been countless years since I’ve 
 
 The new site will be based on [Jekyll](https://jekyllrb.com/){:title="Go to the Jekyll website"}, and hosted by [Cloudflare Pages](https://pages.cloudflare.com/){:title="Go to the Cloudflare Pages website"}. I don’t have a precise timeline, but the switch will probably happen in a month or two. See you on the other side?
 
-<!-- <small>Photo by [Marco Chilese](https://unsplash.com/@chmarco){:target="_blank"} on Unsplash</small> -->
+<!-- <small>Photo by [Marco Chilese](https://unsplash.com/@chmarco) on Unsplash</small> -->
