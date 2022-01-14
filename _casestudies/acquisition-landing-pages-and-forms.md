@@ -4,7 +4,7 @@ title: UniCredit acquisition landing pages and forms
 featured-post: true
 casestudy-order: 1
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2022-01-10 21:40:32'
+last_modified_at: '2022-01-14 11:37:16'
 description: UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 featured-image-alt: Screens showing UniCredit landing pages and forms
@@ -34,7 +34,7 @@ I <strong>led the project</strong> and worked on the UX and final designs. My co
 
 ## The context
 
-It’s 2013. A small percentage of Italians use smartphones for online services or purchases[^smartphone-habits]. UniCredit see the potential of mobile and wants to widen their customer base by reaching a younger audience. They contacted [UI Farm](https://uifarm.co.uk/){:title="Go to the UI Farm website"}, the London-based web agency I co-founded that specialised in device-agnostic responsive design. We focused on why their potential clients were less likely to open a bank account from a mobile device:
+It’s 2013. A small percentage of Italians use smartphones for online services or purchases[^smartphone-habits]. UniCredit see the potential of mobile and wants to widen their customer base by reaching a younger audience. They contacted [UI Farm](https://web.archive.org/web/20180314165034/http://uifarm.co.uk/){:target="_blank" title="Go to the UI Farm website"}, the London-based web agency I co-founded that specialised in device-agnostic responsive design. We focused on why their potential clients were less likely to open a bank account from a mobile device:
 
 <ul class="smd-ul">
 <li>slow technology adoption in an ageing society;</li>
@@ -81,9 +81,9 @@ Thanks to UI Farm’s responsive framework[^uifarm-workflow], I prototyped the p
 
 {% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-bottom.png" caption="Details of the landing page wireframes: desktop" width="1024" height="600" %}
 
-## Sticky header
+## Interactive header
 
-My colleagues and I felt that having the Calls to Actions repeated at the end of each product feature wasn’t the best output. Instead, we went for a dynamic solution: a **sticky header** where the Calls to Actions switched to the Free number button if the former were already visible in the screen.
+My colleagues and I felt that having the Calls to Actions repeated at the end of each product feature wasn’t the best output. Instead, we went for a dynamic solution: an **interactive header** where the Calls to Actions switched to the Free number button if the former were already visible in the screen.
 
 {% include pattern-figure-cols.html image1="/assets/images/unicredit-ctas-mobile.jpg" image2="/assets/images/unicredit-freenumber-mobile.jpg" alt="Dynamic sticky header on mobile" caption="Dynamic sticky header: mobile" width="487" height="1000" %}
 
