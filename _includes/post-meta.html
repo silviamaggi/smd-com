@@ -37,6 +37,18 @@
         </span>
       </td>
     </tr>
+    <tr>
+      <td width="50">
+        <span class="smd-font-micro text-uppercase me-1">Tools</span>
+      </td>
+      <td>
+        <span class="p-category">
+          {%- for tool in page.tools -%}
+          <span class="fw-bold text-uppercase smd-font-micro"><strong>{{ tool }} </strong></span><span class="d-inline-block mx-1">/</span> 
+          {%- endfor -%}
+        </span>
+      </td>
+    </tr>
     {% endif %}
     <tr class="post-taxonomy">
     {%- unless page.tags == empty -%}

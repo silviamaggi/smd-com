@@ -23,8 +23,11 @@
 // be found in _reboot.scss and _variables.scss
 // ------------------------------------------------ //
 
-// Website prefix
-$site-prefix: '.smd';
+// SMD
+@import "smd-functions";
+@import "smd-mixins";
+@import "smd-typography";
+@import "smd-palette";
 
 // Typography
 $enable-rfs: true;
@@ -52,12 +55,6 @@ $enable-transitions: true;
 $enable-shadows: false;
 $enable-gradients: false;
 $enable-negative-margins: true;
-
-// SMD
-@import "smd-functions";
-@import "smd-mixins";
-@import "smd-typography";
-@import "smd-palette";
 
 // Links
 $link-color: $link-d-70;
@@ -127,19 +124,19 @@ $theme-colors: map-remove($theme-colors, "secondary", "info", "danger");
 @import "bootstrap/nav";
 @import "bootstrap/navbar";
 @import "bootstrap/card";
-@import "bootstrap/accordion";
+// @import "bootstrap/accordion";
 @import "bootstrap/breadcrumb";
-@import "bootstrap/pagination";
+// @import "bootstrap/pagination";
 @import "bootstrap/badge";
 @import "bootstrap/alert";
 @import "bootstrap/progress";
 @import "bootstrap/list-group";
 @import "bootstrap/close";
 @import "bootstrap/toasts";
-@import "bootstrap/tooltip";
-@import "bootstrap/popover";
+// @import "bootstrap/tooltip";
+// @import "bootstrap/popover";
 @import "bootstrap/spinners";
-@import "bootstrap/offcanvas";
+// @import "bootstrap/offcanvas";
 
 // Helpers
 @import "bootstrap/helpers";

@@ -52,7 +52,7 @@ main {
 // ------------------------------------------------ //
 
 h1 {
-  @extend #{$site-prefix}-mask-texture;
+  @extend .smd-mask-texture;
 }
 
 // Search page result heading (component)
@@ -122,15 +122,15 @@ h4 {
   }
 }
 /* purgecss end ignore */
-#{$site-prefix}-current {
+.smd-current {
   color: $link-d-40;
 }
-#{$site-prefix}-right-arrow::after {
+.smd-right-arrow::after {
   display: inline-block;
   content: '\203a';
   padding-left: 2px;
 }
-#{$site-prefix}-left-arrow::before {
+.smd-left-arrow::before {
   display: inline-block;
   content: '\2039';
   padding-right: 2px;
@@ -162,7 +162,7 @@ code {
 }
 
 // Font micro size
-#{$site-prefix}-font-micro {
+.smd-font-micro {
   @include font-size($micro-font-size);
   line-height: 1.2;
 }
@@ -203,8 +203,8 @@ cite {
 
 // Links and hover (component as a utility class)
 %smd-link,
-#{$site-prefix}-link {
-  @extend #{$site-prefix}-transition-txtdec-03s;
+.smd-link {
+  @extend .smd-transition-txtdec-03s;
   color: $link-color;
   text-decoration-line: underline;
   text-decoration-color: $link-decoration;
@@ -253,11 +253,11 @@ cite {
 
 // Default entry font size
 %smd-entry-fs,
-#{$site-prefix}-entry-fs {
+.smd-entry-fs {
   font-size: rfs-fluid-value(21px);
 }
 
-#{$site-prefix}-entry {
+.smd-entry {
   // entry headings
   h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     color: $smd-heading-color-base;
@@ -268,9 +268,15 @@ cite {
   p {
     margin-bottom: 0;
     line-height: 1.3;
+
     @include media-breakpoint-up(xxl) {
-      text-align: justify;
       line-height: 1.5;
+    }
+
+    &:not(.card-text) {
+      @include media-breakpoint-up(xxl) {
+        text-align: justify;
+      }  
     }
 
     &:not(.lead) {
@@ -294,7 +300,7 @@ cite {
 
   // Italic
   em {
-    @extend #{$site-prefix}-serif-italic;
+    @extend .smd-serif-italic;
   }
 
   // Entry block ordered lists
@@ -399,7 +405,7 @@ cite {
     width: 800px;
   }
 }
-#{$site-prefix}-portfolio-quote {
+.smd-portfolio-quote {
   width: rfs-fluid-value(350px) !important;
 }
 .layout-portfolio-content {
@@ -419,7 +425,7 @@ cite {
 // $ACCORDION
 // ------------------------------------------------ //
 
-#{$site-prefix}-accordion {
+.smd-accordion {
  
   input {
     display: none;
@@ -475,27 +481,27 @@ cite {
     }
   }
 }
-input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-title {
+input:checked + .smd-accordion-box .smd-accordion-box-title {
   background-color: $background-l-70;
   transition: background-color .3s ease-in-out;
 }
-input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-title h4 {
+input:checked + .smd-accordion-box .smd-accordion-box-title h4 {
   color: $black;
   transition: color 1s ease-in-out;
 }
-input:checked + #{$site-prefix}-accordion-box {
+input:checked + .smd-accordion-box {
   height: auto;
   border-bottom: 2px solid $background-l-10;
 }
-input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-content,
-input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-close {
+input:checked + .smd-accordion-box .smd-accordion-box-content,
+input:checked + .smd-accordion-box .smd-accordion-box-close {
   display: inline-block;
 }
-#{$site-prefix}-accordion-arrows #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-title {
+.smd-accordion-arrows .smd-accordion-box .smd-accordion-box-title {
   padding-left: 2.75rem;
   width: 100%;
 }
-#{$site-prefix}-accordion-arrows #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-title:before {
+.smd-accordion-arrows .smd-accordion-box .smd-accordion-box-title:before {
   position: absolute;
   display: block;
   content: '\203a';
@@ -505,7 +511,7 @@ input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-clos
   color: $background-d-40;
   transition: all .2s ease-in-out;
 }
-input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-title:before {
+input:checked + .smd-accordion-box .smd-accordion-box-title:before {
   transform: rotate(90deg);
   color: $black;
 }
@@ -524,7 +530,7 @@ input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-titl
   }
 
   a {
-    @extend #{$site-prefix}-transition-txtdec-03s;
+    @extend .smd-transition-txtdec-03s;
     text-decoration: solid underline $link-l-30 2px;
 
     &:hover {
@@ -553,7 +559,7 @@ figcaption  {
   width: 130px; 
   height: auto;
 }
-#{$site-prefix}-logo {
+.smd-logo {
   svg {
     max-width: 100%;
   }
@@ -576,14 +582,14 @@ hr {
 .img-slide { 
   max-height: 90vh;
 }
-#{$site-prefix}-img-gallery-thumbs { 
+.smd-img-gallery-thumbs { 
   cursor: pointer;
 }
-#{$site-prefix}-img-gallery-thumb {
+.smd-img-gallery-thumb {
   width: 150px;
   height: 150px;
 }
-#{$site-prefix}-image-gallery-caption {
+.smd-image-gallery-caption {
   width: 150px;
 }
 
@@ -592,10 +598,10 @@ hr {
 // $MODAL
 // ------------------------------------------------ //
 
-#{$site-prefix}-modal-content { 
+.smd-modal-content { 
   position: relative;
 }
-#{$site-prefix}-modal-header { 
+.smd-modal-header { 
   position: absolute; 
   top: 0; 
   left: 0; 
@@ -608,7 +614,7 @@ hr {
 // $LISTS
 // ------------------------------------------------ //
 
-#{$site-prefix}-ul {
+.smd-ul {
   list-style-position: outside;
   margin: $spacer 0 $spacer*1.5 0;
   padding-left: $spacer*1.5;
@@ -662,7 +668,7 @@ hr {
 // $FOOTER
 // ------------------------------------------------ //
 
-#{$site-prefix}-footer-wrapper {
+.smd-footer-wrapper {
   background: rgba($background-l-30, .2);
   flex-shrink: 0;
 }
@@ -682,7 +688,7 @@ hr {
 
 // Default button
 .btn-smd {
-  @extend #{$site-prefix}-transition-bg-01s;
+  @extend .smd-transition-bg-01s;
   color: $white;
   background-color: $heading-l-10;
 
@@ -730,7 +736,7 @@ hr {
 }
 // Label link
 .btn-label-smd-link {
-  @extend #{$site-prefix}-transition-bg-03s;
+  @extend .smd-transition-bg-03s;
   &:hover {
     color: $link-l-80 !important;
     background-color: $background-d-70;
@@ -742,24 +748,24 @@ hr {
 // $EFFECTS
 // ------------------------------------------------ //
 
-#{$site-prefix}-mask-texture {
+.smd-mask-texture {
   -webkit-mask-image: url('/assets/images/heading-texture.png');
   mask-image: url('/assets/images/heading-texture.png');
 }
-#{$site-prefix}-unmask-texture {
+.smd-unmask-texture {
   -webkit-mask-image: none !important;
   mask-image: none !important;
 }
 
 // Translucent BG
 // ------------------------------------------------ *
-#{$site-prefix}-translucent-bg {
+.smd-translucent-bg {
   background: rgba($background-l-30, .3);
 }
 
 // Text shadow
 // ------------------------------------------------ *
-#{$site-prefix}-tx-shadow {
+.smd-tx-shadow {
   text-shadow: 0px 0px 0px #fff, 0 0 0 #000, 0px 1px 1px #fff;
 }
 
@@ -778,7 +784,7 @@ hr {
 // * smd-transition-opacity-01s
 // * smd-transition-opacity-03s
 // ------------------------------------------------ *
-#{$site-prefix}-transition {
+.smd-transition {
     // Background
     &-bg-01s:hover      { transition: background-color 0.1s ease-in !important; }
     &-bg-03s:hover      { transition: background-color 0.3s ease-in !important; }
@@ -802,20 +808,20 @@ hr {
 
 // Text rotation
 // ------------------------------------------------ *
-#{$site-prefix}-text-rotate {
+.smd-text-rotate {
   transform: rotate(359deg);
 }
 
 // Letter spacing
 // ------------------------------------------------ *
-#{$site-prefix}-letter-spacing-w1 {
+.smd-letter-spacing-w1 {
   letter-spacing: $letter-spacing-wide-1;
 }
 
 // Mark (highlights)
 // ------------------------------------------------ *
 mark {
-  &#{$site-prefix}-highlight {
+  &.smd-highlight {
     display: inline-block;
     border-radius: 1.5rem 0.5rem 1.2rem 0.7rem;
     background-image: linear-gradient(-100deg, rgba(255,224,0,0.1), rgba(255,224,0,0.5) 95%, rgba(255,224,0,0.2));
@@ -1289,6 +1295,6 @@ mark {
 // $GUESTBOOK
 // ------------------------------------------------ //
 
-#{$site-prefix}-guestbook-entry {
+.smd-guestbook-entry {
   background: rgba($background-l-30, .3);
 }

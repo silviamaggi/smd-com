@@ -93,7 +93,7 @@ $smd-bg-colors: (
 );
 
 // Print all the utility classes
-#{$site-prefix} {
+.smd {
   @include smd-color($smd-bg-colors, 'background-color', $separator: '-');
   @include smd-color($smd-colors, 'color', $separator: '-');
 }

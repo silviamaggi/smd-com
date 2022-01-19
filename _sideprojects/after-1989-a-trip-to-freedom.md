@@ -1,11 +1,11 @@
 ---
 layout: post
-title: After 1989. A Trip To Freedom
+title: 'After 1989: A Trip To Freedom'
 date: 2021-04-14T20:44:19.000Z
 last_modified_at: '2021-09-12T13:56:17.260Z'
 featured-post: false
 description: 'After 1989 is Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.'
-excerpt: 'After 1989. A trip to freedom is my Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.'
+excerpt: '<em>After 1989: A trip to freedom</em> is Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.'
 featured-image: feat-after1989videos-featured-img.jpg
 featured-image-alt: Concentration camp gate entrance
 carousel: true
