@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Assets optimisation and trading automation
+robots: 'noindex,follow'
+sitemap: false
 featured-post: true
 casestudy-order: 2
 date: '2022-01-19 16:56:09'
