@@ -16,7 +16,7 @@
             <div class="card-body">
               <h3 class="h4 mb-3">{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}</h3>
               <div class="post-meta mb-3">
-                <span class="fw-bold text-uppercase smd-font-micro d-inline-block"><strong>{{ post.date | date: "%d %b %Y" }}</strong></span>
+                <span class="fw-bold text-uppercase smd-font-micro d-inline-block"><strong>{{ post.date | date: "%d %B %Y" }}</strong></span>
               </div>
               <p class="card-text small">{%- if postFeat -%}{{ post.excerpt | markdownify | strip_html }}{%- elsif caseFeat -%}{{ casestudy.excerpt | markdownify | strip_html }}{%- endif -%}</p>
             </div>
