@@ -22,8 +22,5 @@
 {% endif -%}
 {% if page.url contains 'search' or page.url contains '404.html' %}
 <script type="text/javascript" src="{{ site.url }}/assets/js/search-smd.js"></script>
-<noscript>Please enable JavaScript to use the search form.</noscript>
+<noscript>Please enable JavaScript to use the search form or use the one below.</noscript>
 {% endif %}
-{%- if page.id -%}{%- unless page.url contains "/portfolio/" -%}
-<script type="text/javascript" src="{{ site.url }}/assets/js/webmention.min.js" async></script>
-{%- endunless -%}{%- endif -%}
