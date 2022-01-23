@@ -3,10 +3,10 @@ layout: post
 title: Assets optimisation and trading automation
 robots: 'noindex,follow'
 sitemap: false
-featured-post: true
+featured-post: false
 casestudy-order: 2
 date: '2022-01-19 16:56:09'
-last_modified_at: '2022-01-14 11:37:16'
+last_modified_at: '2022-01-23 15:42:45'
 description: 2016-2019 – My work as a solo UX Designer at Origami, a technology company based in Cambridge, UK. Ask me to read the NDA-safe case study.
 featured-image: feat-origami-case-study-featured-img.jpg
 featured-image-alt: Origami logo – Ask me to view the Origami case study, protected by NDA
