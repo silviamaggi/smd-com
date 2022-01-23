@@ -57,7 +57,7 @@ Lessons learnt: use weather apps that provide detailed international weather ale
 
 <p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>
 
-<div class="smd-responses my-5 pt-3">
+<div class="smd-responses my-3 pt-3">
   <h2>Comments</h2>
   <div class="webmentions">
     <ul class="comments">
