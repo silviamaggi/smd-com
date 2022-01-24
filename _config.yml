@@ -119,4 +119,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-archives
   - jekyll-responsive-image
-  - jekyll-webmention_io

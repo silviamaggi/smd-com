@@ -24,3 +24,6 @@
 <script type="text/javascript" src="{{ site.url }}/assets/js/search-smd.js"></script>
 <noscript>Please enable JavaScript to use the search form or use the one below.</noscript>
 {% endif %}
+{% if page.is_post %}
+<script src="/assets/js/webmention.min.js" async></script>
+{% endif %}
