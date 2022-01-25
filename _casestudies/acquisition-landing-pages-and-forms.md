@@ -15,7 +15,7 @@ year:
 skills:
   - Observational research
   - Content Strategy
-  - User flows
+  - Flow diagrams
   - Wireframing
   - HTML & CSS
   - Prototyping
@@ -50,7 +50,7 @@ To understand how straightforward it was to find the information they needed on 
 
 <ul class="smd-ul">
   <li><strong>Recruiting</strong>: we screened people reached through our network of clients and collaborators to make sure we tested at least 10 users.</li>
-  <li><strong>Target users</strong>: people in their 20s or 30s who don't have a bank account yet, or wish to switch banks.</li>
+  <li><strong>Target users</strong>: people under 30 who don't have a bank account yet, or wish to switch banks.</li>
   <li><strong>Task</strong>: starting from an ad on Google, find the information needed to switch banks or to open an account with UniCredit.</li>
 </ul>
 
