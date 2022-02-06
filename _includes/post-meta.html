@@ -30,11 +30,9 @@
         <span class="smd-font-micro text-uppercase me-1">Skills</span>
       </td>
       <td>
-        <span class="p-category">
-          {%- for skill in page.skills -%}
-          <span class="fw-bold text-uppercase smd-font-micro"><strong>{{ skill }} </strong></span><span class="d-inline-block mx-1">/</span> 
-          {%- endfor -%}
-        </span>
+        {%- for skill in page.skills -%}
+        <span class="p-category fw-bold text-uppercase smd-font-micro"><strong>{{ skill }}</strong></span>{% unless forloop.last %} <span class="d-inline-block mx-1">/</span>{% endunless %} 
+        {%- endfor -%}
       </td>
     </tr>
     <tr>
