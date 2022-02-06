@@ -7,7 +7,7 @@
     <span class="small"><strong>{{ post.date | date: "%d %B %Y" }}</strong></span>
   </div>
   <div class="e-content w-75">
-    <p class="p-summary mt-3{% if page.url == '/' %} small{% endif %}">{{ post.excerpt | markdownify | strip_html }}</p>
+    <p class="mt-3{% if page.url == '/' %} small{% endif %}">{{ post.excerpt | markdownify | strip_html }}</p>
   </div>
 </article>
 <hr class="visually-hidden">
