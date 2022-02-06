@@ -101,9 +101,16 @@ $form-label-margin-bottom: .5rem;
 // ------------------------------------------------ \\
 // $CUSTOM - Colors
 // ------------------------------------------------ //
-// Remove default colors
-$theme-colors: map-remove($theme-colors, "secondary", "info", "danger");
-
+// Create my map
+$smd-custom-colors: (
+  "background": $background,
+  "background-d-10": $background-d-10,
+  "background-l-80": $background-l-80,
+  "heading": $heading,
+  "link": $link
+);
+// Merge the maps
+$theme-colors: map-merge($theme-colors, $smd-custom-colors);
 
 // ------------------------------------------------ \\
 // $OPTIONAL Bootstrap components

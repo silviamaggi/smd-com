@@ -6,7 +6,7 @@
 // * Imported in `smd.scss`
 // ------------------------------------------------ //
 
-
+/* purgecss start ignore */
 // ------------------------------------------------ \\
 // $GENERAL
 // ------------------------------------------------ //
@@ -68,7 +68,6 @@ h4 {
 // $NAVIGATION
 // ------------------------------------------------ //
 
-/* purgecss start ignore */
 .navigation-main {
   @include media-breakpoint-down(md) {
     position: fixed;
@@ -121,7 +120,6 @@ h4 {
     display: inline-block;
   }
 }
-/* purgecss end ignore */
 .smd-current {
   color: $link-d-40;
 }
@@ -216,7 +214,6 @@ cite {
   }
 }
 // Tag & cats results link in search page + 404 page
-/* purgecss start ignore */
 .page-page-not-found,
 .page-search { 
   a[href^="/tag/"] {
@@ -229,7 +226,6 @@ cite {
     content: 'Category Archive: ';
   }
 }
-/* purgecss end ignore */
 .previous-next-post-links {
   a {
     line-height: 1.3;
@@ -357,7 +353,6 @@ cite {
 // $WEBMENTIONS
 // ------------------------------------------------ //
 
-/* purgecss start ignore */
 #webmentions,
 .webmentions {
   position: relative;
@@ -399,7 +394,6 @@ cite {
 .comments li {
   @extend .fs-5;
 }
-/* purgecss end ignore */
 
 
 // ------------------------------------------------ \\
@@ -654,7 +648,6 @@ hr {
     width: 100%;
   }
 }
-/* purgecss ignore */
 .twitter-tweet-rendered {
   margin: $spacer*3 auto $spacer*4 auto !important;
 }
@@ -843,8 +836,6 @@ mark {
 // .modal           - container to scroll within
 // .modal-dialog    - positioning shell for the actual modal
 // .modal-content   - actual modal w/ bg and corners and stuff
-
-/* purgecss start ignore */
 
 // Container that the modal scrolls within
 .modal {
@@ -1293,14 +1284,4 @@ mark {
     color: $carousel-dark-caption-color;
   }
 }
-
 /* purgecss end ignore */
-
-
-// ------------------------------------------------ \\
-// $GUESTBOOK
-// ------------------------------------------------ //
-
-.smd-guestbook-entry {
-  background: rgba($background-l-30, .3);
-}
