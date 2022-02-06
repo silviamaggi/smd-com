@@ -9,7 +9,7 @@ excerpt: 'I write about design, tech and their implications in our lives. Follow
 {% include pattern-popular-posts.html %}
 <section class="h-feed my-5">
   <h2 class="p-name text-center display-5 smd-mask-texture mb-5">Categories</h2>
-  <ol class="h-feed list-unstyled list-inline text-center w-100">
+  <ol class="list-unstyled list-inline text-center w-100">
   {% assign sorted_cats = site.categories | sort %}
   {% for category in sorted_cats %}
   {% assign c = category | first %}
