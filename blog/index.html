@@ -3,16 +3,13 @@ layout: blog
 title: Blog
 date: 2021-04-13 17:31
 last_modified_at: '2022-01-24 15:31:04'
-description: This is Silvia Maggi's blog, where I write about design, tech and their implications in our lives.
+description: "This is Silvia Maggi's blog, where I write about design, tech and their implications in our lives."
+excerpt: 'I write about design, tech and their implications in our lives. Follow my posts via <a href="/feed.xml">RSS</a>. Looking for something specific? Visit the <a href="/archive/">archive</a>.'
 ---
-<div class="smd-entry"><p class="lead">I write about design, tech and their implications in our lives. Follow my posts via <a href="/feed.xml">RSS</a>. Looking for something specific? Visit the <a href="/archive/">archive</a>.</p></div>
-
 {% include pattern-popular-posts.html %}
-
-<section class="my-5">
-  <h2 class="text-center display-5 smd-mask-texture mb-5">Categories</h2>
-
-  <ol class="list-unstyled list-inline text-center">
+<section class="h-feed my-5">
+  <h2 class="p-name text-center display-5 smd-mask-texture mb-5">Categories</h2>
+  <ol class="h-feed list-unstyled list-inline text-center w-100">
   {% assign sorted_cats = site.categories | sort %}
   {% for category in sorted_cats %}
   {% assign c = category | first %}
@@ -23,19 +20,14 @@ description: This is Silvia Maggi's blog, where I write about design, tech and t
   {% endfor %}
   </ol>
 </section>
-
 <section class="h-feed">
-  
-  <h2 class="text-center display-5 smd-mask-texture mb-5">All posts</h2>
-  
+  <h2 class="p-name text-center display-5 smd-mask-texture mb-5">All posts</h2>
   {% for post in site.posts %}
-  
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
-
   {% unless post.hidden == true %}
   {%- include pattern-postblock.html -%}
   {% endunless %}
