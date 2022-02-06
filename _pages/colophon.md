@@ -24,7 +24,7 @@ Built with:
 Search module by [David Darnes](https://github.com/daviddarnes){:title="Go to his GitHub page"}.  
 Watercolor texture by [Alexandra M&aacute;rquez](https://www.freepik.com/vectors/background/){:title="View the image on Freepik"}.  
 Homepage illustrations by [Katerina Limpitsouni](https://undraw.co/){:title="Go to Undraw"}.  
-Hosted on [Netlify](https://www.netlify.com/).
+Hosting: [![Netlify Status](https://api.netlify.com/api/v1/badges/4be453ef-7512-46cd-b7e1-003b54c049b5/deploy-status)](https://app.netlify.com/sites/silviamaggidesign/deploys)
 
 ## Accessibility
 
