@@ -1,18 +1,13 @@
-<section class="featured-posts my-5 my-md-5">
-
-  <h2 class="text-center display-5 smd-mask-texture mb-5">Popular</h2>
-
+<section class="h-feed featured-posts my-5 my-md-5">
+  <h2 class="p-name text-center display-5 smd-mask-texture mb-5">Popular</h2>
     <div class="card-group">
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
-
+      <div class="h-feed row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
       {%- assign popular = site.posts | where: 'popular-post', 'true' -%}
-
       {% for post in popular | limit:3 %}
         <div class="col smd-transition-opacity-03s">
           <div class="card h-100 smd-transition-border-03s">
             <img class="card-img-top" src="{{ site.url }}/assets/images/highlights/highlighted-{%- if popular -%}{{ post.featured-image }}{%- elsif caseFeat -%}{{ casestudy.featured-image }}{%- endif -%}" alt="{%- if popular -%}{{ post.featured-image-alt }}{%- elsif caseFeat -%}{{ casestudy.featured-image-alt }}{%- endif -%}" width="300" height="169">
             <div class="card-body">
-              
               <div class="post-meta mb-3">
                 <span class="fw-bold text-uppercase smd-font-micro d-inline-block">{{ post.date | date: "%d %B %Y" }}</span>
               </div>
@@ -26,5 +21,4 @@
       {% endfor %}
     </div>
   </div>
-
 </section>
