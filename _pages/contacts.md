@@ -9,7 +9,7 @@ permalink: /get-in-touch-silviamaggi/
 ---
 {%- assign socialnav = site.data.nav-social -%}
 
-<p class="lead"><strong>I&rsquo;m available for hire</strong>. If you need help with:</p>
+<p class="p-summary lead"><strong>I&rsquo;m available for hire</strong>. If you need help with:</p>
 
 <ul class="smd-ul">
   <li><strong>UX consultancy</strong>: problem-finding, research-based prototypes;</li>
