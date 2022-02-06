@@ -6,11 +6,9 @@ layout: default
 <article class="h-entry smd-entry">
   <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
   <div class="post-meta">
-  {%- include post-meta.html %}
-    <a rel="author" class="p-author h-card visually-hidden" href="{{ site.url }}">Silvia Maggi</a>
-    <a class="u-url h-card visually-hidden" href="{{ site.url }}{{ page.url }}">Permalink</a>
+    {%- include post-meta.html %}
+    <span class="visually-hidden">{% include pattern-hcard-post.html %}</span>
   </div>
-<div class="e-content">
   {% if page.url contains '/portfolio/' %}
   {% unless page.toc == false %}
   {%- comment -%}TOC accordion{%- endcomment -%}
@@ -28,11 +26,12 @@ layout: default
   {% endunless %}
   {%- comment -%}End TOC{%- endcomment -%}
   {% endif %}
-  <div class="e-content">{{ content }}</div>
-</div>
-{% unless page.url contains "/newsletter/" or page.url contains "/portfolio/" %}
-{%- include pattern-responses.html -%}
-{% endunless %}
+  <div class="e-content">
+    {{ content }}
+  </div>
+  {% unless page.url contains "/newsletter/" or page.url contains "/portfolio/" %}
+  {%- include pattern-responses.html -%}
+  {% endunless %}
 </article>
 
 {%- include post-navigation.html -%}
