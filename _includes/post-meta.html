@@ -31,7 +31,7 @@
       </td>
       <td>
         {%- for skill in page.skills -%}
-        <span class="p-category fw-bold text-uppercase smd-font-micro"><strong>{{ skill }}</strong></span>{% unless forloop.last %} <span class="d-inline-block mx-1">/</span>{% endunless %} 
+        <span class="p-category fw-bold text-uppercase smd-font-micro"><strong>{{ skill }}</strong></span>{% unless forloop.last %} <span class="d-inline-block mx-1">/</span>{% endunless %}
         {%- endfor -%}
       </td>
     </tr>
@@ -40,11 +40,9 @@
         <span class="smd-font-micro text-uppercase me-1">Tools</span>
       </td>
       <td>
-        <span class="p-category">
-          {%- for tool in page.tools -%}
-          <span class="fw-bold text-uppercase smd-font-micro"><strong>{{ tool }} </strong></span><span class="d-inline-block mx-1">/</span> 
-          {%- endfor -%}
-        </span>
+        {%- for tool in page.tools -%}
+        <span class="p-category fw-bold text-uppercase smd-font-micro"><strong>{{ tool }}</strong></span>{% unless forloop.last %} <span class="d-inline-block mx-1">/</span>{% endunless %}
+        {%- endfor -%}
       </td>
     </tr>
     {% endif %}
