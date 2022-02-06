@@ -364,9 +364,11 @@ cite {
   z-index: 100;
   line-height: 1.2;
   margin-bottom: 3rem;
-  width: 75%;
   @include media-breakpoint-down(md) {
     width: 100%;
+  }
+  h2 {
+    text-align: center;
   }
   ul {
     @include list-unstyled();
@@ -388,10 +390,14 @@ cite {
       text-decoration: none;
 
       img {
-        @extend .visually-hidden;
+        width: 36px;
+        height: 36px;
       }
     }
   }
+}
+.comments li {
+  @extend .fs-5;
 }
 /* purgecss end ignore */
 
