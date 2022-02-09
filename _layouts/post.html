@@ -3,6 +3,39 @@ layout: default
 ---
 {% include site-breadcrumbs.html %}
 
+{%- if page.mention == true %}
+
+<article class="h-entry smd-entry">
+  <h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
+  <div class="post-meta">
+    {%- include post-meta.html %}
+    <span class="visually-hidden">{% include pattern-hcard-post.html %}</span>
+  </div>
+  <div class="h-entry mt-5">
+    <div class="visually-hidden">
+      {%- if post -%}
+      {%- assign categories = post.categories -%}
+      {%- else -%}
+      {%- assign categories = page.categories -%}
+      {%- endif -%}
+      {%- for category in categories -%}
+      <span class="p-category">{{ category | upcase | replace:"-"," " }}</span>
+      {%- endfor -%}
+      {% for tag in tags %}
+      <span class="p-category">{{ tag | upcase }}</span>
+      {% endfor %}
+    </div>
+    <p>{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></p>
+    <p class="p-name detached lead lh-sm">{{ page.excerpt }}</p>
+    <div class="e-content mt-5">
+      {{ content }}
+    </div>
+  </div>
+  {%- include pattern-responses.html -%}
+</article>
+
+{%- else -%}
+
 <article class="h-entry smd-entry">
   <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
   <div class="post-meta">
@@ -33,6 +66,8 @@ layout: default
   {%- include pattern-responses.html -%}
   {% endunless %}
 </article>
+
+{% endif -%}
 
 {%- include post-navigation.html -%}
 
