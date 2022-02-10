@@ -33,7 +33,6 @@ GEM
       jekyll (>= 3.6, < 5.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
-    jekyll-paginate (1.1.0)
     jekyll-responsive-image (1.6.0)
       jekyll (>= 2.0, < 5.0)
       rmagick (>= 2.0, < 5.0)
@@ -71,13 +70,13 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  arm64-darwin-20
   x86_64-darwin-18
 
 DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-archives (~> 2.2.1)
   jekyll-feed (~> 0.15.1)
-  jekyll-paginate (~> 1.1.0)
   jekyll-responsive-image (~> 1.6)
   jekyll-sitemap (~> 1.4)
   open_uri_redirections
