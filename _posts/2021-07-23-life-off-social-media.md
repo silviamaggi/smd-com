@@ -9,10 +9,13 @@ tags:
   - social media
 description: "I tell you what happened when I quit social media six months ago, and why I don't want to come back."
 excerpt: "I tell you what happened when I quit social media six months ago, and why I don't want to come back."
-featured-image: feat-max-van-den-oetelaar-unsplash.jpg
+featimage: true
+featimage-alt: "Neon image showing the writing 'and breathe'"
+featimage-class: 'u-featured'
+featimage-name: 'feat-max-van-den-oetelaar-unsplash'
+image-caption: true
+featimage-caption-desc: 'Photo by <a href="https://unsplash.com/photos/buymYm3RQ3U">Max van den Oetelaar</a>'
 ---
-{% include pattern-figure-featured.html width="1200" height="500" caption='Photo by <a href="https://unsplash.com/photos/buymYm3RQ3U">Max van den Oetelaar</a>' %}
-
 <p class="lead">I used to be everywhere. Name the social media and, most probably, I had an account. Internet’s always been a big thing for me, and a certain kind of online presence was good for my profession, hobbies and relationships.</p>
 
 <!--more-->

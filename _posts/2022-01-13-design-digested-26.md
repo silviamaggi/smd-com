@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 26: Tabula rasa"
+title: 'Design, Digested 26: Tabula rasa'
 last_modified_at: '2022-01-13 17:08:30'
 featured-post: false
 categories:
@@ -14,14 +14,18 @@ tags:
   - art
 description: "Stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
 excerpt: "Stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
-featured-image: feat-design-digested-26.jpg
+featimage-class: 'u-featured'
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">Stop solving problems in design, drop <em>The Lean Startup</em>, what to do instead of counting clicks, an oral history of Beastie Boys’ artwork and more.</p>
 
 <!--more-->
 
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-26.jpg" alt="Design, Digested #26: " width="1200" height="500" %}
+{% responsive_image_block %}
+  path: assets/images/feat-design-digested-26.jpg
+  alt: {{ page.title | replace: ':',' -'}}
+  class: {{ page.featimage-class }}
+{% endresponsive_image_block %}
 
 ## Why UX researchers should stop solving problems
 

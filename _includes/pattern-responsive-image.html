@@ -1,19 +1,23 @@
-{% comment %}
+{%- comment %}
 Render your responsive images using <img srcset>, with the largest resized image used as a fallback.
-
 Usage:
-
-	{% responsive_image path: assets/image.jpg alt: "A description of the image" %}
-
-(P.S. You can safely delete this comment block)
-{% endcomment %}
+  {% responsive_image path: '/assets/images/imagename.jpg' %}
+or, for featured images:
+  {% responsive_image_block %}
+    path: assets/images/{{ page.title | slugify | append: '.jpg' }}
+    alt: {{ page.title }}
+  {% endresponsive_image_block %}
+{% endcomment -%}
 {%- assign largest = resized | sort: 'width' | last -%}
 {%- capture srcset -%}
 {%- for i in resized -%}
-    /{{ i.path }} {{ i.width }}w,
+  /{{ i.path }} {{ i.width }}w,
 {%- endfor -%}
 {%- endcapture -%}
+{% assign captionLabel = post.featimage-caption %}
 <figure class="my-5 text-center">
-<img loading="auto" src="/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w" class="u-photo mx-auto">
-<figcaption class="p-name mt-3 caption">{{ caption }}</figcaption>
+  <img class="{% if class %}{{ class }} {% endif %}mx-auto" loading="auto" src="/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w">
+  {% if caption-true %}
+  <figcaption class="mt-3 caption">{{ caption }}</figcaption>
+  {% endif %}
 </figure>

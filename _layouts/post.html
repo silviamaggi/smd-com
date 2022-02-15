@@ -60,6 +60,15 @@ layout: default
   {%- comment -%}End TOC{%- endcomment -%}
   {% endif %}
   <div class="e-content">
+    {%- if page.featimage == true %}
+      {% responsive_image_block %}
+        path: assets/images/{{ page.featimage-name | append: '.jpg' }}
+        alt: {{ page.featimage-alt }}
+        class: {{ page.featimage-class }}
+        caption-true: {{ page.image-caption }}
+        caption: {{ page.featimage-caption-desc }}
+      {% endresponsive_image_block %}
+    {% endif -%}
     {{ content }}
   </div>
   {% unless page.url contains "/newsletter/" or page.url contains "/portfolio/" %}

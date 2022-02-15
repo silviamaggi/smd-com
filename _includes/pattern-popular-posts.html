@@ -6,7 +6,7 @@
       {% for post in popular | limit:3 %}
         <div class="col smd-transition-opacity-03s">
           <div class="card h-100 smd-transition-border-03s">
-            <img class="card-img-top" src="{{ site.url }}/assets/images/highlights/highlighted-{%- if popular -%}{{ post.featured-image }}{%- elsif caseFeat -%}{{ casestudy.featured-image }}{%- endif -%}" alt="{%- if popular -%}{{ post.featured-image-alt }}{%- elsif caseFeat -%}{{ casestudy.featured-image-alt }}{%- endif -%}" width="300" height="169">
+            <img class="card-img-top" src="{{ site.url }}/assets/images/highlights/highlighted-{%- if popular -%}{{ post.featimage-name | append: '.jpg' }}{%- elsif caseFeat -%}{{ casestudy.featured-image }}{%- endif -%}" alt="{%- if popular -%}{{ post.featured-image-alt }}{%- elsif caseFeat -%}{{ casestudy.featured-image-alt }}{%- endif -%}" width="300" height="169">
             <div class="card-body">
               <div class="post-meta mb-3">
                 <span class="fw-bold text-uppercase smd-font-micro d-inline-block">{{ post.date | date: "%d %B %Y" }}</span>

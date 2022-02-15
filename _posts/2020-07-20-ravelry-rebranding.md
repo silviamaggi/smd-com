@@ -12,12 +12,14 @@ tags:
   - ux
 description: Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.
 excerpt: Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.
-featured-image: feat-ravelry-rebranding.jpg
-featured-image-alt: Flat lay of three grey yarn skeins
 permalink: '/design/:title/'
+featimage: true
+featimage-alt: "Flat lay of three grey yarn skeins"
+featimage-class: 'u-featured'
+featimage-name: 'feat-ravelry-rebranding'
+image-caption: true
+featimage-caption-desc: 'Photo by <a href="https://unsplash.com/photos/IcvR0jFbsz0">Tara Evans</a>'
 ---
-{% include pattern-figure-featured.html width="1200" height="500" caption='Photo by <a href="https://unsplash.com/photos/IcvR0jFbsz0">Tara Evans</a>' %}
-
 <p class="lead">Knitting website Ravelry lost the trust of their community after a rebranding effort caused several users adverse side effects from browsing the site. Well-known among knitters, crocheters, designers, spinners, and dyers, Ravelry is a free platform where users can organise and keep track of their projects, network with other people and sell their designs.</p>
 
 Ravelry’s [Wikipedia page](https://en.wikipedia.org/wiki/Ravelry){:title="Go to the Ravelry page on Wikipedia"} states that, as of March 2020, they had almost 9 million registered users, and approximately 1 million monthly active users.

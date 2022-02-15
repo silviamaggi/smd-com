@@ -11,10 +11,13 @@ tags:
   - personal
 description: "As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey."
 excerpt: "As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey."
-featured-image: feat-sam-rios-unsplash.jpg
+featimage: true
+featimage-alt: "hand holding a pencil"
+featimage-class: 'u-featured'
+featimage-name: 'feat-sam-rios-unsplash'
+image-caption: true
+featimage-caption-desc: 'Photo by <a href="https://unsplash.com/@samr1os_official">Sam Rios</a>'
 ---
-{% include pattern-figure-featured.html width="1200" height="500" caption='Photo by <a href="https://unsplash.com/@samr1os_official">Sam Rios</a>' %}
-
 <p class="lead">In my latest <em>Design, Digested</em> post titled <a href="/design-digested/importance-of-sketching-in-ux/" title="Read the post on my website">The importance of sketching in UX and beyond</a>, I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing <em>what</em> to draw, and then give up.</p>
 
 <!--more-->
