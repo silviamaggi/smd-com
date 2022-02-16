@@ -1,0 +1,33 @@
+{%- assign slideId = 0 -%}
+{%- assign slideNavId = 0 -%}
+{%- assign slideNav = 0 -%}
+<div class="d-flex justify-content-center">
+  <div class="smd-carousel">
+    <ul class="smd-carousel-scroll list-unstyled mx-0 my-0" scroll-behavior="smooth">
+    {%- for image in site.static_files -%}
+      {%- capture galleryPath -%}{{ include.folder }}{%- endcapture -%}
+      {%- if image.path contains galleryPath -%}
+      {%- assign filenameparts = image.path | split: "/" -%}
+      {%- unless image.path contains 'thumb-' -%}
+      <li class="smd-carousel-scroll-item-outer">
+        <div id="smd-carousel-slide-{%- increment slideId -%}" class="smd-carousel-scroll-item">
+          <img src="{{ image.path }}">
+        </div>
+      </li>
+      {%- endunless -%}
+      {%- endif -%}
+    {%- endfor -%}
+    </ul>
+  </div>
+</div>
+<nav id="smd-slider-nav">
+{%- for image in site.static_files -%}
+{%- capture galleryPath -%}{{ include.folder }}{%- endcapture -%}
+  {%- if image.path contains galleryPath -%}
+  {%- capture galleryPath -%}{{ include.folder }}{%- endcapture -%}
+  {%- unless image.path contains 'thumb-' -%}
+  <a href="#smd-carousel-slide-{%- increment slideNavId -%}">{%- increment slideNav -%}</a>
+  {%- endunless -%}
+{%- endif -%}
+{% endfor %}
+</nav>

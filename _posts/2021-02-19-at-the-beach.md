@@ -17,6 +17,6 @@ carousel: true
 
 Sun, mild temperatures, fresh air, face masks. It feels surreal, but it’s been almost a year.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-at-the-beach/" %}
+{% include pattern-imagegallery-css.html folder="/assets/images/gallery-at-the-beach/" %}
 
 <p class="detached"><mark class="smd-highlight small">Photos &copy; Silvia Maggi</mark></p>
