@@ -13,15 +13,15 @@ Developed by Silvia Maggi and [Simone Silvestroni](https://minutestomidnight.co.
 
 Built with:
 
-<ul class="smd-ul">
-<li><a href="https://jekyllrb.com/" title="Go to the Jekyll website">Jekyll</a></li>
-<li><a href="https://sass-lang.com/" title="Go to the Sass website"><abbr title="Syntactically Awesome Style Sheets">SASS</abbr></a></li>
-<li><a href="https://getbootstrap.com/" title="Go to the Bootstrap website">Bootstrap 5</a></li>
-<li><a href="https://nodejs.org/" title="Go to the Node.js website">Node.js</a></li>
-<li><a href="https://github.com" title="Go to the GitHub website">GitHub</a></li>
-</ul>
+- [Jekyll 4.2.1](https://jekyllrb.com/ "Go to the Jekyll website")
+- [Markdown extended](https://www.markdownguide.org/getting-started/ "Read about Markdown")
+- [SASS](https://sass-lang.com/ "Go to the Sass website")
+- [Bootstrap 5](https://getbootstrap.com/ "Go to the Bootstrap website")
+- [Node](https://nodejs.org/ "Read about Node.js")
+- [PostCSS](https://postcss.org/ "Read about PostCSS")
+- Vanilla Javascript for the [search module](https://github.com/daviddarnes/jekyll-search-js "Check out the search module by David Darnes")
+- [GitHub](https://github.com "Go to the GitHub website")
 
-Search module by [David Darnes](https://github.com/daviddarnes){:title="Go to his GitHub page"}.  
 Watercolor texture by [Alexandra M&aacute;rquez](https://www.freepik.com/vectors/background/){:title="View the image on Freepik"}.  
 Homepage illustrations by [Katerina Limpitsouni](https://undraw.co/){:title="Go to Undraw"}.  
 Hosting: [![Netlify Status](https://api.netlify.com/api/v1/badges/4be453ef-7512-46cd-b7e1-003b54c049b5/deploy-status)](https://app.netlify.com/sites/silviamaggidesign/deploys)
@@ -36,16 +36,11 @@ Only <code>0.20g of CO2</code> is produced every time someone visits the homepag
 
 ## Performance
 
-<ul class="smd-ul">
-  <li>✅ Valid markup code for <abbr title="World Wide Web Consortium">W3C</abbr> on <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsilviamaggidesign.com%2F">W3C validator</a>.</li>
-  <li>✅ <a href="https://developers.google.com/speed/pagespeed/insights/?url=silviamaggidesign.com">Pagespeed benchmark</a> score: <code>100</code>.</li>
-  <li>✅ GTmetrix performance report:
-    <ul>
-      <li>Grade: <code>A (100% performance, 99% structure)</code></li>
-      <li>Fully loaded time: <code>748 milliseconds</code></li>
-    </ul>
-  </li>
-</ul>
+- ✅ Valid markup code for W3C on [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsilviamaggidesign.com%2F).
+- ✅ [Pagespeed benchmark](https://developers.google.com/speed/pagespeed/insights/?url=silviamaggidesign.com) score: `100`.
+- ✅ GTmetrix performance report:
+  - Grade: `A (100% performance, 99% structure)`
+  - Fully loaded time: `748 milliseconds`
 
 ## Copyright
 

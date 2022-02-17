@@ -12,7 +12,6 @@ tags:
 description: 'Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.'
 excerpt: 'Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.'
 featured-image: feat-20170319-img_4269.jpg
-carousel: true
 ---
 <p class="lead">Having an ongoing photo project is good, as it helps seeing things around us with a different perspective and noticing details usually overlooked in our day-to-day life.</p>
 
@@ -30,7 +29,7 @@ To try to get out of it, I’m bringing the camera with me at work. This alone d
 
 So today I equipped my camera with a delightful [Helios-44M lens](https://vintage-camera-lenses.com/helios-44-2-58mm-f2/){:title="Go to the Vintage Camera Lenses website"}, pointed it to the small things in my garden, and saw beautiful colours.
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-photography-rut/" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-photography-rut/" id="1" %}
 
 A change of scenery might get me out of the photography rut.
 

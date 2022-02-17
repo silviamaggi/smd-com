@@ -8,7 +8,6 @@ last_modified_at: '2022-01-25 18:23:03'
 description: 2014 – UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.
 featured-image: feat-unicredit-case-study-featured-img.jpg
 featured-image-alt: Screens showing UniCredit landing pages and forms
-carousel: true
 excerpt: UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.
 year: 
   - 2014
@@ -36,11 +35,9 @@ I <strong>led the project</strong> and worked on the UX and final designs. My co
 
 It’s 2013. A small percentage of Italians use smartphones for online services or purchases[^smartphone-habits]. UniCredit see the potential of mobile and wants to widen their customer base by reaching a younger audience. They contacted [UI Farm](https://web.archive.org/web/20180314165034/http://uifarm.co.uk/){:target="_blank" title="Go to the UI Farm website"}, the London-based web agency I co-founded that specialised in device-agnostic responsive design. We focused on why their potential clients were less likely to open a bank account from a mobile device:
 
-<ul class="smd-ul">
-<li>slow technology adoption in an ageing society;</li>
-<li>lack of trust in new technology;</li>
-<li>historical preference for in-person services, perceived as personalised and safer.</li>
-</ul>
+- slow technology adoption in an ageing society;
+- lack of trust in new technology;
+- historical preference for in-person services, perceived as personalised and safer.
 
 We devised a content strategy to **build trust through the user interface**.
 
@@ -48,11 +45,9 @@ We devised a content strategy to **build trust through the user interface**.
 
 To understand how straightforward it was to find the information they needed on the landing pages, we observed ten people performing a task.
 
-<ul class="smd-ul">
-  <li><strong>Recruiting</strong>: we screened people reached through our network of clients and collaborators to make sure we tested at least 10 users.</li>
-  <li><strong>Target users</strong>: people under 30 who don't have a bank account yet, or wish to switch banks.</li>
-  <li><strong>Task</strong>: starting from an ad on Google, find the information needed to switch banks or to open an account with UniCredit.</li>
-</ul>
+**Recruiting**: we screened people reached through our network of clients and collaborators to make sure we tested at least 10 users.
+**Target users**: people under 30 who don't have a bank account yet, or wish to switch banks.
+**Task**: starting from an ad on Google, find the information needed to switch banks or to open an account with UniCredit.
 
 I distilled the research insights into customer journey maps. The maps follow the actions the personae take to reach their goals.
 
@@ -72,10 +67,8 @@ Thanks to UI Farm’s responsive framework[^uifarm-workflow], I prototyped the p
 
 {% include pattern-figure-cols.html image1="/assets/images/unicredit-feature-block_mobile.png" image2="/assets/images/unicredit-freenumber_mobile.png" alt="Details of the landing pages mobile wireframes" caption="Details of the landing pages  wireframes: mobile" width="1137" height="1273" %}
 
-<ul class="smd-ul">
-  <li>Each feature block is <strong>conditionally loaded</strong>: their content is served upon tapping the accordion. The same goes for the legal message at the bottom of the page.</li>
-  <li>The free number button initiates a phone call to the support team, thanks to <strong>adaptive capabilities</strong> of the framework.</li>
-</ul>
+- Each feature block is **conditionally loaded**: their content is served upon tapping the accordion. The same goes for the legal message at the bottom of the page.
+- The free number button initiates a phone call to the support team, thanks to **adaptive capabilities** of the framework.
 
 {% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-top.png" caption="Details of the landing page wireframes: desktop" width="1024" height="600" %}
 

@@ -1,18 +1,28 @@
-<section class="smd-image-gallery my-5 pt-3">
-  <div class="d-flex flex-wrap justify-content-center smd-img-gallery-thumbs" id="gallery" data-bs-toggle="modal" data-bs-target="#smdImgGallery{{ include.id }}">
-{%- for image in site.static_files -%}
-  {%- capture galleryPath -%}{{ include.folder }}{%- endcapture -%}
-  {%- if image.path contains galleryPath -%}
+<section class="smd-image-gallery my-5 pt-3" id="gallery-{{ include.id }}">
+  <div class="d-flex flex-wrap justify-content-center smd-img-gallery-thumbs">
+    {%- for image in site.static_files -%}
+    {%- capture galleryPath -%}{{ include.folder }}{%- endcapture -%}
+    {%- if image.path contains galleryPath -%}
     {%- assign filenameparts = image.path | split: "/" -%}
-    {%- assign imgCaption = filenameparts | last | replace: image.extname,'' | replace: 'thumb', '' | replace: '-a-','' | replace: '-b-','' | replace: '-c-','' | replace: '-d-','' | replace: '-e-','' | replace: '-f-','' | replace: '-g-','' | replace: '-h-','' | replace: '-i-','' | replace: '-l-','' | replace: '-m-','' | replace: '-n-','' | replace: '-o-','' | replace: '-p-','' | replace: '-q-','' | replace: '-r-','' | replace: '-s-','' | replace: '-t-','' | replace: '-u-','' | replace: '-v-','' | replace: '-z-','' | replace: '-',' ' | replace: '_',' ' -%}
+    {%- assign imgCaption = filenameparts | last | replace: image.extname,'' | replace: 'thumb-', '' | replace: 'a_','' | replace: 'b_','' | replace: 'c_','' | replace: 'd_','' | replace: 'e_','' | replace: 'f_','' | replace: 'g_','' | replace: 'h_','' | replace: 'i_','' | replace: 'l_','' | replace: 'm_','' | replace: 'n_','' | replace: 'o_','' | replace: 'p_','' | replace: 'q_','' | replace: 'r_','' | replace: 's_','' | replace: 't_','' | replace: 'u_','' | replace: 'v_','' | replace: 'z_','' | replace: '-',' ' | replace: '_',' ' -%}
     {%- if image.path contains 'thumb-' -%}
-    <div class="ps-1 pe-2 text-center smd-transition-opacity-03s">
-      <img class="smd-img-gallery-thumb rounded mx-auto d-block" src="{{ image.path }}" alt="{{ imgCaption | capitalize }}" title="Click to view {{ imgCaption | capitalize }}" width="150" height="150" data-bs-target="#smdImgGalleryCarousel">
+    {% comment %}
+      *-------------------------
+      Thumbnails
+      -------------------------*
+    {% endcomment %}
+    <div class="ps-1 pe-2 text-center">
+      <img class="smd-img-gallery-thumb rounded mx-auto d-block" src="{{ image.path }}" alt="{{ imgCaption | capitalize }}" width="150" height="150">
       <span class="smd-image-gallery-caption d-block initialism mt-2 mb-4">{{ imgCaption }}</span>
     </div>
     {%- endif -%}
-  {%- endif -%}
-{%- endfor -%}
+    {%- endif -%}
+    {%- endfor -%}
+    {% comment %}
+      *-------------------------
+      Include the carousel
+      -------------------------*
+    {% endcomment %}
+    {%- include pattern-modal-carousel.html -%}
   </div>
-  {%- include pattern-modal-carousel.html -%}
 </section>

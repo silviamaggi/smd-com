@@ -44,7 +44,11 @@ layout: default
   </div>
   {% if page.url contains '/portfolio/' %}
   {% unless page.toc == false %}
-  {%- comment -%}TOC accordion{%- endcomment -%}
+  {% comment %}
+    *-------------------------
+    TOC accordion
+    -------------------------*
+  {% endcomment %}
   <nav class="smd-accordion smd-accordion-arrows pt-3">
     <input type="radio" name="accordion" id="smd-accordion-1" class="visually-hidden" />
     <div class="smd-accordion-box">
@@ -57,7 +61,11 @@ layout: default
     <input type="radio" name="accordion" id="smd-accordion-close" class="visually-hidden" />
   </nav>
   {% endunless %}
-  {%- comment -%}End TOC{%- endcomment -%}
+  {% comment %}
+    *-------------------------
+    End TOC accordion
+    -------------------------*
+  {% endcomment %}
   {% endif %}
   <div class="e-content">
     {%- if page.featimage == true %}

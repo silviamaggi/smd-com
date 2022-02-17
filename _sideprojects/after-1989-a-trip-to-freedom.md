@@ -1,14 +1,13 @@
 ---
 layout: post
 title: 'After 1989: A Trip To Freedom'
-date: 2021-04-14T20:44:19.000Z
-last_modified_at: '2021-09-12T13:56:17.260Z'
+date: 2021-04-14
+last_modified_at: '2022-02-17 16:23:49'
 featured-post: false
 description: 'After 1989 is Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.'
 excerpt: '<em>After 1989: A trip to freedom</em> is Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.'
 featured-image: feat-after1989videos-featured-img.jpg
 featured-image-alt: Concentration camp gate entrance
-carousel: true
 year: 
   - 2019
 skills:
@@ -23,9 +22,9 @@ tools:
 
 While working on his debut solo album, my husband [Simone](https://minutestomidnight.co.uk/){:title="Go to Minutes to Midnight website"} embarked on an emotional journey. He retraced his grandfather’s steps in Berlin, where he was imprisoned for four years during World War II.
 
-  > *After 1989 is the story of how a young man escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.*
-  >
-  > <cite><a href="https://minutestomidnight.co.uk/after-1989-a-trip-to-freedom/" title="Go to 'After 1989: A trip to Freedom' page">Minutes to Midnight</a></cite>
+> *After 1989 is the story of how a young man escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.*
+>
+> <cite><a href="https://minutestomidnight.co.uk/after-1989-a-trip-to-freedom/" title="Go to 'After 1989: A trip to Freedom' page">Minutes to Midnight</a></cite>
 
 I was beside him all the way, including the visits to [Sachsenhausen concentration camp](https://www.sachsenhausen-sbg.de/en/){:title="Go to the Sachsenhausen Concentration Camp website"}. The photos and videos I took were both for private documentation and for the album’s launch. Before taking different professional paths, Simone and I used to work together, and **having a project where to converge our skills** was terrific.
 
@@ -57,7 +56,7 @@ By the time I made this video, I had acquired confidence and proficiency with Fi
 
 What initially was a _faux pas_, turned out to be what I needed to convey the message: it now **felt more personal**, closer to their protagonists, from angles rarely or never previously seen. The video wants to tell the story from different point of views: the crowd, the Kennedys, the bodyguards, the assassin. And through different moods: joy, fear, confusion, sadness.
 
-{% include pattern-video.html id="oTR5ZJQdRXM" title="Minutes to Midnight - Love Field [Rock] (2019) Official Music Video - JFK Assassination" %}
+{% include pattern-video.html id="oTR5ZJQdRXM" title="Minutes to Midnight - Love Field Official Music Video - JFK Assassination" %}
 
 ## 'After 1989': the CD
 
