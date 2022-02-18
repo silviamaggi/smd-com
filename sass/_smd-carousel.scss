@@ -1,0 +1,98 @@
+// ------------------------------------------------ \\
+// $SMD-CAROUSEL
+//
+// Custom pure CSS carousel for image galleries
+// ------------------------------------------------ //
+
+/* purgecss start ignore */
+.smd-carousel-container {
+  height: 95vh;
+}
+
+.smd-carousel {
+  width: 95vw;
+  height: auto;
+  contain: strict;
+}
+
+.smd-carousel-scroll {
+  display: flex;
+  overflow-y: hidden;
+  width: 100%;
+  height: calc(100% - 160px);
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+}
+
+.smd-carousel-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.smd-carousel-scroll-item {
+  min-width: 95vw;
+  text-align: center;
+}
+
+.smd-carousel-scroll-item > img {
+  object-fit: cover;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.smd-carousel-scroll-item > img:active {
+  cursor: grabbing;
+  cursor: -webkit-grabbing;
+}
+
+.smd-carousel-scroll-item-outer {
+  margin: 1vw;
+}
+
+.smd-carousel-scroll-item-outer:first-of-type {
+  margin: 0;
+}
+
+@supports (scroll-snap-align: start) {
+  .smd-carousel-scroll {
+    scroll-snap-type: x mandatory;
+  }
+  .smd-carousel-scroll-item-outer {
+    scroll-snap-align: center;
+  }
+}
+
+@supports not (scroll-snap-align: start) {
+  .smd-carousel-scroll {
+    scroll-snap-type: mandatory;
+    scroll-snap-destination: 0 50%;
+    scroll-snap-points-x: repeat(100%);
+  }
+  .smd-carousel-scroll-item-outer {
+    scroll-snap-coordinate: 0 0;
+  }
+}
+
+#smd-slider-nav {
+  display: flex;
+  justify-content: center;
+  height: 120px;
+  margin: 20px auto;
+
+  a {
+    text-decoration: none;
+    z-index: 1;
+    margin: 0 0.5rem;
+    transition: box-shadow 0.5s;
+
+    &:hover {
+      opacity: 0.7;
+    }
+
+    img {
+      max-height: 120px;
+    }
+  }
+}
+/* purgecss end ignore */

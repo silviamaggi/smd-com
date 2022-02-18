@@ -70,19 +70,16 @@ $nav-link-font-weight: bold;
 $nav-link-padding-x: 0.5rem;
 $nav-link-padding-x: 0;
 
+// Image gallery
+$smd-gallery-thumb-w: 150px;
+$smd-gallery-thumb-h: 150px;
+$smd-gallery-thumb-caption: 150px;
+
 // Tables
 $table-striped-order: even;
 $table-striped-bg: rgba($background-d-90, $table-striped-bg-factor);
 $table-border-color: rgba($background-d-90, .15);
 $table-group-separator-color: $background-d-30;
-
-// Modal
-$modal-xl: 1280px;
-$modal-content-bg: $black;
-$btn-close-color: $white;
-$btn-close-opacity: .4;
-$btn-close-hover-opacity: 1;
-$btn-close-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='white'><path d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/></svg>");
 
 // Cards
 $card-bg: rgba($background-l-30, .3);
@@ -147,3 +144,6 @@ $theme-colors: map-merge($theme-colors, $smd-custom-colors);
 // $CUSTOM theme
 // ------------------------------------------------ //
 @import "smd-theme";
+@import "smd-modal";
+@import "smd-imagegallery";
+@import "smd-carousel";
