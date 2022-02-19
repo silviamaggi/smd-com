@@ -32,6 +32,8 @@ I was beside him all the way, including the visits to [Sachsenhausen concentrati
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-after-1989/gallery-1/" id="1" %}
 
+{% include pattern-imagegallery.html folder="/assets/images/gallery-after-1989/gallery-3/" id="3" %}
+
 ## The videos
 
 Working on the videos was a challenge. Video production at a professional level is something I’ve never done, and I wanted to keep up with the great storytelling Simone expressed in the songs. 
