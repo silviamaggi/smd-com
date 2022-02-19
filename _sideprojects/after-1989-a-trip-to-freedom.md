@@ -8,6 +8,7 @@ description: 'After 1989 is Minutes to Midnight’s debut solo album, and an emo
 excerpt: '<em>After 1989: A trip to freedom</em> is Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.'
 featured-image: feat-after1989videos-featured-img.jpg
 featured-image-alt: Concentration camp gate entrance
+gallery: true
 year: 
   - 2019
 skills:
