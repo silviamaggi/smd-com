@@ -9,13 +9,23 @@ tags:
   - france
   - travel
 description: 'My husband and I spent four days in Bordeaux, France. Read about what we saw and did, and look at the photos I took in this beautiful city.'
-featured-image: feat-20180524_bordeaux_2793.jpg
+featimage-alt: "Place du Parlement in Bordeaux at sunset"
+featimage-class: 'u-featured'
+featimage-name: 'feat-20180524_bordeaux_2793'
+image-caption: true
+featimage-caption-desc: 'Place du Parlement, Bordeaux'
 ---
 <p class="lead">A few weeks ago, my husband and I travelled outside the UK for a different reason other than visiting family and friends: we spent four days in Bordeaux.</p>
 
 <!--more-->
 
-{% include pattern-figure-featured.html image="/assets/images/feat-20180524_bordeaux_2793.jpg" alt="Four days in Bordeaux" width="1200" height="500" %}
+{% responsive_image_block %}
+  path: assets/images/{{ page.featimage-name | append: '.jpg' }}
+  alt: {{ page.featimage-alt }}
+  class: {{ page.featimage-class }}
+  caption-true: {{ page.image-caption }}
+  caption: {{ page.featimage-caption-desc }}
+{% endresponsive_image_block %}
 
 Our accommodation was in Chartrons, a beautiful part of the city—in particular, a street famous for its antiquity shops. Without a plan or a travel card, we walked around and visited without any pressure.
 

@@ -13,14 +13,17 @@ tags:
   - ux
   - videogames
 description: 'Design inspiration series. Inclusive design, problematic social media facts, and a great music project.'
-featured-image: feat-design-digested-10.jpg
+featimage: true
+featimage-alt: "Design, Digested 10 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-10'
+image-caption: false
+featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">On week number 10 of my design inspiration series, I share resources about inclusive design, problematic social media facts, and a great music project.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-10.jpg" alt="Design, Digested #10" width="1200" height="500" %}
 
 ## Why is designing for inclusion still treated as optional?
 

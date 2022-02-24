@@ -11,13 +11,18 @@ tags:
   - cambridge
   - uk
 description: "With the intent of staying away from social media, I started 'Today I Saw', a series where I post one photo and a few thoughts about it."
-featured-image: feat-today-i-saw-silviamaggi.jpg
+image-caption: true
 ---
 <p class="lead">It’s that itch again. Today I saw something I like but can’t take a picture. Or, I can and do, but it doesn’t work on Instagram.</p>
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/today-i-saw.jpg" caption="An abandoned cobweb in my garden" width="1280" height="844" %}
+{% responsive_image_block %}
+  path: assets/images/today-i-saw.jpg
+  alt: An abandoned cobweb in my garden
+  caption-true: {{ page.image-caption }}
+  caption: An abandoned cobweb in my garden
+{% endresponsive_image_block %}
 
 It happens a lot: I even wrote a post called [How Instagram Drained My Creativity](/photography/instagram-drained-my-creativity/){:title="Read the post on my website"}, where I described what made me appreciate photography again. More than a year later, I’ve yet to free myself from the loop of brief satisfaction of the numbers and the desire to have more.
 

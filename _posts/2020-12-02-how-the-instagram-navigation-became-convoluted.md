@@ -8,7 +8,7 @@ tags:
   - instagram
   - navigation
 description: "With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let's briefly explore how."
-featured-image: feat-lalo-hernandez-unsplash.jpg
+image-caption: true
 ---
 <p class="lead">With the introduction of significant layout changes — the tabs Reel and Shop — the Instagram navigation became convoluted. Let’s briefly explore how.</p>
 
@@ -22,9 +22,19 @@ featured-image: feat-lalo-hernandez-unsplash.jpg
 
 For a person holding a phone with one hand, the bottom area is easier to reach with the thumb. Anything at the top, considering the increasing sizes of modern phones, is impossible to touch without readjusting the phone.
 
-{% include pattern-figure.html image="/assets/images/thumb-zone-mapping-1.jpg" caption="Thumb-zone mapping explained by Samantha Ingram" width="1400" height="916" %}
+{% responsive_image_block %}
+  path: assets/images/thumb-zone-mapping-1.jpg
+  alt: Two phones side-by-side showing the areas that are most easier and harder to reach with one hand
+  caption-true: {{ page.image-caption }}
+  caption: Thumb-zone mapping explained by Samantha Ingram
+{% endresponsive_image_block %}
 
-{% include pattern-figure.html image="/assets/images/thumb-zone-mapping-2.jpg" caption="New thumb-zone mapping adjusted to larger screen sizes by Arturas Leonovas" width="957" height="618" %}
+{% responsive_image_block %}
+  path: assets/images/thumb-zone-mapping-2.jpg
+  alt: Two phones side-by-side showing the areas that are most easier and harder to reach with one hand
+  caption-true: {{ page.image-caption }}
+  caption: New thumb-zone mapping adjusted to larger screen sizes by Arturas Leonovas
+{% endresponsive_image_block %}
 
 ## The convoluted navigation
 

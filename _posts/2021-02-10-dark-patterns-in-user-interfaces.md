@@ -10,14 +10,17 @@ tags:
   - privacy
   - ux
 description: I share a compelling article about dark patterns in UI to help you recognise them.
-featured-image: feat-design-digested-16.jpg
+featimage: true
+featimage-alt: "Design, Digested 16 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-16'
+image-caption: false
+featimage-caption-desc:
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">Recently, I read a couple of compelling blog post about dark patterns in user interfaces copy. An essential read to understand what they are, how they’re used to deceive people and how to recognise them.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-16.jpg" alt="Design, Digested #16" width="1200" height="500" %}
 
 The many examples of UI dark patterns in the articles show how shady the internet has become, with the line between encouraging people to use a product and tricking them into handing over personal data or money being thinner than ever. The articles are an essential read if you are:
 

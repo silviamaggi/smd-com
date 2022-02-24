@@ -9,13 +9,18 @@ tags:
   - france
   - shutter hub
 description: "I'm presenting three pictures at the Because We Can! exhibition by Shutter Hub, part of Festival Pil'Ours."
-featured-image: feat-jayne_180718_7765-header.jpg
+image-caption: true
 ---
 <p class="lead">It is with great excitement that I can say three of my pictures are part of the <em>Because We Can! Exhibition</em> by Shutter Hub, part of Festival Pil’Ours.</p>
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/jayne_180718_7736.jpg" caption="Shutter Hub at Festival Pil’ours, Saint-Gilles-Croix-de-Vie, France credit &copy; Jayne Lloyd / Shutter Hub" width="933" height="1400" %}
+{% responsive_image_block %}
+  path: assets/images/jayne_180718_7736.jpg
+  alt: The photos printed on a black placard placed outdoors
+  caption-true: {{ page.image-caption }}
+  caption: Shutter Hub at Festival Pil’ours, Saint-Gilles-Croix-de-Vie, France credit &copy; Jayne Lloyd / Shutter Hub
+{% endresponsive_image_block %}
 
 ## My entries
 

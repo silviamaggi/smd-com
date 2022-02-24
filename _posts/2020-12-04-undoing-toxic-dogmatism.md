@@ -11,13 +11,16 @@ tags:
   - privacy
 description: 'Design, Digested 15. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.'
 excerpt: 'Design, Digested 15. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.'
-featured-image: feat-design-digested-15.jpg
+featimage: true
+featimage-alt: "Design, Digested by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-15'
+image-caption: false
+featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 
 <p class="lead">Design inspiration series. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.</p>
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-15.jpg" alt="Design, Digested #15" width="1200" height="500" %}
 
 ## Undoing the toxic dogmatism of digital design
 

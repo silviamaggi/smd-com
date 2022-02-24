@@ -10,14 +10,17 @@ tags:
   - creativity
   - inclusion
 description: 'First instalment of my design inspiration series. Killing Eve set design, accessibility on social media, bad design vs good design, and more.'
-featured-image: feat-design-digested-1.jpg
+featimage: true
+featimage-alt: "Design, Digested 1 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-1'
+image-caption: false
+featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">First instalment of my design inspiration series. This week: <em>Killing Eve</em> set design, accessibility on social media, bad design vs good design, and more.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-1.jpg" alt="Design, Digested 1. Killing Eve set design, and more" width="1200" height="500" %}
 
 ## Dressing Scenes For Killing Eve Was “Like Finding Treasure”, Says Set Decorator
 

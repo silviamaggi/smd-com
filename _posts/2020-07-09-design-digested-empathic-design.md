@@ -11,14 +11,17 @@ tags:
   - videogames
   - ux
 description: 'Design inspiration series. Four anti-racist lessons, problems with empathic design and the misogyny of the workforce.'
-featured-image: feat-design-digested-6.jpg
+featimage-alt: "Design, Digested 6 by Silvia Maggi"
+featimage: true
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-6'
+image-caption: true
+featimage-caption-desc: 'Image credits - Angelina Bambina/Adobe Stock, XD Ideas, Vox'
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">Design inspiration series. This week: four anti-racism lessons, Don Norman doesn’t believe in empathic design and working in tech as a woman.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-6.jpg" alt="Design, Digested #6" width="1200" height="500" caption="Image credits: Angelina Bambina/Adobe Stock, XD Ideas, Vox" %}
 
 ## 4 Lessons On Anti-Racism From Brené Brown And Ibram X. Kendi
 

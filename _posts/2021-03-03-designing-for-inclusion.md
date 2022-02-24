@@ -10,14 +10,17 @@ tags:
   - women in tech
   - ux
 description: 'What does it mean designing for inclusion? Inclusive design is gaining a lot of attention lately, and rightly so. Articles and resources to start.'
-featured-image: feat-design-digested-17.jpg
+featimage: true
+featimage-alt: "Design, Digested 17 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-17'
+image-caption: false
+featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">The following articles and resources are a good start to understand how biases influence our work and what to pay attention to when starting a new project.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-17.jpg" alt="Design, Digested #17" width="1200" height="500" %}
 
 For Stacie Sheldon, an American Indian UX professional, it all starts with words.
 

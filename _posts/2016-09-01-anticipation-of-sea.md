@@ -10,27 +10,45 @@ tags:
   - uk
 description: 'A short holiday in Cromer, and the excitement of getting to the sea, reminded me of my childhood summer holidays.'
 excerpt: 'A short holiday in Cromer, and the excitement of getting to the sea, reminded me of my childhood summer holidays.'
-featured-image: feat-20161223_cromer_3312.jpg
+featimage: true
+featimage-alt: "The beach and sea seen from a hotel window"
+featimage-class: 'u-featured'
+featimage-name: '20160819-cromer-33121'
+image-caption: true
+featimage-caption-desc: 'The Nothern sea from a window'
 ---
 <p class="lead">A short holiday in Cromer, and the excitement of getting to the sea, reminded me of my childhood summer holidays.</p>
 
 As a kid, the biggest event of the year was waking up incredibly early to reach the southern regions of Italy for almost a month-long holiday.
 
-{% include pattern-figure.html image="/assets/images/20160819-cromer-33121.jpg" caption="The Nothern sea from a window" width="1400" height="933" %}
-
 I would spend hours in the backseat of the car, with a stereo, cassettes, a few books and a pillow. I used to wake up at dawn, turn my head left, and see the first sunlight of the day refracting on [Lake Lesina](https://en.wikipedia.org/wiki/Lake_Lesina){:title="Read about Lake Lesina on Wikipedia"}. Further ahead, a small stripe of land and then, barely visible, the sea.
 
 The glimpse of the sea marked the start of the holiday. That sight was one of the most joyful feelings. Today, not much changed.
 
-{% include pattern-figure.html image="/assets/images/20160818-img_3179.jpg" caption="A glimpse of the sea" width="933" height="1400" %}
+{% responsive_image_block %}
+  path: assets/images/20160818-img_3179.jpg
+  alt: The sea seen at the end of a little street in Cromer, UK
+  caption-true: {{ page.image-caption }}
+  caption: A glimpse of the sea
+{% endresponsive_image_block %}
 
 Going toward the sea, sneaking peeks at it from a distance. Wanting to reach it as quick as possible, though deciding to walk slowly, waiting for the panorama to open up.
 
-{% include pattern-figure.html image="/assets/images/20160820-img_3444.jpg" caption="Alley, Cromer" width="933" height="1400" %}
+{% responsive_image_block %}
+  path: assets/images/20160820-img_3444.jpg
+  alt: The sea seen at the end of a little street in Cromer, UK
+  caption-true: {{ page.image-caption }}
+  caption: A glimpse of the sea
+{% endresponsive_image_block %}
 
 Sea towns are fascinating. To me, they will always have similarities, even if they are in different countries. Somehow, they all feel like home, even if I had never lived near the sea.
 
-{% include pattern-figure.html image="/assets/images/20160818-img_3173.jpg" caption="Relax" width="1400" height="933" %}
+{% responsive_image_block %}
+  path: assets/images/20160818-img_3173.jpg
+  alt: A man with feet up on a chair facing the sea in a hotel room
+  caption-true: {{ page.image-caption }}
+  caption: Relax
+{% endresponsive_image_block %}
 
 Dramatic tides have been a completely new feature for me. The seascape changes continually, revealing new perspectives on what we face every day.
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Acclimatize.me - Notification app for travellers'
+title: 'Notification app for travellers'
 featured-post: true
-casestudy-order: 2
+casestudy-order: 3
 date: '2021-02-18 21:39:15'
-last_modified_at: '2021-10-08 10:54:29'
-description: "How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don't miss a minute of fun?"
-excerpt: "How can you design a product that helps travellers prepare and acclimatize fast for their trip so they don't miss a minute of fun?"
+last_modified_at: '2022-01-26 15:35:00'
+description: "How can we help travellers feel ready for eventualities during their trips so they don't miss a minute of fun?"
+excerpt: "How can we help travellers feel ready for eventualities during their trips so they don't miss a minute of fun?"
 featured-image: feat-acclimatize-case-study-featured-img.jpg
 featured-image-alt: Composite of storyboard and wireframes
 year: 
@@ -26,15 +26,15 @@ tools:
 ---
 ## The problem
 
-How can you design a product that <strong>helps travellers prepare and acclimatize fast for their trip</strong> so they don’t miss a minute of fun?
+How can we help travellers feel ready for eventualities during their trips so they don't miss a minute of fun?
 
 ## My role
 
-Solo project, where I explored the process from finding the users’ needs to visual design.
+Solo project, where I explored the whole process from finding the users’ needs to visual design.
 
 ## User story
 
-> *When I travel I want to what to expect so I can enjoy my stay from start to finish.*
+> *When I travel I want to be prepared to deal with changes so I can enjoy my stay from start to finish.*
 
 ## Proto-persona
 

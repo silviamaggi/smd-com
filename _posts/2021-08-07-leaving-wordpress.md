@@ -9,7 +9,6 @@ tags:
   - responsive web design
   - wordpress
 description: An announcement to my WordPress followers.
-featured-image: feat-marco-chilese-unsplash.jpg
 ---
 <p class="lead">An announcement to my WordPress followers.
 Soon, I’ll be starting a process to move away from the platform: my website will have a new house, look, and ways to be managed.</p>

@@ -11,14 +11,17 @@ tags:
   - pandemic
   - ux
 description: 'Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.'
-featured-image: feat-design-digested-4.jpg
+featimage-alt: "Design, Digested 4 by Silvia Maggi"
+featimage: true
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-4'
+image-caption: true
+featimage-caption-desc: 'Image credits - Ann O., <a href="https://unsplash.com/photos/suZyHko1JEs">Stephanie McCabe</a>'
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-4.jpg" alt="Design, Digested #6" width="1200" height="500" caption='Image credits: Ann O., <a href="https://unsplash.com/photos/suZyHko1JEs">Stephanie McCabe</a>' %}
 
 ## Black Women In UX: The World Was Not Designed For us, But It Can Be Redesigned
 

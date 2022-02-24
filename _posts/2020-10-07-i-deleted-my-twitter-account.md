@@ -7,7 +7,6 @@ categories:
 tags:
   - social media
 description: "Today I tell you why I deleted my Twitter account and give you an update on why I've been silent on my blog lately."
-featured-image: feat-i-deleted-my-twitter-account.jpg
 ---
 <p class="lead">Today I deleted my Twitter account, and it felt good. I had been visiting to keep up to date with other UX professional, but it was impossible to avoid retweets about politics and other topics.</p>
 

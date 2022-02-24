@@ -14,18 +14,17 @@ tags:
   - art
 description: "Stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
 excerpt: "Stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
+featimage: true
+featimage-alt: "Design, Digested 26 by Silvia Maggi"
 featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-26'
+image-caption: false
+featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">Stop solving problems in design, drop <em>The Lean Startup</em>, what to do instead of counting clicks, an oral history of Beastie Boys’ artwork and more.</p>
 
 <!--more-->
-
-{% responsive_image_block %}
-  path: assets/images/feat-design-digested-26.jpg
-  alt: {{ page.title | replace: ':',' -'}}
-  class: {{ page.featimage-class }}
-{% endresponsive_image_block %}
 
 ## Why UX researchers should stop solving problems
 

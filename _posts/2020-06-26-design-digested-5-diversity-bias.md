@@ -10,14 +10,17 @@ tags:
   - diversity
   - ux
 description: Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
-featured-image: feat-design-digested-5.jpg
+featimage: true
+featimage-alt: "Design, Digested 5 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-5'
+image-caption: false
+featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">Design inspiration series. This week: diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-5.jpg" alt="Design, Digested #5" width="1200" height="500" %}
 
 ## Are You Building Straight, White, Male, Middle-class Products For Straight, White, Male, Middle-class People?
 

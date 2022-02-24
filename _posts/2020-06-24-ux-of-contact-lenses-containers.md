@@ -8,7 +8,7 @@ tags:
   - design
   - usability
 description: 'Everyday things affects our lives, sometimes making us feel frustrated. This time I analyse the UX of contact lenses containers.'
-featured-image: feat-ux-of-contact-lenses-containers.jpg
+image-caption: true
 ---
 <p class="lead">How is the UX of contact lenses containers? It’s easy to overlook what we use daily, and yet everyday things are usually the most frustrating ones.</p>
 
@@ -22,9 +22,19 @@ This little mishap prompted me to understand what went wrong. Of course, I might
 
 Something was off. After a quick [search](https://duckduckgo.com/?q=contact+lenses+container&t=ffab&atb=v281-1&iar=images&iax=images&ia=images) (the link opens a DuckDuckGo search window), I found out that the containers look very similar – excluding the novelty ones. They usually have two colours and one letter on at least one lid, just like the one I was using.
 
-{% include pattern-figure.html image="/assets/images/lenses-container-1.jpg" caption="Off-brand contact lenses container" width="1400" height="895" %}
+{% responsive_image_block %}
+  path: assets/images/lenses-container-1.jpg
+  alt: A blue and white contact lens container on a white surface
+  caption-true: {{ page.image-caption }}
+  caption: Off-brand contact lenses container
+{% endresponsive_image_block %}
 
-{% include pattern-figure.html image="/assets/images/lenses-container-2.jpg" caption="Famous-brand contact lenses container" width="1400" height="895" %}
+{% responsive_image_block %}
+  path: assets/images/lenses-container-2.jpg
+  alt: A white and blue contact lens container on a white surface
+  caption-true: {{ page.image-caption }}
+  caption: Famous-brand contact lenses container
+{% endresponsive_image_block %}
 
 The colours of the lids are switched, and the letters on the off-brand lids are thinner.
 

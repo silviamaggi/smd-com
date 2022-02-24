@@ -10,7 +10,12 @@ tags:
   - pandemic
 description: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
 excerpt: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
-featured-image: feat-charlie-deets.jpg
+featimage: true
+featimage-alt: "German industrial designer Dieter Rams on a cinema screen"
+featimage-class: 'u-featured'
+featimage-name: 'feat-charlie-deets'
+image-caption: true
+featimage-caption-desc: 'Photo by <a href="https://unsplash.com/@charliedeets">Charlie Deets</a>'
 ---
 <p class="lead">The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.</p>
 
@@ -24,7 +29,12 @@ I watched _Rams_, a documentary on Dieter Rams, one of the most influential desi
 
 ## Less, but better
 
-{% include pattern-figure.html image="/assets/images/dieter-rams-braun-t-3-pocket-radio.jpg" caption="Dieter Rams Braun T 3 pocket radio. Image credit: Sgustok Design" width="1400" height="1080" %}
+{% responsive_image_block %}
+  path: assets/images/dieter-rams-braun-t-3-pocket-radio.jpg
+  alt: The white Braun T 3 pocket radio on a white surface
+  caption-true: {{ page.image-caption }}
+  caption: Dieter Rams Braun T 3 pocket radio. Image credit - Sgustok Design
+{% endresponsive_image_block %}
 
 Rams’ design philosophy puts function before form. The product’s aesthetics depends on its purpose, not the other way round; every little detail is thought through as a sign of respect for its users. In the 70s, he published the [_Ten Principles for Good Design_](https://www.vitsoe.com/eu/about/good-design){:title="Read the principles on the Vits&oelig; website"}, which are relevant today more than ever.
 
@@ -34,7 +44,12 @@ There is a bigger system at play. Within a culture of overconsumption, every sin
 
 _“Less, but better”_ is Rams’ motto. He invites us to think about what we’re designing, how and why. As everything interacts and is dependant on other things, his message couldn’t be more appropriate today.
 
-{% include pattern-figure.html image="/assets/images/dieter-rams-606-universal-shelving-system.jpg" caption="Vits&oelig; 606 Universal Shelving System, 1960, by Dieter Rams. Image credit: Sgustok Design" width="1400" height="875" %}
+{% responsive_image_block %}
+  path: assets/images/dieter-rams-606-universal-shelving-system.jpg
+  alt: The Vits&oelig; 606 Universal Shelving System mounted on a white wall
+  caption-true: {{ page.image-caption }}
+  caption: Vits&oelig; 606 Universal Shelving System, 1960, by Dieter Rams. Image credit - Sgustok Design
+{% endresponsive_image_block %}
 
 Within our throwaway society, we are rarely concerned about what happens after we discard an object. It’s easier to replace something than repair it, most of the times because of the way it was designed.
 

@@ -12,14 +12,17 @@ tags:
   - sweden
 description: "This week: celebrating the web standards with Blue Beanie Day, accessibility, the current state of checkout UX, the meaning of Ikea names, and more."
 excerpt: "This week: celebrating the web standards with Blue Beanie Day, accessibility, the current state of checkout UX, the meaning of Ikea names, and more."
-featured-image: feat-design-digested-25.jpg
+featimage: true
+featimage-alt: "Design, Digested 25 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-25'
+image-caption: false
+featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">This week: celebrating the web standards with Blue Beanie Day, accessibility, the current state of the UX of checkout processes, the meaning of Ikea names, and more.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-25.jpg" alt="Design, Digested #25: " width="1200" height="500" %}
 
 ## Blue Beanie Day
 

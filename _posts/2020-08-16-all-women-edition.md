@@ -11,14 +11,18 @@ tags:
   - wordpress
   - women in tech
 description: 'Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.'
-featured-image: feat-design-digested-11-all-women-edition.jpg
+excerpt: 'Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.'
+featimage: true
+featimage-alt: 'Design, Digested 11, All-women edition'
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-11-all-women-edition'
+image-caption: true
+featimage-caption-desc: "Image credits - Shaniqwa Jarvis, Sara Wong, Emma"
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-11-all-women-edition.jpg" alt="Design, Digested #11, All Women Edition" caption="Image credits: Shaniqwa Jarvis, Sara Wong, Emma" width="1200" height="500" %}
 
 ## Meet the computer scientist and activist who got Big Tech to stand down
 

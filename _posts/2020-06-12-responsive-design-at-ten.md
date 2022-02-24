@@ -9,14 +9,17 @@ tags:
   - responsive web design
   - usability
 description: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'
-featured-image: feat-design-digested-3.jpg
+featimage: true
+featimage-alt: "Design, Digested 3 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-3'
+image-caption: false
+featimage-caption-desc:
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-3.jpg" alt="Design, Digested #3" width="1200" height="500" %}
 
 ## German Politicians Don’t Talk About The Virus Like Other Nations. Here’s What It Means
 

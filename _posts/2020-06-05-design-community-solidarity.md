@@ -10,14 +10,17 @@ tags:
   - equality
   - solidarity
 description: 'Design inspiration series. Design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.'
-featured-image: feat-design-digested-2.jpg
+featimage: true
+featimage-alt: "Design, Digested 2 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-2'
+image-caption: true
+featimage-caption-desc: 'Image credits - C. Daniela Shapiro (@cds.art ), Leo and Diane Dillon, Spotify'
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">Design inspiration series. This week: design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-2.jpg" alt="Design, Digested #2" width="1200" height="500" caption="Image credits: C. Daniela Shapiro (@cds.art ), Leo and Diane Dillon, Spotify" %}
 
 ## The Design Community Must Not Stay Silent
 

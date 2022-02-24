@@ -12,17 +12,30 @@ tags:
   - uk
 description: "Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo."
 excerpt: "Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo."
-featured-image: feat-201701-angleseyabbey_2366.jpg
+featimage: true
+featimage-alt: "Pink blossoms on a tree branch"
+featimage-class: 'u-featured'
+featimage-name: '201701-angleseyabbey-2366'
+image-caption: true
+featimage-caption-desc: 'Bloossoms, Anglesey Abbey, March 2016'
 ---
 <p class="lead">The last time I was out and about with the intention of taking pictures, was in November 2016, in <a href="/photography/the-berlin-fascination/" title="View the blog post 'The Berlin Fascination' on my website">Berlin</a>.</p>
 
-{% include pattern-figure.html image="/assets/images/201701-angleseyabbey-2366.jpg" caption="Bloossoms, Anglesey Abbey, March 2016" width="1400" height="740" %}
-
-{% include pattern-figure.html image="/assets/images/20160319-img_2361.jpg" caption="Red bark, Anglesey Abbey, March 2016" width="1400" height="933" %}
-
 After that, it took me some time to organise and process the work I came back with. During the Christmas holidays, I read a few articles about post-processing in Lightroom and learned a few tricks I wanted to apply to older photos. Time flew.
 
-{% include pattern-figure.html image="/assets/images/20160319-img_2371.jpg" caption="Entangled – Anglesey Abbey, March 2016" width="1400" height="933" %}
+{% responsive_image_block %}
+  path: assets/images/20160319-img_2361.jpg
+  alt: Red barked tree
+  caption-true: {{ page.image-caption }}
+  caption: Red bark, Anglesey Abbey, March 2016
+{% endresponsive_image_block %}
+
+{% responsive_image_block %}
+  path: assets/images/20160319-img_2371.jpg
+  alt: Entangled tree branches
+  caption-true: {{ page.image-caption }}
+  caption: Entangled – Anglesey Abbey, March 2016
+{% endresponsive_image_block %}
 
 Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can set the mood of a photo.
 

@@ -10,16 +10,25 @@ tags:
   - ravenna
   - italy
 description: 'As the weather warms, the wisteria in the yard is blooming. I took a couple of pictures of it.'
-featured-image: feat-20210403-wisteria-in-bloom-1.jpg
+image-caption: true
 ---
 <p class="lead">Before the weather turned chilly again, we’ve enjoyed very mild temperatures. It’s easy to think the winter has gone, when the temperature is 22ºC and the flowers are blooming.</p>
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/20210403-wisteria-in-bloom-1.jpg" caption="Wisteria in bloom" width="1400" height="934" %}
+{% responsive_image_block %}
+  path: assets/images/20210403-wisteria-in-bloom-1.jpg
+  alt: Purple wisteria flowers stating to bloom
+  caption-true: {{ page.image-caption }}
+  caption: Wisteria in bloom
+{% endresponsive_image_block %}
 
-{% include pattern-figure.html image="/assets/images/20210403-wisteria-in-bloom-2.jpg" caption="Wisteria in bloom" width="1400" height="934" %}
-
+{% responsive_image_block %}
+  path: assets/images/20210403-wisteria-in-bloom-2.jpg
+  alt: Purple wisteria flowers stating to bloom
+  caption-true: {{ page.image-caption }}
+  caption: Wisteria flowers
+{% endresponsive_image_block %}
 Only a few days ago, the wisteria in the yard was pretty much asleep. Now, it’s giving us a hint of its beauty.
 
 I know the plant as _glicine_ (ˈɡlitʃine). Its Italian name derives from the Greek _glykýs_, which means ‘sweet’. Wisteria evokes the warm, sunny afternoons spent underneath a pergola [by the lake](/photography/instagram-drained-my-creativity/){:title="View pictures from my hometown"} in my hometown. I can’t wait to see this one at its peak.

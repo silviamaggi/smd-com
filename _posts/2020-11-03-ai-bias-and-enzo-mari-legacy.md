@@ -1,6 +1,6 @@
 ---
 title: "Design, Digested 13: Fear, AI bias and Enzo Mari legacy"
-last_modified_at: '2021-09-03T19:40:56.090Z'
+last_modified_at: '2022-02-22 16:49:12'
 featured-post: false
 categories:
   - Design Digested
@@ -11,12 +11,15 @@ tags:
   - ux
 description: 'The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.'
 excerpt: 'The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.'
-featured-image: feat-design-digested-13.jpg
+featimage: true
+featimage-alt: 'Design, Digested 13, The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.'
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-13'
+image-caption: true
+featimage-caption-desc: "Image credits - MS. TECH, PIXOLOGICSTUDIO/SCIENCE PHOTO LIBRARY; Christian Briggs, Daniel Skrok and The Interaction Design Foundation, copyright terms and license - CC-BY-NC-SA 3.0; Ramak Fazel."
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">On the design inspiration new instalment: the role of fear in our lives and how it affects decision-making, how bias in AI happens and the legacy of “giant” of Italian design Enzo Mari.</p>
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-13.jpg" alt="Design, Digested #13" caption="Image credits: MS. TECH, PIXOLOGICSTUDIO/SCIENCE PHOTO LIBRARY; Christian Briggs, Daniel Skrok and The Interaction Design Foundation, copyright terms and license: CC-BY-NC-SA 3.0; Ramak Fazel." width="1200" height="500" %}
 
 ## Be afraid! The silent role of fear in decision making
 

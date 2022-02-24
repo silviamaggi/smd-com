@@ -9,14 +9,17 @@ tags:
   - letter
   - photography
 description: "Every couple of weeks, I write a letter to the nice people subscribed to Design, Digested. This is the one where I didn't know what to write."
-featured-image: feat-smd-blog-featured-image_lettera.jpg
+featimage: true
+featimage-alt: "A blue letterbox with the Italian writing 'Lettere' by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-smd-blog-featured-image_lettera'
+image-caption: true
+featimage-caption-desc: 'Photo by <a href="https://unsplash.com/@flavioamiel">Flavio Amiel</a>, composition by Silvia Maggi'
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">Every couple of weeks, I write a letter to the nice people subscribed to <a href="/newsletter/" title="View the newsletter archive"><em>Design, Digested</em></a>. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-smd-blog-featured-image_lettera.jpg" alt="Letters" caption='Photo by <a href="https://unsplash.com/@flavioamiel">Flavio Amiel</a>' width="1200" height="500" %}
 
 I was initially embarrassed while thinking about what to tell you. Yet, what I read, watch and interests me everyday helps me grow. Or simply amuses me.
 

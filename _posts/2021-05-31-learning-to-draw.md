@@ -1,5 +1,5 @@
 ---
-title: Learning to draw. A journey
+title: 'Learning to draw. A journey'
 last_modified_at: '2021-12-09 14:59:31'
 featured-post: false
 popular-post: true
@@ -12,7 +12,7 @@ tags:
 description: "As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey."
 excerpt: "As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey."
 featimage: true
-featimage-alt: "hand holding a pencil"
+featimage-alt: "Hand holding a pencil"
 featimage-class: 'u-featured'
 featimage-name: 'feat-sam-rios-unsplash'
 image-caption: true
@@ -42,9 +42,19 @@ The first exercise is hard. It entails tracing lines of different lengths with a
 
 I could see where I lost focus and, more importantly, I could see progress between the first and second page.
 
-{% include pattern-figure.html image="/assets/images/superimposed-lines_1.jpg" caption="The first page filled with lines and curves. The short curves turned out to be more difficult than the lines, probably because I tend to use my wrist to draw. It’ll get better with practise" width="1280" height="960" %}
+{% responsive_image_block %}
+  path: assets/images/superimposed-lines_1.jpg
+  alt: A paper sheet where I exercised drawing lines by hand
+  caption-true: {{ page.image-caption }}
+  caption: The first page filled with lines and curves. The short curves turned out to be more difficult than the lines, probably because I tend to use my wrist to draw. It’ll get better with practise
+{% endresponsive_image_block %}
 
-{% include pattern-figure.html image="/assets/images/superimposed-lines_2.jpg" caption="The second page filled with lines and curves. I was able to start each superimposed line with more precision: I felt less anxious, and took more time to focus on my task" width="1280" height="960" %}
+{% responsive_image_block %}
+  path: assets/images/superimposed-lines_2.jpg
+  alt: A paper sheet where I exercised drawing lines by hand
+  caption-true: {{ page.image-caption }}
+  caption: The second page filled with lines and curves. I was able to start each superimposed line with more precision. I felt less anxious, and took more time to focus on my task
+{% endresponsive_image_block %}
 
 This journey is going to be long. And it feels like it’s been designed that way. It doesn’t have to be a solo adventure though, as there is a [Patreon](https://patreon.com/uncomfortable){:title="Go to Drawabox's Patreon page"} page where to get feedback from the instructor and teaching assistant, as well as active communities on [Reddit (known as ArtsFundamentals)](https://reddit.com/r/ArtFundamentals){:title="Go to Drawabox's subreddit"} and [Discord](https://discord.gg/FtSS4hhqSu){:title="Open Drawabox on Discord"}.
 

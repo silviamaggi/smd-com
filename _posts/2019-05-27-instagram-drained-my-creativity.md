@@ -12,21 +12,34 @@ tags:
   - lake maggiore
   - arona
 description: "While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here's how my love for photography helped."
-featured-image: feat-20171218_lago_2001-silviamaggi.jpg
+featimage: true
+featimage-alt: "Ferry on Lake Maggiore at sunset"
+featimage-class: 'u-featured'
+featimage-name: '20171218_lago_2001-silviamaggi'
+image-caption: true
+featimage-caption-desc: 'Ferry on Lake Maggiore'
 ---
 <p class="lead">While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here’s how my love for photography helped.</p>
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/20171218_lago_2001-silviamaggi.jpg" alt="Ferry on Lake Maggiore" width="1400" height="738" id="1" %}
-
 My efforts went into keeping my Instagram grid fed with pictures, no matter what. But having to think about the do’s and don’ts of Instagram is very tiring, and my passion for photography waned. It took me a long time to understand that I was in a loop. The gratifications I received made me believe that sticking to a specific subject and style was the right choice. Whenever I wanted to make a change, my creativity was satisfied, but **Instagram’s algorithm was never on my side**.
 
-{% include pattern-figure.html image="/assets/images/20171218_lago_1987_silviamaggi.jpg" alt="Sails on Lake Maggiore" width="1400" height="788" %}
+{% responsive_image_block %}
+  path: assets/images/20171218_lago_1987_silviamaggi.jpg
+  alt: Sails on Lake Maggiore at sunset
+  caption-true: {{ page.image-caption }}
+  caption: 
+{% endresponsive_image_block %}
 
 Whether I posted consistently or not, commented on other people’s posts or not, kept my stories updated or not, nothing changed. The stream of _follow-to-unfollow_ accounts never stopped, and I always end up with the same number of followers.
 
-{% include pattern-figure.html image="/assets/images/20181129_arona_silviamaggi.jpg" caption="Entrance door" width="1400" height="788" %}
+{% responsive_image_block %}
+  path: assets/images/20181129_arona_silviamaggi.jpg
+  alt: Entrance door with daisies in a pot
+  caption-true: {{ page.image-caption }}
+  caption: 
+{% endresponsive_image_block %}
 
 I took a step back and started taking longer breaks from the social network. I only checked in to stay in contact with dear friends I found there: they’re the main reason I didn’t close my account.
 

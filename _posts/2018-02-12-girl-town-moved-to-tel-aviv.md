@@ -9,13 +9,20 @@ tags:
   - shutter hub
 description: 'Girl Town moved to Tel Aviv, Israel. The exhibition celebrates the culture of the female in the 21th century. By Shutter Hub, hosted at Albert Gallery.'
 excerpt: 'The exhibition celebrates the culture of the female in the 21th century. By Shutter Hub, hosted at Albert Gallery.'
-featured-image: feat-20160916_girltown-empty-3502.jpg
+image-caption: true
+mention: true
+mentionReplyUrl: 'https://silviamaggidesign.com/photography/girl-town-exhibition/'
+mentionReplyTitle: 'GIRL TOWN Exhibition by Silvia Maggi'
+mentionType: reply
 ---
-<p class="lead">The <em>GIRL TOWN Exhibition</em> moved to Tel Aviv, Israel, where it ran from 8 February to 9 March 2018 at the Alfred Gallery.</p>
-
-{% include pattern-figure.html image="/assets/images/girl-town-silviamaggi-entry.jpg" caption="Girl Town – Back from the office, &copy; Silvia Maggi" width="768" height="1024" %}
-
 Originally presented at Photomonth East London International Photography Festival in 2016, the show celebrates the culture of the female in the 21th century.
+
+{% responsive_image_block %}
+  path: assets/images/girl-town-silviamaggi-entry.jpg
+  alt: A pensive woman seated in a conservatory with a green garden in the background and a helmet, shoes and pot of flowers around her
+  caption-true: {{ page.image-caption }}
+  caption: Girl Town – Back from the office, &copy; Silvia Maggi
+{% endresponsive_image_block %}
 
 Initially, the exhibition was curated on Instagram, and I’ve been proudly part of it ever since the beginning. Shutter Hub shared impressions, reactions and photos from the private view. Head over their [website to read more](https://shutterhub.org.uk/blog/girl-town-tel-aviv-shutter-hub-exhibition-launch-event-and-pictures){:title="Go to the Shutter Hub website"}.
 

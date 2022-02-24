@@ -9,14 +9,17 @@ tags:
 - diversity
 - inspiration
 description: "This week, tired of seeing social media-related articles, I'm sharing older ones as an inspiration to follow your own path."
-featured-image: feat-design-digested-21.jpg
+featimage: true
+featimage-alt: "Design, Digested 21 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-21'
+image-caption: false
+featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">This week, tired of seeing social media-related articles, I'm sharing older ones as an inspiration to follow your own path.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-21.jpg" alt="Design, Digested #21: Exploring design cultures" width="1200" height="500" %}
 
 ## “Loud, colourful and busy”: a Trinidad and Tobago design guide
 

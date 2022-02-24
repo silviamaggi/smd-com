@@ -10,13 +10,16 @@ tags:
   - generationequality
 description: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
 excerpt: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
-featured-image: feat-design-digested-14.jpg
+featimage: true
+featimage-alt: "Design, Digested by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-14'
+image-caption: false
+featimage-caption-desc:
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">25 November marks the <a href="https://www.un.org/en/observances/ending-violence-against-women-day" title="Go to the UN website">International Day for the Elimination of Violence against Women</a>.
 This year the day is even more important as data and reports show that violence against women and girls intensified during the pandemic.</p>
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-14.jpg" alt="Design, Digested #14" width="1200" height="500" %}
 
 ## There’s a pandemic of online violence against women and girls
 

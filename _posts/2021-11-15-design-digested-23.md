@@ -11,14 +11,17 @@ tags:
   - ux
 description: "Design, Digested 23: Imposter syndrome and pockets"
 excerpt: "This week, I gathered articles that made me see this phenomenon from a different perspective. Time to reframe. And pockets. Women need pockets."
-featured-image: feat-design-digested-23.jpg
+featimage: true
+featimage-alt: "Design, Digested 23 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-23'
+image-caption: true
+featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">Many times I had thought, said, and been told that I suffer from <em>imposter syndrome</em>. Many of my friends, mostly female, have said so too. This week, I gathered articles that made me see this phenomenon from a different perspective. Time to reframe.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-23.jpg" alt="Design, Digested #23: Imposter syndrome and pockets" width="1200" height="500" %}
 
 ## Stop telling women they have imposter syndrome
 
@@ -56,7 +59,12 @@ Loretta Staples, a UI designer in the Eighties and Nineties, had a front-row sea
 
 During a Swedish lesson on Duolingo, a phrase made me smile. Yes, women do like pockets, while the mainstream fashion brands historically don't provide them.
 
-{% responsive_image path: assets/images/duolingo-swedish-pockets.jpg alt: "&ldquo;The women like pockets&rdquo; phrase found on a Swedish on Duolingo" caption: "&ldquo;The women like pocket&rdquo; phrase in Swedish, and then in English, on Duolingo" %}
+{% responsive_image_block %}
+  path: assets/images/duolingo-swedish-pockets.jpg
+  alt: The women like pockets phrase found on a Swedish on Duolingo
+  caption-true: {{ page.image-caption }}
+  caption: The women like pocket phrase in Swedish, and then in English, on Duolingo
+{% endresponsive_image_block %}
 
 Why is that? Caroline Criado Perez writes very often about this problem, and names brands that design with the women's real needs in mind.
 

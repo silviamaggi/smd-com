@@ -10,14 +10,17 @@ tags:
   - ux
 description: "Sketching is one of the most important tools a UX Designer should master. Let's explore why, how, and go beyond."
 excerpt: "I'm sure you've encountered many posts about which tool is best for wireframing. Yet, one of UX designers' most important and basic tool is sketching."
-featured-image: feat-design-digested-18.jpg
+featimage: true
+featimage-alt: "Design, Digested 18 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-18'
+image-caption: false
+featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">I'm sure you've encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is sketching. If you know how to convey your ideas and concepts through sketches, the rest follows.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-18.jpg" alt="Design, Digested #18" width="1200" height="500" %}
 
 Unless you were hired to create a UX team from scratch, chances are you’ll have to adapt to use whatever software your company is using: Axure, Adobe, Figma, Sketch and so on. The one skill you’ll have to develop is the willingness to put as many ideas as possible on paper, and leave behind the ones that don’t work.
 
@@ -36,8 +39,6 @@ It can be a notebook, your phone’s camera, or both. Observing and recording ou
 You don’t need to be an artist to sketch effectively but there are a few techniques you should learn. If you, like me, need to have visual cues and some explaination, Matt Corrall’s video helps greatly.
 
 {% include pattern-video.html id="vN2MFF2YZjo" title="Sketching Techniques #1" %}
-
-I used Matt’s advice to refine storyboard and wireframes for the [Acclimatize.me case study](/portfolio/case-study-acclimatize-me/){:title="View the case study on my website"}, and I’m happy with the result.
 
 ## Go beyond
 

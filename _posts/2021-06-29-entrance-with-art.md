@@ -9,13 +9,18 @@ tags:
   - italy
   - art
 description: 'How is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.'
-featured-image: feat-20210628-entrance-with-art.jpg
+image-caption: true
 ---
 <p class="lead">Stepping into our new house for the summer, I wonder: how is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.</p>
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/20210628-ravenna_5660.jpg" caption="Entrance with art" width="1280" height="886" %}
+{% responsive_image_block %}
+  path: assets/images/20210628-ravenna_5660.jpg
+  alt: A colourful watercolour painting of a woman at the entrance of a house
+  caption-true: {{ page.image-caption }}
+  caption: Entrance with art
+{% endresponsive_image_block %}
 
 This photo marks the first time I used my camera since 3 April, when the [wisteria started to bloom](/photography/wisteria-in-bloom/){:title="View the photos of the wisteria"} in the seaside town.
 

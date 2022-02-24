@@ -13,14 +13,17 @@ tags:
   - privacy
 description: 'I built my new website from scratch using Jekyll, a static site generator. Welcome to my new virtual house.'
 excerpt: 'I built my new website from scratch using Jekyll, a static site generator. Welcome to my new virtual house. Let me show you around.'
-featured-image: feat-brand-new-website.jpg
-featured-image-alt: New logo and brand image
 mention: true
 mentionReplyUrl: 'https://minutestomidnight.co.uk/blog/loops-transitions-identity/'
 mentionReplyTitle: '&lsquo;<em>Loops, transitions, identity</em>&rsquo; by Simone Silvestroni'
 mentionType: reply
 ---
-{% include pattern-figure-featured.html image="/assets/images/feat-brand-new-website.jpg" caption="New website, new branding" alt="Silvia Maggi Design new website" width="1200" height="500" %}
+{% responsive_image_block %}
+  path: assets/images/feat-brand-new-website.jpg
+  alt: Silvia Maggi Design new website and branding
+  caption-true: {{ page.image-caption }}
+  caption: New website, new branding
+{% endresponsive_image_block %}
 
 <p class="detached">About a month after <a href="/personal/leaving-wordpress/" title="Read the post 'Leaving WordPress' on my website">announcing it</a>, I'm excited to welcome you to my new virtual house. Can I offer you a drink?</p>
 

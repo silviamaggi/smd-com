@@ -11,14 +11,17 @@ tags:
   - dark patterns
   - sustainability
 description: "Design, Digested 22: The Hook model and UX design’s dirty secret"
-featured-image: feat-design-digested-22.jpg
+featimage: true
+featimage-alt: "Design, Digested 22 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-22'
+image-caption: false
+featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">This week: how to protect ourselves against the Hook model, <em>UX Theatre</em>, dark patterns, and circular economy.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-22.jpg" alt="Design, Digested #22: The Hook model and UX design’s dirty secret" width="1200" height="500" %}
 
 ## The Hook Model: when our hormones work against us
 

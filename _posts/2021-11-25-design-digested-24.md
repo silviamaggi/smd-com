@@ -12,14 +12,17 @@ tags:
   - facebook
 description: "This week: how to prevent user errors, the curb-cut effect, how creepy is that device, and users adapting to technology that wasn't designed with them in mind."
 excerpt: "This week: how to prevent user errors, the curb-cut effect, how creepy is that device, and users adapting to technology that wasn't designed with them in mind."
-featured-image: feat-design-digested-24.jpg
+featimage: true
+featimage-alt: "Design, Digested 24 by Silvia Maggi"
+featimage-class: 'u-featured'
+featimage-name: 'feat-design-digested-24'
+image-caption: false
+featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 <p class="lead">This week: how to prevent user errors, the <em>curb-cut effect</em>, how creepy is that device, and users adapting to technology that wasn't designed with them in mind.</p>
 
 <!--more-->
-
-{% include pattern-figure-featured.html image="/assets/images/feat-design-digested-24.jpg" alt="Design, Digested #24: User errors, the curb-cut effect, creepy devices" width="1200" height="500" %}
 
 ## How designers can prevent user errors
 

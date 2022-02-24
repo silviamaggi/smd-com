@@ -8,13 +8,18 @@ tags:
   - ux
   - sweden
 description: "A deep understanding of users' needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers."
-featured-image: feat-station-of-being-samuel-pettersson.jpg
+image-caption: true
 ---
 <p class="lead">A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.</p>
 
 <!--more-->
 
-{% include pattern-figure.html image="/assets/images/station-of-being-samuel-pettersson.jpg" caption="Photo by Samuel Pettersson" width="1024" height="682" %}
+{% responsive_image_block %}
+  path: assets/images/station-of-being-samuel-pettersson.jpg
+  alt: The station of being by night, with green lights, a bus and six people standing
+  caption-true: {{ page.image-caption }}
+  caption: Photo by Samuel Pettersson
+{% endresponsive_image_block %}
 
 Architecture studio [Rombout Frieling Lab](http://www.rombout.design/station-of-being.html){:title="Go to the Rombout Frieling Lab website"} and [Research Institutes of Sweden](https://www.ri.se/en){:title="Go to the Research Institutes of Sweden website"} have created the _Station of Being_ as a prototype bus stop in the city of Umeå, in the north of the country.
 

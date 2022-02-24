@@ -12,6 +12,7 @@ tags:
   - photography
 description: 'This is the beginning of a new series, where I tell you about my week.'
 excerpt: 'This is the beginning of a new series, where I tell you about my week.'
+image-caption: true
 ---
 <p class="lead">In a bid to write more frequently, and to track events that might go overlooked, I'm starting to write weeknotes. I'm enjoining other people's weekly reports because they feel personal. They could also be a good way to remind ourselves how many things we accomplish as opposed to what we perceive. Let's start!</p>
 
@@ -26,4 +27,9 @@ excerpt: 'This is the beginning of a new series, where I tell you about my week.
   <li>Having spent a year in <a href="/tag/ravenna/" title="Explore the posts about Ravenna">Ravenna</a>, Milan — or even just this borough — feels immense. The last time I lived in a big city was back in 2015, when we left London for Cambridge.</li>
 </ul>
 
-{% responsive_image path: assets/images/20210927-lake.jpg alt: "A serene scene of a small beach on Lake Maggiore" caption: "A beach on Lake Maggiore" %}
+{% responsive_image_block %}
+  path: assets/images/20210927-lake.jpg
+  alt: A serene scene of a small beach on Lake Maggiore
+  caption-true: {{ page.image-caption }}
+  caption: A beach on Lake Maggiore
+{% endresponsive_image_block %}
