@@ -18,6 +18,9 @@
       <li class="breadcrumb-item"><a href="{{ site.url }}/archive/">Archive</a></li>
       {%- elsif page.url contains "/tags/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
+      {%- elsif page.url contains "/notes/" %}{% unless page.url == "/notes/" %}
+      <li class="breadcrumb-item"><a href="{{ site.url }}/notes/">Notes</a></li>
+      {%- endunless -%}
       {%- elsif page.url contains "/portfolio/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/silvia-maggi-portfolio/">Work</a></li>
       {%- endif -%}
@@ -27,9 +30,9 @@
       {%- if page.url contains "/archive/" -%}{% unless page.url contains "/newsletter/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
       {% endunless %}{%- endif -%}
-      {% if page.id %}{% unless page.url contains "portfolio/" %}{% unless page.url contains "/newsletter/" %}
+      {% if page.id %}{% unless page.url contains "portfolio/" %}{% unless page.url contains "/newsletter/" %}{% unless page.url contains "/notes/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/blog/">Blog</a></li>
-      {%- endunless -%}{%- endunless -%}{% endif %}
+      {%- endunless -%}{%- endunless -%}{%- endunless -%}{% endif %}
       {% if page.url contains "/newsletter/" %}
       <li class="breadcrumb-item"><a href="{{ site.url }}/newsletter/">Newsletter</a></li>  
       {%- endif -%}

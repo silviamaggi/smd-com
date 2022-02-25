@@ -1,0 +1,21 @@
+---
+layout: page
+title: 'Notes'
+date: 2022-02-25 18:49:27
+last_modified_at:
+description: "Thoughts, bookmarks, updates that might become blog posts. This is my digital scrapbook."
+excerpt: 'Thoughts, bookmarks, updates that might become blog posts. This is my digital scrapbook. Visit the <a href="/blog/">blog</a> for full lenght posts.'
+permalink: /notes/
+---
+<section class="h-feed smd-entry">
+
+  <ul>
+    {%- for note in site.notes reversed -%}
+    {%- assign tags = note.tags -%}
+    <li>
+      <strong><a href="{{ note.url }}"><time class="dt-published pe-1" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time></a></strong> &ndash; about <span class="p-category text-uppercase small fw-bold ps-1"><code>#{{ tags[0] | upcase }}</code></span>
+    </li>
+    {%- endfor -%}
+  </ul>
+
+</section>

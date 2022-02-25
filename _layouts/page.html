@@ -5,6 +5,9 @@ layout: default
 <article class="h-entry smd-entry mb-5">
   <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
   <div class="e-content">
+    {% if page.excerpt %}
+    <p class="p-summary lead">{{ page.excerpt }}</p>
+    {% endif %}
     {{ content }}
   </div>
   {% include pattern-hcard-pages.html %}

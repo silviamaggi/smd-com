@@ -4,8 +4,13 @@ title: Blog
 date: 2021-04-13 17:31
 last_modified_at: '2022-01-24 15:31:04'
 description: "This is Silvia Maggi's blog, where I write about design, tech and their implications in our lives."
-excerpt: 'I write about design, tech and their implications in our lives. Follow my posts via <a href="/feed.xml">RSS</a>. Looking for something specific? Visit the <a href="/archive/">archive</a>.'
+excerpt: 'I write about design, tech and their implications in our lives. Follow my posts via <a href="/feed.xml">RSS</a>, or check the <a href="/notes/">notes</a> section. Looking for something specific? Visit the <a href="/archive/">archive</a>.'
 ---
+{%- assign recentNotes = site.notes | sort: 'date' | reverse -%}
+{%- for note in recentNotes limit:1 -%}
+  <p class="fs-5"><mark class="smd-highlight small"><strong>UPDATE</strong></mark> Latest note: <a class="smd-link" href="{{ note.url }}" title="Read the post"><strong>{{ note.date | date: "%-d %B %Y" }}</strong></a> about <code class="p-category ps-2 fw-bold">#{{ note.tags[0] | upcase }}</code></p>
+{% endfor -%}
+
 {% include pattern-popular-posts.html %}
 <section class="h-feed my-5">
   <h2 class="p-name text-center display-5 smd-mask-texture mb-5">Categories</h2>
@@ -20,6 +25,7 @@ excerpt: 'I write about design, tech and their implications in our lives. Follow
   {% endfor %}
   </ol>
 </section>
+
 <section class="h-feed">
   <h2 class="p-name text-center display-5 smd-mask-texture mb-5">All posts</h2>
   {% for post in site.posts %}
