@@ -18,6 +18,7 @@ html {
 }
 body {
   background: $background-l-80 url('/assets/images/smd-bg-texture.jpg') no-repeat bottom left;
+  background-attachment: fixed;
   background-size: 100% auto;
   min-height: calc(100vh - 2rem);
   display: flex;

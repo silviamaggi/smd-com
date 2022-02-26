@@ -98,6 +98,13 @@ jekyll-archives:
 
 excerpt_separator: <!--more-->
 
+# Feeds
+feed:
+  posts_limit: 20
+  collections:
+    notes:
+      path: "/notes.xml"
+
 # Responsive images
 responsive_image:
   template: _includes/pattern-responsive-image.html
