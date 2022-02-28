@@ -4,13 +4,14 @@ baseurl: ""
 
 # SEO
 title: Silvia Maggi Design
-tagline: UX Designer
-description: Welcome. Silvia Maggi is a UX Designer striving to create meaningful digital experiences. View her UX portfolio and latest blog posts.
+tagline: Designer
+description: Welcome. Silvia Maggi is a designer striving to create meaningful digital experiences. View her portfolio and latest blog posts.
 permalink: /:categories/:title/
 keywords:
-  uxdesign,
-  design,
-  responsive web design
+  ux design,
+  interaction design,
+  web design,
+  web development
 timezone: Europe/Rome
 logo: /assets/images/silviamaggi-og-image.jpg
 author:
@@ -21,9 +22,9 @@ author:
 brand:
   smd_avatar_src: /assets/images/silviamaggi-avatar.png
   smd_tagline: Hi, I’m Silvia
-  smd_pitch: A UX Designer striving to create meaningful digital experiences.
+  smd_pitch: A designer striving to create meaningful digital experiences.
   smd_latestposts_limit: 2
-  smd_latestnotes_limit: 2
+  smd_latestnotes_limit: 1
 
 exclude: 
   - node_modules/
