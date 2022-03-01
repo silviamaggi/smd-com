@@ -177,9 +177,9 @@ blockquote {
     width: 80%;
   }
   p {
+    @extend .smd-serif-italic;
     display: inline;
     text-indent: 0;
-    font-style: italic;
     &:first-child {
       margin-bottom: $spacer;
     }
@@ -188,6 +188,7 @@ blockquote {
 
 // Blockquote cite
 cite {
+  @extend .smd-sans;
   display: block;
   font-style: normal;
   font-weight: bold;
