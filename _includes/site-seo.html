@@ -29,7 +29,7 @@
   "@type": "BlogPosting",{% else %}"@type": "WebSite",
   {%- endif %}
   "name": "{%- include site-meta-title.html -%}",
-  "headline": "{%- include site-meta-title.html %} {{ site.tagline }}",
+  "headline": "{%- include site-meta-title.html %}",
   "url": "{{ site.url }}{{ page.url }}",
   "description": "{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description }}{% endif %}",
   "keywords": "{% if page.tags %}{{ page.tags | join: ',' }}{% else %}{{ site.keywords }}{% endif %}",
