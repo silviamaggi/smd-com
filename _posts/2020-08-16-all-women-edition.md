@@ -6,6 +6,7 @@ categories:
   - Design Digested
 tags:
   - facial recognition
+  - joy buolamwini
   - sexism
   - racial bias
   - wordpress
