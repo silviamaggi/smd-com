@@ -1,8 +1,8 @@
 ---
 title: Brand new website
 date: 2021-09-16
-last_modified_at: '2021-10-19 11:47:21'
-featured-post: true
+last_modified_at: '2022-03-11 10:26:14'
+featured-post: false
 categories:
   - Design
 tags:
@@ -73,3 +73,7 @@ Deploying the site is a first step, but there is still work to do, and the most 
 </ul>
 
 Stop by again soon, I will tell you more. 
+
+## Update on March 2022
+
+Webmentions and POSSE are now active, and I joined Indieweb. 
