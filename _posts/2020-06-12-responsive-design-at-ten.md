@@ -7,7 +7,12 @@ categories:
 tags:
   - books
   - responsive web design
+  - navigation
   - usability
+  - glossier
+  - hamburger menu
+  - bottom navigation
+  - mobile
 description: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'
 featimage: true
 featimage-alt: "Design, Digested 3 by Silvia Maggi"
