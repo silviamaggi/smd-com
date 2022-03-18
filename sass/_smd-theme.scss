@@ -340,7 +340,6 @@ cite {
   position: relative;
   z-index: 100;
   line-height: 1.2;
-  margin-bottom: 3rem;
   @include media-breakpoint-down(md) {
     width: 100%;
   }
@@ -349,12 +348,13 @@ cite {
   }
   ul {
     @include list-unstyled();
-    margin: 0;
+    margin: 0 0 3rem 0;
     padding: 0;
-
+    &:last-child {
+      margin-bottom: 0;
+    }
     li {
       margin-bottom: 1rem;
-
       &.reaction-reply {
         margin-left: .75rem;
         padding-left: 1rem;
@@ -365,12 +365,18 @@ cite {
   a {
     &.reaction {
       text-decoration: none;
-
       img {
         width: 36px;
         height: 36px;
+        border-radius: 4px;
       }
     }
+  }
+}
+.reacts {
+  .reaction {
+    display: inline-block;
+    margin: 6px 6px 6px 0;
   }
 }
 .comments li {

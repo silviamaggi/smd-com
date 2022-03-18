@@ -1,29 +1,9 @@
 <details class="smd-bg-l-90 rounded my-5 px-4 py-4">
-    <summary class="fs-4 fw-bold"><strong>Reactions</strong></summary>
+    <summary class="fs-4 fw-bold"><strong>Comments &amp; reactions</strong></summary>
     <div class="mt-5 smd-responses">
   <div class="text-center text-md-start mb-5">
     <a class="btn btn-lg btn-smd btn-smd-cta fw-bold" href="mailto:comments@silviamaggidesign.com?subject={{ page.title | replace: ' ','%20' }}" title="Start a conversation"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-reply-fill" viewBox="0 0 16 16"><path d="M5.921 11.9 1.353 8.62a.719.719 0 0 1 0-1.238L5.921 4.1A.716.716 0 0 1 7 4.719V6c1.5 0 6 0 7 8-2.5-4.5-7-4-7-4v1.281c0 .56-.606.898-1.079.62z"/></svg> <span class="initialism">Reply to this post via email</span></a>
   </div>
-  <p>You can also respond to this post using <a href="https://indieweb.org/Webmention">Webmentions</a>.</p>
+  <p>You can also respond to this post sending <a href="https://indieweb.org/Webmention">Webmentions</a> or interacting on <a href="https://indieweb.social/@silviamaggi">Mastodon</a>.</p>
   <div id="webmentions"></div>
-  <p class="mb-3">If you&rsquo;ve written a response to this post <strong>send me your URL</strong>:</p>
-  <form class="mention-form" method="post" action="https://webmention.io/silviamaggidesign.com/webmention">
-    <fieldset class="form-group">
-      <div class="row">
-        <div class="col mb-2">
-          <label for="url-mention" class="visually-hidden">Add your response:</label>
-          <input class="form-control form-control-lg" id="url-mention" type="url" name="source" required placeholder="e.g. https://yourdomain/response" />
-          <input type="hidden" name="target" value="{{ site.url }}{{ page.url }}">
-        </div>
-        <div class="col mb-2">
-          <button class="btn btn-lg btn-smd fw-bold">Send webmention</button>
-        </div>
-      </div>        
-    </fieldset>
-  </form>
-  <h2 class="mb-3">Anonymous comments</h2>
-  <div>
-    <p class="text-start">If your website isn&rsquo;t part of Indieweb, you can send a comment through <a href="https://commentpara.de">Comment Parade</a>.</p>
-      </div>
-    </div>
 </details>
