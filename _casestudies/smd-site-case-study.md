@@ -38,7 +38,7 @@ Ever since the early 2000s, I’ve been maintaining websites and blogs. I used t
 [Simone](https://minutestomidnight.co.uk/) and I moved *Silvia Maggi Design* from WordPress to [Jekyll](https://jekyllrb.com/){: title="Visit the website of Jekyll"}, with hosting on [Netlify](https://www.netlify.com/){: title="Visit the Netlify website"}. Using [Liquid](https://shopify.github.io/liquid/){: title="Check the Liquid language documentation"} template language and [Markdown](https://daringfireball.net/projects/markdown/){: title="Learn more about Markdown"} for posts and pages meant that the content needed reworking. I revisited every post, photo and case study to keep what made sense and rewrite what wasn't good enough.
 
 ## Information architecture
-Since Jekyll is a blog-aware [static site generator](https://jamstack.org/generators/), it doesn't rely on a database to dynamically generate pages. Provided with an opportunity to optimise the site's information architecture — I had `303` tags, most of which barely used — I worked to achieve a slimmer and less dispersive [archive](/archive/){: title="Browse my website's archive"}.
+Since Jekyll is a blog-aware [static site generator](https://jamstack.org/generators/){: title="Visit the Jamstack website"}, it doesn't rely on a database to dynamically generate pages. Provided with an opportunity to optimise the site's information architecture — I had `303` tags, most of which barely used — I worked to achieve a slimmer and less dispersive [archive](/archive/){: title="Browse my website's archive"}.
 
 ### No hamburger menu
 There is strong evidence that a hidden navigation significantly **decreases user experience both on mobile and desktop**[^hamburger-menus], therefore I decided to avoid using the infamous hamburger icon, both on mobile and desktop. To do so, I kept the main navigation as uncomplicated as possible, assigning less relevant sections to the footer menu.
@@ -62,9 +62,9 @@ Currently, they are:
 Taking care of the SEO was straightforward. It needed a combination of good practises set up once:
 
 - looking for [canonical URLs](https://en.wikipedia.org/wiki/Canonical_link_element){: title="Visit the Wikipedia page on canonical link elements"};
-- taking description and title from the [Front Matter](https://jekyllrb.com/docs/front-matter/){: title=""} of posts and pages;
-- implementing [Open graph](https://ogp.me/) for rich content display when links are shared on other websites such as social media or instant messengers;
-- adding a correct structured data content following [schema](https://schema.org/docs/documents.html) guidelines.
+- taking description and title from the [Front Matter](https://jekyllrb.com/docs/front-matter/){: title="Learn about it on Jekyll's website"} of posts and pages;
+- implementing [Open graph](https://ogp.me/){: title="Visit the Open graph website"} for rich content display when links are shared on other websites such as social media or instant messengers;
+- adding a correct structured data content following [schema](https://schema.org/docs/documents.html){: title="Visit the Schema website"} guidelines.
 
 Google Lighthouse gives a `100` result on SEO, with all 15 audits fully passed.
 
@@ -83,11 +83,11 @@ Over the years, I published many pictures on social networks and  previous blogs
 
 Whereas I previously didn't invest much time thinking about images before publishing, now I have **workflows to make sure they're optimised** and within specific dimensions. Jekyll's responsive images plugin automatically generates different versions of the photos I include, based on the viewport of multiple devices. Despite the amount of pictures published, the website performance is stellar, both on mobile and desktop.
 
-Simone created an [image gallery carousel in pure HTML and CSS](https://minutestomidnight.co.uk/work/web-design/responsive-photogallery-carousel/), featuring intuitive controls for mobile devices, along with responsive images. The gallery is now a module ready to be implemented.
+Simone created an [image gallery carousel in pure HTML and CSS](https://minutestomidnight.co.uk/work/web-design/responsive-photogallery-carousel/){: title="Read Simone's case study"}, featuring intuitive controls for mobile devices, along with responsive images. The gallery is now a module ready to be implemented.
 
 ## Search
 
-An important feature is the ability to search within the website. To implement it we used [vanilla Javascript](https://github.com/daviddarnes/jekyll-search-js). We also provide an accessible no-script alternative which relies on DuckDuckGo, presenting the results in a new browser tab.
+An important feature is the ability to search within the website. To implement it we used [vanilla Javascript](https://github.com/daviddarnes/jekyll-search-js){: title="Check the script on Github"}. We also provide an accessible no-script alternative which relies on DuckDuckGo, presenting the results in a new browser tab.
 
 ## Results
 
@@ -100,8 +100,8 @@ An important feature is the ability to search within the website. To implement i
 
 ### Accessibility
 
--   ✅ **No errors** for WCAG detected on [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.com/).
--   ✅ **`100`** on [Google Lighthouse](https://web.dev/measure/)
+-   ✅ **No errors** for WCAG detected on [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.com/){: title="Verify the result on WAVE's website"}.
+-   ✅ **`100`** on [Google Lighthouse](https://web.dev/measure/){: title="Verify the result on Google Lighthouse"}
 
 ### Sustainability
 
@@ -114,7 +114,7 @@ Due to the site compact size, it’s member of: [![512kb Blue Team](/assets/imag
 <a href="mailto:contacts@silviamaggidesign.com" title="Email me">Get in touch</a> to talk about your next project.
 
 ## Footnotes
-[^total-kilobytes]: [https://httparchive.org/reports/state-of-the-web#bytesTotal](https://httparchive.org/reports/state-of-the-web#bytesTotal){: title=""}
-[^hamburger-menus]: [https://www.nngroup.com/articles/hamburger-menus/](https://www.nngroup.com/articles/hamburger-menus/){: title=""}
-[^bottom-navigation]: [https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/){: title=""}
-[^utility-first]: [https://adamwathan.me/css-utility-classes-and-separation-of-concerns/](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+[^total-kilobytes]: [https://httparchive.org/reports/state-of-the-web#bytesTotal](https://httparchive.org/reports/state-of-the-web#bytesTotal){: title="See the report on HTTP Archive"}
+[^hamburger-menus]: [https://www.nngroup.com/articles/hamburger-menus/](https://www.nngroup.com/articles/hamburger-menus/){: title="Read the article on NN/g"}
+[^bottom-navigation]: [https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/){: title="Read the article on Smashing Magazine"}
+[^utility-first]: [https://adamwathan.me/css-utility-classes-and-separation-of-concerns/](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/){: title="Read Adam Wathan's article on Medium"}
