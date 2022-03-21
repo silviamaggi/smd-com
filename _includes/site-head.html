@@ -6,6 +6,8 @@
 {% endif -%}
 {% include site-meta.html %}
 {% if jekyll.environment == "production" -%}
+<link rel="preload" href="{{ site.url }}/assets/fonts/SourceSerifProBold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ site.url }}/assets/fonts/SourceSerifProItalic.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{{ site.url }}/assets/css/smd.min.css">
 {% else -%}
 <link rel="stylesheet" href="{{ site.url }}/assets/css/smd.css">

@@ -4,6 +4,7 @@ title: Assets optimisation and trading automation
 robots: 'noindex,follow'
 sitemap: false
 featured-post: false
+type: 'UX, UI'
 casestudy-order: 2
 date: '2022-01-19 16:56:09'
 last_modified_at: '2022-01-25 18:19:59'
