@@ -1,6 +1,6 @@
 ---
 title: Mirrorless camera vs DSLR. My experience in Edinburgh
-last_modified_at: '2021-09-15 18:15:22'
+last_modified_at: '2022-03-23 15:17:38'
 featured-post: false
 categories:
   - Photography
@@ -8,6 +8,7 @@ tags:
   - edinburgh
   - fujifilm
   - travel
+  - uk
 description: Mirrorless camera vs DSLR. My experience. How switching from an entry-level Canon DSLR to a mirrorless camera changed my photography mindset.
 featimage: true
 featimage-alt: "People gathered around a street artist blowing massive soap bubbles"

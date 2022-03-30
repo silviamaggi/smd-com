@@ -5,7 +5,7 @@ featured-post: false
 categories:
   - Design Digested
 tags:
-  - books
+  - book
   - responsive web design
   - navigation
   - usability
@@ -13,6 +13,7 @@ tags:
   - hamburger menu
   - bottom navigation
   - mobile
+  - COVID-19
 description: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'
 featimage: true
 featimage-alt: "Design, Digested 3 by Silvia Maggi"

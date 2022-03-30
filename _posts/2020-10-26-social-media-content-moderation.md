@@ -6,7 +6,7 @@ categories:
   - Design Digested
 tags:
   - algorithm
-  - books
+  - book
   - facebook
   - social media
 description: "This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism."

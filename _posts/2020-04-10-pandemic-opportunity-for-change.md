@@ -1,6 +1,6 @@
 ---
 title: The pandemic is a massive opportunity for change
-last_modified_at: '2021-09-15 18:40:17'
+last_modified_at: '2022-03-23 15:21:10'
 featured-post: false
 categories:
   - Design
@@ -8,6 +8,7 @@ tags:
   - dieter rams
   - sustainability
   - pandemic
+  - COVID-19
 description: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
 excerpt: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
 featimage: true

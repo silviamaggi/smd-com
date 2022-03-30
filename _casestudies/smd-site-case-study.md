@@ -5,6 +5,7 @@ date: 2022-03-21
 last_modified_at: '2022-03-21 17:07:18'
 featured-post: false
 type: 'Web design'
+casestudy-order: 1
 description: 'I redesigned and built my personal website from scratch following the need to have an easier to customise, flexible site to contain my work, interests and passions.'
 excerpt: 'I redesigned and built my personal website from scratch following the need to have an easier to customise, flexible site to contain my work, interests and passions.'
 featured-image: feat-brand-new-website.jpg

@@ -1,6 +1,6 @@
 ---
 title: Isolation photo diary
-last_modified_at: '2021-09-13 01:12:16'
+last_modified_at: '2022-03-23 15:31:22'
 featured-post: false
 categories:
   - Photography
@@ -8,6 +8,10 @@ tags:
   - personal
   - pandemic
   - lockdown
+  - COVID-19
+  - nature
+  - cambridge
+  - uk
 description: After the initial shock, the lockdown and subsequent isolation prompted me to point the lens to my emotions and immediate surroundings.
 excerpt: "Between the ups and downs of the global pandemic and lockdown, I kept taking pictures. I intended to have a photo diary to describe my take on isolation and the extraordinary circumstances we're living."
 image-caption: false

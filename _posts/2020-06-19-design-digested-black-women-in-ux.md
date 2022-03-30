@@ -1,6 +1,6 @@
 ---
 title: "Design, Digested 4: Black women in UX, foster creativity"
-last_modified_at: '2021-09-04T14:59:18.119Z'
+last_modified_at: '2022-03-23 15:15:42'
 featured-post: false
 categories:
   - Design Digested
@@ -8,8 +8,10 @@ tags:
   - creativity
   - facial recognition
   - women in tech
-  - pandemic
+  - COVID-19
   - ux
+  - david bowie
+  - racism
 description: 'Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.'
 featimage-alt: "Design, Digested 4 by Silvia Maggi"
 featimage: true

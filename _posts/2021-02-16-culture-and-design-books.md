@@ -1,12 +1,14 @@
 ---
 title: Brilliant culture and design books I’m reading
-last_modified_at: '2021-09-15 18:42:17'
+last_modified_at: '2022-03-23 14:07:50'
 featured-post: false
 categories:
   - Books
 tags:
   - design
+  - culture
   - social media
+  - book
 description: "Here are the culture and design books I'm reading. Some are ideal if you're a designer, others are either very interesting or funny — or both — for anyone."
 featimage: true
 featimage-alt: "Books lined up with and the writing Recommended reads by Silvia Maggi"
@@ -53,7 +55,7 @@ Lanier explains how algorithms work in general — pointing out how the ones bui
 
 {% include pattern-figure.html image="/assets/images/senongo-akpem.jpg" alt="Cross-Cultural Design by Senongo Akpem" width="194" height="300" %}
 
-<mark class="smd-highlight mb-4">Status: in progress</mark>
+<mark class="smd-highlight mb-4">Status: finished</mark>
 
 I bookmarked this book in [June](/design-digested/design-community-solidarity/){:title="Read the 'Design, Digested 2. Design community solidarity' post on my website"} and picked it up again recently. Coupled with _The Culture Map_, it’s a fundamental read for anyone in the web field. Whereas many of us think of our users as wealthy, Western people, our audience is much more diverse. So we better design for them too.
 
@@ -63,7 +65,7 @@ I bookmarked this book in [June](/design-digested/design-community-solidarity/){
 
 {% include pattern-figure.html image="/assets/images/guy-pratt.jpg" alt="My Bass and Other Animals by Guy Pratt" width="195" height="300" %}
 
-<mark class="smd-highlight mb-4">Status: in progress</mark>
+<mark class="smd-highlight mb-4">Status: finished</mark>
 
 If you don’t know him by name, chances are you heard him playing bass in many of your favourite songs. Pratt played for Pink Floyd, David Bowie, Brian Ferry, Madonna, and many more.
 
@@ -82,3 +84,6 @@ _The Culture Map_ prompted to ask myself what it means to be Italian. When I mov
 Servegnini is a respected journalist, whose column, _[Italians](https://italians.corriere.it/){:title="Go to the column page on Corriere.it"},_ I used to follow many years ago. He wrote _La Testa degli Italiani_ with a lot of sense of humour, so you should approach the book as a semi-serious portrait of a country that is often romanticised or condemned.
 
 <p class="detached">🔗 <a href="https://www.goodreads.com/book/show/1564625.La_testa_degli_italiani">Read the book in Italian</a> or <a href="https://www.goodreads.com/book/show/581712.La_Bella_Figura">in English</a></p>
+
+{: .detached}
+Last updated on 22 March 2022.

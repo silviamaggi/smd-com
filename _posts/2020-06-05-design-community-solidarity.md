@@ -1,14 +1,17 @@
 ---
 title: "Design, Digested 2: Design community solidarity"
-last_modified_at: '2021-09-15 18:40:25'
+last_modified_at: '2022-03-23 15:21:21'
 featured-post: false
 categories:
   - Design Digested
 tags:
-  - books
+  - book
   - diversity
   - equality
   - solidarity
+  - inclusion
+  - design
+  - race
 description: 'Design inspiration series. Design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.'
 featimage: true
 featimage-alt: "Design, Digested 2 by Silvia Maggi"

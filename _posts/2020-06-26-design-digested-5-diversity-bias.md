@@ -1,14 +1,18 @@
 ---
 title: "Design, Digested 5: Diversity bias"
-last_modified_at: '2021-09-15 18:40:52'
+last_modified_at: '2022-03-23 15:31:31'
 featured-post: false
 categories:
   - Design Digested
 tags:
   - anti-racism
-  - books
   - diversity
   - ux
+  - design
+  - UI
+  - bad doors
+  - book
+  - invisible women
 description: Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
 featimage: true
 featimage-alt: "Design, Digested 5 by Silvia Maggi"

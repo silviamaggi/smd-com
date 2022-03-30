@@ -1,12 +1,15 @@
 ---
 title: The station of being bus stop experience
-last_modified_at: '2021-09-15 18:40:10'
+last_modified_at: '2022-03-23 15:25:08'
 featured-post: false
 categories:
   - Design
 tags:
   - ux
   - sweden
+  - umeå
+  - rombout frieling lab
+  - research institutes of sweden
 description: "A deep understanding of users' needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers."
 image-caption: true
 ---

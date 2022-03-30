@@ -3,7 +3,7 @@ layout: post
 title: UniCredit acquisition landing pages and forms
 featured-post: false
 type: 'UX, UI'
-casestudy-order: 1
+casestudy-order: 2
 date: 2021-04-13T16:05:42.000Z
 last_modified_at: '2022-01-25 18:23:03'
 description: 2014 – UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.

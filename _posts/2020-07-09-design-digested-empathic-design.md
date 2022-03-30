@@ -1,11 +1,12 @@
 ---
 title: "Design, Digested 6: Anti-Racism, misogyny of the workforce"
-last_modified_at: '2021-09-03T22:49:37.756Z'
+last_modified_at: '2022-03-23 15:33:33'
 featured-post: false
 categories:
   - Design Digested
 tags:
   - women in tech
+  - misogyny
   - anti-racism
   - empathy
   - videogames

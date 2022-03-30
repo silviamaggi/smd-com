@@ -1,14 +1,17 @@
 ---
 title: "Design, Digested 1: Killing Eve set design, and more"
-last_modified_at: '2021-09-15 18:14:48'
+last_modified_at: '2022-03-23 15:16:58'
 featured-post: false
 categories:
   - Design Digested
 tags:
+  - killing eve
   - accessibility
-  - books
   - creativity
   - inclusion
+  - social media
+  - design
+  - planned obsolesence
 description: 'First instalment of my design inspiration series. Killing Eve set design, accessibility on social media, bad design vs good design, and more.'
 featimage: true
 featimage-alt: "Design, Digested 1 by Silvia Maggi"
