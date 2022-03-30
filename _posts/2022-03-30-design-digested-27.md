@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 27: False empathy, fast fashion, gender pay gap, and more'
-last_modified_at: '2022-03-30 22:00:58'
+last_modified_at: '2022-03-30 22:24:41'
 featured-post: false
 categories:
   - Design Digested
@@ -75,7 +75,7 @@ Action Audio uses real-time ball monitoring technology and spatial sound design 
 🔗 <a href="https://www.designweek.co.uk/issues/17-23-january-2022/australian-open-action-audio/">Read the article</a> (on Design Week)
 
 ## State of California Design System
-The design system is an open source project in its alpha version, created to help digital teams build consistent and accessible websites. 
+The design system is an open source project in its alpha version, created to help digital teams build consistent and accessible websites. Check the <a href="https://designsystem.digital.gov/" title="Visit the site">United States Web Design System</a> as well.
 
 {: .detached}
 🔗 <a href="https://designsystem.webstandards.ca.gov/">Visit the website</a>
