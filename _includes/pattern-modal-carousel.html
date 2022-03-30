@@ -20,7 +20,7 @@
       {% endcomment %}
       <div class="smd-carousel-container d-flex justify-content-center">
         <div class="smd-carousel">
-          <ul class="smd-carousel-scroll list-unstyled mx-0 my-0" scroll-behavior="smooth">
+          <ul class="smd-carousel-scroll list-unstyled mx-0 my-0">
           {%- for image in site.static_files -%}
             {%- capture galleryPath -%}{{ include.folder }}{%- endcapture -%}
             {%- if image.path contains galleryPath -%}
@@ -47,7 +47,7 @@
             Carousel navigation
             -------------------------*
           {% endcomment %}
-          <nav id="smd-slider-nav">
+          <nav class="smd-slider-nav">
           {%- for image in site.static_files -%}
             {%- capture galleryPath -%}{{ include.folder }}{%- endcapture -%}
             {%- if image.path contains galleryPath -%}

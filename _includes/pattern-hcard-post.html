@@ -1,9 +1,9 @@
-<span class="d-block mt-4">
-  <span class="p-author h-card fs-5">
+<div class="mt-4">
+  <div class="p-author h-card fs-5">
     <img class="u-photo pe-2" src="{{ site.url }}/assets/images/silviamaggi-avatar.png" alt="Silvia Maggi avatar" width="48" height="48">
     <a class="p-name" href="{{ site.url }}" rel="author"><strong>Silvia Maggi</strong></a>
     <p class="p-note">{{ site.brand.smd_pitch }}</p>
-  </span>
+  </div>
   <a class="u-url u-uid fs-5 px-2" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink: <em>{{ page.title }}</em></a>
   <time class="dt-published fs-5" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
   {% if page.syndicate %}
@@ -16,4 +16,4 @@
   <data rel="me" value="https://www.flickr.com/photos/silvia-m/"></data>
   <data rel="me" value="https://oreganodangereux.wordpress.com"></data>
   <data rel="me" value="https://indieweb.social/@silviamaggi"></data>
-</span>
+</div>
