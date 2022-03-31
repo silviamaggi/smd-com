@@ -70,6 +70,6 @@ The Tokyoiter is a tribute to *The New Yorker* traditional cover art and *The Pa
 
 <hr>
 
-<p class="detached"><a href="/design-inspiration-newsletter-silvia-maggi/" title="Go to the Newsletter page">Design, Digested</a> is a newsletter about design, tech, and their implication in our lives.</p>
+<p class="detached"><a href="/newsletter/" title="Go to the Newsletter page">Design, Digested</a> is a newsletter about design, tech, and their implication in our lives.</p>
 
 {%- include pattern-newsletter-sub.html %}
