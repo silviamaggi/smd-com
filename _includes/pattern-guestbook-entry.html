@@ -1,7 +1,0 @@
-<hr>
-{% for message in site.data.guestbook_messages reversed %}
-<div class="smd-guestbook-entry my-3 p-3 rounded">
-  <p>On <code>{{ message.timestamp | date: "%d/%m/%Y" }}</code>, <strong>{{ message.author }}</strong> wrote:</p>
-  <p class="detached mt-2">{{ message.body }}</p>
-</div>
-{% endfor %}
