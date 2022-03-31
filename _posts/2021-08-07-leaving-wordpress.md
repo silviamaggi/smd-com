@@ -8,10 +8,9 @@ tags:
   - jekyll
   - responsive web design
   - wordpress
-description: An announcement to my WordPress followers.
+description: Announcing to my WordPress followers that I'll be leaving the platform soon. The new site will be built with Jekyll and hosted on Netlify.
 ---
-<p class="lead">An announcement to my WordPress followers.
-Soon, I’ll be starting a process to move away from the platform: my website will have a new house, look, and ways to be managed.</p>
+<p class="lead">An announcement to my WordPress followers. Soon, I’ll be starting a process to move away from the platform: my website will have a new house, look, and ways to be managed.</p>
 
 <!--more-->
 
@@ -19,6 +18,6 @@ This means that my blog posts won’t appear in your feed anymore and, if you’
 
 Leaving is a bittersweet sensation, as it’s been countless years since I’ve had my first WordPress site. But the idea of building a website from scratch, using different and lighter technology, similarly to what I used to do in the early 2000s is nonetheless exciting. 
 
-The new site will be based on [Jekyll](https://jekyllrb.com/){:title="Go to the Jekyll website"}, and hosted by [Cloudflare Pages](https://pages.cloudflare.com/){:title="Go to the Cloudflare Pages website"}. I don’t have a precise timeline, but the switch will probably happen in a month or two. See you on the other side?
+The new site will be based on [Jekyll](https://jekyllrb.com/){:title="Go to the Jekyll website"}, and hosted by [Netlify](https://netlify.com/){:title="Go to Netlify"}. I don’t have a precise timeline, but the switch will probably happen in a month or two. See you on the other side?
 
 <!-- <small>Photo by [Marco Chilese](https://unsplash.com/@chmarco) on Unsplash</small> -->

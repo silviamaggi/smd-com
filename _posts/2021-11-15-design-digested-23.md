@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 23: Imposter syndrome and pockets"
+title: "Imposter syndrome and pockets"
 last_modified_at: '2021-11-15 10:00:51'
 featured-post: false
 categories:
@@ -9,7 +9,7 @@ tags:
   - women in tech
   - design
   - ux
-description: "Design, Digested 23: Imposter syndrome and pockets"
+description: "Design, Digested 23: viewing imposter syndrome from a different perspective. Loretta Staples and women need pockets."
 excerpt: "This week, I gathered articles that made me see this phenomenon from a different perspective. Time to reframe. And pockets. Women need pockets."
 featimage: true
 featimage-alt: "Design, Digested 23 by Silvia Maggi"

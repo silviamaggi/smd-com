@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 27: False empathy, fast fashion, gender pay gap, and more'
+title: 'False empathy, fast fashion, gender pay gap'
 last_modified_at: '2022-03-30 22:24:41'
 featured-post: false
 categories:
@@ -17,7 +17,7 @@ tags:
   - ukraine
   - book
   - photography
-description: "Stop bastardizing design with false empathy, fast fashion and sustainability, gender pay gap, and more."
+description: "Design, Digested 27: stop bastardizing design with false empathy, fast fashion and sustainability, gender pay gap, and more."
 excerpt: "Stop bastardizing design with false empathy, fast fashion and sustainability, gender pay gap, and more."
 featimage: true
 featimage-alt: "Design, Digested 27 by Silvia Maggi"

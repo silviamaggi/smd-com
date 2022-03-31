@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 16: Dark patterns in user interfaces"
+title: "Dark patterns in user interfaces"
 last_modified_at: '2021-09-15 18:42:09'
 featured-post: false
 categories:
@@ -9,7 +9,7 @@ tags:
   - ethical design
   - privacy
   - ux
-description: I share a compelling article about dark patterns in UI to help you recognise them.
+description: 'Design Digested 16: I share two compelling articles about dark patterns in user interfaces to help you recognise them.'
 featimage: true
 featimage-alt: "Design, Digested 16 by Silvia Maggi"
 featimage-class: 'u-featured'

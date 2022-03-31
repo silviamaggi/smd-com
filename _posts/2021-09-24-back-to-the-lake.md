@@ -9,7 +9,7 @@ tags:
   - arona
   - lake maggiore
   - italy
-description: After almost two years, I'm back to Lake Maggiore, visiting my family.
+description: After almost two years, I’m back to Lake Maggiore, visiting my family.
 excerpt: After almost two years, I'm back to Lake Maggiore, visiting my family.
 image-caption: true
 ---

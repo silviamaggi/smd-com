@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 5: Diversity bias"
+title: "Diversity bias"
 last_modified_at: '2022-03-23 15:31:31'
 featured-post: false
 categories:

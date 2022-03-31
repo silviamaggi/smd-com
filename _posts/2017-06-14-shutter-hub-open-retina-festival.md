@@ -1,5 +1,5 @@
 ---
-title: Shutter Hub Open Exhibition 2017 at Retina Photography Festival
+title: Shutter Hub Open 2017 at Retina Photography Festival
 last_modified_at: '2021-09-15 18:39:31'
 featured-post: false
 categories:

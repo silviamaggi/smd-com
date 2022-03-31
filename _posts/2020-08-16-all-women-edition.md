@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 11: All-women edition"
+title: "All-women edition"
 last_modified_at: '2021-09-15 18:41:43'
 featured-post: false
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 18: The importance of sketching in UX"
+title: "The importance of sketching in UX"
 last_modified_at: '2021-09-15 18:09:49'
 featured-post: false
 categories:

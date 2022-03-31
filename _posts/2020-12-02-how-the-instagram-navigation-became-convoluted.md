@@ -67,7 +67,7 @@ In the meantime, if you updated the app and felt lost, know that it’s not you.
 
 ## Conclusions
 
-The products we design or use can get complicated over time, mainly when they become established. It happens when users ask for more features or when they change the way they use it. See [Design, Digested #12 – Struggling with growth](/design-digested/social-media-content-moderation/){:title="View the post on my website"}.
+The products we design or use can get complicated over time, mainly when they become established. It happens when users ask for more features or when they change the way they use it. See [Design, Digested 12 – Struggling with growth](/design-digested/social-media-content-moderation/){:title="View the post on my website"}.
 
 Sometimes it happens when the business model changes: if the goal is to keep people engaged — and watching reels and looking for things to buy do it — then these actions need to take priority on the screen.
 

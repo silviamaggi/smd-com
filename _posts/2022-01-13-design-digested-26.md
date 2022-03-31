@@ -1,5 +1,5 @@
 ---
-title: 'Design, Digested 26: Tabula rasa'
+title: 'Tabula rasa'
 last_modified_at: '2022-01-13 17:08:30'
 featured-post: false
 categories:

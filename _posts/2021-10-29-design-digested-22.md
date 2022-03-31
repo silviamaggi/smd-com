@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 22: the Hook model and UX design’s dirty secret"
+title: "The Hook model and UX design’s dirty secret"
 last_modified_at: '2021-10-29 12:41:08'
 featured-post: false
 categories:
@@ -10,7 +10,7 @@ tags:
   - facebook
   - dark patterns
   - sustainability
-description: "Design, Digested 22: The Hook model and UX design’s dirty secret"
+description: "Design, Digested 22: how to protect ourselves against the Hook model, UX design’s dirty secret, harmful Facebook and more."
 featimage: true
 featimage-alt: "Design, Digested 22 by Silvia Maggi"
 featimage-class: 'u-featured'

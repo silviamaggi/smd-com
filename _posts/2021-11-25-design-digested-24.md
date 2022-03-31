@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 24: User errors, the curb-cut effect, creepy devices"
+title: "User errors, the curb-cut effect, creepy devices"
 last_modified_at: '2021-11-25 13:51:30'
 featured-post: false
 categories:

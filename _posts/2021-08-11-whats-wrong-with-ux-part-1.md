@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 19: What&rsquo;s wrong with UX (Part 1)"
+title: "What’s wrong with UX (Part 1)"
 last_modified_at: '2021-09-15 18:42:41'
 featured-post: false
 categories:

@@ -54,7 +54,7 @@ My database on WordPress ballooned, so I seized the opportunity to delete useles
 
 Speaking of ballooning, a special mention about the *weight* of the website: the previous version, on WordPress, was <code>1.08 GB</code>. Compare that to the current <code>53.6 MB</code>: it's a whopping **20x decrease**. 
 
-In his book *Webwaste*, Gerry McGovern explains how the web changed since 1994. The number of websites, the weight of pages, third-party content and scripts hanging off them, along with their processing demands, all contribute to increasing our digital waste. Which, in turn, **creates pollution**. It's an issue I care about, which finally made me decide to do my part. I first mentioned the book in <a href="/design-digested/biased-ai/" title="Read the post on my website"><em>Design, Digested #7</em></a>.
+In his book *Webwaste*, Gerry McGovern explains how the web changed since 1994. The number of websites, the weight of pages, third-party content and scripts hanging off them, along with their processing demands, all contribute to increasing our digital waste. Which, in turn, **creates pollution**. It's an issue I care about, which finally made me decide to do my part. I first mentioned the book in <a href="/design-digested/biased-ai/" title="Read the post on my website"><em>Design, Digested 7</em></a>.
 
 ## No cookies here
 

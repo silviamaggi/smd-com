@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 4: Black women in UX, foster creativity"
+title: "Black women in UX, foster creativity"
 last_modified_at: '2022-03-23 15:15:42'
 featured-post: false
 categories:

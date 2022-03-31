@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 21: Exploring design cultures"
+title: "Exploring design cultures"
 last_modified_at: '2021-11-20 17:09:18'
 featured-post: false
 categories:

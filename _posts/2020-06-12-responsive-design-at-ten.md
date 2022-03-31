@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 3: Responsive design at 10"
+title: "Responsive design at 10"
 last_modified_at: '2021-09-15 18:40:31'
 featured-post: false
 categories:

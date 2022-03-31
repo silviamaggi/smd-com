@@ -1,6 +1,6 @@
 ---
 title: New journey and new blog
-last_modified_at: '2021-09-13 01:12:32'
+last_modified_at: '2022-03-31 17:03:46'
 featured-post: false
 categories:
   - Personal
@@ -8,7 +8,7 @@ tags:
   - blog
   - italy
   - uk
-description: Follow our blog Oregano Dangereux as my husband and I move back to Italy from the UK.
+description: 'Follow our new blog, Oregano Dangereux, for my husband and I to record thoughts, experiences and memories as we move back to Italy from the UK.'
 featured-image: feat-new-journey-new-blog.jpg
 image-caption: true
 ---
