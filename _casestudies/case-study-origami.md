@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Assets optimisation and trading automation
-robots: 'noindex,follow'
-sitemap: false
 featured-post: false
 type: 'UX, UI'
 casestudy-order: 3
 date: '2022-01-19 16:56:09'
-last_modified_at: '2022-01-25 18:19:59'
+last_modified_at: '2022-03-31 14:54:05'
 description: My work as a solo UX Designer at Origami, a technology company based in Cambridge, UK. Ask me to read the NDA-safe case study.
+excerpt: My work as a solo UX Designer at Origami, a technology company based in Cambridge, UK. Available upon request.
 featured-image: feat-origami-case-study-featured-img.jpg
 featured-image-alt: Origami logo – Ask me to view the Origami case study, protected by NDA
 carousel: false
@@ -16,7 +15,6 @@ toc: false
 custom-cta: true
 custom-cta-title: 'Request the NDA-safe case study'
 custom-url: '/get-in-touch-silviamaggi/'
-excerpt: My work as a solo UX Designer at Origami, a technology company based in Cambridge, UK. Available upon request.
 year: 
   - 2016-2019
 skills:
