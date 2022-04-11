@@ -10,6 +10,7 @@ tags:
   - ux
   - drawing
   - sweden
+  - ikea
 description: "This week: celebrating the web standards with Blue Beanie Day, accessibility, the current state of checkout UX, the meaning of Ikea names, and more."
 excerpt: "This week: celebrating the web standards with Blue Beanie Day, accessibility, the current state of checkout UX, the meaning of Ikea names, and more."
 featimage: true
