@@ -9,12 +9,9 @@ tags:
   - france
   - shutter hub
 description: "I'm presenting three pictures at the Because We Can! exhibition by Shutter Hub, part of Festival Pil'Ours."
+excerpt: 'It is with great excitement that I can say three of my pictures are part of the <em>Because We Can! Exhibition</em> by Shutter Hub, part of Festival Pil’Ours.'
 image-caption: true
 ---
-<p class="lead">It is with great excitement that I can say three of my pictures are part of the <em>Because We Can! Exhibition</em> by Shutter Hub, part of Festival Pil’Ours.</p>
-
-<!--more-->
-
 {% responsive_image_block %}
   path: assets/images/jayne_180718_7736.jpg
   alt: The photos printed on a black placard placed outdoors

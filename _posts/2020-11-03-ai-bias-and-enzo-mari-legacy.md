@@ -10,7 +10,7 @@ tags:
   - ethical design
   - ux
 description: 'The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.'
-excerpt: 'The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.'
+excerpt: 'On the design inspiration new instalment: the role of fear in our lives and how it affects decision-making, how bias in AI happens and the legacy of “giant” of Italian design Enzo Mari.'
 featimage: true
 featimage-alt: 'Design, Digested 13, The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.'
 featimage-class: 'u-featured'
@@ -19,8 +19,6 @@ image-caption: true
 featimage-caption-desc: "Image credits - MS. TECH, PIXOLOGICSTUDIO/SCIENCE PHOTO LIBRARY; Christian Briggs, Daniel Skrok and The Interaction Design Foundation, copyright terms and license - CC-BY-NC-SA 3.0; Ramak Fazel."
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">On the design inspiration new instalment: the role of fear in our lives and how it affects decision-making, how bias in AI happens and the legacy of “giant” of Italian design Enzo Mari.</p>
-
 ## Be afraid! The silent role of fear in decision making
 
 Fear plays a predominant role in our lives. Businesses and products succeed by leveraging this emotion. This article illustrates how they do it, and what we can do as designers to apply this knowledge ethically.

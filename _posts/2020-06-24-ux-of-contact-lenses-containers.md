@@ -8,12 +8,9 @@ tags:
   - design
   - usability
 description: 'Everyday things affects our lives, sometimes making us feel frustrated. This time I analyse the UX of contact lenses containers.'
+excerpt: 'How is the UX of contact lenses containers? It’s easy to overlook what we use daily, and yet everyday things are usually the most frustrating ones.'
 image-caption: true
 ---
-<p class="lead">How is the UX of contact lenses containers? It’s easy to overlook what we use daily, and yet everyday things are usually the most frustrating ones.</p>
-
-<!--more-->
-
 A few months ago, I switched my multipurpose lens solution from a famous brand to an off-brand. Everything went smoothly, until I put the right lens into my left eye, and viceversa.
 
 This little mishap prompted me to understand what went wrong. Of course, I might have been sleepier than usual, or still used to the other brand’s containers. The fact is, I thought my eyesight deteriorated significantly overnight (ouch!).

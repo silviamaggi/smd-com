@@ -13,8 +13,6 @@ description: After almost two years, I’m back to Lake Maggiore, visiting my fa
 excerpt: After almost two years, I'm back to Lake Maggiore, visiting my family.
 image-caption: true
 ---
-<p class="lead p-name">After almost two years, I'm back to Lake Maggiore, visiting my family.</p>
-
 {% responsive_image_block %}
   path: assets/images/20210923-arona-5686.jpg
   alt: Two people on a boat on Lake Maggiore, fishing, with the Angera castle on the background

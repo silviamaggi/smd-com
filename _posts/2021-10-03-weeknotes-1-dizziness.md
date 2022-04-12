@@ -11,13 +11,9 @@ tags:
   - personal
   - photography
 description: 'This is the beginning of a new series, where I tell you about my week.'
-excerpt: 'This is the beginning of a new series, where I tell you about my week.'
+excerpt: 'In a bid to write more frequently, and to track events that might go overlooked, I’m starting to write weeknotes. I’m enjoining other people’s weekly reports because they feel personal. They could also be a good way to remind ourselves how many things we accomplish as opposed to what we perceive. Let’s start!'
 image-caption: true
 ---
-<p class="lead">In a bid to write more frequently, and to track events that might go overlooked, I'm starting to write weeknotes. I'm enjoining other people's weekly reports because they feel personal. They could also be a good way to remind ourselves how many things we accomplish as opposed to what we perceive. Let's start!</p>
-
-<!--more-->
-
 <ul class="smd-ul">
   <li>While <a href="https://minutestomidnight.co.uk" title="Go to Simone's website">Simone</a> went to Milan last week, I stayed with my parents after <a href="/photography/back-to-the-lake/" title="See the post 'Back to the Lake'">almost two years</a>.</li>
   <li>On Saturday, I joined him in Milan, bringing most of our stuff with my dad.</li>

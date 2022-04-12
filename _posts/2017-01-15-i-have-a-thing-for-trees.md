@@ -19,7 +19,7 @@ featimage-name: '201701-angleseyabbey-2366'
 image-caption: true
 featimage-caption-desc: 'Bloossoms, Anglesey Abbey, March 2016'
 ---
-<p class="lead">The last time I was out and about with the intention of taking pictures, was in November 2016, in <a href="/photography/the-berlin-fascination/" title="View the blog post 'The Berlin Fascination' on my website">Berlin</a>.</p>
+The last time I was out and about with the intention of taking pictures, was in November 2016, in [Berlin](/photography/the-berlin-fascination/ "View the blog post 'The Berlin Fascination' on my website").
 
 After that, it took me some time to organise and process the work I came back with. During the Christmas holidays, I read a few articles about post-processing in Lightroom and learned a few tricks I wanted to apply to older photos. Time flew.
 

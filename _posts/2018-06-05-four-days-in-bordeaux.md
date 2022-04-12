@@ -9,16 +9,13 @@ tags:
   - france
   - travel
 description: 'My husband and I spent four days in Bordeaux, France. Read about what we saw and did, and look at the photos I took in this beautiful city.'
+excerpt: 'A few weeks ago, my husband and I travelled outside the UK for a different reason other than visiting family and friends: we spent four days in Bordeaux.'
 featimage-alt: "Place du Parlement in Bordeaux at sunset"
 featimage-class: 'u-featured'
 featimage-name: 'feat-20180524_bordeaux_2793'
 image-caption: true
 featimage-caption-desc: 'Place du Parlement, Bordeaux'
 ---
-<p class="lead">A few weeks ago, my husband and I travelled outside the UK for a different reason other than visiting family and friends: we spent four days in Bordeaux.</p>
-
-<!--more-->
-
 {% responsive_image_block %}
   path: assets/images/{{ page.featimage-name | append: '.jpg' }}
   alt: {{ page.featimage-alt }}

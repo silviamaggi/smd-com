@@ -25,7 +25,7 @@ mentionType: reply
   caption: New website, new branding
 {% endresponsive_image_block %}
 
-<p class="detached">About a month after <a href="/personal/leaving-wordpress/" title="Read the post 'Leaving WordPress' on my website">announcing it</a>, I'm excited to welcome you to my new virtual house. Can I offer you a drink?</p>
+<p>About a month after <a href="/personal/leaving-wordpress/" title="Read the post 'Leaving WordPress' on my website">announcing it</a>, I'm excited to welcome you to my new virtual house. Can I offer you a drink?</p>
 
 <a href="https://minutestomidnight.co.uk" title="Go to Simone's website">Simone</a> and I built my new website from scratch using **Jekyll** — a static site generator — and <a href="/colophon/" title="Read more about the technology used on my website">several other tools</a>. *I now have complete control over the code*. It felt natural to refresh logo and styling as well, like it often happens during a home restoration. I made some important changes, too. Let me show you around.
 

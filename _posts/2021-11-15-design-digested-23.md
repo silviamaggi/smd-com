@@ -19,10 +19,6 @@ image-caption: true
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">Many times I had thought, said, and been told that I suffer from <em>imposter syndrome</em>. Many of my friends, mostly female, have said so too. This week, I gathered articles that made me see this phenomenon from a different perspective. Time to reframe.</p>
-
-<!--more-->
-
 ## Stop telling women they have imposter syndrome
 
 > The answer to overcoming imposter syndrome is not to fix individuals but to create an environment that fosters a variety of leadership styles and in which diverse racial, ethnic, and gender identities are seen as just as professional as the current model, [&hellip;] “Eurocentric, masculine, and heteronormative.”

@@ -9,12 +9,9 @@ tags:
   - italy
   - art
 description: 'How is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.'
+excerpt: 'Stepping into our new house for the summer, I wonder: how is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.'
 image-caption: true
 ---
-<p class="lead">Stepping into our new house for the summer, I wonder: how is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.</p>
-
-<!--more-->
-
 {% responsive_image_block %}
   path: assets/images/20210628-ravenna_5660.jpg
   alt: A colourful watercolour painting of a woman at the entrance of a house

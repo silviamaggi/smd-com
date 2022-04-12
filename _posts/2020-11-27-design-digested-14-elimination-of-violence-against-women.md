@@ -8,8 +8,8 @@ tags:
   - sexism
   - online violence
   - generationequality
-description: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
-excerpt: The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.
+description: 'The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.'
+excerpt: 'The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.'
 featimage: true
 featimage-alt: "Design, Digested by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -18,8 +18,8 @@ image-caption: false
 featimage-caption-desc:
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">25 November marks the <a href="https://www.un.org/en/observances/ending-violence-against-women-day" title="Go to the UN website">International Day for the Elimination of Violence against Women</a>.
-This year the day is even more important as data and reports show that violence against women and girls intensified during the pandemic.</p>
+25 November marks the [International Day for the Elimination of Violence against Women](https://www.un.org/en/observances/ending-violence-against-women-day "Go to the UN website").
+This year the day is even more important as data and reports show that violence against women and girls intensified during the pandemic.
 
 ## There’s a pandemic of online violence against women and girls
 

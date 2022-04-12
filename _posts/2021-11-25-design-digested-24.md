@@ -20,10 +20,6 @@ image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">This week: how to prevent user errors, the <em>curb-cut effect</em>, how creepy is that device, and users adapting to technology that wasn't designed with them in mind.</p>
-
-<!--more-->
-
 ## How designers can prevent user errors
 
 The term <em>user error</em> implies it's the users' fault when they do something wrong. Most of the times, though, the responsability lies with the designers that created confusing interfaces. In this article you'll find the most effective ways to prevent errors to occur in the first place. 

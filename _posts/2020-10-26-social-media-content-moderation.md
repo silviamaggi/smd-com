@@ -10,6 +10,7 @@ tags:
   - facebook
   - social media
 description: "This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism."
+excerpt: 'After a two-month <a href="/photography/after-the-rain/" title="Read the blog post ’After the rain’ on my website">hiatus</a>, the design inspiration series is back with a focus on social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.'
 featimage: true
 featimage-alt: "Design, Digested 12 by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -18,10 +19,6 @@ image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">After a two-month <a href="/photography/after-the-rain/" title="Read the blog post 'After the rain' on my website">hiatus</a>, the design inspiration series is back with a focus on social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.</p>
-
-<!--more-->
-
 ## What happened when humans stopped managing social media content
 
 As the pandemic took hold of the world, Facebook, Google and Twitter sent their workers home. Algorithms took their place. How did it go?

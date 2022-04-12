@@ -9,13 +9,10 @@ tags:
   - italy
   - uk
 description: 'Follow our new blog, Oregano Dangereux, for my husband and I to record thoughts, experiences and memories as we move back to Italy from the UK.'
+excerpt: 'New journey and new blog for my husband and I to record thoughts, experiences and memories. After nine years, we’re going back to our home country, Italy, where we’ll stay until the pandemic is under control.'
 featured-image: feat-new-journey-new-blog.jpg
 image-caption: true
 ---
-<p class="lead">New journey and new blog for my husband and I to record thoughts, experiences and memories. After nine years, we’re going back to our home country, Italy, where we’ll stay until the pandemic is under control.</p>
-
-<!--more-->
-
 {% responsive_image_block %}
   path: assets/images/north-sea-cromer.jpg
   alt: A still sea with a storm brewing above

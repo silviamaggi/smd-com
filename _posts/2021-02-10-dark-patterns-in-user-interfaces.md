@@ -10,6 +10,7 @@ tags:
   - privacy
   - ux
 description: 'Design Digested 16: I share two compelling articles about dark patterns in user interfaces to help you recognise them.'
+excerpt: 'Recently, I read a couple of compelling blog post about dark patterns in user interfaces copy. An essential read to understand what they are, how they’re used to deceive people and how to recognise them.'
 featimage: true
 featimage-alt: "Design, Digested 16 by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -18,10 +19,6 @@ image-caption: false
 featimage-caption-desc:
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">Recently, I read a couple of compelling blog post about dark patterns in user interfaces copy. An essential read to understand what they are, how they’re used to deceive people and how to recognise them.</p>
-
-<!--more-->
-
 The many examples of UI dark patterns in the articles show how shady the internet has become, with the line between encouraging people to use a product and tricking them into handing over personal data or money being thinner than ever. The articles are an essential read if you are:
 
 <ul class="smd-ul">

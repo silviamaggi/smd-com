@@ -10,6 +10,7 @@ tags:
   - social media
   - book
 description: "Here are the culture and design books I'm reading. Some are ideal if you're a designer, others are either very interesting or funny — or both — for anyone."
+excerpt: 'As a child, I always had books with me. I loved losing myself into good stories, to the point it hurt when they finished. In later years, my attention span became ridiculously short.'
 featimage: true
 featimage-alt: "Books lined up with and the writing Recommended reads by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -17,10 +18,6 @@ featimage-name: 'feat-recommended-reads'
 image-caption: true
 featimage-caption-desc: 'Photo by <a href="https://unsplash.com/@drewcoffman">Drew Coffman</a>, composition by Silvia Maggi'
 ---
-<p class="lead">As a child, I always had books with me. I loved losing myself into good stories, to the point it hurt when they finished. In later years, my attention span became ridiculously short.</p>
-
-<!--more-->
-
 Recently, I managed to finish a few titles I’ve been dragging for months and start a few more. Some of them are ideal if you’re a designer, others are either very interesting or funny — or both — for anyone.
 
 ## The Culture Map, by Erin Meyer

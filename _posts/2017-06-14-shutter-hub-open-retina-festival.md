@@ -11,13 +11,10 @@ tags:
   - world war ii
   - after 1989
   - uk
-description: "My photo 'The Day I Glimpsed Inside Your Soul' will be part of the Shutter Hub Open Exhibition 2017, at the Retina Scottish International Photography Festival."
+description: "My photo ’The Day I Glimpsed Inside Your Soul’ will be part of the Shutter Hub Open Exhibition 2017, at the Retina Scottish International Photography Festival."
+excerpt: 'I am excited and honoured to announce that my photo <em>The Day I Glimpsed Inside Your Soul</em> will be part of the <em>Shutter Hub Open Exhibition 2017</em>, at the <em>Retina Scottish International Photography Festival</em>.'
 image-caption: true
 ---
-<p class="lead">I am excited and honoured to announce that my photo <em>The Day I Glimpsed Inside Your Soul</em> will be part of the <em>Shutter Hub Open Exhibition 2017</em>, at the <em>Retina Scottish International Photography Festival</em>.</p>
-
-<!--more-->
-
 {% responsive_image_block %}
   path: assets/images/20161122_silviamaggi_glimpsedsoul_3926.jpg
   alt: The entrance gate at Sachsenhausen concentration camp with the writing Arbeit macht frei

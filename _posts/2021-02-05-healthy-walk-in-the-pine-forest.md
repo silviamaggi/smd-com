@@ -8,11 +8,8 @@ tags:
   - ravenna
   - italy
 description: "Today I took a few pictures of the pine forest with my phone. It's a great feature to have close to home as an alternative to walking on the beach."
+excerpt: 'A pine forest looks and smells so good it’s impossible to resist it. It’s a great feature to have close to home, as an alternative to walking on the beach or staring at a screen.'
 ---
-<p class="lead">A pine forest looks and smells so good it’s impossible to resist it. It’s a great feature to have close to home, as an alternative to walking on the beach or staring at a screen.</p>
-
-<!--more-->
-
 I only had my phone with me, nonetheless, I took a few pictures before retracing our steps to go back home. It’s been an 8 km hike. Yikes.
 
 {% responsive_image_block %}

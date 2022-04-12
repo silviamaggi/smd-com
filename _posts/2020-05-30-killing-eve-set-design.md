@@ -13,6 +13,7 @@ tags:
   - design
   - planned obsolesence
 description: 'First instalment of my design inspiration series. Killing Eve set design, accessibility on social media, bad design vs good design, and more.'
+excerpt: 'First instalment of my design inspiration series. This week: <em>Killing Eve</em> set design, accessibility on social media, bad design vs good design, and more.'
 featimage: true
 featimage-alt: "Design, Digested 1 by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -21,10 +22,6 @@ image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">First instalment of my design inspiration series. This week: <em>Killing Eve</em> set design, accessibility on social media, bad design vs good design, and more.</p>
-
-<!--more-->
-
 ## Dressing Scenes For Killing Eve Was “Like Finding Treasure”, Says Set Decorator
 
 The third series of *Killing Eve* is out. I have yet to watch it, and this article tickled my curiosity. Set decorator Casey Williams explains how set design and location choices were key to express the radically different lifestyles of Eve Polastri and Villanelle. It’s fascinating to read how nothing is left to chance, and how every little detail serves the purpose of telling the story of each character.

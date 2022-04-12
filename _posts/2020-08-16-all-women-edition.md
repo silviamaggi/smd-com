@@ -21,10 +21,6 @@ image-caption: true
 featimage-caption-desc: "Image credits - Shaniqwa Jarvis, Sara Wong, Emma"
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.</p>
-
-<!--more-->
-
 ## Meet the computer scientist and activist who got Big Tech to stand down
 
 Four years ago, as as a graduate at MIT’s Media Lab, Joy Buolamwini started looking at the racial, skin type and gender imbalances in facial recognition technologies. Her research helped persuade Amazon, IBM, and Microsoft to put a hold on facial recognition technology.

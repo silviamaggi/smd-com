@@ -12,13 +12,10 @@ tags:
   - nature
   - cambridge
   - uk
-description: After the initial shock, the lockdown and subsequent isolation prompted me to point the lens to my emotions and immediate surroundings.
+description: 'After the initial shock, the lockdown and subsequent isolation prompted me to point the lens to my emotions and immediate surroundings.'
 excerpt: "Between the ups and downs of the global pandemic and lockdown, I kept taking pictures. I intended to have a photo diary to describe my take on isolation and the extraordinary circumstances we're living."
 image-caption: false
 ---
-
-<p class="lead">Between the ups and downs of the global pandemic and lockdown, I kept taking pictures. I intended to have a photo diary to describe my take on isolation and the extraordinary circumstances we’re living.</p>
-
 {% responsive_image_block %}
   path: assets/images/isolation-photo-diary-silviamaggi-2.jpg
   alt: Hand on matress between pillows

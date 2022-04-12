@@ -11,12 +11,9 @@ tags:
   - rombout frieling lab
   - research institutes of sweden
 description: "A deep understanding of users' needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers."
+excerpt: 'A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.'
 image-caption: true
 ---
-<p class="lead">A deep understanding of users’ needs allows for great design and innovation. The station of being bus stop improves the waiting experience for travellers.</p>
-
-<!--more-->
-
 {% responsive_image_block %}
   path: assets/images/station-of-being-samuel-pettersson.jpg
   alt: The station of being by night, with green lights, a bus and six people standing

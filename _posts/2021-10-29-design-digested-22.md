@@ -11,6 +11,7 @@ tags:
   - dark patterns
   - sustainability
 description: "Design, Digested 22: how to protect ourselves against the Hook model, UX design’s dirty secret, harmful Facebook and more."
+excerpt: 'This week: how to protect ourselves against the Hook model, <em>UX Theatre</em>, dark patterns, and circular economy.'
 featimage: true
 featimage-alt: "Design, Digested 22 by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -19,10 +20,6 @@ image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">This week: how to protect ourselves against the Hook model, <em>UX Theatre</em>, dark patterns, and circular economy.</p>
-
-<!--more-->
-
 ## The Hook Model: when our hormones work against us
 
 > You’re probably subjected to it whether you know it or not. The book that introduced the Hook model has sold over 250K copies in over 20 languages. This framework aims to maximise engagement on a product, which is techspeak for making you spend as much time as possible on it, making you visit as many pages as possible, maximising the number of daily active users, etc. We are prone to this model because it leverages the specific way our brain has been moulded to ensure our survival. For all that, we can still learn to protect ourselves against it.

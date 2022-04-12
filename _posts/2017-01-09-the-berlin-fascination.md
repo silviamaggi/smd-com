@@ -13,14 +13,14 @@ excerpt: "Berlin is well known for being a fresh ever-changing city. By walking 
 featured-image: feat_berlin_4132.jpg
 image-caption: true
 ---
-<p class="lead">Watching the documentary <a href="http://www.bbc.co.uk/iplayer/episode/b088ktm6/david-bowie-the-last-five-years" title="View the documentary on the BBC Player"><em>David Bowie: The Last Five Years</em></a>, I realised there still were two excellent albums for me to discover. I somehow missed <em>The Next Day</em>, and, knowing it was supposed to be his parting gift, I’ve never been able to fully listen to <em>Blackstar</em>.</p>
-
 {% responsive_image_block %}
   path: assets/images/20161123-rathaus-4132.jpg
   alt: A subway station facing a lake on a sunny winter day in Berlin
   caption-true: {{ page.image-caption }}
   caption: Rathaus Schöneberg station
 {% endresponsive_image_block %}
+
+Watching the documentary [_David Bowie: The Last Five Years_](http://www.bbc.co.uk/iplayer/episode/b088ktm6/david-bowie-the-last-five-years "View the documentary on the BBC Player"), I realised there still were two excellent albums for me to discover. I somehow missed _The Next Day_, and, knowing it was supposed to be his parting gift, I’ve never been able to fully listen to _Blackstar_.
 
 As per the documentary though, _Blackstar_ was never supposed to be a goodbye so I might give it a go now. Funny how the mind works.
 

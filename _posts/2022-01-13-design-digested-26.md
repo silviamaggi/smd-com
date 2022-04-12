@@ -22,10 +22,6 @@ image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">Stop solving problems in design, drop <em>The Lean Startup</em>, what to do instead of counting clicks, an oral history of Beastie Boys’ artwork and more.</p>
-
-<!--more-->
-
 ## Why UX researchers should stop solving problems
 
 > Often UX designers are focused on the solution, he said, rather than a deeper consideration of the people they’re trying to help. That’s partly because designers only control part of the experience, said Portigal, who appeared via videoconferencing from California where he’s based.

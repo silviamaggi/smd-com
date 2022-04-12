@@ -9,11 +9,8 @@ tags:
   - responsive web design
   - wordpress
 description: Announcing to my WordPress followers that I'll be leaving the platform soon. The new site will be built with Jekyll and hosted on Netlify.
+excerpt: 'An announcement to my WordPress followers. Soon, I’ll be starting a process to move away from the platform: my website will have a new house, look, and ways to be managed.'
 ---
-<p class="lead">An announcement to my WordPress followers. Soon, I’ll be starting a process to move away from the platform: my website will have a new house, look, and ways to be managed.</p>
-
-<!--more-->
-
 This means that my blog posts won’t appear in your feed anymore and, if you’re following me via email, you’ll stop receiving them in your inbox. At the moment, I don’t have an alternative to provide, so the best way to keep in touch would be to sign up to my mailing list. 
 
 Leaving is a bittersweet sensation, as it’s been countless years since I’ve had my first WordPress site. But the idea of building a website from scratch, using different and lighter technology, similarly to what I used to do in the early 2000s is nonetheless exciting. 

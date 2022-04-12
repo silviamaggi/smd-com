@@ -13,6 +13,7 @@ tags:
   - design
   - race
 description: 'Design inspiration series. Design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.'
+excerpt: 'Design inspiration series. This week: design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.'
 featimage: true
 featimage-alt: "Design, Digested 2 by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -21,10 +22,6 @@ image-caption: true
 featimage-caption-desc: 'Image credits - C. Daniela Shapiro (@cds.art ), Leo and Diane Dillon, Spotify'
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">Design inspiration series. This week: design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.</p>
-
-<!--more-->
-
 ## The Design Community Must Not Stay Silent
 
 Harrison Wheeler invites the design community to use their power to question systems that are not right. We work with empathy, reasearch and solution-based approaches every day. It’s time we use the same techniques to find better ways to support and uplift our black neighbours, friends and colleagues.

@@ -11,6 +11,7 @@ tags:
 - design
 - photography
 description: "This week's Design, Digested series features inclusive language, the work of women designers, and the healing power of photography."
+excerpt: 'This week: inclusive language, the work of women designers, and the healing power of photography.'
 featimage: true
 featimage-alt: "Design, Digested 20 by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -19,10 +20,6 @@ image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">This week: inclusive language, the work of women designers, and the healing power of photography.</p>
-
-<!--more-->
-
 ## Do Gender-Neutral Pronouns Need Their Own Glyphs?
 
 > Typography is what language looks like.

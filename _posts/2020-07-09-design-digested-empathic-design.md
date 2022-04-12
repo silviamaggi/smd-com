@@ -12,6 +12,7 @@ tags:
   - videogames
   - ux
 description: 'Design inspiration series. Four anti-racist lessons, problems with empathic design and the misogyny of the workforce.'
+excerpt: 'Design inspiration series. This week: four anti-racism lessons, Don Norman doesn’t believe in empathic design and working in tech as a woman.'
 featimage-alt: "Design, Digested 6 by Silvia Maggi"
 featimage: true
 featimage-class: 'u-featured'
@@ -20,10 +21,6 @@ image-caption: true
 featimage-caption-desc: 'Image credits - Angelina Bambina/Adobe Stock, XD Ideas, Vox'
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">Design inspiration series. This week: four anti-racism lessons, Don Norman doesn’t believe in empathic design and working in tech as a woman.</p>
-
-<!--more-->
-
 ## 4 Lessons On Anti-Racism From Brené Brown And Ibram X. Kendi
 
 The root of racism is self-interest, say Brené Brown and Ibram X. Kendi. They offer us four valuable lessons to add to our anti-racist toolbox. You’ll find the entire podcast at the bottom of the article. What I found most striking is that shame doesn’t help anyone. Instead, we need to have honest conversations and accept that we’ll make mistakes along the way.

@@ -13,7 +13,8 @@ tags:
   - bad doors
   - book
   - invisible women
-description: Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.
+description: 'Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.'
+excerpt: 'Design inspiration series. This week: diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.'
 featimage: true
 featimage-alt: "Design, Digested 5 by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -22,10 +23,6 @@ image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">Design inspiration series. This week: diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.</p>
-
-<!--more-->
-
 ## Are You Building Straight, White, Male, Middle-class Products For Straight, White, Male, Middle-class People?
 
 Phil Bennett wrote a compelling article that touches the main problems in tech: diversity and bias. A must-read, all backed by data.

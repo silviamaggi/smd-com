@@ -9,7 +9,7 @@ tags:
   - drawing
   - ux
 description: "Sketching is one of the most important tools a UX Designer should master. Let's explore why, how, and go beyond."
-excerpt: "I'm sure you've encountered many posts about which tool is best for wireframing. Yet, one of UX designers' most important and basic tool is sketching."
+excerpt: "I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is sketching. If you know how to convey your ideas and concepts through sketches, the rest follows."
 featimage: true
 featimage-alt: "Design, Digested 18 by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -18,10 +18,6 @@ image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">I'm sure you've encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is sketching. If you know how to convey your ideas and concepts through sketches, the rest follows.</p>
-
-<!--more-->
-
 Unless you were hired to create a UX team from scratch, chances are you’ll have to adapt to use whatever software your company is using: Axure, Adobe, Figma, Sketch and so on. The one skill you’ll have to develop is the willingness to put as many ideas as possible on paper, and leave behind the ones that don’t work.
 
 Up until recently, drawing — or even writing something on a whiteboard — terrified me. I’m very self-conscious about my bad writing, and being left-handed often led me to present smudges to people. An article from the Interaction Design Foundation convinced me to get over my fears and start sketching, even in my day-to-day life. Jose Rojas, the article’s author, highlights the advantages and methods of sketching. However, what struck me most was the following advice:

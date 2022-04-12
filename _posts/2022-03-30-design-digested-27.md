@@ -27,11 +27,6 @@ image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-{: .lead}
-Stop bastardizing design with false empathy, fast fashion and sustainability, gender pay gap, and more.
-
-<!--more-->
-
 ## Stop bastardizing design with false empathy
 A long and necessary read that reclaims the concept of *empathy*, which is currently misunderstood and misused in the business world. 
 

@@ -9,12 +9,9 @@ tags:
   - navigation
   - bottom navigation
 description: "With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let's briefly explore how."
+excerpt: 'With the introduction of significant layout changes — the tabs Reel and Shop — the Instagram navigation became convoluted. Let’s briefly explore how.'
 image-caption: true
 ---
-<p class="lead">With the introduction of significant layout changes — the tabs Reel and Shop — the Instagram navigation became convoluted. Let’s briefly explore how.</p>
-
-<!--more-->
-
 ## The reason
 
 [Announcing the changes](https://about.instagram.com/blog/announcements/introducing-reels-and-shop-tabs){:title="Read the announcement on Instagram's website"}, Adam Mosseri, Head of Instagram, pointed out how the pandemic changed the way people use the app. Short and entertaining videos became prominent, and people started buying more online. Young people and creators are at the centre of Instagram’s focus, which is the reason behind the positioning of the two new tabs in the bottom navigation.

@@ -18,9 +18,7 @@ featimage-name: 'feat-sam-rios-unsplash'
 image-caption: true
 featimage-caption-desc: 'Photo by <a href="https://unsplash.com/@samr1os_official">Sam Rios</a>'
 ---
-<p class="lead">In my latest <em>Design, Digested</em> post titled <a href="/design-digested/importance-of-sketching-in-ux/" title="Read the post on my website">The importance of sketching in UX and beyond</a>, I enthusiastically suggested sketching every day.  As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing <em>what</em> to draw, and then give up.</p>
-
-<!--more-->
+In my latest _Design, Digested_ post titled [The importance of sketching in UX and beyond](/design-digested/importance-of-sketching-in-ux/ "Read the post on my website"), I enthusiastically suggested sketching every day. As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up.
 
 Being a life-long learner, I love to develop news skills. However, if there is something I know about myself, is that I need structure and some guidance, otherwise every attempt will be void.
 

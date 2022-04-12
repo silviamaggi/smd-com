@@ -17,8 +17,6 @@ featimage-name: '20160819-cromer-33121'
 image-caption: true
 featimage-caption-desc: 'The Nothern sea from a window'
 ---
-<p class="lead">A short holiday in Cromer, and the excitement of getting to the sea, reminded me of my childhood summer holidays.</p>
-
 As a kid, the biggest event of the year was waking up incredibly early to reach the southern regions of Italy for almost a month-long holiday.
 
 I would spend hours in the backseat of the car, with a stereo, cassettes, a few books and a pillow. I used to wake up at dawn, turn my head left, and see the first sunlight of the day refracting on [Lake Lesina](https://en.wikipedia.org/wiki/Lake_Lesina){:title="Read about Lake Lesina on Wikipedia"}. Further ahead, a small stripe of land and then, barely visible, the sea.

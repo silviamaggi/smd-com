@@ -13,6 +13,7 @@ tags:
   - ux
   - videogames
 description: 'Design inspiration series. Inclusive design, problematic social media facts, and a great music project.'
+excerpt: 'On week number 10 of my design inspiration series, I share resources about inclusive design, problematic social media facts, and a great music project.'
 featimage: true
 featimage-alt: "Design, Digested 10 by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -21,10 +22,6 @@ image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">On week number 10 of my design inspiration series, I share resources about inclusive design, problematic social media facts, and a great music project.</p>
-
-<!--more-->
-
 ## Why is designing for inclusion still treated as optional?
 
 Karishma Patel takes us through her journey to integrate accessibility and inclusive design in UX work, and the barriers she encouters. She shares valuable resources and, if you’re interested in more, check the links at the bottom of my article _[How Rebranding Cost Ravelry the Trust of Their Community](/design/ravelry-rebranding/){:title="Read the article on my website"}_.

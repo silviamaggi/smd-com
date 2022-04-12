@@ -11,11 +11,9 @@ tags:
   - london
   - uk
 description: "On Thursday 6th October 2016, Shutter Hub and the Old Girl's Club launched GIRL TOWN at London Photomonth, and I'm proudly part of it."
-excerpt: "On Thursday 6th October 2016, Shutter Hub and the Old Girl's Club launched GIRL TOWN at London Photomonth, and I'm proudly part of it."
+excerpt: "On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched <em>GIRL TOWN Exhibition</em> at London Photomonth, and I’m very proudly part of it."
 image-caption: true
 ---
-<p class="lead">On Thursday 6th October 2016, Shutter Hub and the Old Girl’s Club launched <em>GIRL TOWN Exhibition</em> at London Photomonth, and I’m very proudly part of it.</p>
-
 {% responsive_image_block %}
   path: assets/images/girl-town-silviamaggi-entry.jpg
   alt: Pensive woman seated in a conservatory with a green garden in the background and a helmet, shoes and pot of flowers around her

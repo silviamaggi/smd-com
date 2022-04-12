@@ -11,6 +11,7 @@ tags:
   - london
   - uk
 description: "Two pictures of mine are part of the Shutter Hub exhibition in London and Amsterdam between October 2018 and January 2019."
+excerpt: 'It’s a pleasure to announce that I partecipated as a contributor at the <em>Shutter Hub Open Exhibition 2018</em>, which took place in London and Amsterdam.'
 featimage: true
 featimage-alt: "The pictures exhibited at The Old Truman Brewery on a white wall"
 featimage-class: 'u-featured'
@@ -18,10 +19,6 @@ featimage-name: 'feat-JayneLloyd_ShutterHubOPEN_PhotoMonth_ExhibitionTheOldTruma
 image-caption: true
 featimage-caption-desc: 'Credit - Jayne Lloyd / Shutter Hub at Photomonth, The Old Truman Brewery, London'
 ---
-<p class="lead">It's a pleasure to announce that I partecipated as a contributor at the <em>Shutter Hub Open Exhibition 2018</em>, which took place in London and Amsterdam.</p>
-
-<!--more-->
-
 Presenting 150 photographers, and over 200 full tabloid sized newspaper prints, the exhibition debuted in October 2018 at [The Old Truman Brewery in London](https://www.trumanbrewery.com/){:title="Go to the Old Truman Brewery website"}, part of Photomonth London.
 
 It ran from 4-9 October 2018. The exhibition then relocated to Amsterdam, at 5&33 Gallery from 7 December 2018 to 21 January 2019.

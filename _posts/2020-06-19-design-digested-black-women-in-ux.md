@@ -13,6 +13,7 @@ tags:
   - david bowie
   - racism
 description: 'Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.'
+excerpt: 'Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.'
 featimage-alt: "Design, Digested 4 by Silvia Maggi"
 featimage: true
 featimage-class: 'u-featured'
@@ -21,10 +22,6 @@ image-caption: true
 featimage-caption-desc: 'Image credits - Ann O., <a href="https://unsplash.com/photos/suZyHko1JEs">Stephanie McCabe</a>'
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.</p>
-
-<!--more-->
-
 ## Black Women In UX: The World Was Not Designed For us, But It Can Be Redesigned
 
 Product Designer Ann O. shares her experience as a black woman in UX. White people designed the world for white people, and now it’s the right time for a redesign. It starts with empathy and representation.

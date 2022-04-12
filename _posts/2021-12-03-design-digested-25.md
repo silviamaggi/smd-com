@@ -21,10 +21,6 @@ image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">This week: celebrating the web standards with Blue Beanie Day, accessibility, the current state of the UX of checkout processes, the meaning of Ikea names, and more.</p>
-
-<!--more-->
-
 ## Blue Beanie Day
 
 Ever since 2007, November 30 marks the invitation to design accessible, web-standards-based websites. Check also Jeffrey Zeldman's seminal book <a href="https://www.goodreads.com/book/show/259072.Designing_with_Web_Standards">Designing with Web Standards</a>.

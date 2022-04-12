@@ -9,8 +9,8 @@ tags:
   - sustainability
   - pandemic
   - COVID-19
-description: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
-excerpt: The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.
+description: 'The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.'
+excerpt: 'The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.'
 featimage: true
 featimage-alt: "German industrial designer Dieter Rams on a cinema screen"
 featimage-class: 'u-featured'
@@ -18,8 +18,6 @@ featimage-name: 'feat-charlie-deets'
 image-caption: true
 featimage-caption-desc: 'Photo by <a href="https://unsplash.com/@charliedeets">Charlie Deets</a>'
 ---
-<p class="lead">The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.</p>
-
 > If somebody asked you to redesign the society of the future, what would it look like?
 
 ## The pandemic brought our lives to a halt

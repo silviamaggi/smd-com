@@ -9,12 +9,9 @@ tags:
   - nature
   - uk
 description: 'Today I took time to appreciate my surroundings. After the rain shower, I shot a few pictures in my garden.'
+excerpt: 'Today, I used the tripod to take a few short videos in the garden. I took time to appreciate my surroundings after a rain shower.'
 image-caption: false
 ---
-<p class="lead">Today, I used the tripod to take a few short videos in the garden. I took time to appreciate my surroundings after a rain shower.</p>
-
-<!--more-->
-
 {% responsive_image_block %}
   path: assets/images/after-the-rain-silviamaggi-1.jpg
   alt: A purple wild flower among green plants against a conservatory glass

@@ -9,11 +9,8 @@ tags:
   - photography
   - social media
 description: "I deactivated my Instagram account. What now? If it sounds like a big a deal, it's because it is. My first week post-Instagram."
+excerpt: 'If it sounds like a big deal, it’s because it is. For someone passionate about photography, deciding to break with one of the most popular social networks might seem counter-productive.'
 ---
-<p class="lead">If it sounds like a big deal, it’s because it is. For someone passionate about photography, deciding to break with one of the most popular social networks might seem counter-productive.</p>
-
-<!--more-->
-
 By not being on Instagram, I miss out on great pictures, knowing what my _online friends_ are up to, and lovely and funny conversations. The harsh reality is that when someone leaves a tool that almost everyone uses, it can be trickier to keep in touch. Sometimes it might even become impossible because the thing you had in common doesn’t connect you anymore.
 
 ## Attention, please

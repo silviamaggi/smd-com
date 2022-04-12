@@ -10,7 +10,7 @@ tags:
   - photography
   - privacy
 description: 'Design, Digested 15. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.'
-excerpt: 'Design, Digested 15. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.'
+excerpt: 'This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.'
 featimage: true
 featimage-alt: "Design, Digested by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -19,9 +19,6 @@ image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
-
-<p class="lead">Design inspiration series. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.</p>
-
 ## Undoing the toxic dogmatism of digital design
 
 _How do we start to dismantle and rebuild a system that disempowers and excludes “by design”?_, asks Lisa Angela. The design industry’s accepted and most practised ways of creating digital products are flawed, as is the way we educate aspiring designers.  

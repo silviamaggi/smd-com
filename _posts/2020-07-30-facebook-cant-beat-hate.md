@@ -10,6 +10,7 @@ tags:
   - world wide web
   - women in tech
 description: "Design inspiration series. Why Facebook can't beat hate, a safe haven for press freedom, a game to recognise disinformation."
+excerpt: 'Design inspiration series. Why Facebook can’t beat hate, a safe haven for press freedom, a game to recognise disinformation.'
 featimage: true
 featimage-alt: 'Design, Digested 9 by Silvia Maggi'
 featimage-class: 'u-featured'
@@ -18,10 +19,6 @@ image-caption: true
 featimage-caption-desc: "Photo credits - Justin Sullivan/Getty Images, Reporters Without Borders"
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">Design inspiration series. Why Facebook can’t beat hate, a safe haven for press freedom, a game to recognise disinformation.</p>
-
-<!--more-->
-
 ## ‘They don’t think it’s important’: Ellen Pao on why Facebook can’t beat hate
 
 Ellen Pao talks about the lessons she learned and the mistakes she made while working to detoxify Reddit in 2014. She explains why it’s clear that Facebook doesn’t take content moderation seriously.

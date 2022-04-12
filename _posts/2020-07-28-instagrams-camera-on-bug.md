@@ -9,11 +9,8 @@ tags:
   - privacy
   - social media
 description: "Instagram is reportedly fixing the camera on bug, which was discovered by a user while testing Apple's iOS 14 beta version."
+excerpt: 'Instagram is reportedly fixing the camera-on bug, which was discovered by a user while testing Apple’s iOS 14 beta version.'
 ---
-<p class="lead">Instagram is reportedly fixing the camera-on bug, which was discovered by a user while testing Apple’s iOS 14 beta version.</p>
-
-<!--more-->
-
 The upcoming iOS 14 alerts users every time apps access phone features like clipboard and camera. A person who is testing the beta version found out that Instagram switches the camera — and arguably the microphone — on when browsing the feed.
 
 An Instagram spokesperson said the behaviour is a bug, which is being fixed. Last year, [Facebook fixed a similar issue](https://www.theverge.com/2019/11/12/20961332/facebooks-ios-app-reportedly-camera-background-security){:title="Read the article 'Facebook’s iOS app might be opening the camera in the background without your knowledge' on The Verge"}. Apple’s new privacy notifications are going to be incredibly useful to understand whether and how apps are violating our privacy. I hope this will be the start of better practices and transparency.

@@ -15,6 +15,7 @@ tags:
   - mobile
   - COVID-19
 description: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'
+excerpt: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'
 featimage: true
 featimage-alt: "Design, Digested 3 by Silvia Maggi"
 featimage-class: 'u-featured'
@@ -23,10 +24,6 @@ image-caption: false
 featimage-caption-desc:
 permalink: '/design-digested/:title/'
 ---
-<p class="lead">Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.</p>
-
-<!--more-->
-
 ## German Politicians Don’t Talk About The Virus Like Other Nations. Here’s What It Means
 
 Language matters. A lot. Humans thrive on stories: it’s the way our brains encode memories while we make sense of them and find meaning. The words we use to tell stories set the tone and our perception. This is crucial for storytelling in design and life alike.

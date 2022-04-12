@@ -10,12 +10,10 @@ tags:
   - cambridge
   - uk
 description: 'Starting 12 December 2016, until 22 January 2017, my photo, Boatspotting, is part of the Hot Numbers Open Exhibition in Cambridge.'
-excerpt: 'Starting 12 December 2016, until 22 January 2017, my photo, Boatspotting, is part of the Hot Numbers Open Exhibition in Cambridge.'
+excerpt: 'Starting 12 December 2016, until 22 January 2017, my photo, <em>Boatspotting</em>, is part of the <em>Hot Numbers Open Exhibition</em> in Cambridge.'
 featured-image: feat-20160506-img_2730.jpg
 image-caption: true
 ---
-<p class="lead">Starting 12 December 2016, until 22 January 2017, one of my photos is part of the <em>Hot Numbers Open Exhibition</em> in Cambridge.</p>
-
 {% responsive_image_block %}
   path: assets/images/20160506-boatspotting-img_27301.jpg
   alt: Two people seated on a bench facing a large cruise ship on a sunny day
