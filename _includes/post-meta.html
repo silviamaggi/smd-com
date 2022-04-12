@@ -11,8 +11,8 @@
   <tbody>
     {% unless page.collection == 'newsletters' %}
     <tr class="post-taxonomy">
-      <td style="width:50px">
-        <span class="smd-font-micro text-uppercase me-1">{% if page.url contains '/portfolio/' %}Year{% else %}Topic{% endif %}</span>
+      <td class="text-end" style="width:50px">
+        <span class="smd-font-micro text-uppercase me-1">{% if page.url contains '/portfolio/' %}Year{% else %}Category{% endif %}</span>
       </td>
       <td>
       {% if page.url contains '/portfolio/' %}
@@ -26,7 +26,7 @@
     {% endunless %}
     {% if page.url contains '/portfolio/' %}
     <tr>
-      <td style="width:50px">
+      <td class="text-end" style="width:50px">
         <span class="smd-font-micro text-uppercase me-1">Skills</span>
       </td>
       <td>
@@ -36,7 +36,7 @@
       </td>
     </tr>
     <tr>
-      <td style="width:50px">
+      <td class="text-end" style="width:50px">
         <span class="smd-font-micro text-uppercase me-1">Tools</span>
       </td>
       <td>
@@ -53,7 +53,7 @@
       {%- else -%}
         {%- assign tags = page.tags -%}
       {%- endif -%}
-      <td style="width:50px">
+      <td class="text-end" style="width:50px">
         <span class="d-inline-block smd-font-micro text-uppercase me-1">Tags</span>
       </td>
       <td>
@@ -61,7 +61,7 @@
       </td>
     </tr>
     <tr>
-      <td style="width:50px"><span class="d-inline-block smd-font-micro text-uppercase me-1">Date</span></td>
+      <td class="text-end" style="width:50px"><span class="d-inline-block smd-font-micro text-uppercase me-1">Date</span></td>
       <td>
         {%- if post -%}
           {% assign date = post.date %}
