@@ -1,8 +1,12 @@
 ---
+title: 'Note about news consumption'
 date: '2022-02-25'
 last_modified_at: '2022-02-25 16:07:24'
+categories:
+  - Notes
 tags:
   - news
+type: note
 description: 'A day before Russia invaded Ukraine, I was suggested an article with an interesting perspective on the TV and internet newscasts.'
 excerpt: 'A day before Russia invaded Ukraine, I was suggested an article with an interesting perspective on the TV and internet newscasts.'
 ---

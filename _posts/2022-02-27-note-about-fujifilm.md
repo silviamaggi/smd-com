@@ -1,8 +1,12 @@
 ---
+title: 'Note about Fujufilm'
 date: '2022-02-28'
 last_modified_at: '2022-02-28 11:27:28'
+categories:
+  - Notes
 tags:
   - photography
+type: note
 description: 'Fujufilm cameras internal battery resets the device when left without charge for too long.'
 excerpt: 'Fujifilm cameras have an internal battery built to retain the settings. If left too long without the main battery inserted, it will empty, resetting the camera.'
 ---

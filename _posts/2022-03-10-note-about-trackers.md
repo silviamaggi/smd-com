@@ -1,8 +1,12 @@
 ---
+title: 'Note about trackers'
 date: '2022-03-10'
 last_modified_at: '2022-03-10 10:29:41'
+categories:
+  - Notes
 tags:
   - trackers
+type: note
 description: "Laura Kalbag answers CSS-Tricks' question 'What is one thing people can do to make their website better?'"
 excerpt: "Laura Kalbag answers CSS-Tricks' question <em>What is one thing people can do to make their website better?</em>"
 ---

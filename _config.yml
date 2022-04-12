@@ -24,7 +24,6 @@ brand:
   smd_tagline: Hi, I’m Silvia
   smd_pitch: A designer striving to create meaningful digital experiences.
   smd_latestposts_limit: 2
-  smd_latestnotes_limit: 1
 
 exclude: 
   - node_modules/
@@ -61,11 +60,6 @@ defaults:
       type: "jeremybearimies"
     values:
       layout: "jeremy"
-  - scope:
-      path: ""
-      type: "notes"
-    values:
-      layout: "note"
 
 # Collections
 collections:
@@ -78,9 +72,6 @@ collections:
   newsletters:
     output: true
     permalink: /newsletter/:path/
-  notes:
-    output: true
-    permalink: /notes/:path/
   jeremybearimies:
     output: true
     permalink: /jeremybearimy/:path/
@@ -102,9 +93,6 @@ excerpt_separator: <!--more-->
 # Feeds
 feed:
   posts_limit: 20
-  collections:
-    notes:
-      path: "/notes.xml"
 
 # Responsive images
 responsive_image:

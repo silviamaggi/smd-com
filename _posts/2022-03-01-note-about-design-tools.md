@@ -1,8 +1,12 @@
 ---
+title: 'Note about design tools'
 date: '2022-03-01'
 last_modified_at: '2022-03-02 00:13:25'
+categories:
+  - Notes
 tags:
   - designtools
+type: note
 description: 'On design tools'
 excerpt: "There is no perfect design tool."
 ---
