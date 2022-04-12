@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: casestudy
 title: 'After 1989: A Trip To Freedom'
 date: 2021-04-14
 last_modified_at: '2022-02-17 16:23:49'

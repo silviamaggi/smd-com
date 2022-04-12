@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: casestudy
 title: Assets optimisation and trading automation
 featured-post: false
 type: 'UX, UI'

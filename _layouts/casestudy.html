@@ -1,0 +1,47 @@
+---
+layout: default
+---
+{% include site-breadcrumbs.html %}
+<article class="h-entry smd-entry">
+  <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
+  <div class="post-meta">
+    {%- include post-meta.html %}
+    <div class="visually-hidden">{% include pattern-hcard-post.html %}</div>
+  </div>
+  {% unless page.toc == false %}
+  {% comment %}
+    *-------------------------
+    TOC accordion
+    -------------------------*
+  {% endcomment %}
+  <nav class="smd-accordion smd-accordion-arrows pt-3">
+    <input type="radio" name="accordion" id="smd-accordion-1" class="visually-hidden" />
+    <div class="smd-accordion-box">
+      <label class="smd-accordion-box-title" for="smd-accordion-1"><h3 class="h4 my-0">Table of contents</h3></label>
+      <label class="smd-accordion-box-close" for="smd-accordion-close"><span class="visually-hidden">Close table of contents</span></label>
+      <div class="smd-accordion-box-content">
+        {% include pattern-toc.html html=content sanitize=true class="inline_toc smd-ul smd-serif" id="smd-casestudy-toc" h_min=2 h_max=3 %}
+      </div>
+    </div>
+    <input type="radio" name="accordion" id="smd-accordion-close" class="visually-hidden" />
+  </nav>
+  {% endunless %}
+  {% comment %}
+    *-------------------------
+    End TOC accordion
+    -------------------------*
+  {% endcomment %}
+  <div class="e-content">
+    {%- if page.featimage == true %}
+      {% responsive_image_block %}
+        path: assets/images/{{ page.featimage-name | append: '.jpg' }}
+        alt: {{ page.featimage-alt }}
+        class: {{ page.featimage-class }}
+        caption-true: {{ page.image-caption }}
+        caption: {{ page.featimage-caption-desc }}
+      {% endresponsive_image_block %}
+    {% endif -%}
+    {{ content }}
+  </div>
+
+  {%- include post-navigation.html -%}

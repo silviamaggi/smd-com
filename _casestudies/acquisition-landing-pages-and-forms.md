@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: casestudy
 title: UniCredit acquisition landing pages and forms
 featured-post: false
 type: 'UX, UI'
