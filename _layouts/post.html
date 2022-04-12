@@ -1,95 +1,42 @@
 ---
 layout: default
 ---
+{%- if post -%}
+  {%- assign categories = post.categories -%}
+{%- else -%}
+  {%- assign categories = page.categories -%}
+{%- endif -%}
 {% include site-breadcrumbs.html %}
-
-{%- if page.mention == true %}
-
 <article class="smd-entry">
-  <h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
-  <div class="post-meta">
-    {%- include post-meta.html %}
-  </div>
-  <div class="h-entry mt-5">
-    <div class="visually-hidden">
-      {% include pattern-hcard-post.html %}
-      {%- if post -%}
-      {%- assign categories = post.categories -%}
-      {%- else -%}
-      {%- assign categories = page.categories -%}
-      {%- endif -%}
-      {%- for category in categories -%}
-      <span class="p-category">{{ category | upcase | replace:"-"," " }}</span>
-      {%- endfor -%}
-      {% for tag in tags %}
-      <span class="p-category">{{ tag | upcase }}</span>
-      {% endfor %}
+  <div class="h-entry">
+    <h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
+    <div class="post-meta">
+      {%- include post-meta.html %}
+      <span class="visually-hidden">
+        {% include pattern-hcard-post.html %}
+      </span>
     </div>
-    <p>{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></p>
     <p class="p-name detached lead lh-sm">{{ page.excerpt }}</p>
+    {% if page.mention == true %}
+    <p>{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></p>
+    {% endif %}
     <div class="e-content mt-5">
+      {%- if page.featimage == true %}
+        {% responsive_image_block %}
+          path: assets/images/{{ page.featimage-name | append: '.jpg' }}
+          alt: {{ page.featimage-alt }}
+          class: {{ page.featimage-class }}
+          caption-true: {{ page.image-caption }}
+          caption: {{ page.featimage-caption-desc }}
+        {% endresponsive_image_block %}
+      {% endif -%}
       {{ content }}
     </div>
   </div>
   {%- include pattern-responses.html -%}
-</article>
-
-{%- else -%}
-
-<article class="h-entry smd-entry">
-  <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
-  <div class="post-meta">
-    {%- include post-meta.html %}
-    <div class="visually-hidden">{% include pattern-hcard-post.html %}</div>
-  </div>
-  {% if page.url contains '/portfolio/' %}
-  {% unless page.toc == false %}
-  {% comment %}
-    *-------------------------
-    TOC accordion
-    -------------------------*
-  {% endcomment %}
-  <nav class="smd-accordion smd-accordion-arrows pt-3">
-    <input type="radio" name="accordion" id="smd-accordion-1" class="visually-hidden" />
-    <div class="smd-accordion-box">
-      <label class="smd-accordion-box-title" for="smd-accordion-1"><h3 class="h4 my-0">Table of contents</h3></label>
-      <label class="smd-accordion-box-close" for="smd-accordion-close"><span class="visually-hidden">Close table of contents</span></label>
-      <div class="smd-accordion-box-content">
-        {% include pattern-toc.html html=content sanitize=true class="inline_toc smd-ul smd-serif" id="smd-casestudy-toc" h_min=2 h_max=3 %}
-      </div>
-    </div>
-    <input type="radio" name="accordion" id="smd-accordion-close" class="visually-hidden" />
-  </nav>
-  {% endunless %}
-  {% comment %}
-    *-------------------------
-    End TOC accordion
-    -------------------------*
-  {% endcomment %}
-  {% endif %}
-  <div class="e-content">
-    {%- if page.featimage == true %}
-      {% responsive_image_block %}
-        path: assets/images/{{ page.featimage-name | append: '.jpg' }}
-        alt: {{ page.featimage-alt }}
-        class: {{ page.featimage-class }}
-        caption-true: {{ page.image-caption }}
-        caption: {{ page.featimage-caption-desc }}
-      {% endresponsive_image_block %}
-    {% endif -%}
-    {{ content }}
-  </div>
-  {% unless page.url contains "/newsletter/" or page.url contains "/portfolio/" %}
-  {%- include pattern-responses.html -%}
+  {% unless page.url contains "/newsletter/" %}
+  {%- include pattern-relatedposts.html -%}
   {% endunless %}
 </article>
-
-{% endif -%}
-
 {%- include post-navigation.html -%}
-
-{% unless page.url contains "/newsletter/" or page.url contains "/portfolio/" %}
-{%- include pattern-relatedposts.html -%}
-{% endunless %}
-
-<div class="d-block d-md-none text-center mb-5{% if page.url contains '/newsletter/archive/' %} mt-5{% endif %}">{% unless page.url contains '/portfolio/' %}{%- include pattern-buymeacoffee.html %}{% endunless %}</div>
+<div class="d-block d-md-none text-center mb-5{% if page.url contains '/newsletter/archive/' %} mt-5{% endif %}">{%- include pattern-buymeacoffee.html %}</div>
