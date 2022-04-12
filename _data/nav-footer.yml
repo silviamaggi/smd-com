@@ -1,11 +1,9 @@
-- name: Search
-  link: /search/
-- name: RSS feed
-  link: /feed.xml
 - name: Archive
   link: /archive/
 - name: Newsletter
   link: /newsletter/
+- name: RSS feed
+  link: /feed.xml
 - name: Notes
   link: /notes/
 - name: Jeremy Bearimy
