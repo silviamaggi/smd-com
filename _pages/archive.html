@@ -1,36 +1,80 @@
 ---
-layout: default
+layout: page
 title: Archive
 date: 2021-08-20 13:00
-last_modified_at: 2021-08-25T17:45:22
+last_modified_at: '2022-04-12 15:55:16'
+description: 'Browse the full archive of case studies, blog posts by year, categories and tags.'
+excerpt: 'Browse the full archive of case studies, blog posts by year, categories and tags.'
 permalink: /archive/
 ---
-{% include site-breadcrumbs.html %}
-<div class="h-entry">
-  <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
-  <div class="e-content">
-    <h2 class="my-5">Categories</h2>
-    <ol class="h-feed list-unstyled list-inline">
-    {% assign sorted_cats = site.categories | sort %}
-    {% for category in sorted_cats %}
-    {% assign c = category | first %}
-    {% assign posts = category | last %}
-      <li class="list-inline-item mb-4 me-4">
-        <a class="btn btn-lg btn-label-smd btn-label-lg-smd btn-label-smd-bg btn-label-smd-link px-4 py-2" href="{{ site.url }}/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
-      </li>
+<section class="h-feed">
+  <h2 class="p-name mt-5">Case studies</h2>
+  <ul class="h-feed list-group list-group-flush ps-0">
+    {% for casestudy in site.casestudies %}
+    <li class="list-group-item ps-0">
+      👩🏻‍💻 <a class="p-name" href="{{ casestudy.url }}" title="{{ casestudy.title }}">{{ casestudy.title }}</a>
+    </li>
     {% endfor %}
-    </ol>
-    <h2 class="mb-5 pt-4">Tags</h2>
-    <ol class="h-feed list-unstyled list-inline">
-    {% assign sorted_tags = site.tags | sort %}
-    {% for tag in sorted_tags %}
-    {% assign t = tag | first %}
-    {% assign posts = tag | last %}
-      <li class="list-inline-item mb-4 me-4">
-        <a class="btn btn-lg btn-label-smd btn-label-lg-smd btn-label-smd-bg btn-label-smd-link px-4 py-2" href="{{ site.url }}/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
-      </li>
+  </ul>
+</section>
+
+<section class="h-feed">
+  <h2 class="p-name mt-5">Side projects</h2>
+  <ul class="h-feed list-group list-group-flush ps-0">
+    {% for casestudy in site.sideprojects %}
+    <li class="list-group-item ps-0">
+      📸 <a class="p-name" href="{{ casestudy.url }}" title="{{ casestudy.title }}">{{ casestudy.title }}</a>
+    </li>
     {% endfor %}
-    </ol>    
-  </div>
-  {% include pattern-hcard-pages.html %}
-</div>
+  </ul>
+</section>
+
+<section class="h-feed">
+  <h2 class="p-name mt-5">Blog</h2>
+  {% for post in site.posts %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+    {% if forloop.first %}
+    <div class="mb-5">
+      <h3 id="{{ this_year }}-ref">{{ this_year }}</h3>
+      <ul class="h-feed list-group list-group-flush ps-0">
+    {% endif %}
+        <li class="list-group-item ps-0">{% if post.url contains '/notes/' %}📝{% else %}📄{% endif %} <a href="{{ post.url }}" class="p-name u-url">{{ post.title }}</a></li>
+        {% if forloop.last %}
+      </ul>
+    </div>
+</section>
+{% else %}
+{% if this_year != next_year %}
+      </ul>
+    </div>
+    <div class="mb-5">
+      <h3 id="{{ next_year }}-ref">{{ next_year }}</h3>
+      <ul class="h-feed list-group list-group-flush ps-0">
+{% endif %}
+{% endif %}
+{% endfor %}
+
+<h2 class="p-name my-5">Categories</h2>
+<ol class="h-feed list-unstyled list-inline">
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
+{% assign c = category | first %}
+{% assign posts = category | last %}
+  <li class="list-inline-item mb-4 me-4">
+    <a class="btn btn-lg btn-label-smd btn-label-lg-smd btn-label-smd-bg btn-label-smd-link px-4 py-2" href="{{ site.url }}/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
+  </li>
+{% endfor %}
+</ol>
+<h2 class="mb-5">Tags</h2>
+<ol class="h-feed list-unstyled list-inline">
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+{% assign t = tag | first %}
+{% assign posts = tag | last %}
+  <li class="list-inline-item mb-4 me-4">
+    <a class="btn btn-lg btn-label-smd btn-label-lg-smd btn-label-smd-bg btn-label-smd-link px-4 py-2" href="{{ site.url }}/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
+  </li>
+{% endfor %}
+</ol>
+{% include pattern-hcard-pages.html %}
