@@ -34,7 +34,7 @@ layout: default
     </div>
   </div>
   {%- include pattern-responses.html -%}
-  {% unless page.url contains "/newsletter/" %}
+  {% unless page.url contains "/newsletter/" or "/notes/" %}
   {%- include pattern-relatedposts.html -%}
   {% endunless %}
 </article>
