@@ -1,13 +1,13 @@
 ---
 title: 'Note about mammography'
 date: '2022-04-14'
-last_modified_at: '2022-04-15 00:24:00'
+last_modified_at: '2022-04-15 00:39:00'
 categories:
   - Notes
 tags:
   - mammography
 type: note
-description: ""
+description: "A note about mammography, pain, and possible new designs to make the examination more comfortable and less painful for people of all ages."
 excerpt: "This morning I went for a mammography. In Italy, the examination is offered for prevention from the age of 40."
 ---
 In the UK it’s offered starting from the age of 50. It wasn’t my first time, though, as I had one during a senology visit when I lived in Cambridge and was just under 40. Why does it have to be so painful and uncomfortable? Didn’t anyone thought of a better way to perfom the same test? A quick search revealed that someone did. 
