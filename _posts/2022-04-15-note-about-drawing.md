@@ -1,7 +1,7 @@
 ---
 title: 'Note about Drawabox'
 date: '2022-04-15'
-last_modified_at: '2022-04-15 14:10:21'
+last_modified_at: '2022-04-15 17:53:04'
 categories:
   - Notes
 tags:
@@ -27,3 +27,6 @@ Like many others, I have issues with the latter. Sometimes it's difficult to com
   caption-true: {{ page.image-caption }}
   caption: The leaves-like composition I drew using the app Sketchbook on my tablet
 {% endresponsive_image_block %}
+
+{: .detached }
+🔗 [Read about the 50% rule](https://drawabox.com/lesson/0/2){: title="Drawabox website"} (on Drawabox website)
