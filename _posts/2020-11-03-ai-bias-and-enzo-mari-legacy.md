@@ -9,7 +9,7 @@ tags:
   - enzo mari
   - ethics
   - ux
-  - font
+  - typography
 description: 'The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.'
 excerpt: 'On the design inspiration new instalment: the role of fear in our lives and how it affects decision-making, how bias in AI happens and the legacy of “giant” of Italian design Enzo Mari.'
 featimage: true

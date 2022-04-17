@@ -13,7 +13,7 @@ tags:
   - hamburger menu
   - bottom navigation
   - mobile
-  - COVID-19
+  - covid-19
   - language
 description: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'
 excerpt: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'

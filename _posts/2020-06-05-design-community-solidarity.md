@@ -8,10 +8,9 @@ tags:
   - book
   - diversity
   - equality
-  - solidarity
   - inclusion
   - design
-  - race
+  - racism
   - senongo akpem
   - erin meyer
   - reni eddo-lodge

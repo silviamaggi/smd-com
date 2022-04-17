@@ -13,7 +13,7 @@ tags:
   - the uncensored library
   - minecraft
   - reporters without borders
-  - COVID-19
+  - covid-19
 description: "Design inspiration series. Why Facebook can't beat hate, a safe haven for press freedom, a game to recognise disinformation."
 excerpt: 'Design inspiration series. Why Facebook can’t beat hate, a safe haven for press freedom, a game to recognise disinformation.'
 featimage: true

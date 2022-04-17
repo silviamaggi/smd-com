@@ -9,7 +9,7 @@ tags:
   - sustainability
   - design
   - pandemic
-  - COVID-19
+  - covid-19
 description: 'The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.'
 excerpt: 'The current pandemic crisis reveales the shortcomings of our society. We have the opportunity to change and shape a better and sustainable society for everyone.'
 featimage: true

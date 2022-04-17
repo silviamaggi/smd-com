@@ -10,7 +10,7 @@ tags:
   - joy buolamwini
   - privacy
   - sexism
-  - racial bias
+  - racism
   - wordpress
   - women in tech
   - es devlin

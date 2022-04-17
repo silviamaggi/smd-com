@@ -5,7 +5,7 @@ featured-post: false
 categories:
   - Design Digested
 tags:
-  - ux research
+  - user research
   - the lean startup
   - information architecture
   - beastie boys

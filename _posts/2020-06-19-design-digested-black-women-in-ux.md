@@ -8,7 +8,7 @@ tags:
   - creativity
   - facial recognition
   - women in tech
-  - COVID-19
+  - covid-19
   - ux
   - david bowie
   - racism

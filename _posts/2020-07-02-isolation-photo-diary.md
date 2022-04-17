@@ -9,7 +9,7 @@ tags:
   - photo project
   - pandemic
   - lockdown
-  - COVID-19
+  - covid-19
   - nature
   - cambridge
   - uk

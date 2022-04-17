@@ -6,7 +6,6 @@ categories:
   - Photography
 tags:
   - nature
-  - tree
   - photography
   - cambridge
   - anglesey abbey

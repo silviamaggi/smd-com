@@ -5,7 +5,6 @@ featured-post: false
 categories:
   - Personal
 tags:
-  - blog
   - oregano dangereux
   - italy
   - cromer

@@ -10,9 +10,9 @@ tags:
   - inclusion
   - ethics
   - women in tech
-  - font
+  - typography
   - facebook
-  - racial bias
+  - racism
   - twitter
   - ux
   - videogames

@@ -8,7 +8,7 @@ tags:
   - sexism
   - online violence
   - generationequality
-  - COVID-19
+  - covid-19
   - telegram
   - oxford dictionaries
   - maria beatrice giovarnardi

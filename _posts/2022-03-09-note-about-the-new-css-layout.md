@@ -5,7 +5,7 @@ last_modified_at: '2022-03-09 16:21:23'
 categories:
   - Notes
 tags:
-  - CSS
+  - css
 type: note
 description: "This quote from Rachel Andrew's book 'The New CSS Layout' keeps echoing in my head."
 excerpt: "This quote from Rachel Andrew's book <em>The New CSS Layout</em> keeps echoing in my head."
