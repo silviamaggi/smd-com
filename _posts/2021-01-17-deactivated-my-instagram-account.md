@@ -12,6 +12,7 @@ tags:
   - photography
   - flickr
   - facebook
+  - personal
 description: "I deactivated my Instagram account. What now? If it sounds like a big a deal, it's because it is. My first week post-Instagram."
 excerpt: 'If it sounds like a big deal, it’s because it is. For someone passionate about photography, deciding to break with one of the most popular social networks might seem counter-productive.'
 ---

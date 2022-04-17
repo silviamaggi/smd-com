@@ -8,6 +8,7 @@ tags:
   - jekyll
   - responsive web design
   - wordpress
+  - personal
 description: "Announcing to my WordPress followers that I’ll be leaving the platform soon. The new site will be built with Jekyll and hosted on Netlify."
 excerpt: 'An announcement to my WordPress followers. Soon, I’ll be starting a process to move away from the platform: my website will have a new house, look, and ways to be managed.'
 ---
