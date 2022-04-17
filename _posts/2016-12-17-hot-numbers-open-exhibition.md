@@ -1,6 +1,6 @@
 ---
 title: Hot Numbers Open Exhibition
-last_modified_at: '2021-09-15 18:38:55'
+last_modified_at: '2022-04-17 15:22:37'
 featured-post: false
 categories:
   - Photography
@@ -9,6 +9,8 @@ tags:
   - shutter hub
   - cambridge
   - uk
+  - marina di ravenna
+  - italy
 description: 'Starting 12 December 2016, until 22 January 2017, my photo, Boatspotting, is part of the Hot Numbers Open Exhibition in Cambridge.'
 excerpt: 'Starting 12 December 2016, until 22 January 2017, my photo, <em>Boatspotting</em>, is part of the <em>Hot Numbers Open Exhibition</em> in Cambridge.'
 featured-image: feat-20160506-img_2730.jpg

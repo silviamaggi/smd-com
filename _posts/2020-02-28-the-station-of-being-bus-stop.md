@@ -6,6 +6,7 @@ categories:
   - Design
 tags:
   - ux
+  - design
   - sweden
   - umeå
   - rombout frieling lab

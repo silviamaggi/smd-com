@@ -1,6 +1,6 @@
 ---
 title: How the Instagram navigation became convoluted
-last_modified_at: '2021-09-15 18:16:39'
+last_modified_at: '2022-04-17 15:20:11'
 featured-post: false
 categories:
   - UX
@@ -8,6 +8,8 @@ tags:
   - instagram
   - navigation
   - bottom navigation
+  - ux
+  - design
 description: "With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let's briefly explore how."
 excerpt: 'With the introduction of significant layout changes — the tabs Reel and Shop — the Instagram navigation became convoluted. Let’s briefly explore how.'
 image-caption: true

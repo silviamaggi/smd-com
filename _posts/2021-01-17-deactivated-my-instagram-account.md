@@ -1,6 +1,6 @@
 ---
 title: I deactivated my Instagram account. What now?
-last_modified_at: '2021-09-15 18:16:59'
+last_modified_at: '2022-04-17 15:54:43'
 featured-post: false
 categories:
   - Personal
@@ -8,6 +8,10 @@ tags:
   - instagram
   - photography
   - social media
+  - creativity
+  - photography
+  - flickr
+  - facebook
 description: "I deactivated my Instagram account. What now? If it sounds like a big a deal, it's because it is. My first week post-Instagram."
 excerpt: 'If it sounds like a big deal, it’s because it is. For someone passionate about photography, deciding to break with one of the most popular social networks might seem counter-productive.'
 ---

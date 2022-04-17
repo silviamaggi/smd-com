@@ -1,15 +1,18 @@
 ---
 title: "User errors, the curb-cut effect, creepy devices"
-last_modified_at: '2021-11-25 13:51:30'
+last_modified_at: '2022-04-17 16:39:18'
 featured-post: false
 categories:
   - Design Digested
 tags:
   - ux
+  - design
   - accessibility
+  - curb-cut effect
   - privacy
   - inclusion
   - facebook
+  - jacques cousteau
 description: "This week: how to prevent user errors, the curb-cut effect, how creepy is that device, and users adapting to technology that wasn't designed with them in mind."
 excerpt: "This week: how to prevent user errors, the curb-cut effect, how creepy is that device, and users adapting to technology that wasn't designed with them in mind."
 featimage: true
@@ -56,11 +59,11 @@ Cambodians are ignoring keyboards, which are not designed for Khmer. They've ada
 
 <p class="detached">🔗 <a href="https://www.nationalgeographic.com/history/article/the-man-who-taught-humans-to-breathe-like-fish">Read the article</a> (on National Geographic)</p>
 
-<hr>
+---
 
-<p class="detached"><a href="/newsletter/" title="Go to the Newsletter page">Design, Digested</a> is a newsletter about design, tech, and their implication in our lives.</p>
+[Design, Digested](/newsletter/ "Go to the Newsletter page") is a newsletter about design, tech, and their implication in our lives. Would you like a preview? Check the [**newletter archive**](/newsletter/archive/).
 
-{%- include pattern-newsletter-sub.html %}
+{% include pattern-newsletter-sub.html %}
 
 
 

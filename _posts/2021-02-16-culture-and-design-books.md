@@ -1,14 +1,20 @@
 ---
 title: Brilliant culture and design books I’m reading
-last_modified_at: '2022-03-23 14:07:50'
+last_modified_at: '2022-04-17 16:00:02'
 featured-post: false
 categories:
   - Books
 tags:
   - design
   - culture
+  - inclusion
   - social media
   - book
+  - erin meyer
+  - jaron lanier
+  - senongo akpem
+  - guy pratt
+  - beppe severgnini
 description: "Here are the culture and design books I'm reading. Some are ideal if you're a designer, others are either very interesting or funny — or both — for anyone."
 excerpt: 'As a child, I always had books with me. I loved losing myself into good stories, to the point it hurt when they finished. In later years, my attention span became ridiculously short.'
 featimage: true

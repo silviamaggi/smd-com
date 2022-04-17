@@ -1,6 +1,6 @@
 ---
 title: "Undoing toxic dogmatism; designing less"
-last_modified_at: '2021-09-13 01:02:29'
+last_modified_at: '2022-04-17 15:21:01'
 featured-post: false
 categories:
   - Design Digested
@@ -9,6 +9,10 @@ tags:
   - design
   - photography
   - privacy
+  - google
+  - elliott erwitt
+  - don norman
+  - pareto principle
 description: 'Design, Digested 15. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.'
 excerpt: 'This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.'
 featimage: true

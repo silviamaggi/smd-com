@@ -1,14 +1,15 @@
 ---
 title: "Fear, AI bias and Enzo Mari legacy"
-last_modified_at: '2022-02-22 16:49:12'
+last_modified_at: '2022-04-17 15:49:31'
 featured-post: false
 categories:
   - Design Digested
 tags:
-  - ai bias
+  - ai
   - enzo mari
-  - ethical design
+  - ethics
   - ux
+  - font
 description: 'The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.'
 excerpt: 'On the design inspiration new instalment: the role of fear in our lives and how it affects decision-making, how bias in AI happens and the legacy of “giant” of Italian design Enzo Mari.'
 featimage: true

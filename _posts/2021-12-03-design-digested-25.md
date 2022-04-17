@@ -1,14 +1,16 @@
 ---
 title: "Blue Beanie Day, UX of checkout flows, Ikea names"
-last_modified_at: '2021-12-03 17:42:03'
+last_modified_at: '2022-04-17 16:41:26'
 featured-post: false
 categories:
   - Design Digested
 tags:
   - accessibility
   - web standards
+  - blue beanie day
   - ux
   - drawing
+  - bruno munari
   - sweden
   - ikea
 description: "This week: celebrating the web standards with Blue Beanie Day, accessibility, the current state of checkout UX, the meaning of Ikea names, and more."
@@ -63,9 +65,9 @@ Most of Ikea names categorised and explained by Lars Petrus.
 
 <p class="detached">🔗 <a href="https://lar5.com/ikea/">Consult the dictionary</a> </p>
 
-<hr>
+---
 
-<p class="detached"><a href="/newsletter/" title="Go to the Newsletter page">Design, Digested</a> is a newsletter about design, tech, and their implication in our lives.</p>
+[Design, Digested](/newsletter/ "Go to the Newsletter page") is a newsletter about design, tech, and their implication in our lives. Would you like a preview? Check the [**newletter archive**](/newsletter/archive/).
 
-{%- include pattern-newsletter-sub.html %}
+{% include pattern-newsletter-sub.html %}
 

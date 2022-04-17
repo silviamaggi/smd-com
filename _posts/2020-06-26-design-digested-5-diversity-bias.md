@@ -1,6 +1,6 @@
 ---
 title: "Diversity bias"
-last_modified_at: '2022-03-23 15:31:31'
+last_modified_at: '2022-04-17 17:04:45'
 featured-post: false
 categories:
   - Design Digested
@@ -9,10 +9,11 @@ tags:
   - diversity
   - ux
   - design
-  - UI
+  - ui
   - bad doors
   - book
   - invisible women
+  - gender data gap
 description: 'Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.'
 excerpt: 'Design inspiration series. This week: diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.'
 featimage: true

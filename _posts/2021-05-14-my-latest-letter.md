@@ -1,13 +1,20 @@
 ---
 title: My latest letter
-last_modified_at: '2021-09-15 18:16:49'
+last_modified_at: '2022-04-17 16:06:13'
 featured-post: false
 categories:
   - Design
 tags:
   - book
-  - letter
+  - newsletter
   - photography
+  - design
+  - erika hall
+  - jhumpa lahiri
+  - silicon valley
+  - for all mankind
+  - sound of metal
+  - simone bossi
 description: "Every couple of weeks, I write a letter to the nice people subscribed to Design, Digested. This is the one where I didn't know what to write."
 excerpt: 'Every couple of weeks, I write a letter to the nice people subscribed to <a href="/newsletter/" title="View the newsletter archive"><em>Design, Digested</em></a>. Today, I want to share the latest with you. As there weren’t any new blog posts or projects to announce, I didn’t know what to write. Yet, I ended up writing a lot.'
 featimage: true

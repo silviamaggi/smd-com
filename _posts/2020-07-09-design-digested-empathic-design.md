@@ -1,6 +1,6 @@
 ---
 title: "Anti-Racism, misogyny of the workforce"
-last_modified_at: '2022-03-23 15:33:33'
+last_modified_at: '2022-04-17 15:31:35'
 featured-post: false
 categories:
   - Design Digested
@@ -11,6 +11,9 @@ tags:
   - empathy
   - videogames
   - ux
+  - don norman
+  - shigeru miyamoto
+  - super mario bros
 description: 'Design inspiration series. Four anti-racist lessons, problems with empathic design and the misogyny of the workforce.'
 excerpt: 'Design inspiration series. This week: four anti-racism lessons, Don Norman doesn’t believe in empathic design and working in tech as a woman.'
 featimage-alt: "Design, Digested 6 by Silvia Maggi"

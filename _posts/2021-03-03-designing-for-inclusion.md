@@ -1,6 +1,6 @@
 ---
 title: "Start designing for inclusion"
-last_modified_at: '2021-09-15 18:10:20'
+last_modified_at: '2022-04-17 16:02:26'
 featured-post: false
 categories:
   - Design Digested
@@ -9,6 +9,7 @@ tags:
   - inclusion
   - women in tech
   - ux
+  - design
 description: 'What does it mean designing for inclusion? Inclusive design is gaining a lot of attention lately, and rightly so. Articles and resources to start.'
 excerpt: 'The following articles and resources are a good start to understand how biases influence our work and what to pay attention to when starting a new project.'
 featimage: true

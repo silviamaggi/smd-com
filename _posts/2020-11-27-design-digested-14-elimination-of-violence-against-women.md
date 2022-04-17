@@ -1,6 +1,6 @@
 ---
 title: "Elimination of violence against women"
-last_modified_at: '2021-09-15 18:41:55'
+last_modified_at: '2022-04-17 15:51:15'
 featured-post: false
 categories:
   - Design Digested
@@ -8,6 +8,11 @@ tags:
   - sexism
   - online violence
   - generationequality
+  - COVID-19
+  - telegram
+  - oxford dictionaries
+  - maria beatrice giovarnardi
+  - privacy
 description: 'The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.'
 excerpt: 'The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.'
 featimage: true

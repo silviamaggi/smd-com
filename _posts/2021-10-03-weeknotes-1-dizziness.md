@@ -1,6 +1,6 @@
 ---
 title: "Week 1: Dizziness"
-last_modified_at: '2021-10-03 22:23:40'
+last_modified_at: '2022-04-17 16:29:11'
 featured-post: false
 categories:
   - Weeknotes
@@ -8,7 +8,6 @@ tags:
   - lake maggiore
   - milan
   - italy
-  - personal
   - photography
 description: 'This is the beginning of a new series, where I tell you about my week.'
 excerpt: 'In a bid to write more frequently, and to track events that might go overlooked, I’m starting to write weeknotes. I’m enjoining other people’s weekly reports because they feel personal. They could also be a good way to remind ourselves how many things we accomplish as opposed to what we perceive. Let’s start!'

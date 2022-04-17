@@ -5,7 +5,7 @@ last_modified_at: '2022-03-03 22:02:52'
 categories:
   - Notes
 tags:
-  - books
+  - book
 type: note
 description: "A quote from 'Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers'."
 excerpt: "I started reading 'Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers'."

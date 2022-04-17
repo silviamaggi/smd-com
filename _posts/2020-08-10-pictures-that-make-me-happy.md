@@ -1,13 +1,15 @@
 ---
 title: Pictures that make me happy
-last_modified_at: '2021-09-15 18:41:37'
+last_modified_at: '2022-04-17 15:43:49'
 featured-post: false
 categories:
   - Photography
 tags:
   - nature
+  - photography
   - cambridge
   - uk
+  - helios 44m
 description: 'Nature and a shallow depth of field create one of my favourite photography style. Here I present four pictures that make me happy.'
 excerpt: 'During the past sweltering weekend, I looked for a few pictures to make my website more personal: not many other things in photography make me happy as nature and a shallow depth of field.'
 image-caption: false

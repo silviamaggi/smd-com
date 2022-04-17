@@ -1,16 +1,21 @@
 ---
 title: "All-women edition"
-last_modified_at: '2021-09-15 18:41:43'
+last_modified_at: '2022-04-17 15:47:05'
 featured-post: false
 categories:
   - Design Digested
 tags:
+  - big tech
   - facial recognition
   - joy buolamwini
+  - privacy
   - sexism
   - racial bias
   - wordpress
   - women in tech
+  - es devlin
+  - machiko weston
+  - hiroshima & nagasaki
 description: 'Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.'
 excerpt: 'Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.'
 featimage: true

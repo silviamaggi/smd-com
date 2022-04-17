@@ -1,6 +1,6 @@
 ---
 title: "Facebook can’t beat hate"
-last_modified_at: '2021-09-12T18:32:38.221Z'
+last_modified_at: '2022-04-17 15:40:27'
 featured-post: false
 categories:
   - Design Digested
@@ -9,6 +9,11 @@ tags:
   - facebook
   - world wide web
   - women in tech
+  - content moderation
+  - the uncensored library
+  - minecraft
+  - reporters without borders
+  - COVID-19
 description: "Design inspiration series. Why Facebook can't beat hate, a safe haven for press freedom, a game to recognise disinformation."
 excerpt: 'Design inspiration series. Why Facebook can’t beat hate, a safe haven for press freedom, a game to recognise disinformation.'
 featimage: true

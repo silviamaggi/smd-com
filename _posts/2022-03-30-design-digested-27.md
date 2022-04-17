@@ -1,6 +1,6 @@
 ---
 title: 'False empathy, fast fashion, gender pay gap'
-last_modified_at: '2022-03-30 22:24:41'
+last_modified_at: '2022-04-17 16:43:59'
 featured-post: false
 categories:
   - Design Digested
@@ -64,7 +64,7 @@ The Gender Pay Gap Bot called out empty corporate celebrations of International 
 🔗 <a href="https://www.vice.com/en/article/m7vkpx/who-made-gender-pay-gap-bot-international-womens-day">Read the article</a> (on Vice)
 
 ## Australian Open debuts sound design intervention for blind tennis fans
-Action Audio uses real-time ball monitoring technology and spatial sound design to give low-sight audiences insight into what is happening on the court.
+Action Audio by AKQA uses real-time ball monitoring technology and spatial sound design to give low-sight audiences insight into what is happening on the court.
 
 {: .detached}
 🔗 <a href="https://www.designweek.co.uk/issues/17-23-january-2022/australian-open-action-audio/">Read the article</a> (on Design Week)
@@ -103,13 +103,13 @@ A year-long photography project born from a collaboration between my good friend
 
 > Choosing to reach outside their bubbles of isolation, 2 women who had never met have began an enriching and fascinating photographic collaboration. Although both living in the UK, they inhabit different worlds - Vanessa in the depths of rural Somerset and Eve 120 miles away slap bang in the middle of London - but they connected over the time of COVID through their photos and stories on Instagram.
 
-{: .detached}
-🔗 <a href="https://www.vanessasimpson.co.uk/portfolio-and-projects#/two-women-120-miles-120-years/">View the project</a> (on Vanessa Simpson’s website)
+{: .detached }
+🔗 [View the project](https://www.vanessasimpson.co.uk/portfolio-and-projects#/two-women-120-miles-120-years/) (on Vanessa Simpson’s website).
 
-<hr>
+---
 
 ### Newsletter
 
-<p class="detached"><a href="/newsletter/" title="Go to the Newsletter page">Design, Digested</a> is a newsletter about design, tech, and their implication in our lives.</p>
+[Design, Digested](/newsletter/ "Go to the Newsletter page") is a newsletter about design, tech, and their implication in our lives. Would you like a preview? Check the [**newletter archive**](/newsletter/archive/).
 
-{%- include pattern-newsletter-sub.html %}
+{% include pattern-newsletter-sub.html %}

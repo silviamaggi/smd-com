@@ -1,7 +1,7 @@
 ---
 title: Back to the lake
 date: 2021-09-24
-last_modified_at: '2021-09-24 22:00:30'
+last_modified_at: '2022-04-17 16:27:20'
 featured-post: false
 categories:
   - Photography
@@ -9,6 +9,7 @@ tags:
   - arona
   - lake maggiore
   - italy
+  - photography
 description: After almost two years, I’m back to Lake Maggiore, visiting my family.
 excerpt: After almost two years, I'm back to Lake Maggiore, visiting my family.
 image-caption: true

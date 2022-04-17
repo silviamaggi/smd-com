@@ -1,13 +1,13 @@
 ---
 title: Information overload
-last_modified_at: '2021-09-12 21:31:28'
+last_modified_at: '2022-04-17 16:09:20'
 featured-post: false
 categories:
   - UX
 tags:
   - design
-  - letter
-  - personal
+  - design digested
+  - newsletter
   - ux
 description: 'On information overload and my plans for the newsletter Design, Digested.'
 excerpt: 'On the latest letter I sent out on 20 June, I set out my plans for the next few months. Ever felt overwhelmed by the quantity of information found on the internet? Then you’ll know what I’m talking about.'

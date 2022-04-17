@@ -1,13 +1,21 @@
 ---
 title: Because We Can Exhibition at Festival Pil’Ours
-last_modified_at: '2021-09-15 18:39:52'
+last_modified_at: '2022-04-17 11:15:49'
 featured-post: false
 categories:
   - Photography
 tags:
   - exhibition
+  - photography
   - france
   - shutter hub
+  - festival pil'ours
+  - saint-gilles-croix-de-vie
+  - cromer
+  - marina di ravenna
+  - bordeaux
+  - italy
+  - uk
 description: "I'm presenting three pictures at the Because We Can! exhibition by Shutter Hub, part of Festival Pil'Ours."
 excerpt: 'It is with great excitement that I can say three of my pictures are part of the <em>Because We Can! Exhibition</em> by Shutter Hub, part of Festival Pil’Ours.'
 image-caption: true

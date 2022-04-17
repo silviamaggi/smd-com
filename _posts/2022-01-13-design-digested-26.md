@@ -1,6 +1,6 @@
 ---
 title: 'Tabula rasa'
-last_modified_at: '2022-01-13 17:08:30'
+last_modified_at: '2022-04-17 16:42:17'
 featured-post: false
 categories:
   - Design Digested
@@ -12,6 +12,8 @@ tags:
   - smithsonian
   - the tokyoiter
   - art
+  - ux
+  - design
 description: "Stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
 excerpt: "Stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
 featimage: true
@@ -64,8 +66,8 @@ The Tokyoiter is a tribute to *The New Yorker* traditional cover art and *The Pa
 
 <p class="detached">🔗 <a href="https://www.thetokyoiter.com/">See the website</a></p>
 
-<hr>
+---
 
-<p class="detached"><a href="/newsletter/" title="Go to the Newsletter page">Design, Digested</a> is a newsletter about design, tech, and their implication in our lives.</p>
+[Design, Digested](/newsletter/ "Go to the Newsletter page") is a newsletter about design, tech, and their implication in our lives. Would you like a preview? Check the [**newletter archive**](/newsletter/archive/).
 
-{%- include pattern-newsletter-sub.html %}
+{% include pattern-newsletter-sub.html %}

@@ -5,12 +5,12 @@ featured-post: false
 categories:
   - Design Digested
 tags:
-- gender-neutral
-- typography
-- inclusion
-- design
-- photography
-description: "This week's Design, Digested series features inclusive language, the work of women designers, and the healing power of photography."
+  - gender-neutral
+  - typography
+  - inclusion
+  - design
+  - photography
+description: "This week’s Design, Digested series features inclusive language, the work of women designers, and the healing power of photography."
 excerpt: 'This week: inclusive language, the work of women designers, and the healing power of photography.'
 featimage: true
 featimage-alt: "Design, Digested 20 by Silvia Maggi"

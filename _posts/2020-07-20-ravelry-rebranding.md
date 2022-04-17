@@ -1,13 +1,16 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2021-12-09 14:59:22'
+last_modified_at: '2022-04-17 15:34:11'
 featured-post: false
 popular-post: true
 categories:
   - Design
 tags:
   - accessibility
+  - usability
+  - user testing
   - inclusion
+  - design
   - ravelry
   - ux
 description: 'Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.'

@@ -8,6 +8,8 @@ categories:
 tags:
   - italy
   - ravenna
+  - photography
+  - nature
 description: 'People, face masks, sun, mild temperatures. Pictures I took today at the beach in Marina di Ravenna.'
 excerpt: 'In a couple of days, the Emilia-Romagna region is going to see stricter Covid-19 restrictions. So I seized the moment and took a few pictures at the beach.'
 featured-image: feat-at-the-beach-silviamaggi.jpg

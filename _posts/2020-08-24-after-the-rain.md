@@ -1,12 +1,13 @@
 ---
 title: After the rain
-last_modified_at: '2021-09-13 01:12:38'
+last_modified_at: '2022-04-17 15:47:45'
 featured-post: false
 categories:
   - Photography
 tags:
   - cambridge
   - nature
+  - photography
   - uk
 description: 'Today I took time to appreciate my surroundings. After the rain shower, I shot a few pictures in my garden.'
 excerpt: 'Today, I used the tripod to take a few short videos in the garden. I took time to appreciate my surroundings after a rain shower.'

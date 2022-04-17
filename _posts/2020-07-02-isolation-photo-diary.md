@@ -1,11 +1,12 @@
 ---
 title: Isolation photo diary
-last_modified_at: '2022-03-23 15:31:22'
+last_modified_at: '2022-04-17 15:28:59'
 featured-post: false
 categories:
   - Photography
 tags:
-  - personal
+  - photography
+  - photo project
   - pandemic
   - lockdown
   - COVID-19

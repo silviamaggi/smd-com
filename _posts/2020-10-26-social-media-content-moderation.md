@@ -1,6 +1,6 @@
 ---
 title: "Social media content moderation issues"
-last_modified_at: '2021-09-15 18:16:44'
+last_modified_at: '2022-04-17 15:48:49'
 featured-post: false
 categories:
   - Design Digested
@@ -8,7 +8,11 @@ tags:
   - algorithm
   - book
   - facebook
+  - instagram
   - social media
+  - content moderation
+  - capitalism
+  - design
 description: "This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism."
 excerpt: 'After a two-month <a href="/photography/after-the-rain/" title="Read the blog post ’After the rain’ on my website">hiatus</a>, the design inspiration series is back with a focus on social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.'
 featimage: true

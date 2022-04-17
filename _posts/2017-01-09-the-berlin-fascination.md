@@ -1,13 +1,15 @@
 ---
 title: The Berlin fascination
-last_modified_at: '2021-09-15 18:39:01'
+last_modified_at: '2022-04-17 15:22:57'
 featured-post: false
 categories:
   - Photography
 tags:
   - berlin
   - germany
+  - photography
   - travel
+  - david bowie
 description: "By walking around Berlin, you see it's headed somewhere. Only, the destination is unknown and nobody is running."
 excerpt: "Berlin is well known for being a fresh ever-changing city. By walking around, you see it's headed somewhere. Only, the destination is unknown and nobody is running."
 featured-image: feat_berlin_4132.jpg

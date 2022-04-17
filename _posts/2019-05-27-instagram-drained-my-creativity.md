@@ -1,11 +1,12 @@
 ---
 title: How Instagram drained my creativity
-last_modified_at: '2021-09-15 19:52:15'
+last_modified_at: '2022-04-17 15:24:35'
 featured-post: false
 categories:
   - Photography
 tags:
   - creativity
+  - photography
   - instagram
   - social media
   - italy

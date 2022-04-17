@@ -1,12 +1,13 @@
 ---
 title: A glimpse of the sea
-last_modified_at: '2021-09-15 18:38:41'
+last_modified_at: '2022-04-17 15:22:02'
 featured-post: false
 categories:
   - Photography
 tags:
   - cromer
   - travel
+  - photography
   - uk
 description: 'A short holiday in Cromer, and the excitement of getting to the sea, reminded me of my childhood summer holidays.'
 excerpt: 'A short holiday in Cromer, and the excitement of getting to the sea, reminded me of my childhood summer holidays.'

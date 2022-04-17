@@ -1,12 +1,15 @@
 ---
 title: "How a website lost community trust"
-last_modified_at: '2021-09-15 18:15:40'
+last_modified_at: '2022-04-17 15:36:26'
 featured-post: false
 categories:
   - Design Digested
 tags:
   - accessibility
+  - usability
+  - user testing
   - inclusion
+  - design
   - ravelry
   - ux
 description: "A well-known website lost community trust with a redesign that didn't take into account its users with disabilities."

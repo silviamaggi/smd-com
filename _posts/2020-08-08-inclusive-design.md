@@ -8,10 +8,16 @@ tags:
   - accessibility
   - after 1989
   - inclusion
+  - ethics
   - women in tech
+  - font
   - facebook
+  - racial bias
+  - twitter
   - ux
   - videogames
+  - after 1989
+  - minutes to midnight
 description: 'Design inspiration series. Inclusive design, problematic social media facts, and a great music project.'
 excerpt: 'On week number 10 of my design inspiration series, I share resources about inclusive design, problematic social media facts, and a great music project.'
 featimage: true

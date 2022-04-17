@@ -1,6 +1,6 @@
 ---
 title: "Responsive design at 10"
-last_modified_at: '2021-09-15 18:40:31'
+last_modified_at: '2022-04-17 15:27:58'
 featured-post: false
 categories:
   - Design Digested
@@ -14,6 +14,7 @@ tags:
   - bottom navigation
   - mobile
   - COVID-19
+  - language
 description: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'
 excerpt: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'
 featimage: true

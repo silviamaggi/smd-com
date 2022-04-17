@@ -1,13 +1,15 @@
 ---
 title: "Exploring design cultures"
-last_modified_at: '2021-11-20 17:09:18'
+last_modified_at: '2022-04-17 16:32:20'
 featured-post: false
 categories:
   - Design Digested
 tags:
-- design
-- diversity
-- inspiration
+  - design
+  - diversity
+  - inspiration
+  - oslo
+  - caribbean
 description: "This week, tired of seeing social media-related articles, I'm sharing older ones as an inspiration to follow your own path."
 excerpt: 'This week, tired of seeing social media-related articles, I’m sharing older ones as an inspiration to follow your own path.'
 featimage: true

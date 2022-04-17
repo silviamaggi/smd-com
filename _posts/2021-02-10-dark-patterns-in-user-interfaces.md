@@ -1,14 +1,16 @@
 ---
 title: "Dark patterns in user interfaces"
-last_modified_at: '2021-09-15 18:42:09'
+last_modified_at: '2022-04-17 15:56:13'
 featured-post: false
 categories:
   - Design Digested
 tags:
   - dark patterns
-  - ethical design
+  - ethics
   - privacy
+  - design
   - ux
+  - ui
 description: 'Design Digested 16: I share two compelling articles about dark patterns in user interfaces to help you recognise them.'
 excerpt: 'Recently, I read a couple of compelling blog post about dark patterns in user interfaces copy. An essential read to understand what they are, how they’re used to deceive people and how to recognise them.'
 featimage: true

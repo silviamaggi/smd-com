@@ -1,15 +1,20 @@
 ---
 title: 'Shutter Hub Open Exhibition 2018, London and Amsterdam'
-last_modified_at: '2021-09-15 18:39:58'
+last_modified_at: '2022-04-17 15:24:27'
 featured-post: false
 categories:
   - Photography
 tags:
   - exhibition
+  - photography
   - shutter hub
   - photomonth
   - london
   - uk
+  - portrait
+  - oslo
+  - cambridge
+  - norway
 description: "Two pictures of mine are part of the Shutter Hub exhibition in London and Amsterdam between October 2018 and January 2019."
 excerpt: 'It’s a pleasure to announce that I partecipated as a contributor at the <em>Shutter Hub Open Exhibition 2018</em>, which took place in London and Amsterdam.'
 featimage: true

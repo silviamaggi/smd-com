@@ -1,6 +1,6 @@
 ---
 title: Four days in Bordeaux
-last_modified_at: '2021-09-15 18:39:47'
+last_modified_at: '2022-04-17 15:24:07'
 featured-post: false
 categories:
   - Photography
@@ -8,6 +8,7 @@ tags:
   - bordeaux
   - france
   - travel
+  - photography
 description: 'My husband and I spent four days in Bordeaux, France. Read about what we saw and did, and look at the photos I took in this beautiful city.'
 excerpt: 'A few weeks ago, my husband and I travelled outside the UK for a different reason other than visiting family and friends: we spent four days in Bordeaux.'
 featimage-alt: "Place du Parlement in Bordeaux at sunset"

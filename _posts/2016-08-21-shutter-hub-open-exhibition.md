@@ -1,11 +1,13 @@
 ---
 title: Shutter Hub Open Exhibition 2016
-last_modified_at: '2021-09-15 18:38:34'
+last_modified_at: '2022-04-17 15:21:48'
 featured-post: false
 categories:
   - Photography
 tags:
   - exhibition
+  - photography
+  - gonville and caius
   - cambridge
   - shutter hub
   - uk

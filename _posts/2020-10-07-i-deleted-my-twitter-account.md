@@ -1,11 +1,12 @@
 ---
 title: I deleted my Twitter account and an update
-last_modified_at: '2021-09-03T22:04:21.296Z'
+last_modified_at: '2022-04-17 15:18:44'
 featured-post: false
 categories:
   - Personal
 tags:
   - social media
+  - twitter
 description: "Today I tell you why I deleted my Twitter account and give you an update on why I've been silent on my blog lately."
 excerpt: 'Today I deleted my Twitter account, and it felt good. I had been visiting to keep up to date with other UX professional, but it was impossible to avoid retweets about politics and other topics.'
 ---

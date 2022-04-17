@@ -1,12 +1,14 @@
 ---
 title: A healthy walk in the pine forest
-last_modified_at: '2021-09-02T20:28:36.292Z'
+last_modified_at: '2022-04-17 15:54:58'
 featured-post: false
 categories:
   - Photography
 tags:
   - ravenna
   - italy
+  - photography
+  - nature
 description: "Today I took a few pictures of the pine forest with my phone. It's a great feature to have close to home as an alternative to walking on the beach."
 excerpt: 'A pine forest looks and smells so good it’s impossible to resist it. It’s a great feature to have close to home, as an alternative to walking on the beach or staring at a screen.'
 ---
