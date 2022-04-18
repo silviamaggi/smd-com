@@ -9,10 +9,10 @@ permalink: '/notes/'
 ---
 {%- assign notes = site.posts | where_exp: "post","post.type == 'note'" -%}
 <section class="h-feed smd-entry">
-  <ul class="h-feed">
+  <ul class="h-feed list-group list-group-flush ps-0">
     {%- for note in notes -%}
-    <li>
-      <strong><a href="{{ note.url }}"><time class="dt-published pe-1" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time></a></strong> &ndash; <em>{{ note.title }}</em> <span class="p-category text-uppercase small fw-bold ps-1"><code>#{{ note.tags[0] | upcase }}</code></span>
+    <li class="list-group-item ps-0">
+      📝 <strong><a href="{{ note.url }}"><time class="dt-published pe-1" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time></a></strong> &ndash; <em>{{ note.title }}</em> <span class="p-category text-uppercase small fw-bold ps-1"><code>#{{ note.tags[0] | upcase }}</code></span>
     </li>
     {%- endfor -%}
   </ul>
