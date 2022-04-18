@@ -35,4 +35,4 @@ Reminiscing about the work done for UniCredit **boosted my confidence and energy
 
 &rarr; Check the [UniCredit Bank landing pages and forms case study](/portfolio/unicredit-landing-pages-and-forms/).
 
-&rarr; [Get in touch](/get-in-touch-silviamaggi/) for comments, feedback or if you wish to work with me.
+&rarr; [Get in touch](/contacts/) for comments, feedback or if you wish to work with me.

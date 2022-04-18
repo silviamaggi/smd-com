@@ -26,4 +26,4 @@ My motivation for solving this specific problem for travellers stems from the pe
 
 &rarr; Check the [Acclimatize.me case study](/portfolio/case-study-acclimatize-me/)
 
-&rarr; [Get in touch](/get-in-touch-silviamaggi/) for comments, feedback or if you wish to work with me.
+&rarr; [Get in touch](/contacts/) for comments, feedback or if you wish to work with me.
