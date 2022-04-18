@@ -37,4 +37,4 @@ If you subscribe to my newsletter, I will collect your email address, which will
 
 <h2 class="display-6">Contact information</h2>
 
-If you have privacy-specific concerns, you can [get in touch](/get-in-touch-silviamaggi/).
+If you have privacy-specific concerns, you can [get in touch](/contacts/).

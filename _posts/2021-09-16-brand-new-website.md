@@ -38,7 +38,7 @@ Every time I separated my passions, I ended up not writing, or not taking photos
 <ul class="smd-ul">
 <li>the design inspiration series <a href="/category/design-digested/" title="Go to the 'Design, Digested' archive"><em>Design, Digested</em></a>;</li>
 <li><a href="/category/photography/" title="Go to the 'Photography' archive">photography posts</a>, including some earlier ones that I never published on the previous website;</li>
-<li>my <a href="/silvia-maggi-portfolio/" title="View the Portfolio">work and side projects</a>;</li>
+<li>my <a href="/projects/" title="View the projects">projects</a>;</li>
 <li>the special section <a href="/jeremybearimy/" title="Go to the section"><em>Jeremy Bearimy</em></a> where time flows differently.</li>
 </ul>
 
