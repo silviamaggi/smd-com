@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Reevoo coporate website and live demo'
+title: 'Reevoo corporate website and live demo'
 date: 2017-04-15
 last_modified_at: '2022-04-18 16:37:21'
 featured-post: false
