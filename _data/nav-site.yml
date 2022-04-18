@@ -1,10 +1,10 @@
 - name: About
-  link: /about-silviamaggi-ux-designer/
-- name: Work
-  link: /silvia-maggi-portfolio/
+  link: /about/
+- name: Projects
+  link: /projects/
 - name: Blog
   link: /blog/
 - name: Contacts
-  link: /get-in-touch-silviamaggi/
+  link: /contacts/
 - name: Search
   link: /search/
