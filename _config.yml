@@ -4,14 +4,19 @@ baseurl: ""
 
 # SEO
 title: Silvia Maggi
-tagline: Designer
-description: Welcome. Silvia Maggi is a designer striving to create meaningful digital experiences. View her portfolio and latest blog posts.
+tagline: Web designer
+description: Silvia Maggi is a web designer and developer with 18 years of experience. She is focused on usability, accessibility and information architecture.
 permalink: /:categories/:title/
 keywords:
-  ux design,
-  interaction design,
   web design,
-  web development
+  interaction design,
+  web development,
+  WordPress,
+  ux design,
+  usability,
+  accessibility,
+  information architecture,
+  web standards
 timezone: Europe/Rome
 logo: /assets/images/silviamaggi-og-image.jpg
 author:
@@ -21,8 +26,9 @@ author:
 # Brand
 brand:
   smd_avatar_src: /assets/images/silviamaggi-avatar.png
-  smd_tagline: Hi, I’m Silvia
-  smd_pitch: A designer striving to create meaningful digital experiences.
+  smd_tagline: 'Hi, I’m Silvia'
+  smd_pitch: 'A web designer and developer focused on usability, accessibility and information architecture.'
+  smd_bio: 'An expert in HTML and CSS, I make websites using Jekyll or WordPress. I design using web standards and curate the inspiration series <em>Design, Digested</em>. Photography is my life-long passion.'
   smd_latestposts_limit: 2
 
 exclude: 
@@ -63,12 +69,9 @@ defaults:
 
 # Collections
 collections:
-  casestudies:
+  projects:
     output: true
-    permalink: /portfolio/:path/
-  sideprojects:
-    output: true
-    permalink: /portfolio/:path/
+    permalink: /projects/:path/
   newsletters:
     output: true
     permalink: /newsletter/:path/
