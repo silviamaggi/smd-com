@@ -8,22 +8,11 @@ excerpt: 'Browse the full archive of case studies, blog posts by year, categorie
 permalink: /archive/
 ---
 <section class="h-feed">
-  <h2 class="p-name mt-5">Case studies</h2>
+  <h2 class="p-name mt-5">Projects</h2>
   <ul class="h-feed list-group list-group-flush ps-0">
-    {% for casestudy in site.casestudies %}
+    {% for project in site.projects reversed %}
     <li class="list-group-item ps-0">
-      👩🏻‍💻 <a class="p-name" href="{{ casestudy.url }}" title="{{ casestudy.title }}">{{ casestudy.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
-
-<section class="h-feed">
-  <h2 class="p-name mt-5">Side projects</h2>
-  <ul class="h-feed list-group list-group-flush ps-0">
-    {% for casestudy in site.sideprojects %}
-    <li class="list-group-item ps-0">
-      📸 <a class="p-name" href="{{ casestudy.url }}" title="{{ casestudy.title }}">{{ casestudy.title }}</a>
+      {% if project.type contains 'Photography' %}📸{% else %}👩🏻‍💻{% endif %} <a class="p-name" href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a>
     </li>
     {% endfor %}
   </ul>
@@ -55,7 +44,7 @@ permalink: /archive/
 {% endif %}
 {% endfor %}
 
-<h2 class="p-name my-5">Categories</h2>
+<h2 class="p-name my-5">Blog categories</h2>
 <ol class="h-feed list-unstyled list-inline">
 {% assign sorted_cats = site.categories | sort %}
 {% for category in sorted_cats %}
@@ -66,7 +55,7 @@ permalink: /archive/
   </li>
 {% endfor %}
 </ol>
-<h2 class="mb-5">Tags</h2>
+<h2 class="mb-5">Blog tags</h2>
 <ol class="h-feed list-unstyled list-inline">
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
