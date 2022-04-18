@@ -1,12 +1,13 @@
 ---
-layout: casestudy
+layout: project
 title: 'After 1989: A Trip To Freedom'
-date: 2021-04-14
-last_modified_at: '2022-02-17 16:23:49'
+date: 2019-04-14
+last_modified_at: '2022-04-18 17:22:43'
 featured-post: false
+type: 'Photography, Video'
 description: 'After 1989 is Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.'
 excerpt: '<em>After 1989: A trip to freedom</em> is Minutes to Midnight’s debut solo album, and an emotional journey. I documented it through photography and created two music videos.'
-featured-image: feat-after1989videos-featured-img.jpg
+featured-image: feat-after1989.jpg
 featured-image-alt: Concentration camp gate entrance
 gallery: true
 year: 
@@ -25,7 +26,7 @@ While working on his debut solo album, my husband [Simone](https://minutestomidn
 
 > *After 1989 is the story of how a young man escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.*
 >
-> <cite><a href="https://minutestomidnight.co.uk/after-1989-a-trip-to-freedom/" title="Go to 'After 1989: A trip to Freedom' page">Minutes to Midnight</a></cite>
+> <cite><a href="https://minutestomidnight.co.uk/music/after-1989/" title="Go to 'After 1989: A trip to Freedom' page">Minutes to Midnight</a></cite>
 
 I was beside him all the way, including the visits to [Sachsenhausen concentration camp](https://www.sachsenhausen-sbg.de/en/){:title="Go to the Sachsenhausen Concentration Camp website"}. The photos and videos I took were both for private documentation and for the album’s launch. Before taking different professional paths, Simone and I used to work together, and **having a project where to converge our skills** was terrific.
 
@@ -73,8 +74,4 @@ I loved to contribute to a great project like _After 1989_. It gave me the oppor
 
 Whether it’s music, photography or UX, **storytelling plays a crucial role**. Without it, what we do doesn’t travel far, as it’s difficult to capture people’s attention and get messages across.
 
-<p class="detached">🔗 <a href="https://minutestomidnight.co.uk/after-1989-a-trip-to-freedom/" title="Go to the album page">Read the story and listen to After 1989: A Trip To Freedom</a></p>
-
-## Contact
-
-<a href="mailto:contacts@silviamaggidesign.com" title="Email me">Get in touch</a> to talk about your next project.
+<p class="detached">🔗 <a href="https://minutestomidnight.co.uk/music/after-1989/" title="Go to the album page">Read the story and listen to After 1989: A Trip To Freedom</a></p>

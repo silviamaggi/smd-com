@@ -1,21 +1,20 @@
 ---
-layout: casestudy
+layout: project
 title: 'Silvia Maggi Design website'
 date: 2022-03-21
 last_modified_at: '2022-03-21 17:07:18'
 featured-post: false
 type: 'Web design'
-casestudy-order: 1
 description: 'I redesigned and built my personal website from scratch following the need to have a customisable, flexible site to contain my work, interests and passions.'
-excerpt: 'I redesigned and built my personal website from scratch following the need to have an easier to customise, flexible site to contain my work, interests and passions.'
-featured-image: feat-brand-new-website.jpg
+excerpt: 'I redesigned and built my personal website from scratch following the increasing need to have an easier to customise, flexible site to contain my work, interests and passions. As sustainability is a core concern, total control over code and design was the main requirement.'
+featured-image: feat-smd-site.jpg
 featured-image-alt: Silvia Maggi Design website case study
-gallery: false
 caption: true
 year: 
   - 2021
 skills:
   - HTML
+  - CSS
   - SASS
   - Jekyll
   - Liquid
@@ -26,10 +25,10 @@ tools:
   - Sublime Text
   - Sketch app
   - Figma
+  - Netlify
+  - Microformats
+  - Webmentions
 ---
-{: .lead}
-I redesigned and built my personal website from scratch following the increasing need to have an easier to customise, flexible site to contain my work, interests and passions. As sustainability is a core concern, *total control over code and design* was the main requirement.
-
 ## Philosophy
 Ever since the early 2000s, I’ve been maintaining websites and blogs. I used to design and develop them until it felt like a massive task. Thus, I started to use WordPress, learning to build and edit themes. During the following years, WordPress became a widespread <abbr title="Content Management System">CMS</abbr> allowing people to manage their own content. Deep customisation and vetting every plug-in in use require significant time and effort: this became problematic for me.
 
@@ -55,7 +54,7 @@ Building static websites doesn't mean doing everything manually. Liquid uses a c
 Everything that is not a blog post is organised in collections. It's a neat way to group related content and keep it organised. Each item in a collection is iterated on a page that outputs its content.
 Currently, they are:
 
-- [Work](/silvia-maggi-portfolio/){: title="Visit my portfolio page"}
+- [Projects](/projects/){: title="Visit my projects page"}
 - [Newsletter archive](/newsletter/archive/){: title="Visit my newsletter archive page"}
 - [Jeremy Bearimy](/jeremybearimy/){: title="Visit the special section 'Jeremy Bearimy'"}
 
@@ -111,10 +110,8 @@ Only `0.20g of CO2` is produced every time someone visits the homepage. Cleaner 
 {: .detached }
 Due to the site compact size, it’s member of: [![512kb Blue Team](/assets/images/blue-team.svg)](https://512kb.club/#512)
 
-## Contact
-<a href="mailto:contacts@silviamaggidesign.com" title="Email me">Get in touch</a> to talk about your next project.
-
 ## Footnotes
+
 [^total-kilobytes]: [https://httparchive.org/reports/state-of-the-web#bytesTotal](https://httparchive.org/reports/state-of-the-web#bytesTotal){: title="See the report on HTTP Archive"}
 [^hamburger-menus]: [https://www.nngroup.com/articles/hamburger-menus/](https://www.nngroup.com/articles/hamburger-menus/){: title="Read the article on NN/g"}
 [^bottom-navigation]: [https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/){: title="Read the article on Smashing Magazine"}

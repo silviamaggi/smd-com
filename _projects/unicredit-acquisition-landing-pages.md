@@ -1,15 +1,14 @@
 ---
-layout: casestudy
+layout: project
 title: UniCredit acquisition landing pages and forms
 featured-post: false
 type: 'UX, UI'
-casestudy-order: 2
 date: 2021-04-13T16:05:42.000Z
 last_modified_at: '2022-01-25 18:23:03'
-description: 2014 – UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.
-featured-image: feat-unicredit-case-study-featured-img.jpg
+description: 'UniCredit wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.'
+featured-image: feat-unicredit.jpg
 featured-image-alt: Screens showing UniCredit landing pages and forms
-excerpt: UniCredit Bank wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.
+excerpt: 'UniCredit wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.'
 year: 
   - 2014
 skills:
@@ -17,9 +16,11 @@ skills:
   - Content Strategy
   - Flow diagrams
   - Wireframing
-  - HTML & CSS
+  - HTML
+  - CSS
+  - SASS
   - Prototyping
-  - UI
+  - ui
 tools:
   - Sketch app
   - Responsive framework
@@ -128,10 +129,6 @@ This project proved how important culture is when designing. Getting to know **t
 > UI Farm’s innovative workflow and unique skills has given us a very clear insight into our customers’ behaviour and preferences, which has considerably boosted our account application conversions. Thanks to UI Farm’s approach, we have been able to significantly improve the experience delivered to our customers and prospects, and make changes that may have seemed minor to us but have resulted in significant conversion lifts. UI Farm has truly changed our approach to Interaction Design.
 >
 > <cite>Gabriele Rosati, Head of Interaction Design at UniCredit.</cite>
-
-## Contact
-
-<a href="mailto:contacts@silviamaggidesign.com" title="Email me">Get in touch</a> to talk about your next project.
 
 ## Footnotes
 

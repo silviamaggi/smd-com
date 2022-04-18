@@ -2,7 +2,7 @@
 layout: post
 title: 'Notification app for travellers'
 featured-post: true
-casestudy-order: 3
+project-order: 3
 date: '2021-02-18 21:39:15'
 last_modified_at: '2022-01-26 15:35:00'
 description: "How can we help travellers feel ready for eventualities during their trips so they don't miss a minute of fun?"
@@ -18,7 +18,7 @@ skills:
   - User flows
   - Wireframing
   - Prototyping
-  - UI
+  - ui
 tools:
   - Pen and Paper
   - Miro
