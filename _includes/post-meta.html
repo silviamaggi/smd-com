@@ -1,6 +1,4 @@
-{% assign casestudies = site.casestudies %}
-{% assign sideprojects = site.sideprojects %}
-{% assign studies = casestudies | concat:sideprojects %}
+{% assign project = site.projects %}
 {%- if post -%}
   {%- assign categories = post.categories -%}
 {%- else -%}
@@ -12,10 +10,10 @@
     {% unless page.collection == 'newsletters' %}
     <tr class="post-taxonomy">
       <td class="text-end" style="width:50px">
-        <span class="smd-font-micro text-uppercase me-1">{% if page.url contains '/portfolio/' %}Year{% else %}Category{% endif %}</span>
+        <span class="smd-font-micro text-uppercase me-1">{% if page.collection == 'projects' %}Year{% else %}Category{% endif %}</span>
       </td>
       <td>
-      {% if page.url contains '/portfolio/' %}
+      {% if page.collection == 'projects' %}
         <span class="fw-bold text-uppercase smd-font-micro d-inline-block"><strong>{{ page.year | date: "%Y" }}</strong></span>
       {% endif %}
       {%- for category in categories -%}
@@ -24,7 +22,7 @@
       </td>
     </tr>
     {% endunless %}
-    {% if page.url contains '/portfolio/' %}
+    {% if page.collection == 'projects' %}
     <tr>
       <td class="text-end" style="width:50px">
         <span class="smd-font-micro text-uppercase me-1">Skills</span>
