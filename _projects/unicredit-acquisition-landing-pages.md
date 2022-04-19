@@ -102,7 +102,7 @@ Users click on the link received via email and start the request process.
 
 We applied the same principles — conditionally loaded elements, ability to call the support from mobile. Of great importance is the the lock icon at the top right: together with the browser icon for secure connections, it reassures users this is a safe procedure.
 
-{% include pattern-figure-cols.html image1="/assets/images/unicredit-forms-wireframes-mobile-1.jpg" alt="A screenshot of the page contained in a phone, a writing that says 'Input fields are the right size to tap'" image2="/assets/images/unicredit-forms-wireframes-mobile-2.jpg" alt="A screenshot of the page contained in a phone, a writing that says 'The lock icon,combined with clear content and fast loading, reassures users'" caption="Details of the forms wireframes: mobile" width="800" height="1224" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-forms-wireframes-mobile-1.jpg" alt1="A screenshot of the page contained in a phone, a writing that says 'Input fields are the right size to tap'" image2="/assets/images/unicredit-forms-wireframes-mobile-2.jpg" alt2="A screenshot of the page contained in a phone, a writing that says 'The lock icon,combined with clear content and fast loading, reassures users'" caption="Details of the forms wireframes: mobile" width="800" height="1224" %}
 
 ## Final result
 
