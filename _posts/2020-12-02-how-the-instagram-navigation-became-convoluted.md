@@ -56,7 +56,7 @@ From the home screen, people can create four types of content — _Post_ being t
 
 From the profile, people can create six types of content: _Feed Post_, _Story_, _Highlight_, _IGTV Video_, _Reel_, _Guide_.
 
-{% include pattern-figure-cols.html image1="/assets/images/instagram-add.jpg" alt="Screenshot of the profile home page that highlights where to start posting" image2="/assets/images/instagram-post-types.jpg" alt="Screenshot that shows the six types of content that can be posted" caption="Posting from the profile page and the six types of content" width="360" height="760" %}
+{% include pattern-figure-cols.html image1="/assets/images/instagram-add.jpg" alt1="Screenshot of the profile home page that highlights where to start posting" image2="/assets/images/instagram-post-types.jpg" alt2="Screenshot that shows the six types of content that can be posted" caption="Posting from the profile page and the six types of content" width="360" height="760" %}
 
 ## One possible explanation
 

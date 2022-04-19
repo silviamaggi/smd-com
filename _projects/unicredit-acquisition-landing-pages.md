@@ -61,13 +61,13 @@ I chose them over user flows because <em>they highlight thoughts and emotions</e
 
 **Content precedes design**. Even before starting to sketch, the focus is on content and its prioritisation. This is also related to performance, which I treat like a design element. After analysing the content of the existing landing pages, we proposed a solution to UniCredit.
 
-{% include pattern-figure-cols.html image1="/assets/images/unicredit-content-analysis.jpg" alt="Analysis of the current landing pages content, annotations on a screenshot" image2="/assets/images/unicredit-content-strategy.jpg" alt="The proposed content, annotations of a sketch of a page" caption="Analysis of the current landing pages structure (first) vs. Content strategy proposed (second)" width="1004" height="1200" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-content-analysis.jpg" alt1="Analysis of the current landing pages content, annotations on a screenshot" image2="/assets/images/unicredit-content-strategy.jpg" alt2="The proposed content, annotations of a sketch of a page" caption="Analysis of the current landing pages structure (first) vs. Content strategy proposed (second)" width="1004" height="1200" %}
 
 ## Wireframes
 
 Thanks to UI Farm’s responsive framework[^uifarm-workflow], I prototyped the pages directly in the browser.
 
-{% include pattern-figure-cols.html image1="/assets/images/unicredit-feature-block_mobile.png" alt="A screenshot of the page contained in a phone, a writing that says 'Content available on tap: conditional loading'" image2="/assets/images/unicredit-freenumber_mobile.png" alt="A screenshot of the page contained in a phone, a writing that says 'The support team is one tap away: reassurance'" caption="Details of the landing pages  wireframes: mobile" width="1137" height="1273" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-feature-block_mobile.png" alt1="A screenshot of the page contained in a phone, a writing that says 'Content available on tap: conditional loading'" image2="/assets/images/unicredit-freenumber_mobile.png" alt2="A screenshot of the page contained in a phone, a writing that says 'The support team is one tap away: reassurance'" caption="Details of the landing pages  wireframes: mobile" width="1137" height="1273" %}
 
 - Each feature block is **conditionally loaded**: their content is served upon tapping the accordion. The same goes for the legal message at the bottom of the page.
 - The free number button initiates a phone call to the support team, thanks to **adaptive capabilities** of the framework.
@@ -80,7 +80,7 @@ Thanks to UI Farm’s responsive framework[^uifarm-workflow], I prototyped the p
 
 My colleagues and I felt that having the Calls to Actions repeated at the end of each product feature wasn’t the best output. Instead, we went for a dynamic solution: an **interactive header** where the Calls to Actions switched to the Free number button if the former were already visible in the screen.
 
-{% include pattern-figure-cols.html image1="/assets/images/unicredit-ctas-mobile.jpg" alt="Dynamic sticky header on mobile" image2="/assets/images/unicredit-freenumber-mobile.jpg" alt="Dynamic sticky header on mobile" caption="Dynamic sticky header: mobile" width="487" height="1000" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-ctas-mobile.jpg" alt1="Dynamic sticky header on mobile" image2="/assets/images/unicredit-freenumber-mobile.jpg" alt2="Dynamic sticky header on mobile" caption="Dynamic sticky header: mobile" width="487" height="1000" %}
 
 ## Forms
 

@@ -30,7 +30,7 @@ It ran from 4-9 October 2018. The exhibition then relocated to Amsterdam, at 5&3
 
 ## My entries
 
-{% include pattern-figure-cols.html image1="/assets/images/20180921_silviamaggi-the-musician.jpg" alt="A black and white portrait of a pensive man wearing headphones" image2="/assets/images/20180901_silviamaggi-the-fountain.jpg" alt="A fountain against the sunlight with droplets showing" caption="The Musician / The Fountain by Silvia Maggi" width="576" height="864" %}
+{% include pattern-figure-cols.html image1="/assets/images/20180921_silviamaggi-the-musician.jpg" alt1="A black and white portrait of a pensive man wearing headphones" image2="/assets/images/20180901_silviamaggi-the-fountain.jpg" alt2="A fountain against the sunlight with droplets showing" caption="The Musician / The Fountain by Silvia Maggi" width="576" height="864" %}
 
 ## About Shutter Hub
 
