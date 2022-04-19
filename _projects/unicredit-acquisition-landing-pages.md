@@ -61,26 +61,26 @@ I chose them over user flows because <em>they highlight thoughts and emotions</e
 
 **Content precedes design**. Even before starting to sketch, the focus is on content and its prioritisation. This is also related to performance, which I treat like a design element. After analysing the content of the existing landing pages, we proposed a solution to UniCredit.
 
-{% include pattern-figure-cols.html image1="/assets/images/unicredit-content-analysis.jpg" image2="/assets/images/unicredit-content-strategy.jpg" alt="Analysis of the current landing pages structure vs. Content strategy proposed" caption="Analysis of the current landing pages structure (first) vs. Content strategy proposed (second)" width="1004" height="1200" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-content-analysis.jpg" alt="Analysis of the current landing pages content, annotations on a screenshot" image2="/assets/images/unicredit-content-strategy.jpg" alt="The proposed content, annotations of a sketch of a page" caption="Analysis of the current landing pages structure (first) vs. Content strategy proposed (second)" width="1004" height="1200" %}
 
 ## Wireframes
 
 Thanks to UI Farm’s responsive framework[^uifarm-workflow], I prototyped the pages directly in the browser.
 
-{% include pattern-figure-cols.html image1="/assets/images/unicredit-feature-block_mobile.png" image2="/assets/images/unicredit-freenumber_mobile.png" alt="Details of the landing pages mobile wireframes" caption="Details of the landing pages  wireframes: mobile" width="1137" height="1273" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-feature-block_mobile.png" alt="A screenshot of the page contained in a phone, a writing that says 'Content available on tap: conditional loading'" image2="/assets/images/unicredit-freenumber_mobile.png" alt="A screenshot of the page contained in a phone, a writing that says 'The support team is one tap away: reassurance'" caption="Details of the landing pages  wireframes: mobile" width="1137" height="1273" %}
 
 - Each feature block is **conditionally loaded**: their content is served upon tapping the accordion. The same goes for the legal message at the bottom of the page.
 - The free number button initiates a phone call to the support team, thanks to **adaptive capabilities** of the framework.
 
-{% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-top.png" caption="Details of the landing page wireframes: desktop" width="1024" height="600" %}
+{% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-top.png" alt="A screenshot showing desktop wireframes with annotations" caption="Details of the landing page wireframes: desktop" width="1024" height="600" %}
 
-{% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-bottom.png" caption="Details of the landing page wireframes: desktop" width="1024" height="600" %}
+{% include pattern-figure.html image="/assets/images/uc-landing-desktop-wireframes-bottom.png" alt="A screenshot showing desktop wireframes with annotations" caption="Details of the landing page wireframes: desktop" width="1024" height="600" %}
 
 ## Interactive header
 
 My colleagues and I felt that having the Calls to Actions repeated at the end of each product feature wasn’t the best output. Instead, we went for a dynamic solution: an **interactive header** where the Calls to Actions switched to the Free number button if the former were already visible in the screen.
 
-{% include pattern-figure-cols.html image1="/assets/images/unicredit-ctas-mobile.jpg" image2="/assets/images/unicredit-freenumber-mobile.jpg" alt="Dynamic sticky header on mobile" caption="Dynamic sticky header: mobile" width="487" height="1000" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-ctas-mobile.jpg" alt="Dynamic sticky header on mobile" image2="/assets/images/unicredit-freenumber-mobile.jpg" alt="Dynamic sticky header on mobile" caption="Dynamic sticky header: mobile" width="487" height="1000" %}
 
 ## Forms
 
@@ -90,19 +90,19 @@ When users click on the Call to Action _Request it online_, they land on the Uni
 
 Users encounter an initial brief form — serving as a security verification — and will receive an email from UniCredit with a link to continue with the request.
 
-{% include pattern-figure.html image="/assets/images/unicredit-forms-flow_1.jpg" caption="Form flow, entry point" width="2560" height="947" %}
+{% include pattern-figure.html image="/assets/images/unicredit-forms-flow_1.jpg" alt="The flow diagram of the first part of interaction with the forms" caption="Form flow, entry point" width="2560" height="947" %}
 
 ### Form flow
 
 Users click on the link received via email and start the request process.
 
-{% include pattern-figure.html image="/assets/images/unicredit-forms-flow_2.jpg" caption="Form flow" width="2560" height="820" %}
+{% include pattern-figure.html image="/assets/images/unicredit-forms-flow_2.jpg" alt="The flow diagram of the second part of interaction with the forms" caption="Form flow" width="2560" height="820" %}
 
 ### Wireframes
 
 We applied the same principles — conditionally loaded elements, ability to call the support from mobile. Of great importance is the the lock icon at the top right: together with the browser icon for secure connections, it reassures users this is a safe procedure.
 
-{% include pattern-figure-cols.html image1="/assets/images/unicredit-forms-wireframes-mobile-1.jpg" image2="/assets/images/unicredit-forms-wireframes-mobile-2.jpg" alt="Details of the forms wireframes, mobile" caption="Details of the forms wireframes: mobile" width="800" height="1224" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-forms-wireframes-mobile-1.jpg" alt="A screenshot of the page contained in a phone, a writing that says 'Input fields are the right size to tap'" image2="/assets/images/unicredit-forms-wireframes-mobile-2.jpg" alt="A screenshot of the page contained in a phone, a writing that says 'The lock icon,combined with clear content and fast loading, reassures users'" caption="Details of the forms wireframes: mobile" width="800" height="1224" %}
 
 ## Final result
 
@@ -112,11 +112,11 @@ UniCredit had live access to the prototype. They interacted with us *in real tim
 
 ### Landing pages
 
-{% include pattern-figure.html image="/assets/images/unicredit-landingpages-final.jpg" caption="Landing pages final design" width="1200" height="548" %}
+{% include pattern-figure.html image="/assets/images/unicredit-landingpages-final.jpg" alt="Screenshots of the landing pages on different devices" caption="Landing pages final design" width="1200" height="548" %}
 
 ### Forms
 
-{% include pattern-figure.html image="/assets/images/unicredit-forms-final.jpg" caption="Forms final design" width="1200" height="548" %}
+{% include pattern-figure.html image="/assets/images/unicredit-forms-final.jpg" alt="Screenshots of the forms on different devices" caption="Forms final design" width="1200" height="548" %}
 
 ## Conclusions
 

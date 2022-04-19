@@ -1,6 +1,6 @@
 ---
 title: The Berlin fascination
-last_modified_at: '2022-04-17 15:22:57'
+last_modified_at: '2022-04-19 18:15:44'
 featured-post: false
 categories:
   - Photography
@@ -39,7 +39,7 @@ All the photos are still stored — only a few published on Flickr and Instagram
 
 Berlin is well known for being a cool ever-changing city. By just walking around, it is possible to understand it is going somewhere. Only, the destination is unknown, and nobody is running.
 
-{% include pattern-figure-cols.html image1="/assets/images/20161120-berlin-img_3658.jpg" image2="/assets/images/20161121-berlin-img_3856.jpg" alt="Rosenthaler Straße by Night / Siegessäule – Victory Column" caption="Rosenthaler Straße by Night / Siegessäule – Victory Column" width="576" height="864" %}
+{% include pattern-figure-cols.html image1="/assets/images/20161120-berlin-img_3658.jpg" alt="Rosenthaler Straße by night" image2="/assets/images/20161121-berlin-img_3856.jpg"  alt="Siegessäule – Victory Column" caption="Rosenthaler Straße by Night / Siegessäule – Victory Column" width="576" height="864" %}
 
 Changes and renovations didn’t erase the memories of Berlin’s history and legacy. Sections of the Wall, memorials and museums are a constant reminder of the past.
 

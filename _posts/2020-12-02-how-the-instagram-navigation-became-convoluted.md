@@ -1,6 +1,6 @@
 ---
 title: How the Instagram navigation became convoluted
-last_modified_at: '2022-04-17 15:20:11'
+last_modified_at: '2022-04-19 18:15:13'
 featured-post: false
 categories:
   - UX
@@ -42,7 +42,7 @@ For a person holding a phone with one hand, the bottom area is easier to reach w
 
 For the _Reel_ and _Shop_ tabs to be quick and easy to access, _New Post_ and _Activity_ had to be moved to the top of the screen. _New Post_ is on both the home page and profile page, while _Activity_ is only accessible from the home page.
 
-{% include pattern-figure.html image="/assets/images/instagram-feed.jpg" caption="Instagram home page with the new layout" width="360" height="760" %}
+{% include pattern-figure.html image="/assets/images/instagram-feed.jpg" alt="Screenshot of the feed page with the new layout" caption="Instagram home page with the new layout" width="360" height="760" %}
 
 Being able to access _Activity_ exclusively from one page means more taps and more **chances of getting lost or distracted** before reaching it. One could argue that the in-app notifications won’t make you miss a comment or like, but people might wish to easily go back and reply at a later moment. As mentioned earlier, the _Create New_ feature is now at the top. What I find confusing is how the nature of the feature changes based on its position within the app.
 
@@ -50,13 +50,13 @@ Being able to access _Activity_ exclusively from one page means more taps and mo
 
 From the home screen, people can create four types of content — _Post_ being the default — by choosing from a sliding menu at the bottom of the page, which I initially didn’t notice: _Post_, _Story_, _Reel_, _Live_.
 
-{% include pattern-figure.html image="/assets/images/instagram-post.jpg" caption="Posting from the home screen and the four types of content" width="360" height="760" %}
+{% include pattern-figure.html image="/assets/images/instagram-post.jpg" alt="Screenshot of the interface for posting" caption="Posting from the home screen and the four types of content" width="360" height="760" %}
 
 ### Profile
 
 From the profile, people can create six types of content: _Feed Post_, _Story_, _Highlight_, _IGTV Video_, _Reel_, _Guide_.
 
-{% include pattern-figure-cols.html image1="/assets/images/instagram-add.jpg" image2="/assets/images/instagram-post-types.jpg" alt="Posting from the profile page and the six types of content" caption="Posting from the profile page and the six types of content" width="360" height="760" %}
+{% include pattern-figure-cols.html image1="/assets/images/instagram-add.jpg" alt="Screenshot of the profile home page that highlights where to start posting" image2="/assets/images/instagram-post-types.jpg" alt="Screenshot that shows the six types of content that can be posted" caption="Posting from the profile page and the six types of content" width="360" height="760" %}
 
 ## One possible explanation
 
