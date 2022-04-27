@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Reevoo corporate website and live demo'
-date: 2017-04-15
+date: 2016-04-15
 last_modified_at: '2022-04-18 16:37:21'
 featured-post: false
 type: 'Web design'
@@ -12,7 +12,7 @@ featured-image-alt: Reevoo corporate blog on different devices
 gallery: false
 image-caption: true
 year: 
-  - 2017
+  - 2016
 skills:
   - Consultancy
   - WordPress
