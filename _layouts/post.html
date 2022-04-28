@@ -32,6 +32,11 @@ layout: default
       {{ content }}
     </div>
   </div>
-  {%- include pattern-responses.html -%}
+  {% unless page.url contains '/newsletter/archive' %}
+    {%- include pattern-responses.html -%}
+  {% endunless %}
 </article>
+{%- if page.id -%}
+  <div class="d-block d-md-none text-center mt-0 mb-5">{%- include pattern-buymeacoffee.html %}</div>
+  {%- endif -%}
 {%- include post-navigation.html -%}
