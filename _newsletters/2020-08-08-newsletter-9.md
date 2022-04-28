@@ -1,16 +1,12 @@
 ---
 title: "Inclusive design, problematic social media facts"
-last_modified_at: '2021-11-09 13:30:59'
+last_modified_at: '2022-04-28 17:09:27'
 featured-post: false
 description: "Inclusive design, problematic social media facts."
+excerpt: "Plus, a great music project and a break."
 permalink: '/newsletter/archive/:title/'
 ---
-
-<p class="lead">Plus, a great music project and a break.</p>
-
-<!--more-->
-
-Dear Friends, 
+Dear Friends,
 
 This week’s email reaches you later than usual. On Friday, my blog was offline most of the day while my husband moved it to a self-hosted domain. We sweated over some technical issues, or was it because of the <code>34&deg;C</code> temperature in Cambridge? You might wonder why this is important. My website is my online home and, while I take a break from social media, I want it tidy and working for when you’ll visit. I’m keeping a diary to record the progress of the break and will share it as soon as it feels complete. A preview: it’s not easy. 
 

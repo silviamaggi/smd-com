@@ -1,18 +1,14 @@
 ---
 title: "Biased AI, phone addiction and social media manipulation"
-last_modified_at: '2021-11-09 13:22:33'
+last_modified_at: '2022-04-28 17:11:50'
 featured-post: false
 description: "Biased AI, phone addiction and social media manipulation."
+excerpt: "Time to take care of our digital lives."
 permalink: '/newsletter/archive/:title/'
 ---
+Dear Friends,
 
-<p class="lead">Time to take care of our digital lives.</p>
-
-<!--more-->
-
-Dear Friends, 
-
-All I read this week revolves around two main areas: how we can get absorbed into our phones and social media, and how **AI and algorithms are supposed to be neutral but are a mirror to our society**. It’s a loop that we might not even realise is there. Here’s what I share with you today:
+All I read this week revolves around two main areas: how we can get absorbed into our phones and social media, and how **AI and algorithms are supposed to be neutral but are a mirror to our society**. It’s a loop that we might not even realise is there. Here’s what I share with you today:
 
 <ul class="smd-ul">
   <li>What would the future look like if algorithms that command our daily interactions were developed based on feminist values?</li>

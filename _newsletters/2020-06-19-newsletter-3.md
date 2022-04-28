@@ -1,15 +1,11 @@
 ---
 title: "Black women in UX and how to foster creativity"
-last_modified_at: '2021-11-09 13:20:13'
+last_modified_at: '2022-04-28 17:15:53'
 featured-post: false
 description: "Black women in UX, how to foster creativity and an unimpressed Bowie."
+excerpt: "It’s up to us."
 permalink: '/newsletter/archive/:title/'
 ---
-
-<p class="lead">It’s up to us.</p>
-
-<!--more-->
-
 Dear friends, 
 
 It feels like something is moving in the right direction. At least online, a lot of people are interested in listening to black people. But will there be changes in our day-to-day lives? As far as I’m concerned, **the design community is, for the vast majority, white**. It’s undeniable that white people designed society as it is now. As a consequence, the world is not intended for everyone. Now it’s up to us to voice our concern within our organisations: we cannot design for inclusion if our teams are not diverse. 
