@@ -33,9 +33,5 @@ layout: default
     </div>
   </div>
   {%- include pattern-responses.html -%}
-  {% unless page.url contains "/newsletter/" or "/notes/" %}
-  {%- include pattern-relatedposts.html -%}
-  {% endunless %}
 </article>
 {%- include post-navigation.html -%}
-<div class="d-block d-md-none text-center mb-5{% if page.url contains '/newsletter/archive/' %} mt-5{% endif %}">{%- include pattern-buymeacoffee.html %}</div>
