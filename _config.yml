@@ -28,7 +28,7 @@ brand:
   smd_avatar_src: /assets/images/silviamaggi-avatar.png
   smd_tagline: 'Hi, I’m Silvia'
   smd_pitch: 'A web designer and developer focused on usability, accessibility and information architecture.'
-  smd_bio: 'An expert in HTML, CSS and designing using web standards since 2004, I make websites using Jekyll and WordPress. Curator of the inspiration series <em>Design, Digested</em>. Photography is my life-long passion.'
+  smd_bio: 'An expert in HTML, CSS and designing with web standards since 2004, I make websites using Jekyll and WordPress. Curator of the inspiration series <em>Design, Digested</em>. Photography is my life-long passion.'
   smd_latestposts_limit: 2
 
 exclude: 
