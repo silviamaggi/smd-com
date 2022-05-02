@@ -1,6 +1,6 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2022-04-17 15:34:11'
+last_modified_at: '2022-04-29 15:49:14'
 featured-post: false
 popular-post: true
 categories:
@@ -8,6 +8,7 @@ categories:
 tags:
   - accessibility
   - usability
+  - disability
   - user testing
   - inclusion
   - design

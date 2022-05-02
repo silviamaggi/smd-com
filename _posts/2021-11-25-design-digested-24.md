@@ -1,6 +1,6 @@
 ---
 title: "User errors, the curb-cut effect, creepy devices"
-last_modified_at: '2022-04-17 16:39:18'
+last_modified_at: '2022-04-29 15:49:21'
 featured-post: false
 categories:
   - Design Digested
@@ -8,6 +8,7 @@ tags:
   - ux
   - design
   - accessibility
+  - disability
   - curb-cut effect
   - privacy
   - inclusion
