@@ -45,7 +45,9 @@ layout: default
     {% include pattern-hire.html %}
     {% endunless %}
   </div>
-
+  {% unless page.url contains 'origami' %}
+  {%- include pattern-responses.html -%}
+  {% endunless %}
 </article>
 
 {%- include post-navigation.html -%}
