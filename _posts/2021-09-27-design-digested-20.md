@@ -12,10 +12,10 @@ tags:
   - photography
 description: "This week’s Design, Digested series features inclusive language, the work of women designers, and the healing power of photography."
 excerpt: 'This week: inclusive language, the work of women designers, and the healing power of photography.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 20 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-20'
+featimage: 'feat-design-digested-20'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

@@ -17,10 +17,10 @@ tags:
   - norway
 description: "Two pictures of mine are part of the Shutter Hub exhibition in London and Amsterdam between October 2018 and January 2019."
 excerpt: 'It’s a pleasure to announce that I partecipated as a contributor at the <em>Shutter Hub Open Exhibition 2018</em>, which took place in London and Amsterdam.'
-featimage: true
+featuredimage: true
 featimage-alt: "The pictures exhibited at The Old Truman Brewery on a white wall"
 featimage-class: 'u-featured'
-featimage-name: 'feat-JayneLloyd_ShutterHubOPEN_PhotoMonth_ExhibitionTheOldTrumanBrewery_7069'
+featimage: 'feat-JayneLloyd_ShutterHubOPEN_PhotoMonth_ExhibitionTheOldTrumanBrewery_7069'
 image-caption: true
 featimage-caption-desc: 'Credit - Jayne Lloyd / Shutter Hub at Photomonth, The Old Truman Brewery, London'
 ---

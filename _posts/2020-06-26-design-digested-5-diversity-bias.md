@@ -16,10 +16,10 @@ tags:
   - gender data gap
 description: 'Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.'
 excerpt: 'Design inspiration series. This week: diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 5 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-5'
+featimage: 'feat-design-digested-5'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

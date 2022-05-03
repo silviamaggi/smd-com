@@ -12,10 +12,10 @@ tags:
   - design
 description: 'What does it mean designing for inclusion? Inclusive design is gaining a lot of attention lately, and rightly so. Articles and resources to start.'
 excerpt: 'The following articles and resources are a good start to understand how biases influence our work and what to pay attention to when starting a new project.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 17 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-17'
+featimage: 'feat-design-digested-17'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

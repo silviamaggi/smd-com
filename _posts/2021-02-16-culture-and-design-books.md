@@ -17,10 +17,10 @@ tags:
   - beppe severgnini
 description: "Here are the culture and design books I'm reading. Some are ideal if you're a designer, others are either very interesting or funny — or both — for anyone."
 excerpt: 'As a child, I always had books with me. I loved losing myself into good stories, to the point it hurt when they finished. In later years, my attention span became ridiculously short.'
-featimage: true
+featuredimage: true
 featimage-alt: "Books lined up with and the writing Recommended reads by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-recommended-reads'
+featimage: 'feat-recommended-reads'
 image-caption: true
 featimage-caption-desc: 'Photo by <a href="https://unsplash.com/@drewcoffman">Drew Coffman</a>, composition by Silvia Maggi'
 ---

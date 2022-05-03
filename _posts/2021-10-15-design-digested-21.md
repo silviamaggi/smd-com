@@ -12,10 +12,10 @@ tags:
   - caribbean
 description: "This week, tired of seeing social media-related articles, I'm sharing older ones as an inspiration to follow your own path."
 excerpt: 'This week, tired of seeing social media-related articles, I’m sharing older ones as an inspiration to follow your own path.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 21 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-21'
+featimage: 'feat-design-digested-21'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

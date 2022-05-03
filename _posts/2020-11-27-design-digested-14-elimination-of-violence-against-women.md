@@ -15,10 +15,10 @@ tags:
   - privacy
 description: 'The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.'
 excerpt: 'The new instalment of the digest is dedicated to the elimination of violence against women. Join the conversation and spread the word.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-14'
+featimage: 'feat-design-digested-14'
 image-caption: false
 featimage-caption-desc:
 permalink: '/design-digested/:title/'

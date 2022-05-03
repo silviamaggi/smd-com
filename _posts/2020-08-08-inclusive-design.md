@@ -20,10 +20,10 @@ tags:
   - minutes to midnight
 description: 'Design inspiration series. Inclusive design, problematic social media facts, and a great music project.'
 excerpt: 'On week number 10 of my design inspiration series, I share resources about inclusive design, problematic social media facts, and a great music project.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 10 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-10'
+featimage: 'feat-design-digested-10'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

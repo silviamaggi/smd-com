@@ -7,7 +7,7 @@ featured-post: false
 type: 'Web design'
 description: 'I redesigned and built my personal website from scratch following the need to have a customisable, flexible site to contain my work, interests and passions.'
 excerpt: 'I redesigned and built my personal website from scratch following the increasing need to have an easier to customise, flexible site to contain my work, interests and passions. As sustainability is a core concern, total control over code and design was the main requirement.'
-featured-image: feat-smd-site.jpg
+featimage: feat-smd-site.jpg
 featured-image-alt: Silvia Maggi Design website case study
 caption: true
 year: 

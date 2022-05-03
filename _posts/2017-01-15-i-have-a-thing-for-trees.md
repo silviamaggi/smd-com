@@ -15,10 +15,10 @@ tags:
   - uk
 description: "Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo."
 excerpt: "Going through last year's photos, I found quite a few of them have trees as a subject. Trees are fascinating and elegant, no matter the season. They can easily set the mood of a photo."
-featimage: true
+featuredimage: true
 featimage-alt: "Pink blossoms on a tree branch"
 featimage-class: 'u-featured'
-featimage-name: '201701-angleseyabbey-2366'
+featimage: '201701-angleseyabbey-2366'
 image-caption: true
 featimage-caption-desc: 'Bloossoms, Anglesey Abbey, March 2016'
 ---

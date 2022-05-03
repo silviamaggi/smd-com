@@ -7,7 +7,7 @@ featured-post: false
 type: 'Web design'
 description: 'Boutique model management firm representing international and local talent in New York City.'
 excerpt: 'Boutique model management firm representing international and local talent in New York City.'
-featured-image: feat-apm.jpg
+featimage: feat-apm.jpg
 featured-image-alt: APM Models New York's website on different devices
 gallery: false
 image-caption: true

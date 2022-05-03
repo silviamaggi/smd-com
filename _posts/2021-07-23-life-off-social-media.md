@@ -10,10 +10,10 @@ tags:
   - personal
 description: "I tell you what happened when I quit social media six months ago, and why I don't want to come back."
 excerpt: "I tell you what happened when I quit social media six months ago, and why I don't want to come back."
-featimage: true
+featuredimage: true
 featimage-alt: "Neon image showing the writing 'and breathe'"
 featimage-class: 'u-featured'
-featimage-name: 'feat-max-van-den-oetelaar-unsplash'
+featimage: 'feat-max-van-den-oetelaar-unsplash'
 image-caption: true
 featimage-caption-desc: 'Photo by <a href="https://unsplash.com/photos/buymYm3RQ3U">Max van den Oetelaar</a>'
 ---

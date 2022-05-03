@@ -11,10 +11,10 @@ tags:
   - uk
 description: 'A short holiday in Cromer, and the excitement of getting to the sea, reminded me of my childhood summer holidays.'
 excerpt: 'A short holiday in Cromer, and the excitement of getting to the sea, reminded me of my childhood summer holidays.'
-featimage: true
+featuredimage: true
 featimage-alt: "The beach and sea seen from a hotel window"
 featimage-class: 'u-featured'
-featimage-name: '20160819-cromer-33121'
+featimage: '20160819-cromer-33121'
 image-caption: true
 featimage-caption-desc: 'The Nothern sea from a window'
 ---

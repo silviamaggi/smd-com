@@ -12,10 +12,10 @@ tags:
   - uk
 description: 'Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.'
 excerpt: 'Half-way through a photography project, I found myself in a photography rut. I tried a few tricks to get out of it.'
-featimage: true
+featuredimage: true
 featimage-alt: "Red leaves of a garden shrub"
 featimage-class: 'u-featured'
-featimage-name: 'feat-20170319-img_4269'
+featimage: 'feat-20170319-img_4269'
 image-caption: true
 featimage-caption-desc: 'Red leaves'
 ---

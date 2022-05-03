@@ -7,7 +7,7 @@ featured-post: false
 type: 'Web design'
 description: 'WOMEN Management is a global model agency based in New York, now part of Elite.'
 excerpt: 'WOMEN Management is a global model agency based in New York, now part of Elite.'
-featured-image: feat-women-management.jpg
+featimage: feat-women-management.jpg
 featured-image-alt: Women Management website on different devices
 image-caption: true
 year: 

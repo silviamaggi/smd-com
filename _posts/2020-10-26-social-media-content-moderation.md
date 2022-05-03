@@ -15,10 +15,10 @@ tags:
   - design
 description: "This week's focus is on issues with social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism."
 excerpt: 'After a two-month <a href="/photography/after-the-rain/" title="Read the blog post ’After the rain’ on my website">hiatus</a>, the design inspiration series is back with a focus on social media content moderation issues, how products get complicated and how a few companies are redesigning capitalism.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 12 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-12'
+featimage: 'feat-design-digested-12'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

@@ -12,10 +12,10 @@ tags:
   - design
 description: "Sketching is one of the most important tools a UX Designer should master. Let's explore why, how, and go beyond."
 excerpt: "I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is sketching. If you know how to convey your ideas and concepts through sketches, the rest follows."
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 18 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-18'
+featimage: 'feat-design-digested-18'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

@@ -20,9 +20,9 @@ layout: default
     <p>{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></p>
     {% endif %}
     <div class="e-content mt-5">
-      {%- if page.featimage == true %}
+      {%- if page.featuredimage == true %}
         {% responsive_image_block %}
-          path: assets/images/{{ page.featimage-name | append: '.jpg' }}
+          path: assets/images/{{ page.featimage | append: '.jpg' }}
           alt: {{ page.featimage-alt }}
           class: {{ page.featimage-class }}
           caption-true: {{ page.image-caption }}

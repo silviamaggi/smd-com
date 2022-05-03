@@ -6,7 +6,7 @@ type: 'UX, UI'
 date: 2021-04-13T16:05:42.000Z
 last_modified_at: '2022-01-25 18:23:03'
 description: 'UniCredit wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.'
-featured-image: feat-unicredit.jpg
+featimage: feat-unicredit.jpg
 featured-image-alt: Screens showing UniCredit landing pages and forms
 excerpt: 'UniCredit wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.'
 year: 

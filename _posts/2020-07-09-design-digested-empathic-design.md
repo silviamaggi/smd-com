@@ -17,9 +17,9 @@ tags:
 description: 'Design inspiration series. Four anti-racist lessons, problems with empathic design and the misogyny of the workforce.'
 excerpt: 'Design inspiration series. This week: four anti-racism lessons, Don Norman doesn’t believe in empathic design and working in tech as a woman.'
 featimage-alt: "Design, Digested 6 by Silvia Maggi"
-featimage: true
+featuredimage: true
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-6'
+featimage: 'feat-design-digested-6'
 image-caption: true
 featimage-caption-desc: 'Image credits - Angelina Bambina/Adobe Stock, XD Ideas, Vox'
 permalink: '/design-digested/:title/'

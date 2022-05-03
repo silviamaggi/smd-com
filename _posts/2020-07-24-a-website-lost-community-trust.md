@@ -14,10 +14,10 @@ tags:
   - ux
 description: "A well-known website lost community trust with a redesign that didn't take into account its users with disabilities."
 excerpt: 'In this inspiration series: a well-known website lost community trust with a redesign that didn’t take into account its users with disabilities.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 8. Three skeins of yarn on a grey surface with the writing 'How a website lost community trust'."
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-8'
+featimage: 'feat-design-digested-8'
 image-caption: true
 featimage-caption-desc: 'Photo by <a href="https://unsplash.com/photos/IcvR0jFbsz0">Tara Evans</a>, composition by Silvia Maggi'
 permalink: '/design-digested/:title/'

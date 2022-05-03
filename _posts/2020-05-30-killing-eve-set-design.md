@@ -14,10 +14,10 @@ tags:
   - planned obsolesence
 description: 'First instalment of my design inspiration series. Killing Eve set design, accessibility on social media, bad design vs good design, and more.'
 excerpt: 'First instalment of my design inspiration series. This week: <em>Killing Eve</em> set design, accessibility on social media, bad design vs good design, and more.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 1 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-1'
+featimage: 'feat-design-digested-1'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

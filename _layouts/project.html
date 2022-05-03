@@ -17,7 +17,7 @@ layout: default
     <div class="row">
       <div class="col-lg-7 col-md-9 mx-auto border rounded-3 bg-white bg-opacity-50 py-2 px-3">
         <details>
-          <summary class="h4 m2m-letter-spacing-w1 text-uppercase mt-0 my-0 py-2">Table of contents</summary>
+          <summary class="h4 smd-letter-spacing-w1 text-uppercase mt-0 my-0 py-2">Table of contents</summary>
           {% include pattern-toc.html html=content sanitize=true class="inline_toc smd-ul smd-serif" id="smd-casestudy-toc" h_min=2 h_max=3 %}
         </details>
       </div>
@@ -30,9 +30,9 @@ layout: default
     -------------------------*
   {% endcomment %}
   <div class="e-content">
-    {%- if page.featimage == true %}
+    {%- if page.featuredimage == true %}
       {% responsive_image_block %}
-        path: assets/images/{{ page.featimage-name | append: '.jpg' }}
+        path: assets/images/{{ page.featimage }}
         alt: {{ page.featimage-alt }}
         class: {{ page.featimage-class }}
         caption-true: {{ page.image-caption }}

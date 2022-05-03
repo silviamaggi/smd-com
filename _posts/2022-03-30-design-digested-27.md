@@ -19,10 +19,10 @@ tags:
   - photography
 description: "Design, Digested 27: stop bastardizing design with false empathy, fast fashion and sustainability, gender pay gap, and more."
 excerpt: "Stop bastardizing design with false empathy, fast fashion and sustainability, gender pay gap, and more."
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 27 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-27'
+featimage: 'feat-design-digested-27'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

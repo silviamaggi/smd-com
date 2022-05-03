@@ -14,10 +14,10 @@ tags:
   - language
 description: "Design, Digested 23: viewing imposter syndrome from a different perspective. Loretta Staples and women need pockets."
 excerpt: "This week, I gathered articles that made me see this phenomenon from a different perspective. Time to reframe. And pockets. Women need pockets."
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 23 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-23'
+featimage: 'feat-design-digested-23'
 image-caption: true
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

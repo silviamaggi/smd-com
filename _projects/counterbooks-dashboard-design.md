@@ -7,7 +7,7 @@ featured-post: false
 type: 'Web design'
 description: 'CounterBooks is an online retail accounting system owned by CV Retail offering a full general ledger designed specifically for retailers.'
 excerpt: 'CounterBooks is an online retail accounting system owned by CV Retail offering a full general ledger designed specifically for retailers.'
-featured-image: feat-counterbooks.jpg
+featimage: feat-counterbooks.jpg
 featured-image-alt: CounterBooks's application website on different devices
 gallery: false
 image-caption: true

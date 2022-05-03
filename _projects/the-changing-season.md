@@ -7,7 +7,8 @@ featured-post: false
 type: 'Photography'
 description: 'Same landscape, never the same. My daily commute by bicycle documented using a phone camera between 2016-2017 in Cambridge, UK.'
 excerpt: "Same landscape, never the same. My daily commute by bicycle documented using a phone camera between 2016-2017 in Cambridge, UK."
-featured-image: feat-change-of-season.jpg
+featuredimage: true
+featimage: feat-change-of-season.jpg
 featured-image-alt: The river Cam in Cambridge in December, partly frozen and seen from a bridge
 gallery: true
 image-caption: true
@@ -20,13 +21,6 @@ tools:
   - Phone camera
   - Adobe Lightroom
 ---
-{% responsive_image_block %}
-  path: assets/images/feat-change-of-season.jpg
-  alt: The river Cam partly frozen seen from a bridge
-  caption-true: {{ page.image-caption }}
-  caption: A partly frozen river Cam and Stourbridge Common in December
-{% endresponsive_image_block %}
-
 When in July 2016 I started a new job, I switched from working from home to going to the office. My commute started from north-est, near Fen Ditton, and ended at the _Science Park_.
 
 Every day I enthusiastically picked up my bicyle and pedalled through the beautiful _Ditton Meadows_ and _Stoubridge Common_, crossed the river Cam at the _Green Dragon Bridge_ and reached the Science Park via _Green End Road_. It was before the Cambridge North Station was built, making my journey shorter and safer along the Guided Busway extension.

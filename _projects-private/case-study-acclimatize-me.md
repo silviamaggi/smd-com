@@ -7,7 +7,7 @@ date: '2021-02-18 21:39:15'
 last_modified_at: '2022-01-26 15:35:00'
 description: "How can we help travellers feel ready for eventualities during their trips so they don't miss a minute of fun?"
 excerpt: "How can we help travellers feel ready for eventualities during their trips so they don't miss a minute of fun?"
-featured-image: feat-acclimatize-case-study-featured-img.jpg
+featimage: feat-acclimatize-case-study-featured-img.jpg
 featured-image-alt: Composite of storyboard and wireframes
 year: 
   - 2021

@@ -11,7 +11,8 @@ tags:
   - camera phone
   - my commute
 permalink: change-of-seasons
-featured-image: feat-20161205-seasons-img_1369.jpg
+featuredimage: true
+featimage: feat-20161205-seasons-img_1369.jpg
 excerpt: 'For months, almost daily, I took pictures with my mobile phone of my commute to work. Some of them are published on my Instagram account. I wanted to have a recollection of the views, always the same but always changing.'
 last_modified_at: '2021-09-12T15:25:36.829Z'
 ---

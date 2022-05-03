@@ -14,7 +14,7 @@ permalink: '/projects/'
     {% for project in projects %}
     <li class="row gx-0 my-4 py-4 smd-transition-opacity-03s position-relative {% unless forloop.last %}border-bottom{% endunless %}">
       <div class="col-12 col-md-3 mb-4 text-center text-md-start">
-        <img class="rounded-3" src="/assets/images/highlights/highlighted-{{ project.featured-image }}" alt="{{ project.featured-image-alt }}" width="200" height="200">
+        <img class="rounded-3" src="/assets/images/highlights/highlighted-{{ project.featimage }}" alt="{{ project.featured-image-alt }}" width="200" height="200">
       </div>
       <div class="col-12 col-md-9 text-center text-md-start ps-md-3">
         <span class="p-category btn-label-smd btn-label-smd-bg d-inline-block initialism fw-bold me-1 rounded"><strong>{{ project.type }}</strong></span>

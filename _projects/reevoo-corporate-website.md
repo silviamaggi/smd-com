@@ -7,7 +7,7 @@ featured-post: false
 type: 'Web design'
 description: 'Reevoo is a pioneer of Ratings & Reviews services for multichannel brands and retailers.'
 excerpt: 'Reevoo is a pioneer of Ratings & Reviews services for multichannel brands and retailers.'
-featured-image: feat-reevoo.jpg
+featimage: feat-reevoo.jpg
 featured-image-alt: Reevoo corporate blog on different devices
 gallery: false
 image-caption: true

@@ -16,10 +16,10 @@ tags:
   - covid-19
 description: "Design inspiration series. Why Facebook can't beat hate, a safe haven for press freedom, a game to recognise disinformation."
 excerpt: 'Design inspiration series. Why Facebook can’t beat hate, a safe haven for press freedom, a game to recognise disinformation.'
-featimage: true
+featuredimage: true
 featimage-alt: 'Design, Digested 9 by Silvia Maggi'
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-9'
+featimage: 'feat-design-digested-9'
 image-caption: true
 featimage-caption-desc: "Photo credits - Justin Sullivan/Getty Images, Reporters Without Borders"
 permalink: '/design-digested/:title/'

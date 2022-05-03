@@ -16,10 +16,10 @@ tags:
   - ux
 description: 'Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.'
 excerpt: 'Knitting website Ravelry lost the trust of their community after a rebranding effort caused several users adverse side effects from browsing the site. Well-known among knitters, crocheters, designers, spinners, and dyers, Ravelry is a free platform where users can organise and keep track of their projects, network with other people and sell their designs.'
-featimage: true
+featuredimage: true
 featimage-alt: "Flat lay of three grey yarn skeins"
 featimage-class: 'u-featured'
-featimage-name: 'feat-ravelry-rebranding'
+featimage: 'feat-ravelry-rebranding'
 image-caption: true
 featimage-caption-desc: 'Photo by <a href="https://unsplash.com/photos/IcvR0jFbsz0">Tara Evans</a>'
 permalink: '/design/:title/'

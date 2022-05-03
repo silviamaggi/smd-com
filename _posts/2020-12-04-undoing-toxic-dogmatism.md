@@ -15,10 +15,10 @@ tags:
   - pareto principle
 description: 'Design, Digested 15. This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.'
 excerpt: 'This week we look into the toxic dogmatism of digital design, how to design less, how to be more effective and more.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-15'
+featimage: 'feat-design-digested-15'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

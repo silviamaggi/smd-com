@@ -14,10 +14,10 @@ tags:
   - arona
 description: "While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here's how my love for photography helped."
 excerpt: 'While I was focusing on things like the number of followers, engagement and reach, Instagram drained my creativity. Here’s how my love for photography helped.'
-featimage: true
+featuredimage: true
 featimage-alt: "Ferry on Lake Maggiore at sunset"
 featimage-class: 'u-featured'
-featimage-name: '20171218_lago_2001-silviamaggi'
+featimage: '20171218_lago_2001-silviamaggi'
 image-caption: true
 featimage-caption-desc: 'Ferry on Lake Maggiore'
 ---

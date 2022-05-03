@@ -16,10 +16,10 @@ tags:
   - max headroom
 description: "Design, Digested 28: misguided concerns about disabled bodies; future of accessibility standards; infinite scroll effect; influence of 80s cult phemon Max Headroom and more"
 excerpt: "Discover the designers misguided concerns about disabled bodies; the future of accessibility standards; the infinite scroll effect; the influence of 80s cult phemon Max Headroom and more."
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 28 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-28'
+featimage: 'feat-design-digested-28'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

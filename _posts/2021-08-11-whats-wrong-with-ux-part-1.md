@@ -11,10 +11,10 @@ tags:
   - ux
 description: 'In the first installment of the Design, Digested series since March, I share with you three reasons why the UX industry is currently broken.'
 excerpt: 'In the first instalment of the <a href="/newsletter/" title="View the newsletter archive"><em>Design, Digested</em></a> series since March, I share with you three reasons why the UX industry is currently broken.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 19 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-smd-blog-dd-19'
+featimage: 'feat-smd-blog-dd-19'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

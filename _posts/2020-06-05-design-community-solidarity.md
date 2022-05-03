@@ -16,10 +16,10 @@ tags:
   - reni eddo-lodge
 description: 'Design inspiration series. Design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.'
 excerpt: 'Design inspiration series. This week: design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 2 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-2'
+featimage: 'feat-design-digested-2'
 image-caption: true
 featimage-caption-desc: 'Image credits - C. Daniela Shapiro (@cds.art ), Leo and Diane Dillon, Spotify'
 permalink: '/design-digested/:title/'

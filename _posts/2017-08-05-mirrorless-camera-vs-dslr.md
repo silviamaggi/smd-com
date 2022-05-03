@@ -12,10 +12,10 @@ tags:
   - uk
 description: 'Mirrorless camera vs DSLR. My experience. How switching from an entry-level Canon DSLR to a mirrorless camera changed my photography mindset.'
 excerpt: 'How switching from an entry-level Canon DSLR to a mirrorless camera changed my photography mindset.'
-featimage: true
+featuredimage: true
 featimage-alt: "People gathered around a street artist blowing massive soap bubbles"
 featimage-class: 'u-featured'
-featimage-name: '20170729-edinburgh-1298'
+featimage: '20170729-edinburgh-1298'
 image-caption: true
 featimage-caption-desc: 'Soap bubbles, High St, Edinburgh'
 ---

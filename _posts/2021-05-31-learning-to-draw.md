@@ -12,10 +12,10 @@ tags:
   - design
 description: "As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey."
 excerpt: "As much as wanted to, I couldn't sketch every day. I'd stare at the blank page, not knowing what to draw, and then give up. So I started a new journey."
-featimage: true
+featuredimage: true
 featimage-alt: "Hand holding a pencil"
 featimage-class: 'u-featured'
-featimage-name: 'feat-sam-rios-unsplash'
+featimage: 'feat-sam-rios-unsplash'
 image-caption: true
 featimage-caption-desc: 'Photo by <a href="https://unsplash.com/@samr1os_official">Sam Rios</a>'
 ---

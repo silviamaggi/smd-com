@@ -15,9 +15,9 @@ tags:
 description: 'Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.'
 excerpt: 'Design inspiration series. Black women in UX, how to foster creativity, and the time David Bowie scolded MTV.'
 featimage-alt: "Design, Digested 4 by Silvia Maggi"
-featimage: true
+featuredimage: true
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-4'
+featimage: 'feat-design-digested-4'
 image-caption: true
 featimage-caption-desc: 'Image credits - Ann O., <a href="https://unsplash.com/photos/suZyHko1JEs">Stephanie McCabe</a>'
 permalink: '/design-digested/:title/'

@@ -16,10 +16,10 @@ tags:
   - jacques cousteau
 description: "This week: how to prevent user errors, the curb-cut effect, how creepy is that device, and users adapting to technology that wasn't designed with them in mind."
 excerpt: "This week: how to prevent user errors, the curb-cut effect, how creepy is that device, and users adapting to technology that wasn't designed with them in mind."
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 24 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-24'
+featimage: 'feat-design-digested-24'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

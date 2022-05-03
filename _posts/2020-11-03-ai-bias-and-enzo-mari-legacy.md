@@ -12,10 +12,10 @@ tags:
   - typography
 description: 'The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.'
 excerpt: 'On the design inspiration new instalment: the role of fear in our lives and how it affects decision-making, how bias in AI happens and the legacy of “giant” of Italian design Enzo Mari.'
-featimage: true
+featuredimage: true
 featimage-alt: 'Design, Digested 13, The role of fear in our lives and how it affects decision-making, how AI bias happens and the legacy of giant of Italian design Enzo Mari.'
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-13'
+featimage: 'feat-design-digested-13'
 image-caption: true
 featimage-caption-desc: "Image credits - MS. TECH, PIXOLOGICSTUDIO/SCIENCE PHOTO LIBRARY; Christian Briggs, Daniel Skrok and The Interaction Design Foundation, copyright terms and license - CC-BY-NC-SA 3.0; Ramak Fazel."
 permalink: '/design-digested/:title/'

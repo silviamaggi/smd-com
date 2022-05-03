@@ -16,10 +16,10 @@ tags:
   - design
 description: "Stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
 excerpt: "Stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 26 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-26'
+featimage: 'feat-design-digested-26'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

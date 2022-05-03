@@ -17,10 +17,10 @@ tags:
   - language
 description: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'
 excerpt: 'Design inspiration series. This week, language and storytelling, usability, mobile approach, responsive design at 10 and more.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 3 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-3'
+featimage: 'feat-design-digested-3'
 image-caption: false
 featimage-caption-desc:
 permalink: '/design-digested/:title/'

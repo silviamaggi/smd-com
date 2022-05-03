@@ -14,10 +14,10 @@ tags:
   - circular economy
 description: "Design, Digested 22: how to protect ourselves against the Hook model, UX design’s dirty secret, harmful Facebook and more."
 excerpt: 'This week: how to protect ourselves against the Hook model, <em>UX Theatre</em>, dark patterns, and circular economy.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 22 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-22'
+featimage: 'feat-design-digested-22'
 image-caption: false
 featimage-caption-desc: 
 permalink: '/design-digested/:title/'

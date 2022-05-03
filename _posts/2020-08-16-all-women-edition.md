@@ -18,10 +18,10 @@ tags:
   - hiroshima & nagasaki
 description: 'Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.'
 excerpt: 'Design inspiration series, all-women edition. Facial recognition technology imbalances, your data is you, benevolent sexism and more.'
-featimage: true
+featuredimage: true
 featimage-alt: 'Design, Digested 11, All-women edition'
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-11-all-women-edition'
+featimage: 'feat-design-digested-11-all-women-edition'
 image-caption: true
 featimage-caption-desc: "Image credits - Shaniqwa Jarvis, Sara Wong, Emma"
 permalink: '/design-digested/:title/'

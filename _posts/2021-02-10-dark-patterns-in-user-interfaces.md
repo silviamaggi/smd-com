@@ -13,10 +13,10 @@ tags:
   - ui
 description: 'Design Digested 16: I share two compelling articles about dark patterns in user interfaces to help you recognise them.'
 excerpt: 'Recently, I read a couple of compelling blog post about dark patterns in user interfaces copy. An essential read to understand what they are, how they’re used to deceive people and how to recognise them.'
-featimage: true
+featuredimage: true
 featimage-alt: "Design, Digested 16 by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-design-digested-16'
+featimage: 'feat-design-digested-16'
 image-caption: false
 featimage-caption-desc:
 permalink: '/design-digested/:title/'

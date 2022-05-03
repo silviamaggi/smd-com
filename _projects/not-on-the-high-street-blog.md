@@ -7,7 +7,7 @@ featured-post: false
 type: 'Web design'
 description: 'Notonthehighstreet.com is a unique British e-commerce market place for small and independent sellers.'
 excerpt: 'Notonthehighstreet.com is a unique British e-commerce market place for small and independent sellers.'
-featured-image: feat-noths.jpg
+featimage: feat-noths.jpg
 featured-image-alt: Not on the hight street's corporate blog on different devices
 gallery: false
 image-caption: true

@@ -11,10 +11,10 @@ tags:
   - ux
 description: 'On information overload and my plans for the newsletter Design, Digested.'
 excerpt: 'On the latest letter I sent out on 20 June, I set out my plans for the next few months. Ever felt overwhelmed by the quantity of information found on the internet? Then you’ll know what I’m talking about.'
-featimage: true
+featuredimage: true
 featimage-alt: "A blue letterbox with the Italian writing 'Lettere' by Silvia Maggi"
 featimage-class: 'u-featured'
-featimage-name: 'feat-smd-blog-featured-image_lettera'
+featimage: 'feat-smd-blog-featured-image_lettera'
 image-caption: true
 featimage-caption-desc: 'Photo by <a href="https://unsplash.com/@flavioamiel">Flavio Amiel</a>, composition by Silvia Maggi'
 permalink: '/design-digested/:title/'
