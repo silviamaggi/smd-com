@@ -2,6 +2,7 @@
 title: "Language, Mobile Approach and Responsive Design at 10"
 last_modified_at: '2022-05-04 11:16:51'
 robots: 'noindex,follow'
+sitemap: false
 description: "Language, Mobile Approach and Responsive Design at 10."
 excerpt: "Defining books, the words we use and more."
 permalink: '/newsletter/archive/:title/'

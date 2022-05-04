@@ -2,6 +2,7 @@
 title: "Diversity problems and bias"
 last_modified_at: '2022-05-04 11:16:34'
 robots: 'noindex,follow'
+sitemap: false
 description: "Diversity problems and bias."
 excerpt: "White, middle-class males designed the world, for themselves."
 permalink: '/newsletter/archive/:title/'
