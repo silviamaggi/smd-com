@@ -1,7 +1,7 @@
 ---
-title: 'Note about ’The New CSS Layout’'
+title: 'About ’The New CSS Layout’'
 date: '2022-03-09'
-last_modified_at: '2022-03-09 16:21:23'
+last_modified_at: '2022-05-04 20:41:25'
 categories:
   - Notes
 tags:

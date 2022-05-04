@@ -1,7 +1,7 @@
 ---
-title: 'Note about productivity'
+title: 'About productivity'
 date: '2022-03-24'
-last_modified_at: '2022-03-24 12:14:22'
+last_modified_at: '2022-05-04 20:41:37'
 categories:
   - Notes
 tags:

@@ -1,7 +1,7 @@
 ---
-title: 'Note about mammography'
+title: 'About mammography'
 date: '2022-04-14'
-last_modified_at: '2022-04-15 00:39:00'
+last_modified_at: '2022-05-04 20:41:49'
 categories:
   - Notes
 tags:

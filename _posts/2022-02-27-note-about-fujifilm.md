@@ -1,7 +1,7 @@
 ---
-title: 'Note about Fujufilm'
+title: 'About Fujufilm'
 date: '2022-02-28'
-last_modified_at: '2022-02-28 11:27:28'
+last_modified_at: '2022-05-04 20:41:04'
 categories:
   - Notes
 tags:

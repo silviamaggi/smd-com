@@ -1,7 +1,7 @@
 ---
-title: 'Note about ’Extra Bold’'
+title: 'About ’Extra Bold’'
 date: '2022-03-03'
-last_modified_at: '2022-03-03 22:02:52'
+last_modified_at: '2022-05-04 20:41:19'
 categories:
   - Notes
 tags:

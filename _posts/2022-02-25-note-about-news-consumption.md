@@ -1,7 +1,7 @@
 ---
-title: 'Note about news consumption'
+title: 'About news consumption'
 date: '2022-02-25'
-last_modified_at: '2022-02-25 16:07:24'
+last_modified_at: '2022-05-04 20:40:57'
 categories:
   - Notes
 tags:

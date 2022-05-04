@@ -1,7 +1,7 @@
 ---
-title: 'Note about trackers'
+title: 'About trackers'
 date: '2022-03-10'
-last_modified_at: '2022-03-10 10:29:41'
+last_modified_at: '2022-05-04 20:41:30'
 categories:
   - Notes
 tags:

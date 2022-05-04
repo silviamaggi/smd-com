@@ -1,7 +1,7 @@
 ---
-title: 'Note about design tools'
+title: 'About design tools'
 date: '2022-03-01'
-last_modified_at: '2022-03-02 00:13:25'
+last_modified_at: '2022-05-04 20:41:11'
 categories:
   - Notes
 tags:
