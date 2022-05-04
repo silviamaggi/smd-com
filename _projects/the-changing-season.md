@@ -2,14 +2,14 @@
 layout: project
 title: 'The changing season'
 date: 2017-08-20
-last_modified_at: '2022-05-02 21:04:46'
+last_modified_at: '2022-05-04 19:56:43'
 featured-post: false
 type: 'Photography'
 description: 'Same landscape, never the same. My daily commute by bicycle documented using a phone camera between 2016-2017 in Cambridge, UK.'
 excerpt: "Same landscape, never the same. My daily commute by bicycle documented using a phone camera between 2016-2017 in Cambridge, UK."
 featuredimage: true
 featimage: feat-change-of-season.jpg
-featimage-alt: The river Cam in Cambridge in December, partly frozen and seen from a bridge
+featured-image-alt: The river Cam in Cambridge in December, partly frozen and seen from a bridge
 gallery: true
 image-caption: true
 year: 
