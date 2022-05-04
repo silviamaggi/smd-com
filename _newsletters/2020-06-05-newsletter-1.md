@@ -1,7 +1,7 @@
 ---
 title: "Design, Digested: Solidarity in the design community"
-last_modified_at: '2022-04-28 17:17:23'
-featured-post: false
+last_modified_at: '2022-05-04 11:17:00'
+robots: 'noindex,follow'
 description: "Design, Digested: Solidarity in the design community."
 excerpt: "Designing for belonging, equality and diversity, cross-cultural design and more."
 permalink: '/newsletter/archive/:title/'

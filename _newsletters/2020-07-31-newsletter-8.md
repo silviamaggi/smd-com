@@ -1,7 +1,7 @@
 ---
 title: "A safe and accessible web for everyone"
-last_modified_at: '2022-04-28 17:10:51'
-featured-post: false
+last_modified_at: '2022-05-04 11:15:58'
+robots: 'noindex,follow'
 description: "A safe and accessible web for everyone"
 excerpt: "Looking at you, Facebook."
 permalink: '/newsletter/archive/:title/'

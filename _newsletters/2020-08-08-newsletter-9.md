@@ -1,7 +1,7 @@
 ---
 title: "Inclusive design, problematic social media facts"
-last_modified_at: '2022-04-28 17:09:27'
-featured-post: false
+last_modified_at: '2022-05-04 11:15:49'
+robots: 'noindex,follow'
 description: "Inclusive design, problematic social media facts."
 excerpt: "Plus, a great music project and a break."
 permalink: '/newsletter/archive/:title/'

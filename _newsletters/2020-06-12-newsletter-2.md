@@ -1,7 +1,7 @@
 ---
 title: "Language, Mobile Approach and Responsive Design at 10"
-last_modified_at: '2022-04-28 17:16:42'
-featured-post: false
+last_modified_at: '2022-05-04 11:16:51'
+robots: 'noindex,follow'
 description: "Language, Mobile Approach and Responsive Design at 10."
 excerpt: "Defining books, the words we use and more."
 permalink: '/newsletter/archive/:title/'

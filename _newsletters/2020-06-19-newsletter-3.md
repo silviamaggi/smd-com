@@ -1,7 +1,7 @@
 ---
 title: "Black women in UX and how to foster creativity"
-last_modified_at: '2022-04-28 17:15:53'
-featured-post: false
+last_modified_at: '2022-05-04 11:16:42'
+robots: 'noindex,follow'
 description: "Black women in UX, how to foster creativity and an unimpressed Bowie."
 excerpt: "It’s up to us."
 permalink: '/newsletter/archive/:title/'
