@@ -2,7 +2,7 @@
 title: 'Learning to draw. A journey'
 last_modified_at: '2022-04-17 16:06:56'
 featured-post: false
-popular-post: true
+popular-post: false
 categories:
   - Drawing
 tags:

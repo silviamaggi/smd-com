@@ -2,6 +2,7 @@
 title: How the Instagram navigation became convoluted
 last_modified_at: '2022-04-19 18:15:13'
 featured-post: false
+popular-post: true
 categories:
   - UX
 tags:
@@ -13,6 +14,12 @@ tags:
 description: "With the introduction of significant layout changes – the tabs Reel and Shop – the Instagram navigation became convoluted. Let's briefly explore how."
 excerpt: 'With the introduction of significant layout changes — the tabs Reel and Shop — the Instagram navigation became convoluted. Let’s briefly explore how.'
 image-caption: true
+featuredimage: true
+featimage-alt: "Spiral staircase"
+featimage-class: 'u-featured'
+featimage: 'feat-insta-convoluted'
+image-caption: true
+featimage-caption-desc: 'Photo by <a href="https://unsplash.com/@naletu">Natalya Letunova</a>'
 ---
 ## The reason
 
