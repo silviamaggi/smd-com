@@ -2,7 +2,7 @@
 layout: page
 title: Colophon
 date: '2021-08-13 15:50'
-last_modified_at: '2022-01-13 17:34:41'
+last_modified_at: '2022-05-04 11:55:08'
 description: null
 permalink: /colophon/
 ---
@@ -22,9 +22,8 @@ Built with:
 - Vanilla Javascript for the [search module](https://github.com/daviddarnes/jekyll-search-js "Check out the search module by David Darnes")
 - [GitHub](https://github.com "Go to the GitHub website")
 
-Watercolor texture by [Alexandra M&aacute;rquez](https://www.freepik.com/vectors/background/){:title="View the image on Freepik"}.  
-Homepage illustrations by [Katerina Limpitsouni](https://undraw.co/){:title="Go to Undraw"}.  
-Hosting: [![Netlify Status](https://api.netlify.com/api/v1/badges/4be453ef-7512-46cd-b7e1-003b54c049b5/deploy-status)](https://app.netlify.com/sites/silviamaggidesign/deploys)
+Watercolor texture by [Alexandra M&aacute;rquez](https://www.freepik.com/vectors/background/){:title="View the image on Freepik"}.
+Hosting: [Netlify](https://www.netlify.com/){:title="Visit the site"}.
 
 ## Accessibility
 
