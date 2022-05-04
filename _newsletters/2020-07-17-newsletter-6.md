@@ -2,6 +2,7 @@
 title: "Biased AI, phone addiction and social media manipulation"
 last_modified_at: '2022-05-04 11:16:15'
 robots: 'noindex,follow'
+sitemap: false
 description: "Biased AI, phone addiction and social media manipulation."
 excerpt: "Time to take care of our digital lives."
 permalink: '/newsletter/archive/:title/'

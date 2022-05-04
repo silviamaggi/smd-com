@@ -2,6 +2,7 @@
 title: "How a well-known website lost trust of their community"
 last_modified_at: '2022-05-04 11:16:06'
 robots: 'noindex,follow'
+sitemap: false
 description: "How a well-known website lost trust of their community."
 excerpt: "Accessibility is everyone’s business."
 permalink: '/newsletter/archive/:title/'

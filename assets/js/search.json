@@ -2,7 +2,6 @@
 layout: null
 sitemap: false
 ---
-
 {% capture json %}
 [
   {% assign collections = site.collections | where_exp:'collection','collection.output != false' %}
@@ -28,5 +27,4 @@ sitemap: false
   {% endfor %}
 ]
 {% endcapture %}
-
 {{ json | lstrip }}

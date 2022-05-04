@@ -2,6 +2,7 @@
 title: "Anti-racist lessons, empathic design, misogyny"
 last_modified_at: '2022-05-04 11:16:26'
 robots: 'noindex,follow'
+sitemap: false
 description: "Anti-racist lessons, empathic design, misogyny."
 excerpt: "Honest conversations and some fun."
 permalink: '/newsletter/archive/:title/'
