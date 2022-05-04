@@ -9,7 +9,7 @@ description: 'Same landscape, never the same. My daily commute by bicycle docume
 excerpt: "Same landscape, never the same. My daily commute by bicycle documented using a phone camera between 2016-2017 in Cambridge, UK."
 featuredimage: true
 featimage: feat-change-of-season.jpg
-featured-image-alt: The river Cam in Cambridge in December, partly frozen and seen from a bridge
+featimage-alt: The river Cam in Cambridge in December, partly frozen and seen from a bridge
 gallery: true
 image-caption: true
 year: 

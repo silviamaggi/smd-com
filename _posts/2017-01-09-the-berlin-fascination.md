@@ -14,6 +14,7 @@ description: "By walking around Berlin, you see it's headed somewhere. Only, the
 excerpt: "Berlin is well known for being a fresh ever-changing city. By walking around, you see it's headed somewhere. Only, the destination is unknown and nobody is running."
 featuredimage: true
 featimage: feat_berlin_4132
+featimage-alt: "Rathaus Schöneberg metro station on sunny day. Two people having lunch with their backs on the windows, looking at the lake"
 image-caption: true
 ---
 Watching the documentary [_David Bowie: The Last Five Years_](http://www.bbc.co.uk/iplayer/episode/b088ktm6/david-bowie-the-last-five-years "View the documentary on the BBC Player"), I realised there still were two excellent albums for me to discover. I somehow missed _The Next Day_, and, knowing it was supposed to be his parting gift, I’ve never been able to fully listen to _Blackstar_.
