@@ -33,10 +33,10 @@ layout: default
     {%- if page.featuredimage == true %}
       {% responsive_image_block %}
         path: assets/images/{{ page.featimage }}
-        alt: {{ page.featimage-alt }}
+        alt: {{ page.featured-image-alt }}
         class: {{ page.featimage-class }}
         caption-true: {{ page.image-caption }}
-        caption: {{ page.featimage-caption-desc }}
+        caption: {{ page.featured-image-caption-desc }}
       {% endresponsive_image_block %}
     {% endif -%}
     <p class="lead">{{ page.excerpt }}</p>
