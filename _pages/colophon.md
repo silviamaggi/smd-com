@@ -2,7 +2,7 @@
 layout: page
 title: Colophon
 date: '2021-08-13 15:50'
-last_modified_at: '2022-05-04 11:55:08'
+last_modified_at: '2022-05-06 17:58:33'
 description: null
 permalink: /colophon/
 ---
@@ -22,7 +22,7 @@ Built with:
 - Vanilla Javascript for the [search module](https://github.com/daviddarnes/jekyll-search-js "Check out the search module by David Darnes")
 - [GitHub](https://github.com "Go to the GitHub website")
 
-Watercolor texture by [Alexandra M&aacute;rquez](https://www.freepik.com/vectors/background/){:title="View the image on Freepik"}.
+Watercolor texture by [Alexandra M&aacute;rquez](https://www.freepik.com/vectors/background/){:title="View the image on Freepik"}.  
 Hosting: [Netlify](https://www.netlify.com/){:title="Visit the site"}.
 
 ## Accessibility
