@@ -81,7 +81,7 @@ h4 {
     @include font-size($font-size-sm*0.80);
     text-transform: uppercase;
     padding: 0;
-    border-top: 4px solid $white;
+    border-top: 4px solid $background-l-80;
     background-color: $background-d-60;
     ul {
       @include list-unstyled();
@@ -105,7 +105,7 @@ h4 {
       width: 100%;
       color: $white;
       &:hover {
-        color: $background-d-50;
+        color: $black;
         background-color: $background-l-80;
       }
     }
@@ -124,6 +124,10 @@ h4 {
 }
 .smd-current {
   color: $link-d-40;
+  @include media-breakpoint-down(md) {
+    color: $black!important;
+    background-color: $background-l-50;
+  }
 }
 .smd-right-arrow::after {
   display: inline-block;
