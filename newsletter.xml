@@ -1,0 +1,30 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/newsletter.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang }}">
+  <channel>
+    <title>Design, Digested by {{ site.title | xml_escape }}</title>
+    <description>Design, Digested is a newsletter about design, tech, their implication in our lives and the occasional photography work. Delivered every two weeks to your mailbox, it contains posts from the blog and carefully curated inspiration stories.</description>
+    <link>{{ site.url }}/newsletter/archive/</link>
+    <language>{{ site.lang }}</language>
+    <copyright>{{ site.url }}/colophon/#copyright</copyright>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+    {% assign n = site.newsletters | sort: 'date' | reverse %}
+    {% for post in n limit:site.posts_limit %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <author>{{ site.author.email }} ({{ site.author.name }})</author>
+        <description>
+          {{ post.excerpt | xml_escape }}
+          {{ post.content | xml_escape }}
+          <![CDATA[<hr /><p><a href="mailto:{{ site.author.email }}?subject={{ post.title | uri_escape }}">Reply via email</a></p>]]>
+        </description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <link>{{ site.url }}{{ post.url }}</link>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
