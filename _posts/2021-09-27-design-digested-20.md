@@ -47,3 +47,7 @@ The book *Woman Made: Great Women Designers*, by architect Jane Hall, celebrates
 > Full of laughter and joy, *i saw the air fly* is testament to the unfailing resilience of the imagination, the healing power of photography, and the enchanting perspective of childhood.
 
 <p class="detached">🔗 <a href="https://www.theguardian.com/artanddesign/2021/sep/19/sirkhane-darkroom-turkey-syrian-refugee-children-cameras-photography">Read the article</a> (on The Guardian)</p>
+
+---
+
+{% include pattern-newsletter-post.html %}

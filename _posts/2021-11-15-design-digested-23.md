@@ -69,3 +69,6 @@ Why is that? Caroline Criado Perez writes very often about this problem, and nam
 
 <p class="detached">🔗 <a href="https://newsletter.carolinecriadoperez.com/issues/invisible-women-confessions-of-a-pocket-addict-807610">Read the newsletter</a> (on Revue)</p>
 
+---
+
+{% include pattern-newsletter-post.html %}

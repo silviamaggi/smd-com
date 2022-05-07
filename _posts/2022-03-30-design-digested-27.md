@@ -108,8 +108,4 @@ A year-long photography project born from a collaboration between my good friend
 
 ---
 
-### Newsletter
-
-[Design, Digested](/newsletter/ "Go to the Newsletter page") is a newsletter about design, tech, and their implication in our lives. Would you like a preview? Check the [**newletter archive**](/newsletter/archive/).
-
-{% include pattern-newsletter-sub.html %}
+{% include pattern-newsletter-post.html %}

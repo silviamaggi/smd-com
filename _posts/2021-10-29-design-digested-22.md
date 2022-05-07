@@ -51,3 +51,7 @@ permalink: '/design-digested/:title/'
 > A joint white paper from Creative Denmark, Danish Design Center, BLOXHUB and Danish Architecture Center highlights the role of design in a transition to a circular economy.
 
 <p class="detached">🔗 <a href="https://ddc.dk/designing-our-circular-future/">Read the article</a> (on Danish Design Center)</p>
+
+---
+
+{% include pattern-newsletter-post.html %}
