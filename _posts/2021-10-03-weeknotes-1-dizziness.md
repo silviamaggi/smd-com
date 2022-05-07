@@ -1,9 +1,9 @@
 ---
 title: "Week 1: Dizziness"
-last_modified_at: '2022-04-17 16:29:11'
+last_modified_at: '2022-05-07 11:48:06'
 featured-post: false
 categories:
-  - Weeknotes
+  - Personal
 tags:
   - lake maggiore
   - milan
