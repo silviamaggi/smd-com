@@ -37,7 +37,7 @@ I’m considering using [Freelists](https://www.freelists.org/), a mailing list 
 
 The entire process took time to setup but it’s rewarding. Every decision is in line with the work I keep doing to discard any attempt to create an online persona that doesn’t reflect who I am. Altough I have a branding and I like design, my newsletters don’t contain images anymore – not even my logo. I appreciate the idea of being _light_ in people’s inboxes, giving more focus to the content. 
 
-## Footnotes
+---
 
 [^utm]: [https://en.wikipedia.org/wiki/UTM_parameters](https://en.wikipedia.org/wiki/UTM_parameters)
 [^mailchimp-trackers]: [https://mailchimp.com/en-gb/help/enable-and-view-click-tracking/](https://mailchimp.com/en-gb/help/enable-and-view-click-tracking/)

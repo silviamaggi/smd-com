@@ -4,7 +4,7 @@ title: UniCredit acquisition landing pages and forms
 featured-post: false
 type: 'UX, UI'
 date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2022-01-25 18:23:03'
+last_modified_at: '2022-05-13 15:29:25'
 description: 'UniCredit wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.'
 featimage: feat-unicredit.jpg
 featured-image-alt: Screens showing UniCredit landing pages and forms
@@ -130,7 +130,7 @@ This project proved how important culture is when designing. Getting to know **t
 >
 > <cite>Gabriele Rosati, Head of Interaction Design at UniCredit.</cite>
 
-## Footnotes
+---
 
 [^smartphone-habits]: "*In 2013, only 37% of users used their smartphones to go online, while 84% declared to have such a habit in 2017. [...] Between 2013 and 2018, purchases via smartphone increased from barely 6% to over 26% of total online purchase in Italy.*" — **Source**: Statista Research Department [<a href="https://www.statista.com/statistics/800840/smartphone-and-internet-usage-in-italy/" title="Go to the statistics page">1</a> and <a href="https://www.statista.com/statistics/579435/incidence-rate-of-mobile-devices-on-online-purchases-by-type-in-italy/" title="Go to the statistics page">2</a>]
 

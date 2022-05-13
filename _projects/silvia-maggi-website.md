@@ -2,7 +2,7 @@
 layout: project
 title: 'Silvia Maggi Design website'
 date: 2022-03-21
-last_modified_at: '2022-03-21 17:07:18'
+last_modified_at: '2022-05-13 15:29:32'
 featured-post: false
 type: 'Web design'
 description: 'I redesigned and built my personal website from scratch following the need to have a customisable, flexible site to contain my work, interests and passions.'
@@ -110,7 +110,7 @@ Only `0.20g of CO2` is produced every time someone visits the homepage. Cleaner 
 {: .detached }
 Due to the site compact size, it’s member of: [![512kb Blue Team](/assets/images/blue-team.svg)](https://512kb.club/#512)
 
-## Footnotes
+---
 
 [^total-kilobytes]: [https://httparchive.org/reports/state-of-the-web#bytesTotal](https://httparchive.org/reports/state-of-the-web#bytesTotal){: title="See the report on HTTP Archive"}
 [^hamburger-menus]: [https://www.nngroup.com/articles/hamburger-menus/](https://www.nngroup.com/articles/hamburger-menus/){: title="Read the article on NN/g"}
