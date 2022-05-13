@@ -20,8 +20,6 @@ featuredimage: true
 featimage-alt: "Design, Digested 28 by Silvia Maggi"
 featimage-class: 'u-featured'
 featimage: 'feat-design-digested-28'
-image-caption: false
-featimage-caption-desc: 
 permalink: '/design-digested/:title/'
 ---
 ## Disability Dongle
