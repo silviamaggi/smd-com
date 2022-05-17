@@ -16,6 +16,10 @@ tags:
 description: 'After the initial shock, the lockdown and subsequent isolation prompted me to point the lens to my emotions and immediate surroundings.'
 excerpt: "Between the ups and downs of the global pandemic and lockdown, I kept taking pictures. I intended to have a photo diary to describe my take on isolation and the extraordinary circumstances we're living."
 image-caption: false
+featuredimage: false
+featimage-alt: "A hand reaching a shrub branch full of little white flowers on a sunny day"
+featimage-class: 'u-featured'
+featimage: 'feat-isolation-photo-diary-silviamaggi'
 ---
 {% responsive_image_block %}
   path: assets/images/isolation-photo-diary-silviamaggi-2.jpg
