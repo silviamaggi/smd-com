@@ -1,11 +1,12 @@
 ---
 title: 'Design, Digested 29'
-last_modified_at: '2022-05-15 19:01:56'
+last_modified_at: '2022-05-19 12:22:29'
 featured-post: false
 categories:
   - Design Digested
 tags:
   - design
+  - sustainability
   - autism
   - web3
   - covid-19
