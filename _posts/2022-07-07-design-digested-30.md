@@ -10,6 +10,7 @@ tags:
   - racism
   - cognitive bias
   - internet
+  - disinformation
   - social media
   - climate justice
 description: "Design, Digested 30: design is evolving, correcting highway designs of the past, building a more honest internet and more"
