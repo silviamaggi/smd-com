@@ -1,6 +1,6 @@
 ---
 title: "Exploring design cultures"
-last_modified_at: '2022-04-17 16:32:20'
+last_modified_at: '2022-07-19 15:50:24'
 featured-post: false
 categories:
   - Design Digested
@@ -10,6 +10,10 @@ tags:
   - inspiration
   - oslo
   - caribbean
+  - afro latinx
+  - le corbusier
+  - matrix
+  - accessibility
 description: "This week, tired of seeing social media-related articles, I'm sharing older ones as an inspiration to follow your own path."
 excerpt: 'This week, tired of seeing social media-related articles, I’m sharing older ones as an inspiration to follow your own path.'
 featuredimage: true

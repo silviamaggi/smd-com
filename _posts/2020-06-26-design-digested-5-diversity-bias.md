@@ -1,6 +1,6 @@
 ---
 title: "Diversity bias"
-last_modified_at: '2022-04-17 17:04:45'
+last_modified_at: '2022-07-19 17:00:42'
 featured-post: false
 categories:
   - Design Digested
@@ -11,8 +11,10 @@ tags:
   - design
   - ui
   - bad doors
+  - don norman
   - book
   - invisible women
+  - caroline criado perez
   - gender data gap
 description: 'Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.'
 excerpt: 'Design inspiration series. This week: diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.'

@@ -1,6 +1,6 @@
 ---
 title: "The Hook model and UX design’s dirty secret"
-last_modified_at: '2022-04-17 16:34:09'
+last_modified_at: '2022-07-19 15:59:56'
 featured-post: false
 categories:
   - Design Digested
@@ -11,6 +11,7 @@ tags:
   - dark patterns
   - sustainability
   - hook model
+  - hormones
   - circular economy
 description: "Design, Digested 22: how to protect ourselves against the Hook model, UX design’s dirty secret, harmful Facebook and more."
 excerpt: 'This week: how to protect ourselves against the Hook model, <em>UX Theatre</em>, dark patterns, and circular economy.'

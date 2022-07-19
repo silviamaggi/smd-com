@@ -1,11 +1,13 @@
 ---
 title: 'About productivity'
 date: '2022-03-24'
-last_modified_at: '2022-05-04 20:41:37'
+last_modified_at: '2022-07-19 16:19:16'
 categories:
   - Notes
 tags:
   - productivity
+  - gtd
+  - plaintext productivity
 type: note
 description: "I've never heard of plaintext productivity before and it seems like I missed on something crucial."
 excerpt: "I've never heard of <em>plaintext productivity</em> before and it seems like I missed on something crucial."

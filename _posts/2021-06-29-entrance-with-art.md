@@ -1,6 +1,6 @@
 ---
 title: Entrance with art
-last_modified_at: '2022-04-17 16:07:53'
+last_modified_at: '2022-07-19 15:36:46'
 featured-post: false
 categories:
   - Photography
@@ -8,6 +8,7 @@ tags:
   - ravenna
   - italy
   - art
+  - painting
   - photography
 description: 'How is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.'
 excerpt: 'Stepping into our new house for the summer, I wonder: how is it to live close to so much beauty? Art, architecture, poetry, food. This entrance is just the start.'

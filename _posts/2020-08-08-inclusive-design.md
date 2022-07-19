@@ -1,6 +1,6 @@
 ---
 title: "Inclusive design"
-last_modified_at: '2021-09-15 19:57:12'
+last_modified_at: '2022-07-19 17:00:30'
 featured-post: false
 categories:
   - Design Digested
@@ -17,6 +17,7 @@ tags:
   - ux
   - videogames
   - minutes to midnight
+  - music
 description: 'Design inspiration series. Inclusive design, problematic social media facts, and a great music project.'
 excerpt: 'On week number 10 of my design inspiration series, I share resources about inclusive design, problematic social media facts, and a great music project.'
 featuredimage: true

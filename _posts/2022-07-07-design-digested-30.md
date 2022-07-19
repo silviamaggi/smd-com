@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 30'
-last_modified_at: '2022-07-07 15:08:36'
+last_modified_at: '2022-07-19 16:28:07'
 featured-post: false
 categories:
   - Design Digested
@@ -8,11 +8,13 @@ tags:
   - design
   - psychology
   - racism
+  - accessibility
   - cognitive bias
   - internet
   - disinformation
   - social media
   - climate justice
+  - greta thunberg
 description: "Design, Digested 30: design is evolving, correcting highway designs of the past, building a more honest internet and more"
 excerpt: "Design is evolving, correcting designs of the past, why we ignore the obvious, building a more honest internet and why Greta Thunberg doesn’t want you to talk about her."
 featuredimage: true

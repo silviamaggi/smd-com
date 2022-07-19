@@ -1,6 +1,6 @@
 ---
 title: Brilliant culture and design books I’m reading
-last_modified_at: '2022-04-17 16:00:02'
+last_modified_at: '2022-07-19 17:00:06'
 featured-post: false
 categories:
   - Books
@@ -15,6 +15,8 @@ tags:
   - senongo akpem
   - guy pratt
   - beppe severgnini
+  - book
+  - a book apart
 description: "Here are the culture and design books I'm reading. Some are ideal if you're a designer, others are either very interesting or funny — or both — for anyone."
 excerpt: 'As a child, I always had books with me. I loved losing myself into good stories, to the point it hurt when they finished. In later years, my attention span became ridiculously short.'
 featuredimage: true

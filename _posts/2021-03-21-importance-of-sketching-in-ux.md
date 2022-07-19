@@ -1,6 +1,6 @@
 ---
 title: "The importance of sketching in UX"
-last_modified_at: '2022-04-17 16:03:27'
+last_modified_at: '2022-07-19 15:36:52'
 featured-post: false
 categories:
   - Design Digested
@@ -10,6 +10,9 @@ tags:
   - ux
   - design tools
   - design
+  - betty edwards
+  - the new drawing on the right side of the brain
+  - book
 description: "Sketching is one of the most important tools a UX Designer should master. Let's explore why, how, and go beyond."
 excerpt: "I’m sure you’ve encountered many posts about which tool is best for wireframing. Yet, one of UX designers’ most important and basic tool is sketching. If you know how to convey your ideas and concepts through sketches, the rest follows."
 featuredimage: true
@@ -52,7 +55,7 @@ The secret is repetition, says José Torre. You just need to get started. In the
 
 <hr>
 
-If you wish to take it to next level, Dr. Betty Edwards’ _New Drawing on the Right Side of the Brain_ workbook offers effective exercises that reinforce the five basic skills of drawing:
+If you wish to take it to next level, Dr. Betty Edwards’ _The New Drawing on the Right Side of the Brain_ workbook offers effective exercises that reinforce the five basic skills of drawing:
 
 <ul class="smd-ul">
 <li>The perception of edges.</li>

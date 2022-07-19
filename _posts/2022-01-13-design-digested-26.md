@@ -1,6 +1,6 @@
 ---
 title: 'Tabula rasa'
-last_modified_at: '2022-04-17 16:42:17'
+last_modified_at: '2022-07-19 16:14:42'
 featured-post: false
 categories:
   - Design Digested
@@ -14,6 +14,8 @@ tags:
   - art
   - ux
   - design
+  - book
+  - music
 description: "Stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
 excerpt: "Stop solving problems in design, drop ’The Lean Startup’, what to do instead of counting clicks, and oral history of Beastie Boys’ artwork, and more."
 featuredimage: true

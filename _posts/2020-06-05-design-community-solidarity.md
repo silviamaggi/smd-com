@@ -1,6 +1,6 @@
 ---
 title: "Design community solidarity"
-last_modified_at: '2022-04-17 15:27:05'
+last_modified_at: '2022-07-19 17:00:55'
 featured-post: false
 categories:
   - Design Digested
@@ -14,6 +14,8 @@ tags:
   - senongo akpem
   - erin meyer
   - reni eddo-lodge
+  - book
+  - a book apart
 description: 'Design inspiration series. Design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.'
 excerpt: 'Design inspiration series. This week: design community solidarity, designing for belonging, equality and diversity, cross-cultural design and more.'
 featuredimage: true

@@ -1,11 +1,13 @@
 ---
 title: 'About mammography'
 date: '2022-04-14'
-last_modified_at: '2022-05-04 20:41:49'
+last_modified_at: '2022-07-19 16:21:27'
 categories:
   - Notes
 tags:
   - mammography
+  - prevention
+  - women health
 type: note
 description: "A note about mammography, pain, and possible new designs to make the examination more comfortable and less painful for people of all ages."
 excerpt: "This morning I went for a mammography. In Italy, the examination is offered for prevention from the age of 40."

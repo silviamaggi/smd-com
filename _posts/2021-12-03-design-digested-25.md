@@ -1,6 +1,6 @@
 ---
 title: "Blue Beanie Day, UX of checkout flows, Ikea names"
-last_modified_at: '2022-04-17 16:41:26'
+last_modified_at: '2022-07-19 16:12:18'
 featured-post: false
 categories:
   - Design Digested
@@ -8,7 +8,9 @@ tags:
   - accessibility
   - web standards
   - blue beanie day
+  - jeffrey zeldman
   - ux
+  - baymard institute
   - drawing
   - bruno munari
   - sweden

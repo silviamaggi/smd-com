@@ -1,12 +1,13 @@
 ---
 title: "Responsive design at 10"
-last_modified_at: '2022-04-17 15:27:58'
+last_modified_at: '2022-07-19 16:42:26'
 featured-post: false
 categories:
   - Design Digested
 tags:
   - book
   - responsive web design
+  - a book apart
   - navigation
   - usability
   - glossier

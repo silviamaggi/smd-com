@@ -1,11 +1,15 @@
 ---
 title: 'About ’The New CSS Layout’'
 date: '2022-03-09'
-last_modified_at: '2022-05-04 20:41:25'
+last_modified_at: '2022-07-19 16:17:13'
 categories:
   - Notes
 tags:
+  - the new css layout
+  - rachel andrew
   - css
+  - book
+  - a book apart
 type: note
 description: "This quote from Rachel Andrew's book 'The New CSS Layout' keeps echoing in my head."
 excerpt: "This quote from Rachel Andrew's book <em>The New CSS Layout</em> keeps echoing in my head."

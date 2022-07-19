@@ -1,10 +1,11 @@
 ---
 title: 'About ’Extra Bold’'
 date: '2022-03-03'
-last_modified_at: '2022-05-04 20:41:19'
+last_modified_at: '2022-07-19 16:16:05'
 categories:
   - Notes
 tags:
+  - extra bold
   - book
 type: note
 description: "A quote from 'Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers'."

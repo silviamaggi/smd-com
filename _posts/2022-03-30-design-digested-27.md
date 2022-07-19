@@ -1,6 +1,6 @@
 ---
 title: 'False empathy, fast fashion, gender pay gap'
-last_modified_at: '2022-04-17 16:43:59'
+last_modified_at: '2022-07-19 16:32:16'
 featured-post: false
 categories:
   - Design Digested
@@ -14,6 +14,7 @@ tags:
   - accessibility
   - design system
   - design
+  - extra bold
   - ukraine
   - book
   - photography

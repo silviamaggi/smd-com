@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 29'
-last_modified_at: '2022-05-19 12:22:29'
+last_modified_at: '2022-07-19 16:26:36'
 featured-post: false
 categories:
   - Design Digested
@@ -13,6 +13,7 @@ tags:
   - ux
   - typography
   - photography
+  - michał dyjuk
 description: "Design, Digested 29: The last design you'll ever make, designing for the autistic community, cautionary tales from cryptoland, and more."
 excerpt: "The last design you'll ever make, designing for the autistic community, cautionary tales from cryptoland, the problem with Nielsen Norman Group videos and more."
 featuredimage: true

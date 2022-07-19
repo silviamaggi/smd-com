@@ -1,7 +1,7 @@
 ---
 title: How I stopped using Mailchimp
 date: '2022-05-06 21:41:33'
-last_modified_at: '2022-05-06 21:29:08'
+last_modified_at: '2022-07-19 16:24:16'
 featured-post: false
 categories:
   - Personal
@@ -10,6 +10,7 @@ tags:
   - privacy
   - trackers
   - mailchimp
+  - newsletter
 description: 'I don’t like trackers. That’s why I stopped using Mailchimp. I tell you why and how I stopped using Mailchimp and what I did instead.'
 excerpt: 'I tell you why and how I stopped using Mailchimp and what I did instead.'
 ---

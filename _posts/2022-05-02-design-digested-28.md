@@ -1,14 +1,16 @@
 ---
 title: 'Design, Digested 28'
-last_modified_at: '2022-05-02 11:09:13'
+last_modified_at: '2022-07-19 16:23:55'
 featured-post: false
 categories:
   - Design Digested
 tags:
   - disability
   - accessibility
+  - WCAG
   - design
   - ux
+  - the infinite scroll effect 
   - hook model
   - addiction
   - ethics

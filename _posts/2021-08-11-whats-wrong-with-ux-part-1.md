@@ -1,6 +1,6 @@
 ---
 title: "What’s wrong with UX (Part 1)"
-last_modified_at: '2021-09-15 18:42:41'
+last_modified_at: '2022-07-19 16:59:46'
 featured-post: false
 categories:
   - Design Digested
@@ -9,6 +9,7 @@ tags:
   - design thinking
   - women in tech
   - ux
+  - performative positivity
 description: 'In the first installment of the Design, Digested series since March, I share with you three reasons why the UX industry is currently broken.'
 excerpt: 'In the first instalment of the <a href="/newsletter/" title="View the newsletter archive"><em>Design, Digested</em></a> series since March, I share with you three reasons why the UX industry is currently broken.'
 featuredimage: true
