@@ -16,8 +16,8 @@ tags:
   - jevons paradox
   - photography
   - ferdinando scianna
-description: "Design, Digested 31: deadly distractions, mode confusion, the problem with the Metaverse, new dark patterns on Instagram."
-excerpt: "Deadly distractions, mode confusion, the problem with the Metaverse, new dark patterns on Instagram and more."
+description: "Design, Digested 31: deadly distractions, designing for modes, the problem with the Metaverse, new dark patterns on Instagram."
+excerpt: "Deadly distractions, designing for modes, the problem with the Metaverse, new dark patterns on Instagram and more."
 featuredimage: true
 featimage-alt: "Design, Digested 31 by Silvia Maggi"
 featimage-class: 'u-featured'
