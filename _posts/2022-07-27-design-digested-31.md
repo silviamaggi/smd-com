@@ -1,7 +1,7 @@
 ---
 title: 'Design, Digested 31'
 date: '2022-07-27 16:13:25'
-last_modified_at: '2022-07-27 16:13:32'
+last_modified_at: '2022-07-27 22:42:27'
 featured-post: false
 categories:
   - Design Digested
@@ -74,6 +74,18 @@ permalink: '/design-digested/:title/'
 
 {: .detached}
 🔗 [Read the article](https://www.theguardian.com/artanddesign/2022/jul/26/photographer-ferdinando-scianna-interview-sicily-magnum) (on The Guardian)
+
+---
+
+## Important note
+
+While an article here mentions ’dark patterns’, and I used the term [elsewhere on my website](https://silviamaggidesign.com/tag/dark-patterns/ "Explore the articles about ’dark patterns’"), there is a conversation around the bad connotation it has and the use of the adjective ’dark’. I will update the language I use to be more inclusive and not discriminatory: my preference is ’deceptive patterns’.
+
+### Read
+
+<ul class="smd-ul">
+  <li><a href="https://amyhupe.co.uk/articles/changing-our-language-on-bad-patterns/">Why it's time to update our language about bad design patterns</a></li>
+</ul>
 
 ---
 
