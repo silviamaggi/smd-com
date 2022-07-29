@@ -1,6 +1,6 @@
 ---
 title: "The Hook model and UX design’s dirty secret"
-last_modified_at: '2022-07-19 15:59:56'
+last_modified_at: '2022-07-29 18:21:31'
 featured-post: false
 categories:
   - Design Digested
@@ -52,6 +52,18 @@ permalink: '/design-digested/:title/'
 > A joint white paper from Creative Denmark, Danish Design Center, BLOXHUB and Danish Architecture Center highlights the role of design in a transition to a circular economy.
 
 <p class="detached">🔗 <a href="https://ddc.dk/designing-our-circular-future/">Read the article</a> (on Danish Design Center)</p>
+
+---
+
+## Important note
+
+While an article here mentions ’dark patterns’, and I used the term [elsewhere on my website](https://silviamaggidesign.com/tag/dark-patterns/ "Explore the articles about ’dark patterns’"), there is a conversation around the bad connotation it has and the use of the adjective ’dark’. I will update the language I use to be more inclusive and not discriminatory: my preference is ’deceptive patterns’.
+
+### Read
+
+<ul class="smd-ul">
+  <li><a href="https://amyhupe.co.uk/articles/changing-our-language-on-bad-patterns/">Why it's time to update our language about bad design patterns</a></li>
+</ul>
 
 ---
 

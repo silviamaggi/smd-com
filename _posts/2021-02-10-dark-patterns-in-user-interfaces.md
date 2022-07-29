@@ -1,6 +1,6 @@
 ---
 title: "Dark patterns in user interfaces"
-last_modified_at: '2022-04-17 15:56:13'
+last_modified_at: '2022-07-29 18:23:24'
 featured-post: false
 categories:
   - Design Digested
@@ -34,4 +34,16 @@ The many examples of UI dark patterns in the articles show how shady the interne
 <ul class="smd-ul">
 <li><a href="https://prototypr.io/post/we-value-your-privacy-at-about-0-50-dark-patterns-in-ui-copy/">We Value Your Privacy (At About $0.50): Dark Patterns in UI Copy</a> by Graeme Fulton</li>
 <li><a href="https://uxplanet.org/dark-design-patterns-in-your-everyday-apps-3627e439a8a1">Dark Patterns in Your Everyday App</a> by Mariana Vargas</li>
+</ul>
+
+---
+
+## Important note
+
+While an article here mentions ’dark patterns’, and I used the term [elsewhere on my website](https://silviamaggidesign.com/tag/dark-patterns/ "Explore the articles about ’dark patterns’"), there is a conversation around the bad connotation it has and the use of the adjective ’dark’. I will update the language I use to be more inclusive and not discriminatory: my preference is ’deceptive patterns’.
+
+### Read
+
+<ul class="smd-ul">
+  <li><a href="https://amyhupe.co.uk/articles/changing-our-language-on-bad-patterns/">Why it's time to update our language about bad design patterns</a></li>
 </ul>
