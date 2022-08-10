@@ -20,7 +20,7 @@ This morning I took some time to clean my browsing history, which is something I
 
 This process helps me connecting the dots of what happened the month before. Removing what I don’t need anymore is cleansing. Also, I’m happy to report that today I haven’t yet visited a news website. Starting from a clean-slate state helps me track the bad habit of checking the sites too many times a day, [which is something I’ve been trying to avoid](https://silviamaggidesign.com/notes/note-about-news-consumption/ 'Read my note about news consumption').
 
-Ever since [Simone](https://minutestomidnight.co.uk/ "Goes to Minutes to Midnight's website") set up my computer to adopt the [Plaintext productivity system](https://plaintext-productivity.net/ 'Read more on the website'), I’ve been very good in maintaining it. My desktop used to be tidy, yet I had a folder named _To Be Moved_ where a sheer amount of files waited for me to put them where they belong. It never happened. The _Downloads_ folder had a similar fate.
+Ever since [Simone](https://minutestomidnight.co.uk/ "Goes to Minutes to Midnight's website") set up my computer to adopt the [Plaintext productivity system](https://plaintext-productivity.net/ 'Read more on the website'), I’ve been very good at maintaining it. My desktop used to be tidy, yet I had a folder named _To Be Moved_ where a sheer amount of files waited for me to put them where they belong. It never happened. The _Downloads_ folder had a similar fate.
 
 I’ve come to the conclusion that, despite my desire and need to be organised and tidy, actually being it requires external help and great efforts from my side. It’s a constant struggle.
 
