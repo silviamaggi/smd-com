@@ -267,9 +267,9 @@ cite {
     margin-top: $spacer * 3;
   }
   
-  // Entry block paragraphs: justified and indented
+  // Entry block paragraphs: left-aligned and no anymore indented
   p {
-    margin-bottom: 0;
+    margin-bottom: $spacer*2;
     line-height: 1.3;
 
     @include media-breakpoint-up(xxl) {
@@ -278,16 +278,16 @@ cite {
 
     &:not(.card-text) {
       @include media-breakpoint-up(xxl) {
-        text-align: justify;
+        text-align: left;
       }  
     }
 
-    &:not(.lead) {
-      // First paragraph after interruption not indented
-      & + p {
-        text-indent: $spacer*2;
-      }
-    }
+    // &:not(.lead) {
+    //   // First paragraph after interruption not indented
+    //   & + p {
+    //     text-indent: $spacer*2;
+    //   }
+    // }
 
     // Entry block detached optional paragraph
     &.detached {
