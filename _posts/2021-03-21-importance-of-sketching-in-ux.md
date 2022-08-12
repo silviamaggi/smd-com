@@ -2,6 +2,7 @@
 title: "The importance of sketching in UX"
 last_modified_at: '2022-07-19 15:36:52'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

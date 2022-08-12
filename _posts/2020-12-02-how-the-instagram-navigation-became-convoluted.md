@@ -2,7 +2,7 @@
 title: How the Instagram navigation became convoluted
 last_modified_at: '2022-04-19 18:15:13'
 featured-post: false
-popular-post: true
+popular-post: false
 categories:
   - UX
 tags:
