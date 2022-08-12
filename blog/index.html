@@ -2,10 +2,21 @@
 layout: blog
 title: Blog
 date: 2021-04-13 17:31
-last_modified_at: '2022-05-05 16:46:56'
+last_modified_at: '2022-08-12 12:10:59'
 description: "This is Silvia Maggi’s blog, where she writes about design, tech and their implications in our lives. Also personal posts and photography projects."
 excerpt: 'I write about design, tech and their implications in our lives. Follow my posts via <a href="/feed.xml">RSS</a>. Looking for something specific? Visit the <a href="/archive/">archive</a>.'
 ---
+<div class="h-feed smd-entry">
+  {% capture cats %}
+    {% assign sorted_cats = site.categories | sort %}
+    {% for category in sorted_cats %}
+      {% assign c = category | first %}
+      <a href="/category/{{ c | slugify }}" title="Go to the archive page for: {{ c }}">{{ c | downcase }}</a>{% unless forloop.last %}, {% endunless %}{% if forloop.last %}.{% endif %}
+    {% endfor %}
+  {% endcapture %}
+  <p>Find my writing under: {{ cats }}</p>
+</div>
+
 {% include pattern-popular-posts.html %}
 
 <section class="h-feed">
