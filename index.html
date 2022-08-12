@@ -13,7 +13,7 @@ last_modified_at: '2022-04-14 12:46:02'
           </div>
           <div class="col-md-3 d-flex justify-content-md-end">
             <a class="mx-auto" href="/about/">
-              {% include pattern-avatar.html alt="Portrait of Silvia Maggi" width="120" height="120" %}
+              {% include pattern-avatar.html alt="Portrait of Silvia Maggi smiling while wearing her favourite blue jumper" width="120" height="120" %}
             </a>
           </div>
           <div class="col-md-9">
@@ -26,4 +26,23 @@ last_modified_at: '2022-04-14 12:46:02'
   {% include pattern-hcard-pages.html %}
   <div class="e-content smd-entry">
     <p class="lead">{{ site.brand.smd_bio }} <a class="ps-1" href="/about/"><strong>Read more</strong>&nbsp;→</a></p>
+  </div>
 </div>
+
+<section class="h-feed latest-posts my-2 pt-4">
+  <h3 class="p-name text-center display-5 smd-mask-texture mb-3">Recent Posts</h3>
+  {%- assign recentPosts = site.posts -%}
+  <div class="row row-cols-1 row-cols-sm-2 g-4">
+  {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
+    <div class="col">
+      {% if post %}
+      {% assign categories = post.categories %}
+      {% else %}
+      {% assign categories = page.categories %}
+      {% endif %}
+      {% include pattern-postblock.html %}
+    </div>
+    {% endfor -%}
+  </div>
+
+</section>
