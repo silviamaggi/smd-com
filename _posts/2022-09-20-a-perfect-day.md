@@ -1,7 +1,7 @@
 ---
 title: A perfect day
 date: '2022-09-20 19:07:55'
-last_modified_at: '2022-09-20 20:05:17'
+last_modified_at: '2022-09-20 21:07:14'
 featured-post: false
 categories:
   - Photography
@@ -11,9 +11,12 @@ tags:
   - photography
   - ravenna
   - travel
+featuredimage: true
+featimage: 20220920-ravenna-01
+featimage-alt: "Rough sea on a clear day. A pier made of rock on one side of the canal, a fishing hut on the other"
 image-caption: false
 description: "Notes and pictures at the end of the longest and hottest summer of my life. A holiday in Italy."
-excerpt: "Notes and photos at the end of summer."
+excerpt: "Notes and photos at the end of a long and hot summer."
 ---
 The sea is roaring under the blue sky. I’m watching the waves breaking at the rock barriers from the window, as a cotton sweater comforts me. 
 
@@ -23,14 +26,14 @@ I missed being so close to nature; and looking at panoramas as far as my eyes ca
 
 {% responsive_image_block %}
   path: assets/images/20220920-ravenna-01.jpg
-  alt: Rough sea on a clear day. A pier made of rock on one side of the canal, a fishing hut on the other.
+  alt: Rough sea on a clear day. A pier made of rock on one side of the canal, a fishing hut on the other
   caption-true: {{ page.image-caption }}
   caption: 
 {% endresponsive_image_block %}
 
 {% responsive_image_block %}
   path: assets/images/20220920-ravenna-02.jpg
-  alt: Walking path alongside a beach on the Adriatic sea at dusk. A few, dramatic clouds and waves.
+  alt: Walking path alongside a beach on the Adriatic sea at dusk. A few, dramatic clouds and waves
   caption-true: {{ page.image-caption }}
   caption: 
 {% endresponsive_image_block %}
