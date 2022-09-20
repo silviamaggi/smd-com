@@ -25,13 +25,6 @@ The last swim of the year happened on a windy day at the end of the longest and 
 I missed being so close to nature; and looking at panoramas as far as my eyes can see, without any obstacles.
 
 {% responsive_image_block %}
-  path: assets/images/20220920-ravenna-01.jpg
-  alt: Rough sea on a clear day. A pier made of rock on one side of the canal, a fishing hut on the other
-  caption-true: {{ page.image-caption }}
-  caption: 
-{% endresponsive_image_block %}
-
-{% responsive_image_block %}
   path: assets/images/20220920-ravenna-02.jpg
   alt: Walking path alongside a beach on the Adriatic sea at dusk. A few, dramatic clouds and waves
   caption-true: {{ page.image-caption }}
