@@ -1,7 +1,7 @@
 ---
 title: A perfect day
 date: '2022-09-20 19:07:55'
-last_modified_at: '2022-09-20 21:07:14'
+last_modified_at: '2022-09-20 21:20:39'
 featured-post: false
 categories:
   - Photography
@@ -16,7 +16,7 @@ featimage: 20220920-ravenna-01
 featimage-alt: "Rough sea on a clear day. A pier made of rock on one side of the canal, a fishing hut on the other"
 image-caption: false
 description: "Notes and pictures at the end of the longest and hottest summer of my life. A holiday in Italy."
-excerpt: "Notes and photos at the end of a long and hot summer."
+excerpt: "Notes and pictures at the end of a long and hot summer. A holiday in Italy."
 ---
 The sea is roaring under the blue sky. I’m watching the waves breaking at the rock barriers from the window, as a cotton sweater comforts me. 
 
