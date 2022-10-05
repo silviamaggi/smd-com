@@ -4,8 +4,8 @@
     Button to open the gallery
     -------------------------*
   {% endcomment %}
-  <input class="smd-modal-btn" type="checkbox" id="smd-modal-{{ include.id }}" name="smd-modal-{{ include.id }}">
-  <label class="btn btn-lg btn-smd btn-smd-cta fw-bold" for="smd-modal-{{ include.id }}">📷 <span class="initialism ps-1">Open the gallery</span></label>
+  <input type="checkbox" class="smd-modal-launch" id="smd-modal-{{ include.id }}" name="smd-modal-{{ include.id }}">
+  <label class="btn btn-lg btn-smd btn-smd-cta fw-bold" for="smd-modal-{{ include.id }}" tabindex="0"><span class="initialism ps-1">Open the gallery</span></label>
   {% comment %}
     *-------------------------
     Modal content
