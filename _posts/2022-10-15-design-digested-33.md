@@ -1,7 +1,7 @@
 ---
 title: "Design, Digested 33 – Accessibility, sustainability, climate crisis"
 date: '2022-10-16 18:00:54'
-last_modified_at: '2022-10-16 18:08:16'
+last_modified_at: '2022-10-30 20:41:42'
 featured-post: false
 categories:
   - Design Digested
@@ -16,7 +16,7 @@ tags:
   - greta thunberg
   - social media
   - sustainability
-description: "Design, Digested 33: "
+description: "Design, Digested 33: – Accessibility, sustainability, climate crisis"
 excerpt: "The difficulty of travelling for disabled people, the history of user interfaces, carbon footprinting and more."
 featuredimage: true
 featimage-alt: "Design, Digested 33 – Accessibility, sustainability, climate crisis"
