@@ -1,7 +1,7 @@
 ---
-title: "Design, Digested 34 – Sterile aestetics, privacy, dyslexia"
+title: "Design, Digested 34 – Sterile aesthetics, privacy, dyslexia"
 date: '2022-10-30 20:44:01'
-last_modified_at: '2022-10-30 22:02:51'
+last_modified_at: '2022-11-01 09:57:44'
 featured-post: false
 categories:
   - Design Digested
@@ -14,10 +14,10 @@ tags:
   - inspiration
   - privacy
   - typography
-description: "Design, Digested 34 – Sterile aestetics, privacy, dyslexia"
+description: "Design, Digested 34 – Sterile aesthetics, privacy, dyslexia"
 excerpt: "How technology is shaping the physical world, spying appliances, dyslexia-friendly typefaces and more."
 featuredimage: true
-featimage-alt: "Design, Digested 34 – Sterile aestetics, privacy, dyslexia"
+featimage-alt: "Design, Digested 34 – Sterile aesthetics, privacy, dyslexia"
 featimage-class: 'u-featured'
 featimage: 'feat-design-digested-34'
 permalink: '/design-digested/:title/'
