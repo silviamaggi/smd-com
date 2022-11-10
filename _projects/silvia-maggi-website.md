@@ -2,7 +2,7 @@
 layout: project
 title: 'Silvia Maggi Design website'
 date: 2022-03-21
-last_modified_at: '2022-05-13 15:29:32'
+last_modified_at: '2022-11-10 08:34:24'
 featured-post: false
 type: 'Web design'
 description: 'I redesigned and built my personal website from scratch following the need to have a customisable, flexible site to contain my work, interests and passions.'
@@ -16,6 +16,7 @@ skills:
   - HTML
   - CSS
   - SASS
+  - Accessibility
   - Jekyll
   - Liquid
   - Markdown
@@ -58,16 +59,6 @@ Currently, they are:
 - [Newsletter archive](/newsletter/archive/){: title="Visit my newsletter archive page"}
 - [Jeremy Bearimy](/jeremybearimy/){: title="Visit the special section 'Jeremy Bearimy'"}
 
-## SEO
-Taking care of the SEO was straightforward. It needed a combination of good practises set up once:
-
-- looking for [canonical URLs](https://en.wikipedia.org/wiki/Canonical_link_element){: title="Visit the Wikipedia page on canonical link elements"};
-- taking description and title from the [Front Matter](https://jekyllrb.com/docs/front-matter/){: title="Learn about it on Jekyll's website"} of posts and pages;
-- implementing [Open graph](https://ogp.me/){: title="Visit the Open graph website"} for rich content display when links are shared on other websites such as social media or instant messengers;
-- adding a correct structured data content following [schema](https://schema.org/docs/documents.html){: title="Visit the Schema website"} guidelines.
-
-Google Lighthouse gives a `100` result on SEO, with all 15 audits fully passed.
-
 ## Design
 We chose [Bootstrap 5](https://getbootstrap.com/){: title= "Visit the Bootstrap 5 website"} to speed up the creation of grids and other features, building my theme on top of it. Using utility-first CSS[^utility-first] helped us decouple stylesheets from markup. Along with a customised inclusion of Bootstrap's SASS source files, it helped keep the final CSS light and efficient.
 
@@ -76,7 +67,20 @@ For typography, I use two local custom fonts for the headings, strictly **avoidi
 I refreshed logo and styling as well, using muted nature-inspired colours and graphic elements that align with my passion for drawing and watercolours. 
 
 ### SVGs
-Interface images, the logo and all the icons are inline SVGs. When not possible, we call for an aggressively optimised PNG. This choice **contributes to the website performance**. 
+Interface images, the logo and all the icons are inline SVGs. When not possible, we call for an aggressively optimised PNG. This choice **contributes to the website performance**.
+
+## Accessibility
+I took care of all the details that make a site compliant with the basic WCAG rules. A test with [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.com/ "Check the test result on WAVE") didn’t reveal any problematic issue.
+
+I checked the colour contrast of elements, the legibility of text, and took care of *alternate description* for links and images. The automatic test that WAVE performs assured me I did a good job.
+
+Yet, no tool can reliably substitute a manual test. That is, navigating a site using assistive technologies available to everyone.
+
+As I took a closer look to the WCAG 2.1 success criteria, and recently enrolled in the [Web Accessibility course on Udacity](https://www.udacity.com/course/web-accessibility--ud891 "Visit the course page"), I decided to take a step-by-step approach to make my website entirely compliant.
+
+Continue reading on [the first of a series of posts where I explain the changes I’m making and why](https://silviamaggidesign.com/accessibility/making-website-accessible-1/).
+
+Google Lighthouse gives a `100` result on SEO, with all 15 audits fully passed.
 
 ## Responsive images and photo galleries
 Over the years, I published many pictures on social networks and  previous blogs. After [quitting social media](https://silviamaggidesign.com/personal/life-off-social-media/){: title="Read what happened after I quit social media"}, the website needed to become the centre of my virtual life and the place from where to publish elsewhere.
@@ -89,6 +93,14 @@ Simone created an [image gallery carousel in pure HTML and CSS](https://minutest
 
 An important feature is the ability to search within the website. To implement it we used [vanilla Javascript](https://github.com/daviddarnes/jekyll-search-js){: title="Check the script on Github"}. We also provide an accessible no-script alternative which relies on DuckDuckGo, presenting the results in a new browser tab.
 
+## SEO
+Taking care of the SEO was straightforward. It needed a combination of good practises set up once:
+
+- looking for [canonical URLs](https://en.wikipedia.org/wiki/Canonical_link_element){: title="Visit the Wikipedia page on canonical link elements"};
+- taking description and title from the [Front Matter](https://jekyllrb.com/docs/front-matter/){: title="Learn about it on Jekyll's website"} of posts and pages;
+- implementing [Open graph](https://ogp.me/){: title="Visit the Open graph website"} for rich content display when links are shared on other websites such as social media or instant messengers;
+- adding a correct structured data content following [schema](https://schema.org/docs/documents.html){: title="Visit the Schema website"} guidelines.
+
 ## Results
 
 ### Benchmarks
@@ -97,11 +109,6 @@ An important feature is the ability to search within the website. To implement i
 | **Markup** | **Google score** | **Speed index** | **Homepage weight** |
 |:-:| |:-:| |:-:| |:-:|
 | ✅ [valid](https://validator.w3.org/nu/?doc=https://silviamaggidesign.com/) | **[`100`](https://pagespeed.web.dev/report?url=https%3A%2F%2Fsilviamaggidesign.com%2F)** | **`0.5 sec`** | **`250 kb`** |
-
-### Accessibility
-
--   ✅ **No errors** for WCAG detected on [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.com/){: title="Verify the result on WAVE's website"}.
--   ✅ **`100`** on [Google Lighthouse](https://web.dev/measure/){: title="Verify the result on Google Lighthouse"}
 
 ### Sustainability
 
