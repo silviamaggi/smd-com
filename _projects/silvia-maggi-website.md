@@ -2,7 +2,7 @@
 layout: project
 title: 'Silvia Maggi Design website'
 date: 2022-03-21
-last_modified_at: '2022-11-11 20:40:08'
+last_modified_at: '2022-11-11 20:43:07'
 featured-post: false
 type: 'Web design'
 description: 'I redesigned and built my personal website from scratch following the need to have a customisable, flexible site to contain my work, interests and passions.'
@@ -16,7 +16,6 @@ skills:
   - HTML
   - CSS
   - SASS
-  - Accessibility
   - Jekyll
   - Liquid
   - Markdown
