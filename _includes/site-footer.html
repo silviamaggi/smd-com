@@ -19,9 +19,7 @@
 </div>
 {% if page.url contains 'search' or page.url contains '404.html' %}
 <script type="text/javascript" src="{{ site.url }}/assets/js/search-smd.js"></script>
-<noscript>Please enable JavaScript to use the search form or use the one below.</noscript>
 {% endif %}
 {% if page.is_post or page.collection == 'projects' %}
 <script src="/assets/js/webmention.min.js" async></script>
-<noscript>I use client-side JavaScript to render the webmentions. If you do not wish to enable JavaScript, that's OK, but you won't see any webmention I've received — sorry.</noscript>
 {% endif %}
