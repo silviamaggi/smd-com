@@ -2,7 +2,7 @@
 layout: project
 title: 'Silvia Maggi Design website'
 date: 2022-03-21
-last_modified_at: '2022-11-10 08:34:24'
+last_modified_at: '2022-11-11 20:40:08'
 featured-post: false
 type: 'Web design'
 description: 'I redesigned and built my personal website from scratch following the need to have a customisable, flexible site to contain my work, interests and passions.'
@@ -80,8 +80,6 @@ As I took a closer look to the WCAG 2.1 success criteria, and recently enrolled 
 
 Continue reading on [the first of a series of posts where I explain the changes I’m making and why](https://silviamaggidesign.com/accessibility/making-website-accessible-1/).
 
-Google Lighthouse gives a `100` result on SEO, with all 15 audits fully passed.
-
 ## Responsive images and photo galleries
 Over the years, I published many pictures on social networks and  previous blogs. After [quitting social media](https://silviamaggidesign.com/personal/life-off-social-media/){: title="Read what happened after I quit social media"}, the website needed to become the centre of my virtual life and the place from where to publish elsewhere.
 
@@ -101,6 +99,8 @@ Taking care of the SEO was straightforward. It needed a combination of good prac
 - implementing [Open graph](https://ogp.me/){: title="Visit the Open graph website"} for rich content display when links are shared on other websites such as social media or instant messengers;
 - adding a correct structured data content following [schema](https://schema.org/docs/documents.html){: title="Visit the Schema website"} guidelines.
 
+Google Lighthouse gives a `100` result on SEO, with all 15 audits fully passed.
+
 ## Results
 
 ### Benchmarks
@@ -112,10 +112,14 @@ Taking care of the SEO was straightforward. It needed a combination of good prac
 
 ### Sustainability
 
-Only `0.20g of CO2` is produced every time someone visits the homepage. Cleaner than `85%` of [web pages tested](https://www.websitecarbon.com/website/silviamaggidesign-com/ "Visit Website carbon"). The website is running on sustainable energy.
+Only `0.06g of CO2` is produced every time someone visits the homepage. Cleaner than `94%` of [web pages tested](https://www.websitecarbon.com/website/silviamaggidesign-com/ "Visit Website carbon"). The website is running on sustainable energy.
 
 {: .detached }
 Due to the site compact size, it’s member of: [![512kb Blue Team](/assets/images/blue-team.svg)](https://512kb.club/#512)
+
+## Further reading
+
+🔗 [How I am making my website accessible](https://silviamaggidesign.com/accessibility/making-website-accessible-1/ "Read the blog post")
 
 ---
 
