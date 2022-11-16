@@ -1,7 +1,7 @@
 ---
 title: Accessibility diaries – Part 1
 date: '2022-10-31 18:21:57'
-last_modified_at: '2022-10-31 19:15:10'
+last_modified_at: '2022-11-16 14:37:07'
 featured-post: false
 categories:
   - Accessibility
@@ -10,6 +10,7 @@ tags:
   - W3C
   - accessibility
   - work
+  - diaries
 description: "To wrap up the first month of work as accessibility consultant for one of Italy's major banks, I share a few things I learned."
 excerpt: "To wrap up the first month of work as accessibility consultant for one of Italy's major banks, I share a few things I learned."
 ---

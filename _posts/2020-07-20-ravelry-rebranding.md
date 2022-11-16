@@ -1,6 +1,6 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2022-04-29 15:49:14'
+last_modified_at: '2022-11-16 14:37:00'
 featured-post: false
 popular-post: true
 categories:
@@ -14,6 +14,7 @@ tags:
   - design
   - ravelry
   - ux
+  - vestibular disorders
 description: 'Knitting website Ravelry lost the trust of their community after their rebranding efforts caused several users adverse side effects from browsing the site.'
 excerpt: 'Knitting website Ravelry lost the trust of their community after a rebranding effort caused several users adverse side effects from browsing the site. Well-known among knitters, crocheters, designers, spinners, and dyers, Ravelry is a free platform where users can organise and keep track of their projects, network with other people and sell their designs.'
 featuredimage: true
