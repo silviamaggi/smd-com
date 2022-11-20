@@ -1,6 +1,6 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2022-11-16 14:37:00'
+last_modified_at: '2022-11-20 11:54:55'
 featured-post: false
 popular-post: true
 categories:
@@ -95,9 +95,10 @@ Ever since the first release, Ravelry made some changes to the interface, but th
 
 The text has been corrected to delete inaccuracies about when the old design will be retired (there will be a six-month notice) and the fact that screen reader software didn’t work correctly with the old version, too.
 
-## Useful links
+## Links to useful articles
 
 <ul class="smd-ul">
+<li><a href="http://alistapart.com/article/accessibility-for-vestibular/">Accessibility for vestibular disorders: how my temporary disability changed my perspective</a> (on A List Apart)</li>
 <li><a href="https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity/">Designing Safer Web Animation For Motion Sensitivity</a> (on A List Apart)</li>
 <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/">Accessibility, Usability, and Inclusion</a> (on W3C)</li>
 <li><a href="https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/">Designing For Accessibility And Inclusion</a> (on Smashing Magazine)</li>
