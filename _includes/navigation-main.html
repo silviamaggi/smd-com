@@ -2,8 +2,8 @@
 <nav class="navigation-main mt-md-4 mb-md-4" aria-label="Primary">
   <ul>
     {% for item in site.data.nav-site -%}
-    <li class="nav-item text-center text-md-start mx-0">
-      <a class="nav-link text-decoration-none{% if page.url contains item.link %} smd-current{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
+    <li class="nav-item text-center text-md-start">
+      <a class="{% if page.url contains item.link %} smd-current{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
     </li>
     {% endfor -%}
   </ul>

@@ -1,13 +1,7 @@
+- name: RSS
+  link: /feed.xml
 - name: Archive
   link: /archive/
-- name: Newsletter
-  link: /newsletter/
-- name: RSS feed
-  link: /feed.xml
-- name: Notes
-  link: /notes/
-- name: Jeremy Bearimy
-  link: /jeremybearimy/
 - name: Blogroll
   link: /blogroll/
 - name: Privacy
