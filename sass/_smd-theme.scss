@@ -78,63 +78,53 @@ h4 {
 // ------------------------------------------------ //
 
 .navigation-main {
-  @include media-breakpoint-down(md) {
-    position: fixed;
-    z-index: 9000;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-    font-family: $font-family-base;
-    @include font-size($font-size-sm*0.80);
-    text-transform: uppercase;
-    padding: 0;
-    border-top: 4px solid $background-l-80;
-    background-color: $background-d-60;
-    ul {
-      @include list-unstyled();
-      margin: 0;
-      padding: 0;
-    }
-    li {
-      display: inline-block;
-      width: 20%;
-      margin-right: -4px !important;
-      padding: 0;
-      border-left: 1px solid $white;
-      &:first-child {
-        border-left: 0;
-      }
-    }
-    a {
-      display: block;
-      color: $background-d-70;
-      padding: $spacer*0.75 0;
-      width: 100%;
-      color: $white;
-      &:hover {
-        color: $black;
-        background-color: $background-l-80;
-      }
-    }
-  }
 
   @include font-size($font-size-lg*1.25);
   font-family: $headings-font-family;
 
   ul {
     @include list-unstyled();
+    text-align: center;
+    margin: 1.5rem 0 0 0;
+    padding: 0;
+    li {
+      display: inline-block;
+      margin: 8px 4px;
+      @include media-breakpoint-up(md) {
+        display: block;
+        background-color: transparent;
+      }
+    }
   }
 
   a {
     display: inline-block;
-  }
-}
-.smd-current {
-  color: $link-d-40;
-  @include media-breakpoint-down(md) {
-    color: $black!important;
-    background-color: $background-l-50;
+    color: $background-d-60;
+    padding: 4px 8px;
+    border-radius: 0.3em;
+    background-color: white;
+    border: 2px solid $background-d-20;
+    &.smd-current {
+      color: white;
+      border: 2px solid $background-d-50;
+      background-color: $background-d-50;
+    }
+    @include media-breakpoint-up(md) {
+      display: block;
+      color: $link-color;
+      padding-left: 0;
+      padding-right: 0;
+      background-color: transparent;
+      border: transparent;
+      &.smd-current {
+        color: $link-d-40;
+        border: none;
+        background-color: transparent;
+        text-decoration-color: $link-d-40;
+        text-decoration-line: underline;
+        text-decoration-thickness: 3px;
+      }
+    }
   }
 }
 .smd-right-arrow::after {
@@ -148,6 +138,19 @@ h4 {
   padding-right: 2px;
 }
 
+footer {
+  nav {
+    a {
+      color: $link-color;
+      &.smd-current {
+        color: $link-d-40;
+        text-decoration-color: $link-d-40;
+        text-decoration-line: underline;
+        text-decoration-thickness: 3px;
+      }
+    }
+  }
+}
 
 // ------------------------------------------------ \\
 // $TYPOGRAPHY
