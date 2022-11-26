@@ -33,11 +33,7 @@ brand:
   smd_latestposts_limit: 2
 
 exclude: 
-  - node_modules/
-  - sass/
   - README.md
-  - package.json
-  - package-lock.json
 include: ["_pages", "_redirects"]
 
 # Defaults
