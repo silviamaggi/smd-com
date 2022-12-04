@@ -1,7 +1,7 @@
 ---
 title: Accessibility diaries – Part 1
 date: '2022-10-31 18:21:57'
-last_modified_at: '2022-11-16 14:37:07'
+last_modified_at: '2022-12-04 20:56:22'
 featured-post: false
 categories:
   - Accessibility
@@ -15,7 +15,7 @@ description: "To wrap up the first month of work as accessibility consultant for
 excerpt: "To wrap up the first month of work as accessibility consultant for one of Italy's major banks, I share a few things I learned."
 ---
 ## Background
-The [_Stanca Law_ or _Disability Law_ (9 gennaio 2004, n. 4)](https://www.agid.gov.it/it/design-servizi/accessibilita "read the law text: beware, it's in Italian") has been updated. It now applies to all public companies offering services through websites or mobile applications and have had an average turnover of 500 million euros in the past three years. The law, which scope was previously limited to public administration websites only, makes it compulsory for companies to comply with the WCAG 2.1 (Level AA) guidelines. In case of failure to comply, the fine is up to 5% of the turnover.
+The [_Stanca Law_ or _Disability Law_ (9 gennaio 2004, n. 4)](https://www.agid.gov.it/it/design-servizi/accessibilita "read the law text: beware, it's in Italian") has been updated. It now applies to all public companies offering services through websites or mobile applications and have had an average turnover of 500 million euros in the past three years. The law, which scope was previously limited to public administration websites only, makes it compulsory for companies to comply with the WCAG 2.1 (Level AA) guidelines. In case of failure, the fine is up to 5% of the turnover.
 
 ## Things I learned
 
