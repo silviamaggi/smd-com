@@ -12,7 +12,7 @@ tags:
   - comfort culture
   - photography
 description: "Design, Digested 37 – Slowing down, as the end the year approaches, and suggesting reads about rest, comfort culture and more."
-excerpt: "Slowing down, as the end the year approaches, and suggesting reads about rest, comfort culture and more."
+excerpt: "As the end the year approaches, it's time to slow down."
 featuredimage: true
 featimage-alt: ""
 featimage-class: 'u-featured'
@@ -33,7 +33,7 @@ Why do some people refuse to read the same book twice, when others return to old
 
 ## How Hj&auml;rta Sm&auml;rta challenged the male-dominated status quo in the early 2000s?
 
-Feminist design discourse has grown the last decades. But when the founders of Hall of Femmes launched their studio, “we were the only women that we knew of.”
+Feminist design discourse has grown the last decades. But when the founders of _Hall of Femmes_ launched their studio, “we were the only women that we knew of.”
 
 🔗 [Read the article _How Hj&auml;rta Sm&auml;rta challenged the male-dominated status quo in the early 2000s?_ on AIGA Eye on Design](https://eyeondesign.aiga.org/how-hjarta-smarta-challenged-the-male-dominated-status-quo-in-the-early-2000s/)
 
