@@ -38,3 +38,11 @@ Unsurprising. Any use of the word “normal” should be banned. And so should t
 ### Grey zone
 
 When accessibility issues can be solved with usability best practices instead of specific success criteria, it becomes very difficult to get approval and proceed with remediations. It's a pity, because people with cognitive impairments would benefit greatly from interfaces being more usable and intuitive. 
+
+---
+
+## Read further
+
+- Accessibility diaries – Part 1
+- [Accessibility diaries – Part 2](https://silviamaggidesign.com/accessibility/accessibility-diaries-2/)
+- [Accessibility diaries – Part 3](https://silviamaggidesign.com/accessibility/accessibility-diaries-3/)

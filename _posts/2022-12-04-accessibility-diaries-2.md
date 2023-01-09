@@ -31,4 +31,11 @@ We reached a point in the project where decisions are made about remediations. I
 Sometimes we can see the sunk cost fallacy[^sunk-cost] happening before our eyes. It's more frequent than Aurora Borealis, and much less beautiful. There can be resistance when faced with the necessity to make important changes, as money has already been spent to get to the current situation. The prospect of hefty fines doesn't seem to make a difference either. Even though it is possible to overcome a fine, reputational damage is another problem altogether.
 
 ---
+## Read further
+
+- [Accessibility diaries – Part 1](https://silviamaggidesign.com/accessibility/accessibility-diaries-1/)
+- Accessibility diaries – Part 2
+- [Accessibility diaries – Part 3](https://silviamaggidesign.com/accessibility/accessibility-diaries-3/)
+
+---
 [^sunk-cost]: [Sunk cost fallacy effect on Wikipedia](https://en.wikipedia.org/wiki/Sunk_cost#Fallacy_effect)

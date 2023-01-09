@@ -44,3 +44,10 @@ I knew my contract was going to end within the year but, as a renewal was in the
 My interest for accessibility was never tied to a single project. I will continue studying and practising the subject as deeply as I can. At the moment, I’m finishing the course [Introduction to Accessibility on edX](https://www.edx.org/course/web-accessibility-introduction). 
 
 While there will be more to come on my blog, it’s a wrap on the *Accessibility Diaries* series.
+
+---
+## Read further
+
+- [Accessibility diaries – Part 1](https://silviamaggidesign.com/accessibility/accessibility-diaries-1/)
+- [Accessibility diaries – Part 2](https://silviamaggidesign.com/accessibility/accessibility-diaries-2/)
+- Accessibility diaries – Part 3
