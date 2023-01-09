@@ -8,15 +8,15 @@ tags:
   - ux
   - social media
   - facebook
-  - dark patterns
+  - deceptive patterns
   - sustainability
   - hook model
   - hormones
   - circular economy
 description: "Design, Digested 22: how to protect ourselves against the Hook model, UX design’s dirty secret, harmful Facebook and more."
-excerpt: 'This week: how to protect ourselves against the Hook model, <em>UX Theatre</em>, dark patterns, and circular economy.'
+excerpt: 'This week: how to protect ourselves against the Hook model, <em>UX Theatre</em>, deceptive patterns, and circular economy.'
 featuredimage: true
-featimage-alt: "Design, Digested 22 by Silvia Maggi"
+featimage-alt: ""
 featimage-class: 'u-featured'
 featimage: 'feat-design-digested-22'
 image-caption: false
@@ -57,7 +57,7 @@ permalink: '/design-digested/:title/'
 
 ## Important note
 
-While an article here mentions ’dark patterns’, and I used the term [elsewhere on my website](https://silviamaggidesign.com/tag/dark-patterns/ "Explore the articles about ’dark patterns’"), there is a conversation around the bad connotation it has and the use of the adjective ’dark’. I will update the language I use to be more inclusive and not discriminatory: my preference is ’deceptive patterns’.
+While an article shared here use the adjective ’dark' to describe deceptive patterns, there is a conversation around the bad connotation it has. As of 9 January 2023, I have updated update the language I use to be more inclusive and not discriminatory.
 
 ### Read
 

@@ -1,7 +1,7 @@
 ---
 title: 'Design, Digested 31'
 date: '2022-07-27 16:13:25'
-last_modified_at: '2022-07-27 22:42:27'
+last_modified_at: '2023-01-09 17:42:05'
 featured-post: false
 categories:
   - Design Digested
@@ -12,15 +12,15 @@ tags:
   - facebook
   - metaverse
   - instagram
-  - dark patterns
+  - deceptive patterns
   - sustainability
   - jevons paradox
   - photography
   - ferdinando scianna
-description: "Design, Digested 31: deadly distractions, designing for modes, the problem with the Metaverse, new dark patterns on Instagram."
-excerpt: "Deadly distractions, designing for modes, the problem with the Metaverse, new dark patterns on Instagram and more."
+description: "Design, Digested 31: deadly distractions, designing for modes, the problem with the Metaverse, new deceptive patterns on Instagram."
+excerpt: "Deadly distractions, designing for modes, the problem with the Metaverse, new deceptive patterns on Instagram and more."
 featuredimage: true
-featimage-alt: "Design, Digested 31 by Silvia Maggi"
+featimage-alt: ""
 featimage-class: 'u-featured'
 featimage: 'feat-design-digested-31'
 permalink: '/design-digested/:title/'
@@ -79,7 +79,7 @@ permalink: '/design-digested/:title/'
 
 ## Important note
 
-While an article here mentions ’dark patterns’, and I used the term [elsewhere on my website](https://silviamaggidesign.com/tag/dark-patterns/ "Explore the articles about ’dark patterns’"), there is a conversation around the bad connotation it has and the use of the adjective ’dark’. I will update the language I use to be more inclusive and not discriminatory: my preference is ’deceptive patterns’.
+While an article shared here use the adjective ’dark' to describe deceptive patterns, there is a conversation around the bad connotation it has. As of 9 January 2023, I have updated the language I use to be more inclusive and not discriminatory.
 
 ### Read
 

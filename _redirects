@@ -80,11 +80,12 @@ https://blog.silviamaggidesign.com/* https://silviamaggidesign.com/blog/:splat 3
 /photography/i-deactivated-my-instagram-account-what-now/ /personal/deactivated-my-instagram-account/ 301
 /photography/i-deactivated-my-instagram-account/ /personal/deactivated-my-instagram-account/ 301
 /photography/deactivated-my-instagram-account/ /personal/deactivated-my-instagram-account/ 301
-/it/design-it/dark-patterns-web/ /design-digested/dark-patterns-in-user-interfaces/ 301
-/it/design-it/dark-pattern-web/ /design-digested/dark-patterns-in-user-interfaces/ 301
-/it/design/dark-patterns-web/ /design-digested/dark-patterns-in-user-interfaces/ 301
-/it/uncategorized-it/dark-patterns-web/ /design-digested/dark-patterns-in-user-interfaces/ 301
-/design/dark-patterns-in-user-interfaces/ /design-digested/dark-patterns-in-user-interfaces/ 301
+/design-digested/dark-patterns-in-user-interfaces/ /design-digested/deceptive-patterns-in-user-interfaces/ 301
+/it/design-it/dark-patterns-web/ /design-digested/deceptive-patterns-in-user-interfaces/ 301
+/it/design-it/dark-pattern-web/ /design-digested/deceptive-patterns-in-user-interfaces/ 301
+/it/design/dark-patterns-web/ /design-digested/deceptive-patterns-in-user-interfaces/ 301
+/it/uncategorized-it/dark-patterns-web/ /design-digested/deceptive-patterns-in-user-interfaces/ 301
+/design/dark-patterns-in-user-interfaces/ /design-digested/deceptive-patterns-in-user-interfaces/ 301
 /social-media/culture-and-design-books/ /books/culture-and-design-books/ 301
 /it/libri/libri-di-cultura-e-design/ /books/culture-and-design-books/ 301
 /it/fotografia/in-spiaggia/ /photography/at-the-beach/ 301
@@ -138,6 +139,7 @@ https://blog.silviamaggidesign.com/* https://silviamaggidesign.com/blog/:splat 3
 /tag/cross-cultural-design/ /archive/ 301
 /tag/cultura/ /archive/ 301
 /tag/dark-pattern/ /archive/ 301
+/tag/dark-pattern/ /tag/deceptive-pattern/ 301
 /tag/data/ /archive/ 301
 /tag/day/ /archive/ 301
 /tag/decision-making/ /archive/ 301
