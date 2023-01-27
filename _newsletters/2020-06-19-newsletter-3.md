@@ -1,6 +1,6 @@
 ---
-title: "Black women in UX and how to foster creativity"
-last_modified_at: '2022-05-04 11:16:42'
+title: "#3 Black women in UX and how to foster creativity"
+last_modified_at: '2023-01-27 11:06:32'
 robots: 'noindex,follow'
 sitemap: false
 description: "Black women in UX, how to foster creativity and an unimpressed Bowie."

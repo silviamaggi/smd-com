@@ -1,6 +1,6 @@
 ---
-title: "Biased AI, phone addiction and social media manipulation"
-last_modified_at: '2022-05-04 11:16:15'
+title: "#6 Biased AI, phone addiction and social media manipulation"
+last_modified_at: '2023-01-27 11:05:59'
 robots: 'noindex,follow'
 sitemap: false
 description: "Biased AI, phone addiction and social media manipulation."

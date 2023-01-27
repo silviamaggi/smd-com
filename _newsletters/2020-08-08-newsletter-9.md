@@ -1,6 +1,6 @@
 ---
-title: "Inclusive design, problematic social media facts"
-last_modified_at: '2022-05-04 11:15:49'
+title: "#9 Inclusive design, problematic social media facts"
+last_modified_at: '2023-01-27 11:05:31'
 robots: 'noindex,follow'
 sitemap: false
 description: "Inclusive design, problematic social media facts."

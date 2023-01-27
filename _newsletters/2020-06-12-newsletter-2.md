@@ -1,6 +1,6 @@
 ---
-title: "Language, Mobile Approach and Responsive Design at 10"
-last_modified_at: '2022-05-04 11:16:51'
+title: "#2 Language, Mobile Approach and Responsive Design at 10"
+last_modified_at: '2023-01-27 11:06:41'
 robots: 'noindex,follow'
 sitemap: false
 description: "Language, Mobile Approach and Responsive Design at 10."

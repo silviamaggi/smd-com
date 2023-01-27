@@ -1,6 +1,6 @@
 ---
-title: "Design, Digested: Solidarity in the design community"
-last_modified_at: '2022-05-04 11:17:00'
+title: "#1 Design, Digested: Solidarity in the design community"
+last_modified_at: '2023-01-27 11:06:51'
 robots: 'noindex,follow'
 sitemap: false
 description: "Design, Digested: Solidarity in the design community."
