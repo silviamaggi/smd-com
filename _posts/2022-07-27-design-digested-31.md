@@ -1,7 +1,7 @@
 ---
 title: 'Design, Digested 31'
 date: '2022-07-27 16:13:25'
-last_modified_at: '2023-01-09 17:42:05'
+last_modified_at: '2023-02-15 10:27:32'
 featured-post: false
 categories:
   - Design Digested

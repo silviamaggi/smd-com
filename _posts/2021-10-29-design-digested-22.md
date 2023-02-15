@@ -1,6 +1,6 @@
 ---
 title: "The Hook model and UX design’s dirty secret"
-last_modified_at: '2022-07-29 18:21:31'
+last_modified_at: '2023-02-15 10:27:39'
 featured-post: false
 categories:
   - Design Digested
@@ -57,7 +57,7 @@ permalink: '/design-digested/:title/'
 
 ## Important note
 
-While an article shared here use the adjective ’dark' to describe deceptive patterns, there is a conversation around the bad connotation it has. As of 9 January 2023, I have updated update the language I use to be more inclusive and not discriminatory.
+While an article shared here use the adjective ’dark' to describe deceptive patterns, there is a conversation around the bad connotation it has. As of 9 January 2023, I have updated the language I use to be more inclusive and not discriminatory.
 
 ### Read
 
