@@ -1,15 +1,15 @@
 ---
 title: "On ’deceptive patterns’ and wording"
 date: '2023-02-15 09:59:01'
-last_modified_at: '2023-02-15 10:50:58'
+last_modified_at: '2023-02-15 14:17:43'
 featured-post: false
 categories:
   - Design
 tags:
   - deceptive patterns
   - inclusion
-description: "I deleted all occurrencies of the adjective ’dark’ when used to describe deceptive patterns on my website, in a bid to be more inclusive and not discriminatory."
-excerpt: "I deleted all occurrencies of the adjective ’dark’ when used to describe deceptive patterns on my website, in a bid to be more inclusive and not discriminatory."
+description: "I deleted all occurrences of the adjective ’dark’ when used to describe deceptive patterns on my website, in a bid to be more inclusive and not discriminatory."
+excerpt: "I deleted all occurrences of the adjective ’dark’ when used to describe deceptive patterns on my website, in a bid to be more inclusive and not discriminatory."
 ---
 Whenever I share an article that still uses the adjective, there is a note pointing out the conversation around the bad connotation it has.
 
