@@ -1,13 +1,14 @@
 ---
 title: About stereotypes (or clich&eacute;s)
 date: '2023-02-10 11:32:47'
-last_modified_at: '2023-02-10 11:54:41'
+last_modified_at: '2023-02-15 09:24:19'
 featured-post: false
 categories:
   - Notes
 tags:
   - book
   - extra bold
+  - stereotypes
 description: "A quote about stereotypes from the book Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers"
 excerpt: "If my site were a tea table, this book would have a place of honour on it. Today it would be open on the page about the life of William Wells Brown."
 ---
