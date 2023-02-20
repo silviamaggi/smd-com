@@ -2,11 +2,14 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-02-19 22:38:00'
+last_modified_at: '2023-02-20 10:53:40'
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 excerpt: 'This is a <strong>now page</strong>, and if you have your own site, <a href="https://nownownow.com/about">you should make one, too</a>. From an idea by Derek Sivers.'
 permalink: /now/
 ---
+{: .btn-lg .d-inline-block .btn-label-smd .btn-label-smd-bg .fw-bold .smd-font-micro .px-2 .py-1 }
+Updated: {{ page.last_modified_at | date: "%-d %B %Y" }}
+
 I’m currently living in Italy, spending more time than ever in my hometown [Arona, by Lake Maggiore](https://silviamaggidesign.com/tag/arona/ "View posts tagged 'Arona'"). As I had left this place roughly 20 years ago to follow my passions in Milan, being here at this point of my life is both strange and pleasant. 
 
 ## Work
