@@ -1,12 +1,13 @@
 ---
 title: "Undoing toxic dogmatism; designing less"
-last_modified_at: '2022-04-17 15:21:01'
+last_modified_at: '2023-02-24 10:20:15'
 featured-post: false
 categories:
   - Design Digested
 tags:
   - women in tech
   - design
+  - design dogmatism
   - photography
   - privacy
   - google
