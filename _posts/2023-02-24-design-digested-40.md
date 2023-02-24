@@ -1,7 +1,7 @@
 ---
 title: "Design, Digested 40 – Better thinking tools, digital ethics, accessibility"
 date: '2023-02-24 00:32:19'
-last_modified_at: '2023-02-24 09:04:38'
+last_modified_at: '2023-02-24 09:13:57'
 featured-post: false
 categories:
   - Design Digested
@@ -32,7 +32,7 @@ A collection of thinking tools and frameworks to help you solve problems, make d
 
 > It’s not always obvious how the idea of ethics should merge with the very broad concept of digital technology. Especially when the word ethics brings to mind a whole field of academia rooted in ideas brought forth by greek philosophers. This is my contribution to framing digital ethics in a way that makes it more useful for everyday work with digital products and services.<cite>Per Axbom</cite>
 
-🔗 [Read _Digital ethics and moral theory explained_ on Axbom](https://axbom.com/digital-ethics-explained/)
+🔗 [Read _Digital ethics and moral theory explained_ on Per Axbom's website](https://axbom.com/digital-ethics-explained/)
 
 ## Annotating designs for accessibility
 
