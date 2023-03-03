@@ -2,7 +2,7 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-02-20 10:53:40'
+last_modified_at: '2023-03-03 14:18:12'
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 excerpt: 'This is a <strong>now page</strong>, and if you have your own site, <a href="https://nownownow.com/about">you should make one, too</a>. From an idea by Derek Sivers.'
 permalink: /now/
@@ -24,7 +24,6 @@ In progress:
 
 - _Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers_, by multiple authors
 - _Stories of Your Life and Others_, by Ted Chiang
-- _The Norfolk Mystery_, by Ian Sansom
 
 
 ## Hobbies
