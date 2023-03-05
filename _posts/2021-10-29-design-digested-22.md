@@ -1,6 +1,6 @@
 ---
 title: "The Hook model and UX design’s dirty secret"
-last_modified_at: '2023-02-15 10:27:39'
+last_modified_at: '2023-03-05 11:59:12'
 featured-post: false
 categories:
   - Design Digested
@@ -39,13 +39,13 @@ permalink: '/design-digested/:title/'
 
 > Too often, designers are asked to perform UX Theatre, which doesn’t actually center the user at all.
 
-<p class="detached">🔗 <a href="https://www.fastcompany.com/90686473/ux-design-has-a-dirty-secret\">Read the article</a> (on Fast Company)</p>
+<p class="detached">🔗 <a href="https://www.fastcompany.com/90686473/ux-design-has-a-dirty-secret/">Read the article</a> (on Fast Company)</p>
 
 ## I, Obscura
 
 > I, Obscura illuminates dark design patterns by telling stories. A compilation of case studies, this zine offers readers a set of dark pattern examples, along with possible design and policy solutions.
 
-<p class="detached">🔗 <a href="https://issuu.com/stanforddcsl/docs/dcsl_darkpatternszine_2021\">Read the article</a> (on ISSUU)</p>
+<p class="detached">🔗 <a href="https://issuu.com/stanforddcsl/docs/dcsl_darkpatternszine_2021/">Read the article</a> (on ISSUU)</p>
 
 ## White paper: Designing our circular future
 

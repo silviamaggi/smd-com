@@ -1,6 +1,6 @@
 ---
 title: "Inclusive design"
-last_modified_at: '2022-07-19 17:00:30'
+last_modified_at: '2023-03-05 11:59:01'
 featured-post: false
 categories:
   - Design Digested
@@ -38,7 +38,7 @@ Karishma Patel takes us through her journey to integrate accessibility and inclu
 
 Game accessibility has come a long way recently, but legible font is still one of the biggest issues gamers encounter. Karen Stevens, accessibility lead at EA Sports, shares her recommendations.
 
-<p class="detached">🔗 <a href="https://www.gamasutra.com/view/news/367615/Legible_font_biggest_accessibility_issue_in_games_says_EA_accessibility_lead.php">Read the article</a> (on Gamasutra)</p>
+<p class="detached">🔗 <a href="https://www.gamedeveloper.com/design/legible-font-still-one-of-the-biggest-accessibility-issues-in-games">Read the article</a> (on Gamasutra)</p>
 
 ## User Defenders
 
