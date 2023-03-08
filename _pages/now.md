@@ -2,15 +2,15 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-03-03 14:18:12'
+last_modified_at: '2023-03-08 15:05:28'
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
-excerpt: 'This is a <strong>now page</strong>, and if you have your own site, <a href="https://nownownow.com/about">you should make one, too</a>. From an idea by Derek Sivers.'
+excerpt: 'This is my <strong>now page</strong>, where I tell you what I am up to at this point in my life. <a href="https://nownownow.com/about" "Read about Now pages, an idea of Derek Sivers">You can make you, too</a>.'
 permalink: /now/
 ---
 {: .btn-lg .d-inline-block .btn-label-smd .btn-label-smd-bg .fw-bold .smd-font-micro .px-2 .py-1 }
 Updated: {{ page.last_modified_at | date: "%-d %B %Y" }}
 
-I’m currently living in Italy, spending more time than ever in my hometown [Arona, by Lake Maggiore](https://silviamaggidesign.com/tag/arona/ "View posts tagged 'Arona'"). As I had left this place roughly 20 years ago to follow my passions in Milan, being here at this point of my life is both strange and pleasant. 
+I’m currently living in Italy, between Lake Maggiore and Milan spending more time than ever in my hometown [Arona](https://silviamaggidesign.com/tag/arona/ "View posts tagged 'Arona'"). My husband and I are <mark class="smd-highlight d-inline">planning to back to the UK in 2023</mark>, where we lived for almost 10 years up until the pandemic.
 
 ## Work
 
