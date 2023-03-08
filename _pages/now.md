@@ -2,9 +2,9 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-03-08 15:05:28'
+last_modified_at: '2023-03-08 16:54:58'
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
-excerpt: 'This is my <strong>now page</strong>, where I tell you what I am up to at this point in my life. <a href="https://nownownow.com/about" "Read about Now pages, an idea of Derek Sivers">You can make you, too</a>.'
+excerpt: 'This is my <strong>now page</strong>, where I tell you what I am up to at this point in my life. <a href="https://nownownow.com/about" "Read about Now pages, an idea of Derek Sivers">You can make one, too</a>.'
 permalink: /now/
 ---
 {: .btn-lg .d-inline-block .btn-label-smd .btn-label-smd-bg .fw-bold .smd-font-micro .px-2 .py-1 }
