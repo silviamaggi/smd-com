@@ -1,3 +1,5 @@
+- name: 🔎&nbsp;Search
+  link: /search/
 - name: RSS
   link: /feed.xml
 - name: Archive
