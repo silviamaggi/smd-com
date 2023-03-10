@@ -6,11 +6,8 @@ last_modified_at: '2022-04-14 12:46:02'
 <div class="h-entry">
   <section class="intro mb-2 mb-md-5">
     <div class="row">
-      <div class="col-md-11 mx-auto pt-3 pt-md-5 pb-3">
+      <div class="col-md-11 mx-auto pt-3 pb-3">
         <div class="row d-flex align-items-center">
-          <div class="mx-auto text-center mb-2 mb-md-5 pb-4">
-            <span class="display-4 smd-serif d-inline-block px-4 py-2 text-white smd-text-rotate smd-bg-d-70">{{ site.brand.smd_tagline }}</span>
-          </div>
           <div class="col-md-3 d-flex justify-content-md-end">
             <a class="mx-auto" href="/about/">
               {% include pattern-avatar.html alt="Portrait of Silvia Maggi smiling while wearing her favourite blue jumper" width="120" height="120" %}
@@ -29,8 +26,8 @@ last_modified_at: '2022-04-14 12:46:02'
   </div>
 </div>
 
-<section class="h-feed latest-posts my-2 pt-4">
-  <h3 class="p-name text-center display-5 smd-mask-texture mb-3">Recent Posts</h3>
+<section class="h-feed latest-posts pt-4">
+  <h3 class="p-name text-center display-5 smd-mask-texture mb-1">Recent Posts</h3>
   {%- assign recentPosts = site.posts -%}
   <div class="row row-cols-1 row-cols-sm-2 g-4">
   {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
