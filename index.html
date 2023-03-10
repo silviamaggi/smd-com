@@ -26,8 +26,8 @@ last_modified_at: '2022-04-14 12:46:02'
   </div>
 </div>
 
-<section class="h-feed latest-posts pt-4">
-  <h3 class="p-name text-center display-5 smd-mask-texture mb-1">Recent Posts</h3>
+<section class="h-feed latest-posts my-2 pt-4">
+  <h3 class="p-name text-center display-5 smd-mask-texture mb-5 mb-md-0">Recent Posts</h3>
   {%- assign recentPosts = site.posts -%}
   <div class="row row-cols-1 row-cols-sm-2 g-4">
   {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
