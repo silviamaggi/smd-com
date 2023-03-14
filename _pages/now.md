@@ -2,7 +2,7 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-03-08 17:00:04'
+last_modified_at: '2023-03-14 23:09:32'
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 excerpt: 'This is my <strong>now page</strong>, where I tell you what I am up to at this point in my life. <a href="https://nownownow.com/about" "Read about Now pages, an idea of Derek Sivers">You can make one, too</a>.'
 permalink: /now/
@@ -14,7 +14,7 @@ I’m currently living in Italy, between Lake Maggiore and Milan, spending more 
 
 ## Work
 
-I’m working as web consultant and UX designer for an Italian web agency. Work is mostly remote. I am specialising in [digital accessibility](https://silviamaggidesign.com/category/accessibility/ "View posts under the 'accessibility' category"), having trained in-house and recently helped UniCredit Bank comply with the WCAG 2.1 (AA) rules. The plan is to complete <a href="https://www.edx.org/course/web-accessibility-introduction">the course <em>Introduction to Accessibility</em> on edX</a> and get the official certification.
+I’m contracting with an Italian web agency in the role of UX designer for <a href="https://www.bper.it/">BPER Bank</a>. Work is mostly remote. I am specialising in [digital accessibility](https://silviamaggidesign.com/category/accessibility/ "View posts under the 'accessibility' category"), having trained in-house and recently helped UniCredit Bank comply with the WCAG 2.1 (AA) rules. The plan is to complete <a href="https://www.edx.org/course/web-accessibility-introduction">the course <em>Introduction to Accessibility</em> on edX</a> and get the official certification.
 
 ## Reading
 
