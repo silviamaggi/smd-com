@@ -2,7 +2,7 @@
 layout: page
 title: Colophon
 date: '2021-08-13 15:50'
-last_modified_at: '2022-05-06 17:58:33'
+last_modified_at: '2023-03-19 21:08:06'
 description: null
 permalink: /colophon/
 ---
@@ -31,7 +31,7 @@ Hosting: [Netlify](https://www.netlify.com/){:title="Visit the site"}.
 
 ## Sustainability
 
-Only <code>0.20g of CO2</code> is produced every time someone visits the homepage. Cleaner than <code>85%</code> of <a href="https://www.websitecarbon.com/website/silviamaggidesign-com/" title="Visit Website carbon">web pages tested</a>.
+Only <code>0.06g of CO2</code> is produced every time someone visits the homepage. Cleaner than <code>94%</code> of <a href="https://www.websitecarbon.com/website/silviamaggidesign-com/" title="Visit Website carbon">web pages tested</a>.
 
 ## Performance
 
