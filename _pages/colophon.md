@@ -2,7 +2,7 @@
 layout: page
 title: Colophon
 date: '2021-08-13 15:50'
-last_modified_at: '2023-03-19 21:08:06'
+last_modified_at: '2023-03-22 22:02:52'
 description: null
 permalink: /colophon/
 ---
@@ -13,12 +13,9 @@ Developed by Silvia Maggi and [Simone Silvestroni](https://minutestomidnight.co.
 
 Built with:
 
-- [Jekyll 4.2.1](https://jekyllrb.com/ "Go to the Jekyll website")
+- [Jekyll 4.2.2](https://jekyllrb.com/ "Go to the Jekyll website")
 - [Markdown extended](https://www.markdownguide.org/getting-started/ "Read about Markdown")
-- [SASS](https://sass-lang.com/ "Go to the Sass website")
-- [Bootstrap 5](https://getbootstrap.com/ "Go to the Bootstrap website")
-- [Node](https://nodejs.org/ "Read about Node.js")
-- [PostCSS](https://postcss.org/ "Read about PostCSS")
+- Table of contents Liquid code by [Vladimir “allejo” Jimenez](https://github.com/allejo/jekyll-toc)
 - Vanilla Javascript for the [search module](https://github.com/daviddarnes/jekyll-search-js "Check out the search module by David Darnes")
 - [GitHub](https://github.com "Go to the GitHub website")
 

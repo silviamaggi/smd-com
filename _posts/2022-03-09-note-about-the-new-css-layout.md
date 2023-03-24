@@ -1,5 +1,5 @@
 ---
-title: 'About ’The New CSS Layout’'
+title: 'About ‘The New CSS Layout’'
 date: '2022-03-09'
 last_modified_at: '2022-07-19 16:17:13'
 categories:

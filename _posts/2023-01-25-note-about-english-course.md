@@ -1,5 +1,5 @@
 ---
-title: About Duolingo's English course from Italian
+title: About Duolingo’s English course from Italian
 date: '2023-01-25 12:19:34'
 last_modified_at: '2023-01-25 19:38:58'
 featured-post: false

@@ -1,5 +1,5 @@
 ---
-title: 'About ’Extra Bold’'
+title: 'About ‘Extra Bold’'
 date: '2022-03-03'
 last_modified_at: '2022-07-19 16:16:05'
 categories:

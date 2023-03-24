@@ -18,13 +18,13 @@ permalink: '/projects/'
       </div>
       <div class="col-12 col-md-9 text-center text-md-start ps-md-3">
         <span class="p-category btn-label-smd btn-label-smd-bg d-inline-block initialism fw-bold me-1 rounded"><strong>{{ project.type }}</strong></span>
-        <h2 class="p-name my-4">{{ project.title }}</h2> 
+        <h3 class="p-name my-4">{{ project.title }}</h3> 
         <p class="e-content fs-5 card-text text-start">{{ project.description }}</p>
         <div class="my-4">
           {% if project.custom-cta == true %}
           <a class="stretched-link text-uppercase fs-5 fw-bold" href="{{ project.custom-url }}" title="View: {{ project.title }}">{{ project.custom-cta-title }}</a>
           {% else %}
-          <a class="stretched-link text-uppercase fs-5 fw-bold" href="{{ project.url }}" title="View: {{ project.title }}">View the project</a>{% endif %} <span class="fs-5 ps-1">➡️</span>
+          <a class="stretched-link text-uppercase" href="{{ project.url }}" title="View: {{ project.title }}"><strong>View the project</strong></a>{% endif %}&nbsp;→
         </div>
       </div>
     </li>
@@ -34,7 +34,7 @@ permalink: '/projects/'
 </div>
 
 <section class="my-5 pt-3">
-  <h2 class="text-center display-6 mb-5">They trusted me</h2>
+  <h2 class="text-center mb-5">They trusted me</h2>
   <div class="row justify-content-center gy-4">
     <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-unicredit.png" alt="UniCredit"></div>
     <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-origami.png" alt="Origami"></div>
@@ -51,7 +51,7 @@ permalink: '/projects/'
 </section>
 
 <section class="my-5 pt-3">
-  <h2 class="text-center display-6 mb-5">My colleagues said</h2>
+  <h2 class="text-center mb-5">My colleagues said</h2>
   <blockquote>
    <p>Silvia is one of those interface developers that has the great benefit of coming from a design background - yet has a strong technical foundation. This has proven to be a major asset within our web team. She works with a high attention to detail and leaves no stones unturned. Very positive and can-do attitude; a valuable member of the team.</p>
    <cite>Michelle Anderson – Senior Software Engineer</cite>
@@ -69,7 +69,7 @@ permalink: '/projects/'
    <cite>Richard Ashington – Technical Project Manager</cite>
   </blockquote>
   <blockquote>
-   <p>The "Three attributes" suggested by LinkedIn are not enough for Silvia. She is absolutely very professional, skilled and accurate. Always on time, she is able to handle emergencies in times of high workload peaks and last minute changes.</p>
+   <p>The “Three attributes” suggested by LinkedIn are not enough for Silvia. She is absolutely very professional, skilled and accurate. Always on time, she is able to handle emergencies in times of high workload peaks and last minute changes.</p>
    <cite>Alessandro Appodio – Project Manager</cite>
   </blockquote>
 </section>

@@ -1,5 +1,5 @@
 ---
-title: "On ’deceptive patterns’ and wording"
+title: "On ‘deceptive patterns’ and wording"
 date: '2023-02-15 09:59:01'
 last_modified_at: '2023-02-15 14:17:43'
 featured-post: false
