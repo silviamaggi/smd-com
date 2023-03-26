@@ -2,7 +2,7 @@
 layout: page
 title: Colophon
 date: '2021-08-13 15:50'
-last_modified_at: '2023-03-22 22:02:52'
+last_modified_at: '2023-03-26 21:37:44'
 description: null
 permalink: /colophon/
 ---
@@ -24,7 +24,7 @@ Hosting: [Netlify](https://www.netlify.com/){:title="Visit the site"}.
 
 ## Accessibility
 
-✅ No accessibility errors for <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> detected on [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.com/).
+According to [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.com/), this website doesn't present any accessibility errors. Yet, I know the flaws that don't make it 100% accessible. [I'm working on it](https://silviamaggidesign.com/accessibility/making-website-accessible-1/ "read about the changes I'm making").
 
 ## Sustainability
 
