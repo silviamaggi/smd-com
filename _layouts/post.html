@@ -9,12 +9,12 @@ layout: default
 <article class="smd-entry">
   <div class="h-entry">
     <h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
-    <div class="post-meta">
-      {%- include post-meta.html %}
-      <span class="visually-hidden">
-        {% include pattern-hcard-post.html %}
-      </span>
-    </div>
+    {%- if post -%}
+      {% assign date = post.date %}
+    {%- elsif page -%}
+      {% assign date = page.date %}
+    {%- endif -%}
+    <time class="dt-published fw-bold" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%d %B %Y" }}</time>
     <p class="p-name detached lead lh-sm">{{ page.excerpt }}</p>
     {% if page.mention == true %}
     <p>{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></p>
@@ -32,6 +32,12 @@ layout: default
       {{ content }}
     </div>
   </div>
+  <div class="post-meta">
+      {%- include post-meta.html %}
+      <span class="visually-hidden">
+        {% include pattern-hcard-post.html %}
+      </span>
+    </div>
   {% unless page.url contains '/newsletter/archive' %}
     {%- include pattern-responses.html -%}
   {% endunless %}
