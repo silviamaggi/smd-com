@@ -1,5 +1,6 @@
 .jekyll-cache/
 .jekyll-metadata
+_drafts/
 _site/
 assets/css/smd.css
 local_netlify.rb
