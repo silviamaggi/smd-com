@@ -4,14 +4,14 @@
 
     <div class="w-50 border-end pe-2 text-end">
       {% if page.previous.url %}{% unless page.previous.hidden %}
-      <div class="mb-1"><span class="btn-label-smd btn-label-smd-bg smd-left-arrow d-inline-block initialism fw-bold rounded">PREV{% if page.url contains '/newsletter/' %} ISSUE{% endif %}</span></div>
+      <div class="mb-1"><span class="btn-label-smd btn-label-smd-bg smd-left-arrow d-inline-block initialism fw-bold rounded">OLDER{% if page.url contains '/newsletter/' %} ISSUE{% endif %}</span></div>
       <a class="text-decoration-none smd-transition-color-03s" href="{{ site.url }}{{ page.previous.url }}">{{ page.previous.title }}</a>
       {% endunless %}{% endif %}
     </div>
 
     <div class="w-50 border-start ps-2">
       {% if page.next.url %}{% unless page.next.hidden %}
-      <div class="mb-1"><span class="btn-label-smd btn-label-smd-bg smd-right-arrow d-inline-block initialism fw-bold me-1 rounded">NEXT{% if page.url contains '/newsletter/' %} ISSUE{% endif %}</span></div>
+      <div class="mb-1"><span class="btn-label-smd btn-label-smd-bg smd-right-arrow d-inline-block initialism fw-bold me-1 rounded">NEWER{% if page.url contains '/newsletter/' %} ISSUE{% endif %}</span></div>
       <a class="text-end text-decoration-none smd-transition-color-03s" href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }}</a>
       {% endunless %}{% endif %}
     </div>
