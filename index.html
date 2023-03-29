@@ -28,16 +28,11 @@ last_modified_at: '2022-04-14 12:46:02'
 <section class="h-feed latest-posts my-2 pt-4">
   <h2 class="p-name text-center smd-mask-texture mb-5 mb-md-0">Recent Posts</h2>
   {%- assign recentPosts = site.posts -%}
-  <div class="row row-cols-1 row-cols-sm-2 g-4">
+  <div class="row row-cols-1 row-cols-sm-2 g-4 mt-2">
   {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
     <div class="col">
-      {% if post %}
-      {% assign categories = post.categories %}
-      {% else %}
-      {% assign categories = page.categories %}
-      {% endif %}
       {% include pattern-postblock.html %}
     </div>
-    {% endfor -%}
+  {% endfor -%}
   </div>
 </section>
