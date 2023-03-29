@@ -1,13 +1,14 @@
 ---
 title: "Design, Digested 41 — Big Tech’s big downgrade, UX office politics, and more"
 date: '2023-03-28 17:42:07'
-last_modified_at: '2023-03-28 18:30:59'
+last_modified_at: '2023-03-29 10:33:17'
 featured-post: false
 categories:
   - Design Digested
 tags:
   - big tech
   - ux
+  - ux cookbook
   - design
   - wikipedia
 description: "Design, Digested 41. On this issue: Big Tech’s big downgrade, UX office politics, and more"
