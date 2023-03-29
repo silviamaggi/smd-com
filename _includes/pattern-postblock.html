@@ -1,9 +1,6 @@
-<article class="smd-entry h-entry{% if page.url == '/' %} my-sm-2 my-md-5{% else %} my-5{% endif %} py-2">
-  {% for category in categories %}
-  <span class="p-category btn-label-smd btn-label-smd-bg d-inline-block initialism fw-bold me-1 rounded"><strong>{{ category | upcase | replace:"-"," " }}</strong></span>
-  {% endfor %}
-  <a href="{{ post.url }}" title="Read the entire post"><h{% if page.url == '/' %}4{% else %}3{% endif %} class="p-name mt-2 mb-0">{{ post.title }}</h{% if page.url == '/' %}4{% else %}3{% endif %}></a>
-  <div class="post-meta mt-2">
+<article class="smd-entry h-entry{% if page.url == '/' %} my-sm-2 my-md-3{% else %} my-3{% endif %} py-2">
+  <a href="{{ post.url }}"><h{% if page.url == '/' %}4{% else %}3{% endif %} class="p-name mt-2 mb-0">{{ post.title }}</h{% if page.url == '/' %}4{% else %}3{% endif %}></a>
+  <div class="post-meta my-3">
     <span class="small"><strong>{{ post.date | date: "%d %B %Y" }}</strong></span>
   </div>
   <div class="e-content">
