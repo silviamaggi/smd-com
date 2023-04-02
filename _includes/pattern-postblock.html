@@ -1,10 +1,6 @@
-<article class="smd-entry h-entry{% if page.url == '/' %} my-sm-2 my-md-3{% else %} my-3{% endif %} py-2">
-  <a href="{{ post.url }}"><h{% if page.url == '/' %}4{% else %}3{% endif %} class="p-name mt-2 mb-0">{{ post.title }}</h{% if page.url == '/' %}4{% else %}3{% endif %}></a>
-  <div class="post-meta my-3">
-    <span class="small"><strong>{{ post.date | date: "%d %B %Y" }}</strong></span>
-  </div>
-  <div class="e-content">
-    <p class="mt-2 {% if page.url == '/' %}small{% endif %}">{{ post.excerpt | markdownify | strip_html }}</p>
-  </div>
+<article class="smd-entry h-entry{% if page.url == '/' %} {% endif %} pt-2">
+  <ul class="h-feed">
+    <li><a href="{{ post.url }}"">{{ post.title }}</a><p class="smd-font-micro mt-2"><strong>{{ post.date | date: "%d %B %Y" }}</strong></p></li>
+  </ul>
 </article>
 <hr class="visually-hidden">
