@@ -2,16 +2,34 @@
 layout: blog
 title: Blog
 date: '2021-04-13 17:31'
-last_modified_at: '2023-03-29 11:45:07'
+last_modified_at: '2023-03-30 20:39:38'
 description: "This is Silvia Maggi’s blog, where she writes about design, tech and their implications in our lives. Also personal posts and photography projects."
-excerpt: '<a href="/feed.xml">Read the posts via RSS</a>. Looking for something specific? <a href="/archive/">Visit the archive</a> or <a href="/search/">search</a>.'
+# excerpt: '<a href="/feed.xml">Read the posts via RSS</a>. Looking for something specific? <a href="/archive/">Visit the archive</a> or <a href="/search/">search</a>.'
 ---
 {% include pattern-popular-posts.html %}
 
 <section class="h-feed">
   {% for post in site.posts %}
-  {% unless post.hidden == true %}
-  {%- include pattern-postblock.html -%}
-  {% endunless %}
-  {% endfor -%}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+    {% if forloop.first %}
+    <div class="mb-5">
+      <h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
+      <ul class="h-feed">
+    {% endif %}
+        <li><strong><a href="{{ post.url }}"">{{ post.title }}</a></strong><p class="smd-font-micro mt-2">{{ post.date | date: "%d %B %Y" }}</p></li>
+        {% if forloop.last %}
+      </ul>
+    </div>
+</section>
+{% else %}
+{% if this_year != next_year %}
+      </ul>
+    </div>
+    <div class="mb-5">
+      <h2 id="{{ next_year }}-ref">{{ next_year }}</h2>
+      <ul class="h-feed">
+{% endif %}
+{% endif %}
+{% endfor %}
 </section>
