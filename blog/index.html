@@ -2,10 +2,12 @@
 layout: blog
 title: Blog
 date: '2021-04-13 17:31'
-last_modified_at: '2023-03-30 20:39:38'
+last_modified_at: '2023-04-04 22:22:06'
 description: "This is Silvia Maggi’s blog, where she writes about design, tech and their implications in our lives. Also personal posts and photography projects."
 # excerpt: '<a href="/feed.xml">Read the posts via RSS</a>. Looking for something specific? <a href="/archive/">Visit the archive</a> or <a href="/search/">search</a>.'
 ---
+<p>{{ site.posts | size }} posts about design, tech, their implications in our lives and photography, from 2016 onward. <a href="/feed.xml">Read via good old RSS</a>.</p>
+
 {% include pattern-popular-posts.html %}
 
 <section class="h-feed">
@@ -15,9 +17,9 @@ description: "This is Silvia Maggi’s blog, where she writes about design, tech
     {% if forloop.first %}
     <div class="mb-5">
       <h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
-      <ul class="h-feed">
+      <ul>
     {% endif %}
-        <li><strong><a href="{{ post.url }}"">{{ post.title }}</a></strong><p class="smd-font-micro mt-2">{{ post.date | date: "%d %B %Y" }}</p></li>
+        <li class="border-bottom mt-2"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong><p class="smd-font-micro mt-2 mb-2">{{ post.date | date: "%d %B %Y" }}</p></li>
         {% if forloop.last %}
       </ul>
     </div>
@@ -28,8 +30,7 @@ description: "This is Silvia Maggi’s blog, where she writes about design, tech
     </div>
     <div class="mb-5">
       <h2 id="{{ next_year }}-ref">{{ next_year }}</h2>
-      <ul class="h-feed">
+      <ul>
 {% endif %}
 {% endif %}
 {% endfor %}
-</section>

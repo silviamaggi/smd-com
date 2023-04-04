@@ -1,6 +1,6 @@
 <section class="h-feed featured-posts my-5 my-md-5">
   <div>
-    <p>The most popular posts:</p>
+    <p>Most popular:</p>
     <ul>
     {%- assign popular = site.posts | where: 'popular-post', 'true' -%}
     {% for post in popular | limit:3 %}
