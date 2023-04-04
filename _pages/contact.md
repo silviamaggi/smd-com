@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Contacts
+title: Contact
 date: '2020-02-27 17:03:58'
-last_modified_at: '2023-03-30 21:41:21'
-description: 'Get in touch via email, connect on LinkedIn, GitHub, and Mastodon.'
+last_modified_at: '2023-04-04 21:05:28'
+description: 'Get in touch via email. Connect on LinkedIn, GitHub, and Mastodon.'
 excerpt: 'The best way to contact me is via email. I will get back to you in a few days.'
-permalink: '/contacts/'
+permalink: '/contact/'
 ---
 <div class="my-5">
   <p class="text-center">🖋 <a href="mailto:contacts@silviamaggidesign.com"><strong>Write me an email</strong>&nbsp;→</a></p>
