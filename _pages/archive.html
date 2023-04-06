@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Archive
-date: 2021-08-20 13:00
-last_modified_at: '2023-03-30 21:07:50'
+date: '2021-08-20 13:00'
+last_modified_at: '2023-04-04 21:32:34'
 description: 'Browse the full archive of projects, blog posts by year, categories and tags.'
 excerpt: 'Browse the full archive of <a href="#projects">projects</a>, <a href="#blog">blog posts by year</a>, <a href="#categories">categories</a> and <a href="#tags">tags</a>.'
 permalink: /archive/
 ---
 <section class="h-feed">
   <h2 class="p-name mt-5" id="projects">Projects</h2>
-  <ul class="h-feed list-group list-group-flush ps-0">
+  <ul class="list-group list-group-flush ps-0">
     {% for project in site.projects reversed %}
     <li class="list-group-item ps-0">
       {% if project.type contains 'Photography' %}📸{% else %}👩🏻‍💻{% endif %} <a class="p-name" href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a>
@@ -26,7 +26,7 @@ permalink: /archive/
     {% if forloop.first %}
     <div class="mb-5">
       <h3 id="{{ this_year }}-ref">{{ this_year }}</h3>
-      <ul class="h-feed list-group list-group-flush ps-0">
+      <ul class="list-group list-group-flush ps-0">
     {% endif %}
         <li class="list-group-item ps-0"><a href="{{ post.url }}" class="p-name u-url">{{ post.title }}</a></li>
         {% if forloop.last %}
@@ -39,7 +39,7 @@ permalink: /archive/
     </div>
     <div class="mb-5">
       <h3 id="{{ next_year }}-ref">{{ next_year }}</h3>
-      <ul class="h-feed list-group list-group-flush ps-0">
+      <ul class="list-group list-group-flush ps-0">
 {% endif %}
 {% endif %}
 {% endfor %}
