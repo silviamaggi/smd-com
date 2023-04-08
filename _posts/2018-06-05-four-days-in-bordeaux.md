@@ -1,6 +1,6 @@
 ---
 title: Four days in Bordeaux
-last_modified_at: '2023-04-08 16:46:03'
+last_modified_at: '2023-04-08 16:51:23'
 featured-post: false
 categories:
   - Photography
@@ -40,7 +40,7 @@ Located between the Garonne and Place de la Bourse, [Le Miroir d’Eau](https://
 
 ## Palais Gallien
 
-One day, after breakfast, we went to visit the [Palais Gallien](https://archaeology-travel.com/france/bordeaux-roman-amphitheatre/){:title="Read about the amphitheatre on the Archaeology Travel website"}, the ruins of an ancient amphitheatre. Along the way, we wanted to stop at the Public Garden, but it was closed. The reason being weather damage.  
+One day, after breakfast, we went to visit the [Palais Gallien](https://www.historyhit.com/locations/bordeaux-amphitheatre/){:title="Read about the amphitheatre on the Archaeology Travel website"}, the ruins of an ancient amphitheatre. Along the way, we wanted to stop at the Public Garden, but it was closed. The reason being weather damage.  
 In hindsight, this was probably the hint of the things to come not long later. We spent some time in front of the Palais, knowing a storm was coming but having no idea we were going to face a violent hailstorm.
 
 The streets started to flood very quickly while we tried to get cover, failing to do so. Soaked, cold and scared, we resisted while the downpour went on for minutes. After this, we had to go back to our room and try to dry our clothes and shoes, to no avail. Eventually, we had to go out again and buy new shoes.
