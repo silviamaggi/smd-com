@@ -1,0 +1,54 @@
+---
+layout: page-portfolio
+title: Work
+date: '2021-04-13 17:27:01'
+last_modified_at: '2023-04-08 12:19:54'
+description: 'A selection of Silvia Maggi’s work.'
+excerpt: 'Both as a consultant and in-house, I worked on many exciting projects with brilliant teammates. Here is a selection of the ones I can show.'
+permalink: '/work/'
+---
+<p class="lead">{{ page.excerpt }}</p>
+
+<section class="my-5">
+  <h2 class="text-center mb-5">They trusted me</h2>
+  <div class="row justify-content-center gy-4">
+    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-unicredit.png" alt="UniCredit"></div>
+    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-origami.png" alt="Origami"></div>
+    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-elite.png" alt="Elite New York"></div>
+    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-reevoo.png" alt="Reevoo"></div>
+    <div class="col-4"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-wm.png" alt="Women Management New York"></div>
+    <div class="col-4"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-apm.png" alt="APM New York"></div>
+    <div class="col-4"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-noths.png" alt="Not On The High Street"></div>
+    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-supreme.png" alt="Supreme Management"></div>
+    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-cbooks.png" alt="CounterBooks"></div>
+    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-coral.png" alt="Coral"></div>
+    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-flexipod.png" alt="Flexipod"></div>
+  </div>
+</section>
+
+<div class="h-feed my-5">
+  <ul class="h-feed list-unstyled ps-0">
+    {% assign projects = site.projects | reverse %}
+    {% for project in projects %}
+    <li class="row gx-0 my-4 py-4 smd-transition-opacity-03s position-relative {% unless forloop.last %}border-bottom{% endunless %}">
+      <div class="col-12 col-md-3 mb-4 text-center text-md-start">
+        <img class="rounded-3" src="/assets/images/highlights/highlighted-{{ project.featimage }}" alt="{{ project.featured-image-alt }}" width="200" height="200">
+      </div>
+      <div class="col-12 col-md-9 text-center text-md-start ps-md-3">
+        <span class="p-category btn-label-smd btn-label-smd-bg d-inline-block initialism fw-bold me-1 rounded"><strong>{{ project.type }}</strong></span>
+        <h3 class="p-name my-4">{{ project.title }}</h3> 
+        <p class="e-content fs-5 card-text text-start">{{ project.description }}</p>
+        <div class="my-4">
+          {% if project.custom-cta == true %}
+          <a class="stretched-link text-uppercase fs-5 fw-bold" href="{{ project.custom-url }}" title="View: {{ project.title }}">{{ project.custom-cta-title }}</a>
+          {% else %}
+          <a class="stretched-link text-uppercase" href="{{ project.url }}" title="View: {{ project.title }}"><strong>View the project</strong></a>{% endif %}&nbsp;→
+        </div>
+      </div>
+    </li>
+    <hr class="visually-hidden">
+    {% endfor %}
+  </ul>
+</div>
+
+{% include pattern-hire.html %}

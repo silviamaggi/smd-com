@@ -1,12 +1,12 @@
 - name: 🔎&nbsp;Search
   link: /search/
 - name: RSS
-  link: /feed.xml
+  link: /rss/
+- name: Now
+  link: /now/
 - name: Archive
   link: /archive/
 - name: Blogroll
   link: /blogroll/
-- name: Privacy
-  link: /privacy-policy/
 - name: Colophon
   link: /colophon/

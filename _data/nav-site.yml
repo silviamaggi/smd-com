@@ -1,9 +1,7 @@
 - name: About
   link: /about/
-- name: Now
-  link: /now/
-- name: Projects
-  link: /projects/
+- name: Work
+  link: /work/
 - name: Blog
   link: /blog/
 - name: Newsletter
