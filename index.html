@@ -1,32 +1,25 @@
 ---
 title: Silvia Maggi – Designer
 date: 2021-04-13 16:44:23
-last_modified_at: '2023-04-04 21:59:21'
+last_modified_at: '2023-04-06 22:06:31'
 ---
 <div class="h-entry">
   <section class="intro mb-2 mb-md-5">
-    <div class="row">
-      <div class="col-md-11 mx-auto pt-3 pb-3">
-        <div class="row d-flex align-items-center">
-          <div class="col-md-3 d-flex justify-content-md-end">
+    <div class="container-fluid">
+        <div class="d-flex align-items-center">
             <a class="mx-auto" href="/about/">
               {% include pattern-avatar.html alt="Portrait of Silvia Maggi smiling while wearing her favourite blue jumper" width="120" height="120" %}
             </a>
-          </div>
-          <div class="col-md-9">
-            <h1 class="p-name h3 smd-sans smd-unmask-texture text-center text-md-start fw-bold mt-3 mt-md-0 mb-0"><span class="visually-hidden">Silvia Maggi: </span><strong>{{ site.brand.smd_pitch }}</strong></h1>
-          </div>
         </div>
-      </div>
+    </div>
+    {% include pattern-hcard-pages.html %}
+    <div class="e-content smd-entry">
+      <p class="lead">{{ site.brand.smd_bio }}&nbsp;<a href="/about/"><strong>More about me</strong>&nbsp;→</a></p>
     </div>
   </section>
-  {% include pattern-hcard-pages.html %}
-  <div class="e-content smd-entry">
-    <p class="lead">{{ site.brand.smd_bio }} <a class="ps-1" href="/about/"><strong>Read more</strong>&nbsp;→</a></p>
-  </div>
 </div>
 <section class="h-feed latest-posts my-2 pt-4">
-  <h2 class="p-name text-center smd-mask-texture mb-5 mb-md-2">Recent Posts</h2>
+  <h2 class="p-name text-center smd-mask-texture mb-5 mb-md-2">Latest Post</h2>
   {%- assign recentPosts = site.posts -%}
   <div class="smd-entry">
     <ul class="list-group list-group-flush ps-0">
