@@ -1,7 +1,7 @@
 ---
 title: "Design, Digested 41 — Big Tech’s big downgrade, UX office politics, and more"
 date: '2023-03-28 17:42:07'
-last_modified_at: '2023-04-08 16:40:02'
+last_modified_at: '2023-04-08 17:34:33'
 featured-post: false
 categories:
   - Design Digested
@@ -41,7 +41,7 @@ For the past few years, Alex Hollender worked on the Wikipedia redesign that lau
 
 Handcrafted recipes to get you started with everything UX — user research, design, usability testing, and more.
 
-🔗 [Consult _The UX Cookbook_](https://theuxcookbook.com/51d225610e5448019a822bb29a74065f)
+🔗 [Consult _The UX Cookbook_](https://theuxcookbook.com)
 
 ---
 

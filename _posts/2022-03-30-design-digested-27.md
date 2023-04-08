@@ -1,6 +1,6 @@
 ---
 title: 'False empathy, fast fashion, gender pay gap'
-last_modified_at: '2022-07-19 16:32:16'
+last_modified_at: '2023-04-08 17:38:09'
 featured-post: false
 categories:
   - Design Digested
@@ -98,14 +98,6 @@ A couple of essential books for anyone into design. *Extra Bold*, written by a d
   <li><a href="https://papress.com/products/extra-bold" title="Read about the book on Princeton Architectural Press">Extra Bold</a> – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers</li>
   <li><a href="https://bookshop.org/books/100-things-every-designer-needs-to-know-about-people-9780136746911/9780136746911" title="Read about the book on Bookshop.org">100 Things Every Designer Needs to Know about People</a> by Susan Weinschenk</li>
 </ul>
-
-## Two women, 120 miles, 120 years
-A year-long photography project born from a collaboration between my good friend Vanessa and Eve. Their beautiful work is inspiring me to pick up the camera again.
-
-> Choosing to reach outside their bubbles of isolation, 2 women who had never met have began an enriching and fascinating photographic collaboration. Although both living in the UK, they inhabit different worlds - Vanessa in the depths of rural Somerset and Eve 120 miles away slap bang in the middle of London - but they connected over the time of COVID through their photos and stories on Instagram.
-
-{: .detached }
-🔗 [View the project](https://www.vanessasimpson.co.uk/portfolio-and-projects#/two-women-120-miles-120-years/) (on Vanessa Simpson’s website).
 
 ---
 
