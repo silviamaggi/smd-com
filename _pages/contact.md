@@ -8,7 +8,7 @@ excerpt: 'The best way to contact me is via email. I will get back to you in a f
 permalink: '/contact/'
 ---
 <div class="my-5">
-  <p class="text-center">🖋 <a href="mailto:contacts@silviamaggidesign.com"><strong>Write me an email</strong>&nbsp;→</a></p>
+  <p class="text-center">✒️ <a href="mailto:contacts@silviamaggidesign.com"><strong>Write me an email</strong>&nbsp;→</a></p>
 </div>
 
 Have a question, or simply want to start a conversation? Feel free to connect on {% for item in site.data.nav-social %}[{{ item.name }}]({{ item.link }}){% unless forloop.last %}, {% endunless %}{% if forloop.last %}.{% endif %}{% endfor %}
