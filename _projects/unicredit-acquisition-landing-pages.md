@@ -4,7 +4,7 @@ title: UniCredit acquisition landing pages and forms
 featured-post: false
 type: 'UX, UI'
 date: '2021-04-13 16:05:42'
-last_modified_at: '2023-04-08 17:13:25'
+last_modified_at: '2023-04-08 18:45:47'
 description: 'UniCredit wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.'
 featimage: feat-unicredit.jpg
 featured-image-alt: Screens showing UniCredit landing pages and forms
@@ -61,13 +61,13 @@ I chose them over user flows because <em>they highlight thoughts and emotions</e
 
 **Content precedes design**. Even before starting to sketch, the focus is on content and its prioritisation. This is also related to performance, which I treat like a design element. After analysing the content of the existing landing pages, we proposed a solution to UniCredit.
 
-{% include pattern-figure-cols.html image1="/assets/images/unicredit-content-analysis.jpg" alt1="Analysis of the current landing pages content, annotations on a screenshot" image2="/assets/images/unicredit-content-strategy.jpg" alt2="The proposed content, annotations of a sketch of a page" caption="Analysis of the current landing pages structure (first) vs. Content strategy proposed (second)" width="1004" height="1200" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-content-analysis.jpg" width="1004" height="1200" alt1="Analysis of the current landing pages content, annotations on a screenshot" image2="/assets/images/unicredit-content-strategy.jpg" alt2="The proposed content, annotations of a sketch of a page" caption="Analysis of the current landing pages structure (first) vs. Content strategy proposed (second)" width="1004" height="1200" %}
 
 ## Wireframes
 
 Thanks to UI Farm’s responsive framework[^uifarm-workflow], I prototyped the pages directly in the browser.
 
-{% include pattern-figure-cols.html image1="/assets/images/unicredit-feature-block_mobile.png" alt1="A screenshot of the page contained in a phone, a writing that says 'Content available on tap: conditional loading'" image2="/assets/images/unicredit-freenumber_mobile.png" alt2="A screenshot of the page contained in a phone, a writing that says 'The support team is one tap away: reassurance'" caption="Details of the landing pages  wireframes: mobile" width="1137" height="1273" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-feature-block_mobile.png" width="1137" height="1273" alt1="A screenshot of the page contained in a phone, a writing that says 'Content available on tap: conditional loading'" image2="/assets/images/unicredit-freenumber_mobile.png" alt2="A screenshot of the page contained in a phone, a writing that says 'The support team is one tap away: reassurance'" caption="Details of the landing pages  wireframes: mobile" width="1137" height="1273" %}
 
 - Each feature block is **conditionally loaded**: their content is served upon tapping the accordion. The same goes for the legal message at the bottom of the page.
 - The free number button initiates a phone call to the support team, thanks to **adaptive capabilities** of the framework.
@@ -102,7 +102,7 @@ Users click on the link received via email and start the request process.
 
 We applied the same principles — conditionally loaded elements, ability to call the support from mobile. Of great importance is the the lock icon at the top right: together with the browser icon for secure connections, it reassures users this is a safe procedure.
 
-{% include pattern-figure-cols.html image1="/assets/images/unicredit-forms-wireframes-mobile-1.jpg" alt1="A screenshot of the page contained in a phone, a writing that says 'Input fields are the right size to tap'" image2="/assets/images/unicredit-forms-wireframes-mobile-2.jpg" alt2="A screenshot of the page contained in a phone, a writing that says 'The lock icon,combined with clear content and fast loading, reassures users'" caption="Details of the forms wireframes: mobile" width="800" height="1224" %}
+{% include pattern-figure-cols.html image1="/assets/images/unicredit-forms-wireframes-mobile-1.jpg" width="800" height="1224" alt1="A screenshot of the page contained in a phone, a writing that says 'Input fields are the right size to tap'" image2="/assets/images/unicredit-forms-wireframes-mobile-2.jpg" alt2="A screenshot of the page contained in a phone, a writing that says 'The lock icon,combined with clear content and fast loading, reassures users'" caption="Details of the forms wireframes: mobile" width="800" height="1224" %}
 
 ## Final result
 
