@@ -1,8 +1,8 @@
 ---
 layout: project
 title: 'Silvia Maggi Design website'
-date: 2022-03-21
-last_modified_at: '2022-11-11 20:43:07'
+date: '2022-03-21'
+last_modified_at: '2023-04-08 18:18:23'
 featured-post: false
 type: 'Web design'
 description: 'I redesigned and built my personal website from scratch following the need to have a customisable, flexible site to contain my work, interests and passions.'
@@ -56,7 +56,6 @@ Currently, they are:
 
 - [Projects](/projects/){: title="Visit my projects page"}
 - [Newsletter archive](/newsletter/archive/){: title="Visit my newsletter archive page"}
-- [Jeremy Bearimy](/jeremybearimy/){: title="Visit the special section 'Jeremy Bearimy'"}
 
 ## Design
 We chose [Bootstrap 5](https://getbootstrap.com/){: title= "Visit the Bootstrap 5 website"} to speed up the creation of grids and other features, building my theme on top of it. Using utility-first CSS[^utility-first] helped us decouple stylesheets from markup. Along with a customised inclusion of Bootstrap's SASS source files, it helped keep the final CSS light and efficient.
