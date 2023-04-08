@@ -41,13 +41,8 @@ layout: default
     {% endif -%}
     <p class="lead">{{ page.excerpt }}</p>
     {{ content }}
-    {% unless page.url contains 'origami' %}
     {% include pattern-hire.html %}
-    {% endunless %}
   </div>
-  {% unless page.url contains 'origami' %}
-  {%- include pattern-responses.html -%}
-  {% endunless %}
 </article>
 
 {%- include post-navigation.html -%}
