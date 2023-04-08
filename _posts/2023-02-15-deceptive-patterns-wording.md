@@ -1,7 +1,7 @@
 ---
 title: "On ‘deceptive patterns’ and wording"
 date: '2023-02-15 09:59:01'
-last_modified_at: '2023-02-15 14:17:43'
+last_modified_at: '2023-04-08 23:41:36'
 featured-post: false
 categories:
   - Design
@@ -17,7 +17,7 @@ Whenever I share an article that still uses the adjective, there is a note point
 
 Harry Brignull — the UX specialist who started the campaing against deceptive design in 2010 — <a href="https://www.deceptive.design/about-us">changed the domain of his website</a>. In comparison my changes feel minor but they’re nonetheless important: words matter.
 
-### Further reading
+## Further reading
 
 <ul class="smd-ul">
   <li><a href="https://amyhupe.co.uk/articles/changing-our-language-on-bad-patterns/">Why it’s time to update our language about bad design patterns</a></li>
