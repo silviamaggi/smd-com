@@ -3,8 +3,8 @@ layout: project
 title: UniCredit acquisition landing pages and forms
 featured-post: false
 type: 'UX, UI'
-date: 2021-04-13T16:05:42.000Z
-last_modified_at: '2022-05-13 15:29:25'
+date: '2021-04-13 16:05:42'
+last_modified_at: '2023-04-08 17:13:25'
 description: 'UniCredit wanted to reach a wider range of clients. I helped them increase the conversion rates of their mobile pages.'
 featimage: feat-unicredit.jpg
 featured-image-alt: Screens showing UniCredit landing pages and forms
@@ -136,4 +136,4 @@ This project proved how important culture is when designing. Getting to know **t
 
 [^growing-users]: "*The number of users of banking services such as home and corporate banking steadily increased, growing from approximately 30.4 million in 2010 to nearly 58 million in 2019.*" — **Source**: <a href="https://www.statista.com/statistics/737981/number-of-home-and-corporate-banking-users-in-italy/" title="Go to the statistics page">Statista Research Department</a>
 
-[^uifarm-workflow]: Read about [UI Farm’s workflow for the multi-device Web](https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b){:title="Read the article on Medium"}
+[^uifarm-workflow]: Read about [UI Farm’s workflow for the multi-device Web](https://simonesilvestroni.com/blog/a-modern-workflow-for-the-multi-device-web/){:title="Read the article on Medium"}
