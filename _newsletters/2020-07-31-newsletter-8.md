@@ -1,6 +1,6 @@
 ---
 title: "#8 A safe and accessible web for everyone"
-last_modified_at: '2023-01-27 11:05:41'
+last_modified_at: '2023-04-08 16:20:52'
 robots: 'noindex,follow'
 sitemap: false
 description: "A safe and accessible web for everyone"
@@ -15,7 +15,7 @@ I have a few things to share with you this week. When I wrote the post about the
 
 <p class="detached">If you use Instagram, be aware of the ‘camera-on’ bug discovered by a user while testing Apple’s iOS 14 beta version. Whether it really is a bug or a feature, it is worrying from a privacy and security point of view. Read the post here:</p>
 
-<p class="detached">🔗 <a href="https://blog.silviamaggidesign.com/2020/07/28/instagrams-camera-on-bug/">Instagram’s &ldquo;Camera On&rdquo; Bug</a></p>
+<p class="detached">🔗 <a href="https://silviamaggidesign.com/ux/instagrams-camera-on-bug/">Instagram’s &ldquo;Camera On&rdquo;Bug</a></p>
 
 <p class="detached">Finally, in this week’s digest:</p>
 
