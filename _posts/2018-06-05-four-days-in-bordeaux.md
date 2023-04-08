@@ -1,6 +1,6 @@
 ---
 title: Four days in Bordeaux
-last_modified_at: '2022-04-17 15:24:07'
+last_modified_at: '2023-04-08 16:46:03'
 featured-post: false
 categories:
   - Photography
@@ -70,7 +70,7 @@ Lessons learnt: use weather apps that provide detailed international weather ale
         <span>Thank you :*</span>
       </li>
       <li>
-        <a class="reaction" rel="nofollow ugc" title="mentioned" href="http://www.inyourdreams.fi">💬 <strong>AndiA</strong>&nbsp;&ndash;</a>
+        💬 <strong>AndiA</strong>&nbsp;&ndash;
         <span>Bon! J'adore Bordeaux! Champagne region too?I dont remember seing soo much great architecture! I also love the well manered polite Frenchies too?</span>
       </li>
       <li class="reaction-reply">
@@ -78,7 +78,7 @@ Lessons learnt: use weather apps that provide detailed international weather ale
         <span>I love everything French, but for some reason only ever visited Paris and Bordeaux. I feel like I need to make up for this :)</span>
       </li>
       <li>
-        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.thesimpsonsisters.co.uk">💬 <strong>Vanessa</strong>&nbsp;&ndash;</a>
+        <a class="reaction" rel="nofollow ugc" title="mentioned" href="https://www.vanessasimpson.co.uk/">💬 <strong>Vanessa</strong>&nbsp;&ndash;</a>
         <span>It's a really beautiful looking city, I'm very much looking forward to visiting in a couple of weeks but am hopeful I'll avoid a hail storm! x</span>
       </li>
       <li class="reaction-reply">

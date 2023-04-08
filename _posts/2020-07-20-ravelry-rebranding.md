@@ -1,6 +1,6 @@
 ---
 title: How rebranding cost Ravelry the trust of their community
-last_modified_at: '2022-11-20 11:54:55'
+last_modified_at: '2023-04-08 16:47:44'
 featured-post: false
 popular-post: true
 categories:
@@ -113,10 +113,6 @@ The text has been corrected to delete inaccuracies about when the old design wil
   <h2>Comments</h2>
   <div class="webmentions">
     <ul class="comments">
-      <li>
-        <a class="reaction" rel="nofollow ugc" title="mentioned" href="{{ site.url }}">💬 <strong>Silvia Maggi</strong>&nbsp;&ndash;</a>
-        <span>Stitched In The Middle wrote a very informative post explaining how accessibility helps everyone. Read it here: <a href="https://stitchedinthemiddle.com/ravelry-disability-and-accessibility-part-1/" rel="nofollow noopener">https://stitchedinthemiddle.com/ravelry-disability-and-accessibility-part-1/</a></span>
-      </li>
       <li>
         <a class="reaction" rel="nofollow ugc" title="mentioned" href="http://mtnbeachmama.wordpress.com">💬 <strong>mtnbeachmama</strong>&nbsp;&ndash;</a>
         <span>Your blog post was excellent. It explained everything so well. I am heartened to see that the Black Lives Matter is getting the attention it deserves. I want to see each of the marginalized peoples get the attention they deserve, and that necessary changes are made for all that need them. Ravelry's disastrous and totally tone deaf manner of updated has put the focus on a diverse and serious group of marginalized users. I discovered a setting in my laptop that allows me the option of dimming the contrast, but Ravelry still bothers my eyes. I have downloaded all of the patterns I had saved in my account. I am dismantling my account, have left all of the groups, and use only my pages when I am there. It is heartbreaking, but I am going to move on from Ravelry. I will miss the knit a longs I was participated in. My hope is that enough of us will move on, and utilize other platforms to access the designers we love. That the individual designers will not suffer, but will realize how important it is to be aware of and sensitive to the needs of all of their users. Ravelry is saying all of the right things about inclusivity, but their actions prove they 'talk the talk' but don't know how to (or don't really care about) walking the walk. Thank you for an excellent article!</span>
