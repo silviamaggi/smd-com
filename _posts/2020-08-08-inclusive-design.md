@@ -66,8 +66,8 @@ Less than a month ago, Twitter suffered an unprecedented security breach. The la
 
 ## A Little Boy That Santa Claus Forgot On A B-29
 
-On 6 of August 2020, Japan marked 75 years since the nuclear attack on Hiroshima. Around the same time, two young men escaped from Sachsenhausen concentration camp in Berlin. One of them was [Minutes to Midnight](https://blog.minutestomidnight.co.uk/2020/08/06/a-little-boy-that-santa-claus-forgot-on-a-b-29/){:title="Read the post on Minutes to Midnight website"}‘s grandfather.
+On 6 of August 2020, Japan marked 75 years since the nuclear attack on Hiroshima. Around the same time, two young men escaped from Sachsenhausen concentration camp in Berlin. One of them was [Minutes to Midnight](https://minutestomidnight.co.uk/blog/a-little-boy-that-santa-claus-forgot-on-a-b-29/){:title="Read the post on Minutes to Midnight website"}‘s grandfather.
 
-Watch the official video of the song _A Little Boy That Santa Claus Forgot On A B-29_, the second song from the concept album _[After 1989: A Trip to Freedom](https://minutestomidnight.co.uk/new-album-after-1989/){:title="Read more on Minutes to Midnight website"}_. Disclaimer: Minutes to Midnight is my husband. I’m sharing his music because I believe it’s a unique and touching project. Check his [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg/) to discover the entire album.
+Watch the official video of the song _A Little Boy That Santa Claus Forgot On A B-29_, the second song from the concept album _[After 1989: A Trip to Freedom](https://minutestomidnight.co.uk/work/music/after-1989/){:title="Read more on Minutes to Midnight website"}_. Disclaimer: Minutes to Midnight is my husband. I’m sharing his music because I believe it’s a unique and touching project. Check his [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg/) to discover the entire album.
 
 {% include pattern-video.html id="5M1XTw483Ew" title="Minutes to Midnight - A Little Boy That Santa Claus Forgot On A B-29 [Rock] (2019) Music Video" %}
