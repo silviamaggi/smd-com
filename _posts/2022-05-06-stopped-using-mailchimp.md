@@ -28,7 +28,7 @@ Without looking further away, the solution has always been in front of my eyes: 
 
 [Netlify](https://www.netlify.com/), my web hosting, comes with built-in form handling. I created a simple subscription form  adding a `netlify` attribute to the `<form>` tag[^netlify-forms].  Now I manage it from the site admin panel. Spam is automatically filtered out and I receive notifications every time someone subscribes. 
 
-Mailchimp provides a handy archive of past newsletters for people to consult before deciding to subscribe. I recreated it [on my website](https://silviamaggidesign.com/newsletter/archive/). 
+Mailchimp provides a handy archive of past newsletters for people to consult before deciding to subscribe. I recreated it [on my website](https://silviamaggidesign.com/newsletter/). 
 
 ## What’s ahead
 

@@ -38,8 +38,7 @@ Every time I separated my passions, I ended up not writing, or not taking photos
 <ul class="smd-ul">
 <li>the design inspiration series <a href="/category/design-digested/" title="Go to the 'Design, Digested' archive"><em>Design, Digested</em></a>;</li>
 <li><a href="/category/photography/" title="Go to the 'Photography' archive">photography posts</a>, including some earlier ones that I never published on the previous website;</li>
-<li>my <a href="/projects/" title="View the projects">projects</a>;</li>
-<li>the special section <a href="/jeremybearimy/" title="Go to the section"><em>Jeremy Bearimy</em></a> where time flows differently.</li>
+<li>my <a href="/work/" title="View my work">work</a>.</li>
 </ul>
 
 ## Spark joy
@@ -60,7 +59,7 @@ In his book *Webwaste*, Gerry McGovern explains how the web changed since 1994. 
 
 Would you like a <em>pasticcino</em> (pastitˈtʃino) instead?
 
-This website does not collect any personal data about visitors. I painstakingly removed any kind of tracking from the links I share with you, and every YouTube video embed is served from <code>https://www.youtube-nocookie.com</code>. After much thinking, I decided not to implement a comment system, and chose to give you the ability to **reply directly to me** at the end of each post. Your messages will land in my inbox, where we can have a private conversation. More details on the <a href="/privacy-policy/" title="Go to the page">Privacy Policy page</a>.
+This website does not collect any personal data about visitors. I painstakingly removed any kind of tracking from the links I share with you, and every YouTube video embed is served from <code>https://www.youtube-nocookie.com</code>. After much thinking, I decided not to implement a comment system, and chose to give you the ability to **reply directly to me** at the end of each post. Your messages will land in my inbox, where we can have a private conversation. More details on the <a href="/colophon/">Colophon page</a>.
 
 ## What's cooking
 
