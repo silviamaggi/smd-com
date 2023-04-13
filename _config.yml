@@ -103,6 +103,5 @@ responsive_image:
 
 # Plugins
 plugins:
-  - jekyll-sitemap
   - jekyll-archives
   - jekyll-responsive-image
