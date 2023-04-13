@@ -1,5 +1,5 @@
 ---
-title: About stereotypes (or clich&eacute;s)
+title: About stereotypes (or clicheés)
 date: '2023-02-10 11:32:47'
 last_modified_at: '2023-02-15 09:24:19'
 featured-post: false
