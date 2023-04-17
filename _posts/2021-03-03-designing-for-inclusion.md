@@ -1,6 +1,6 @@
 ---
 title: "Start designing for inclusion"
-last_modified_at: '2022-04-17 16:02:26'
+last_modified_at: '2023-04-17 10:46:23'
 featured-post: false
 categories:
   - Design Digested
@@ -42,6 +42,6 @@ Designing for inclusion also means thinking about how the design of content can 
 
 <ul class="smd-ul">
 <li><a href="https://www.microsoft.com/design/inclusive/">Microsoft Design: Inclusive Design Principles</a> (on Microsoft's website)</li>
-<li><a href="https://stephaniewalter.design/blog/52-ux-cards-to-discover-cognitive-biases/">52 UX Cards to Discover Cognitive Biases</a> (on St&eacute;phanie Walter's website)</li>
+<li><a href="https://stephaniewalter.design/blog/52-ux-cards-to-discover-cognitive-biases/">52 UX Cards to Discover Cognitive Biases</a> (on St&eacute;phanie Walter’s website)</li>
 <li><a href="https://growth.design/psychology/">The Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX</a> (on Growth Design)</li>
 </ul>
