@@ -2,7 +2,7 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-04-07 23:15:00'
+last_modified_at: '2023-04-20 16:53:35'
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
 ---
@@ -22,6 +22,9 @@ In progress:
 - _Hamnet_, by Maggie O’Farrell
 - ~~_Stories of Your Life and Others_, by Ted Chiang~~
 - ~~_The Norkfolk Mystery_ by Ian Samson~~
+- ~~_Women & Power_ by Mary Beard~~
+- ~~_The Essex Serpent_ by Sarah Perry~~
+- ~~_Pigeon English_ by Stephen Kelman~~
 
 
 ## Hobbies
