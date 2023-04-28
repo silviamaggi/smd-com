@@ -6,35 +6,33 @@ layout: default
 {%- else -%}
   {%- assign categories = page.categories -%}
 {%- endif -%}
-<article class="smd-entry">
-  <div class="h-entry">
-    <h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
-    {%- if post -%}
-      {% assign date = post.date %}
-    {%- elsif page -%}
-      {% assign date = page.date %}
-    {%- endif -%}
-    <time class="dt-published fw-bold" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%d %B %Y" }}</time>
-    <p class="p-name detached lead lh-sm">{{ page.excerpt }}</p>
-    {% if page.mention == true %}
-    <p>{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></p>
-    {% endif %}
-    <div class="e-content mt-5">
-      {%- if page.featuredimage == true %}
-        {% responsive_image_block %}
-          path: assets/images/{{ page.featimage | append: '.jpg' }}
-          alt: {{ page.featimage-alt }}
-          class: {{ page.featimage-class }}
-          caption-true: {{ page.image-caption }}
-          caption: {{ page.featimage-caption-desc }}
-        {% endresponsive_image_block %}
-      {% endif -%}
-      {{ content }}
-    </div>
+<article class="smd-entry h-entry">
+  <h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
+  {%- if post -%}
+    {% assign date = post.date %}
+  {%- elsif page -%}
+    {% assign date = page.date %}
+  {%- endif -%}
+  <time class="dt-published fw-bold" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%d %B %Y" }}</time>
+  <p class="p-name detached lead lh-sm">{{ page.excerpt }}</p>
+  {% if page.mention == true %}
+  <p>{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></p>
+  {% endif %}
+  <div class="e-content mt-5">
+    {%- if page.featuredimage == true %}
+      {% responsive_image_block %}
+        path: assets/images/{{ page.featimage | append: '.jpg' }}
+        alt: {{ page.featimage-alt }}
+        class: {{ page.featimage-class }}
+        caption-true: {{ page.image-caption }}
+        caption: {{ page.featimage-caption-desc }}
+      {% endresponsive_image_block %}
+    {% endif -%}
+    {{ content }}
   </div>
   <div class="post-meta">
       {%- include post-meta.html %}
-      <span class="visually-hidden">
+      <span class="visually-hidden" aria-hidden="true">
         {% include pattern-hcard-post.html %}
       </span>
     </div>
