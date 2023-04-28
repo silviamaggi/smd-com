@@ -11,7 +11,7 @@ tags:
 description: "I'm taking the English course from Italian on Duolingo, and I can confirm it's not good."
 excerpt: "I'm taking the English course from Italian on Duolingo too, and I can confirm it's not good."
 mention: true
-mentionReplyUrl: 'https://simonesilvestroni.com/blog/duolingo-from-italian-to-english-is-not-good/'
+mentionReplyUrl: 'https://minutestomidnight.co.uk/blog/duolingo-from-italian-to-english-is-not-good/'
 mentionReplyTitle: 'Duolingo from Italian to English is not good'
 mentionType: reply
 ---
