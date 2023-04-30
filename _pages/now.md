@@ -19,7 +19,7 @@ My main goal is to <a href="https://silviamaggidesign.com/notes/note-about-news-
 In progress:
 
 - _Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers_, by multiple authors
-- ~~_Hamnet_~~, by Maggie O’Farrell
+- ~~_Hamnet_, by Maggie O’Farrell~~
 - ~~_Stories of Your Life and Others_, by Ted Chiang~~
 - ~~_The Norkfolk Mystery_ by Ian Samson~~
 - ~~_Women & Power_ by Mary Beard~~
