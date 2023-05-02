@@ -1,10 +1,36 @@
-{%- include site-head.html -%}
+<!DOCTYPE html>
+<html lang="en" dir="ltr" itemscope itemtype="http://schema.org/WebPage">
+<head>
+<title>{% include site-title.html %}</title>
+{% include site-meta.html %}
+<link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url |  replace:'index.html','' | absolute_url }}{% endif %}">
+{% if jekyll.environment == "production" -%}
+<link rel="stylesheet" href="{{ site.url }}/assets/css/smd.min.css">
+{% else -%}
+<link rel="stylesheet" href="{{ site.url }}/assets/css/smd.css">
+{% endif %}
+<link rel="webmention" href="https://webmention.io/silviamaggidesign.com/webmention">
+<link rel="pingback" href="https://webmention.io/webmention?forward=https://webmention.io/silviamaggidesign.com/webmention">
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+<link rel="microsub" href="https://aperture.p3k.io/microsub/691">
+<link rel="icon" href="{{ site.url }}/favicon.ico" sizes="any">
+<link rel="icon" href="{{ site.url }}/assets/images/favicons/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/assets/images/favicons/apple-touch-icon.png">
+<link rel="manifest" href="{{ site.url }}/assets/images/favicons/site.webmanifest">
+<link href='/feed.xml' rel='alternate' type='application/atom+xml'>
+</head>
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
   <main>
     <div class="container smd-container">
       <div class="row gx-md-5">
         <div class="col-md-4">
-          {% include site-header.html %}
+          <header class="site-header sticky-md-top pe-lg-5 pt-2 pt-md-4">
+            <div>
+              {% include site-logo.html %} 
+            </div>
+            {%- include navigation-main.html %}
+          </header>
         </div>
         <div class="col-md-8 pt-4" id="smd-content">
           {{ content }}
@@ -12,6 +38,40 @@
       </div>
     </div>
   </main>
-{% include site-footer.html -%}
+  <div class="smd-footer-wrapper container-lg-fluid mt-0 mt-md-5 pb-md-0 pt-3">
+    <footer class="container-lg smd-container mt-2 mt-md-4 pb-4 pb-md-3">
+      {%- include navigation-secondary.html %}
+      <div class="text-center text-md-start mt-3">
+        {% include navigation-social.html %}
+      </div>
+      <div class="d-md-flex flex-nowrap flex-sm-wrap justify-content-md-between py-4">
+        <div class="d-md-flex text-center mb-4 mb-md-0"><p class="mb-0 small">&copy; {{ site.time | date: '%Y' }} &ndash; {{ site.title }}</p></div>
+        <div class="d-md-flex text-center align-items-md-end mt-5 mb-3 mt-md-0 mb-md-0 text-decoration-none">
+          <a class="smd-link px-3 py-2 fw-bold" href="{{ page.url }}#top" title="Go to the top of the page">Back to top&nbsp;<svg width="24" height="24" fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M5.25 3.495h13.498a.75.75 0 0 0 .101-1.493l-.101-.007H5.25a.75.75 0 0 0-.102 1.493l.102.007Zm6.633 18.498L12 22a1 1 0 0 0 .993-.884L13 21V8.41l3.294 3.292a1 1 0 0 0 1.32.083l.094-.083a1 1 0 0 0 .083-1.32l-.083-.094-4.997-4.997a1 1 0 0 0-1.32-.083l-.094.083-5.004 4.996a1 1 0 0 0 1.32 1.499l.094-.083L11 8.415V21a1 1 0 0 0 .883.993Z" fill="currentColor"/></svg></a>
+        </div>
+      </div>
+      <div class="d-md-flex text-center mb-4">
+        <p class="mb-0 small">
+          <a href="https://xn--sr8hvo.ws/2%EF%B8%8F%E2%83%A3%F0%9F%8E%B7%E2%9B%8E/previous" target="_blank" title="Previous Indieweb site">←</a>
+          An <strong>IndieWeb Webring</strong> 
+          <a href="https://xn--sr8hvo.ws/2%EF%B8%8F%E2%83%A3%F0%9F%8E%B7%E2%9B%8E/next" target="_blank" title="Next Indieweb site">→</a>
+        </p>
+      </div>
+    </footer>
+  </div>
+  {% if page.url contains 'search' or page.url contains '404.html' %}
+  <script type="text/javascript" src="{{ site.url }}/assets/js/search-smd.js"></script>
+  {% endif %}
+  {% if page.is_post or page.collection == 'projects' %}
+  <script src="/assets/js/webmention.min.js" async></script>
+  {% endif %}
+  <data class="p-org" value="Silvia Maggi Design"></data>
+  <data class="p-note" value="{{ site.description }}"></data>
+  <data class="u-email" rel="me" value="mailto:{{ site.author.email }}"></data>
+  <data rel="me" value="https://www.linkedin.com/in/silviamaggi/"></data>
+  <data rel="me" value="https://indieweb.social/@silviamaggi"></data>
+  <data rel="me" value="https://oreganodangereux.wordpress.com"></data>
+  <data rel="me" value="https://github.com/silviamaggi/"></data>
+  <data rel="me" value="https://www.flickr.com/photos/silvia-m/"></data>
 </body>
 </html>

@@ -31,16 +31,16 @@ layout: default
     <span class="p-name">{{ content }}</span>
   </div>
   <div class="post-meta">
-      {%- include post-meta.html %}
-      <span class="visually-hidden" aria-hidden="true">
-        {% include pattern-hcard-post.html %}
-      </span>
-    </div>
+    {%- include post-meta.html %}
+    <span class="visually-hidden" aria-hidden="true">
+      {% include pattern-hcard-post.html %}
+    </span>
+  </div>
+  {%- if page.id -%}
+  <div class="text-center text-md-start mt-0 mb-5">{%- include pattern-buymeacoffee.html %}</div>
+  {%- endif -%}
   {% unless page.url contains '/newsletter/archive' %}
     {%- include pattern-responses.html -%}
   {% endunless %}
 </article>
-{%- if page.id -%}
-  <div class="d-block d-md-none text-center mt-0 mb-5">{%- include pattern-buymeacoffee.html %}</div>
-  {%- endif -%}
 {%- include post-navigation.html -%}
