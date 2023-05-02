@@ -13,10 +13,6 @@ tags:
   - privacy
 description: 'I built my new website from scratch using Jekyll, a static site generator. Welcome to my new virtual house.'
 excerpt: 'I built my new website from scratch using Jekyll, a static site generator. Welcome to my new virtual house. Let me show you around.'
-mention: true
-mentionReplyUrl: 'https://minutestomidnight.co.uk/blog/loops-transitions-identity/'
-mentionReplyTitle: '&lsquo;<em>Loops, transitions, identity</em>&rsquo; by Simone Silvestroni'
-mentionType: reply
 ---
 {% responsive_image_block %}
   path: assets/images/feat-brand-new-website.jpg
