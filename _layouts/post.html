@@ -7,18 +7,18 @@ layout: default
   {%- assign categories = page.categories -%}
 {%- endif -%}
 <article class="smd-entry">
-  <h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
-  {%- if post -%}
-    {% assign date = post.date %}
-  {%- elsif page -%}
-    {% assign date = page.date %}
-  {%- endif -%}
-  <time class="dt-published fw-bold" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%d %B %Y" }}</time>
-  <p class="p-name detached lead lh-sm">{{ page.excerpt }}</p>
-  {% if page.mention == true %}
-  <p>{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></p>
+  <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
+  <span class="p-author h-card">
+    <a class="p-name" href="{{ site.url }}/about/" rel="author"><img class="u-photo" src="{{ site.url }}/assets/images/silviamaggi-avatar.png" alt="Portrait of Silvia Maggi" width="32" height="32"></a>&nbsp;&nbsp;<time class="dt-published fw-bold" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid dim" href="{{ site.url }}{{ page.url }}" title="Permalink">{{ page.date | date: "%d %B %Y" }}</a></time>
+  </span>
+  {% if post.excerpt %}
+  <p class="p-summary detached lead lh-sm">{{ page.excerpt }}</p>
   {% endif %}
-  <div class="e-content mt-5">
+  {% if page.mention == true %}
+  <hr>
+  <p>{% if page.mentionType == 'like' %}<img src="/assets/images/like.svg" width="29" height="29" alt="Like" style="vertical-align: sub"> <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'reply' %}<img src="/assets/images/reply.svg" width="29" height="29" alt="Reply" style="vertical-align: sub"> <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionUrl }}"><em>{{ page.mentionTitle }}</em></a></p>
+  {% endif %}
+  <div class="mt-5">
     {%- if page.featuredimage == true %}
       {% responsive_image_block %}
         path: assets/images/{{ page.featimage | append: '.jpg' }}
@@ -28,19 +28,19 @@ layout: default
         caption: {{ page.featimage-caption-desc }}
       {% endresponsive_image_block %}
     {% endif -%}
-    <span class="p-name">{{ content }}</span>
+    <span class="e-content">{{ content }}</span>
+    {% if page.syndicate %}
+    <p>Also on: <a rel="syndication" class="u-syndication" href="{{ page.syndicate }}">{{ page.syndicate }}</a></p>
+    {% endif -%}
   </div>
-  <div class="post-meta">
-    {%- include post-meta.html %}
-    <span class="visually-hidden" aria-hidden="true">
-      {% include pattern-hcard-post.html %}
-    </span>
-  </div>
+  <div class="post-meta">{%- include post-meta.html %}</div>
   {%- if page.id -%}
+  {% unless page.type == 'note' %}
   <div class="text-center text-md-start mt-0 mb-5">{%- include pattern-buymeacoffee.html %}</div>
+  {% endunless %}
   {%- endif -%}
   {% unless page.url contains '/newsletter/archive' %}
-    {%- include pattern-responses.html -%}
+  {%- include pattern-responses.html -%}
   {% endunless %}
 </article>
 {%- include post-navigation.html -%}
