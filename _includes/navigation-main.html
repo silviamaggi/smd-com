@@ -1,7 +1,7 @@
 <a class="visually-hidden" href="#smd-content">Skip to the content</a>
 <nav class="navigation-main mt-md-4 mb-md-4" aria-label="Primary">
   <ul>
-    {% for item in site.data.nav-site -%}
+    {% for item in site.data.nav-main -%}
     <li class="nav-item text-center text-md-start">
       <a class="{% if page.url contains item.link %} smd-current{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
     </li>
