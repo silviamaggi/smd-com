@@ -20,7 +20,7 @@
 <link rel="manifest" href="{{ site.url }}/assets/images/favicons/site.webmanifest">
 <link href='/feed.xml' rel='alternate' type='application/atom+xml'>
 </head>
-<body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
+<body class="h-entry layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
   <main>
     <div class="container smd-container">
       <div class="row gx-md-5">
