@@ -2,7 +2,7 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-04-30 11:26:21'
+last_modified_at: '2023-05-02 11:09:44'
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
 ---
@@ -18,7 +18,8 @@ My main goal is to <a href="https://silviamaggidesign.com/notes/note-about-news-
 
 In progress:
 
-- _Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers_, by multiple authors
+- _The Deception of Harriet Fleet_, by Helen Scarlett
+- ~~_Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers_~~, by multiple authors
 - ~~_Hamnet_, by Maggie O’Farrell~~
 - ~~_Stories of Your Life and Others_, by Ted Chiang~~
 - ~~_The Norkfolk Mystery_ by Ian Samson~~
