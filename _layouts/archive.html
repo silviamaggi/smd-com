@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1 class="text-center text-md-start mt-4 mt-md-0">{%- if page.type == "tag" -%}Tag: {% else -%}Category: {% endif %}{{ page.title | upcase }}</h1>
+<h1 class="mt-4 mt-md-0">{%- if page.type == "tag" -%}Tag: {% else -%}Category: {% endif %}{{ page.title | upcase }}</h1>
 
 <section class="blogroll">
   {% for post in page.posts %}
