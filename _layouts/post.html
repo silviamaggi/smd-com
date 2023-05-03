@@ -9,7 +9,7 @@ layout: default
 <article class="smd-entry">
   <header>
     <h1 class="p-name mt-4 mt-md-0">{{ page.title }}</h1>
-    <span class="p-author h-card"><img class="u-photo" src="{{ site.url }}/assets/images/silviamaggi-avatar.png" alt="Silvia Maggi portrait" width="32" height="32"> <a class="p-name" href="{{ site.url }}/about/" rel="author">Silvia Maggi</a></span>&nbsp;&middot;&nbsp;<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink"><span class="smd-heads-l-20">{{ page.date | date: "%-d %B %Y" }}</span></a></time>
+    <span class="p-author h-card" aria-hidden="true"><img class="u-photo" src="{{ site.url }}/assets/images/silviamaggi-avatar.png" alt="Silvia Maggi portrait" width="32" height="32"> <a class="p-name" href="{{ site.url }}/about/" rel="author">Silvia Maggi</a> &middot;</span> <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink"><span class="smd-heads-l-20">{{ page.date | date: "%-d %B %Y" }}</span></a></time>
   </header>
   {% if post.excerpt %}
   <p class="p-summary detached lead lh-sm">{{ page.excerpt }}</p>
