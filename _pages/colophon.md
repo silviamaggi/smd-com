@@ -23,7 +23,7 @@ According to [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.co
 
 ## Sustainability
 
-Only <code>0.06g of CO2</code> is produced every time someone visits the homepage. Cleaner than <code>94%</code> of <a href="https://www.websitecarbon.com/website/silviamaggidesign-com/" title="Visit Website carbon">web pages tested</a>.
+Only <code>0.02g of CO2</code> is produced every time someone visits the homepage. Cleaner than <code>97%</code> of <a href="https://www.websitecarbon.com/website/silviamaggidesign-com/" title="Visit Website carbon">web pages tested</a>.
 
 ## Performance
 
