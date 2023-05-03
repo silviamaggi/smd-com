@@ -10,7 +10,7 @@ tags:
   - duolingo
 type: note
 description: "I'm taking the English course from Italian on Duolingo, and I can confirm it's not good."
-excerpt: "I’m taking the English course from Italian on Duolingo too, and I can confirm it’s not good."
+intro: false
 mention: true
 mentionType: reply
 mentionUrl: 'https://minutestomidnight.co.uk/blog/duolingo-from-italian-to-english-is-not-good/'
