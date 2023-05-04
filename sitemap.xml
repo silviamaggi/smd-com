@@ -27,14 +27,14 @@ layout: none
   {%- for cat in sorted_cats -%}
   {%- assign c = cat | first %}
   <url>
-    <loc title="{{ c }}">{{ site.url }}/blog/category/{{ c | slugify }}/</loc>
+    <loc title="{{ c }}">{{ site.url }}/category/{{ c | slugify }}/</loc>
   </url>
   {%- endfor %}
   {% assign sorted_tags = site.tags | sort %}
   {%- for tag in sorted_tags -%}
   {%- assign t = tag | first %}
   <url>
-    <loc>{{ site.url }}/blog/tag/{{ t | slugify }}/</loc>
+    <loc>{{ site.url }}/tag/{{ t | slugify }}/</loc>
   </url>
   {%- endfor %}
 </urlset>
