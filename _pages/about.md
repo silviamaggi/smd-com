@@ -2,7 +2,7 @@
 layout: page
 title: About
 date: '2020-02-27'
-last_modified_at: '2023-04-18 17:01:03'
+last_modified_at: '2023-05-05 14:06:41'
 description: "I’m Silvia Maggi (she/her), a designer specialised in building accessible and usable products. Curator of the inspiration series Design, Digested."
 permalink: /about/
 ---
@@ -49,6 +49,7 @@ In May 2020, I started *Design, Digested* – the [design inspiration series](/c
 
 ## More
 
+- [Endosements](/endorsements/)
 - [Cornerstone books](/books/)
 - [Certificates and workshops](/certificates/)
 
