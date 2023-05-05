@@ -2,8 +2,6 @@
   link: /search/
 - name: RSS
   link: /rss/
-- name: Now
-  link: /now/
 - name: Archive
   link: /archive/
 - name: Blogroll
