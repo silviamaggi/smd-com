@@ -1,31 +1,55 @@
 ---
-layout: page-portfolio
+layout: page
 title: Work
 date: '2021-04-13 17:27:01'
-last_modified_at: '2023-04-08 12:19:54'
-description: 'A selection of Silvia Maggi’s work.'
-excerpt: 'Both as a consultant and in-house, I worked on many exciting projects with brilliant teammates. Here is a selection of the ones I can show.'
+last_modified_at: '2023-05-05 19:36:10'
+description: 'Silvia Maggi’s latest working experience. Ask to see my portfolio.'
+excerpt: 'I’m a senior designer with almost 20 years of experience designing for the web. '
 permalink: '/work/'
 ---
-<p class="lead">{{ page.excerpt }}</p>
+
+<h2>Latest experiences</h2>
+<dl>
+  <dt>Mango Interactive — UX Designer</dt>
+  <dd>I’m creating new flows for the mobile app of the Italian bank BPER in my capacity as an external consultant within the Digital Service Design division.</dd>
+  <dt>Mango Interactive — Web Consultant</dt>
+  <dd>I performed accessibility assessments for the top European commercial bank UniCredit and provided design guidance on how to comply with WCAG 2.1.</dd>
+  <dt>Origami Energy — UX Designer</dt>
+  <dd>I collaborated closely with stakeholders and software engineers as a sole and in-house UX designer to develop and implement the designs of the first customer-facing online application.</dd>
+</dl>
+
+<div class="my-5">
+  <p class="text-center">🔗 <a href="https://www.linkedin.com/in/silviamaggi/"><strong>View my profile on LinkedIn</strong>&nbsp;→</a></p>
+</div>
 
 <section class="my-5">
-  <h2 class="mb-5">They trusted me</h2>
-  <div class="row justify-content-center gy-4">
+  <h2 class="mb-5">They also trusted me</h2>
+  <div class="row justify-content-start gy-4">
     <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-unicredit.png" alt="UniCredit"></div>
-    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-origami.png" alt="Origami"></div>
-    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-elite.png" alt="Elite New York"></div>
     <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-reevoo.png" alt="Reevoo"></div>
-    <div class="col-4"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-wm.png" alt="Women Management New York"></div>
-    <div class="col-4"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-apm.png" alt="APM New York"></div>
-    <div class="col-4"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-noths.png" alt="Not On The High Street"></div>
-    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-supreme.png" alt="Supreme Management"></div>
+    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-noths.png" alt="Not On The High Street"></div>
+    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-elite.png" alt="Elite New York"></div>
+    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-wm.png" alt="Women Management New York"></div>
+    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-apm.png" alt="APM New York"></div>
     <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-cbooks.png" alt="CounterBooks"></div>
     <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-coral.png" alt="Coral"></div>
-    <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-flexipod.png" alt="Flexipod"></div>
   </div>
 </section>
 
+<h2>More</h2>
+
+<ul>
+  <li><a href="/endorsements/">Endorsements</a></li>
+  <li><a href="/certificates/">Certificates and workshops</a></li>
+</ul>
+
+<div class="smd-bg-l-90 rounded my-5 py-3">
+  <p class="text-center mb-0">To see my portfolio<br> ✒️ <a href="/contact/">Get in touch&nbsp;→</a></p>
+</div>
+
+<p class="btn-lg d-inline-block btn-label-smd btn-label-smd-bg fw-bold smd-font-micro px-2 py-1">Updated on: {{ page.last_modified_at | date: "%-d %B %Y" }}</p>
+
+{% comment %}
 <div class="h-feed my-5">
   <ul class="h-feed list-unstyled ps-0">
     {% assign projects = site.projects | reverse %}
@@ -49,5 +73,4 @@ permalink: '/work/'
     {% endfor %}
   </ul>
 </div>
-
-{% include pattern-hire.html %}
+{% endcomment %}

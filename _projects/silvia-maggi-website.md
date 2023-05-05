@@ -19,7 +19,6 @@ skills:
   - Jekyll
   - Liquid
   - Markdown
-  - Bootstrap 5
   - Git
 tools:
   - Sublime Text
