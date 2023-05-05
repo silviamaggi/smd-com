@@ -2,11 +2,11 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-05-02 11:09:44'
+last_modified_at: '2023-05-05 22:15:08'
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
 ---
-I’m currently living in Italy, between Lake Maggiore and Milan, spending more time than ever in my hometown: [Arona](https://silviamaggidesign.com/tag/arona/ "View posts tagged 'Arona'"). My husband and I are planning to move back to the UK in 2023, where we lived for almost 10 years up until the pandemic.
+I’m currently living in Italy, between Lake Maggiore and Milan. My husband and I are planning to move back to the UK in 2023, where we lived for almost 10 years up until the pandemic.
 
 ## Work
 
