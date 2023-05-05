@@ -9,7 +9,7 @@ permalink: /about/
 {: .p-summary .lead }
 I’m Silvia Maggi (she/her), a designer specialised in building accessible and usable products. I care about design ethics and sustainability.
 
-Currently contracting with [Mango Interactive](https://mangointeractive.it/) in the role of UX designer for the Italian bank [BPER](https://www.bper.it/), I previously helped the leading European commercial bank [UniCredit](https://www.unicredit.it) conform with WCAG 2.1. 
+<!-- Currently contracting with [Mango Interactive](https://mangointeractive.it/) in the role of UX designer for the Italian bank [BPER](https://www.bper.it/), I previously helped the leading European commercial bank [UniCredit](https://www.unicredit.it) conform with WCAG 2.1.  -->
 
 ## I’m a designer
 
@@ -49,9 +49,7 @@ In May 2020, I started *Design, Digested* – the [design inspiration series](/c
 
 ## More
 
-- [Endosements](/endorsements/)
 - [Cornerstone books](/books/)
-- [Certificates and workshops](/certificates/)
 
 <div class="my-5">
   <p class="text-center">🔗 <a href="https://www.linkedin.com/in/silviamaggi/"><strong>View my profile on LinkedIn</strong>&nbsp;→</a></p>
