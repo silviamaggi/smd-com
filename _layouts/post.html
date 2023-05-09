@@ -30,7 +30,7 @@ layout: default
     {% endif -%}
     <span class="e-content">{{ content }}</span>
     {% if page.syndicate %}
-    <p>Also on: <a rel="syndication" class="u-syndication" href="{{ page.syndicate }}">{{ page.syndicate }}</a></p>
+    <p>Also posted on: <a rel="syndication" class="u-syndication" href="{{ page.syndicate }}">{{ page.syndicate }}</a></p>
     {% endif -%}
   </div>
   <div class="post-meta">{%- include post-meta.html %}</div>
@@ -38,6 +38,9 @@ layout: default
   {% unless page.type == 'note' %}
   <div class="text-center text-md-start mt-0 mb-5">{%- include pattern-buymeacoffee.html %}</div>
   {% endunless %}
+  {%- endif -%}
+  {%- if page.url contains '/design-digested/' -%}
+  {% include pattern-newsletter-post.html %}
   {%- endif -%}
   {% unless page.url contains '/newsletter/archive' %}
   {%- include pattern-responses.html -%}
