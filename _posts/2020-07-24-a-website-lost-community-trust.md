@@ -28,4 +28,4 @@ Ravelry, the well-know website among knitters and crocheters, underwent a redesi
 
 I wrote a blog post, detailing what happened and explaining what are the best practices from a UX Design point of view. You’ll also find some useful articles if you’re interested in knowing more. In the meantime, Ravelry didn’t fix the accessibility issues. Moreover, the founders and team closed or made private their social media accounts, and closed the threads about the redesign on the forum: not a good sign of the things to come. It’s up to us, designers and developers, to build accessible websites. It’s up to all of us to call out companies that don’t do it. We are all responsible for making the web accessible, usable and inclusive.
 
-<p class="detached">🔗 <a href="/design/ravelry-rebranding/">Read the blog post</a></p>
+<p>🔗 <a href="/design/ravelry-rebranding/">Read the blog post</a></p>

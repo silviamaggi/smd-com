@@ -86,7 +86,3 @@ While an article shared here use the adjective ’dark' to describe deceptive pa
 <ul class="smd-ul">
   <li><a href="https://amyhupe.co.uk/articles/changing-our-language-on-bad-patterns/">Why it's time to update our language about bad design patterns</a></li>
 </ul>
-
----
-
-{% include pattern-newsletter-post.html %}

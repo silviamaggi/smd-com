@@ -54,7 +54,3 @@ Speaking at this year's [WDC](https://webdevconf.com/events/2022/schedule/) in B
 The national diary archive in Pieve Santo Stefano, Tuscany, holds about 9,000 diaries, letters and memoirs. The archive accepts every Italian text that it receives, regardless of literary merit.
 
 🔗 [Read _Italy’s town of diaries: where ordinary people’s memoirs are salvaged and celebrated_ on The Guardian](https://www.theguardian.com/books/2022/jun/24/italys-town-of-diaries-where-ordinary-peoples-memoirs-are-salvaged-and-celebrated)
-
----
-
-{% include pattern-newsletter-post.html %}

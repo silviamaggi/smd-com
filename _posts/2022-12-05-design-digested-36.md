@@ -57,7 +57,3 @@ What happens when the world’s knowledge is held in a quasi-public square owned
 Apple presents its latest devices features, all centred on accessibility. This amazing and uplifting video shows how people with disabilities can thrive using technology.
 
 {% include pattern-video.html id="8sX9IEHWRJ8" title="The Greatest, Apple" %}
-
----
-
-{% include pattern-newsletter-post.html %}

@@ -70,7 +70,3 @@ During a Swedish lesson on Duolingo, a phrase made me smile. Yes, women do like 
 Why is that? Caroline Criado Perez writes very often about this problem, and names brands that design with the women's real needs in mind.
 
 <p class="detached">🔗 <a href="https://newsletter.carolinecriadoperez.com/issues/invisible-women-confessions-of-a-pocket-addict-807610">Read the newsletter</a> (on Revue)</p>
-
----
-
-{% include pattern-newsletter-post.html %}

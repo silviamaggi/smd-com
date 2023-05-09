@@ -42,7 +42,3 @@ Feminist design discourse has grown the last decades. But when the founders of _
 Advertising art director turned photographer Alan Burles on the influence of French-American photographer Elliott Erwitt and the beauty of getting ‘lost in wonder, love and praise’.
 
 🔗 [Read the picture essay on The Guardian](https://www.theguardian.com/artanddesign/2022/dec/26/a-lighter-side-of-life-picture-essay)
-
----
-
-{% include pattern-newsletter-post.html %}

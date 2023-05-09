@@ -49,7 +49,3 @@ Continuing Silicon Valley’s long and storied history of misreading dystopian s
 The new book “Emergent Tokyo” looks at how the city was shaped not by disorder or grand design, but by the intermingling of small choices that create spontaneous patterns from the bottom up.
 
 🔗 [Read the article](https://www.bloomberg.com/news/articles/2022-07-21/tokyo-s-urban-planning-secrets-revealed-in-new-book) (on Bloomberg)
-
----
-
-{% include pattern-newsletter-post.html %}

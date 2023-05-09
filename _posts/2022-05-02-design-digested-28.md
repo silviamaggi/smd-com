@@ -108,7 +108,3 @@ Exploring the maximum influence of a dystopian character ahead of his time, not 
 
 {: .detached}
 🔗 [Read the article](https://eyeondesign.aiga.org/the-enduring-legacy-of-80s-cult-phenom-max-headroom/) (on AIGA – Eye on Design Magazine)
-
----
-
-{% include pattern-newsletter-post.html %}

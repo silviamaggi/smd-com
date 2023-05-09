@@ -60,7 +60,3 @@ Cambodians are ignoring keyboards, which are not designed for Khmer. They've ada
 <em>Always I rebelled against the limitations imposed by a single lungful of air</em>, he wrote in a 1952 article for National Geographic, his first for the magazine. Read how Jacques Cousteau’s invention of the aqualung opened the undersea realm to scientists and the public.
 
 <p class="detached">🔗 <a href="https://www.nationalgeographic.com/history/article/the-man-who-taught-humans-to-breathe-like-fish">Read the article</a> (on National Geographic)</p>
-
----
-
-{% include pattern-newsletter-post.html %}

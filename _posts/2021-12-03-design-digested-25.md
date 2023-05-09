@@ -66,7 +66,3 @@ Toftan, Ektorp, Voxnan, Hemsjö, Kallax … These are all beautiful places in Sw
 Most of Ikea names categorised and explained by Lars Petrus. 
 
 <p class="detached">🔗 <a href="https://lar5.com/ikea/">Consult the dictionary</a> </p>
-
----
-
-{% include pattern-newsletter-post.html %}

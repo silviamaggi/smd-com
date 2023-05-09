@@ -55,7 +55,3 @@ And helped citizens understand the government's value, through a cleaner, more l
 > Design studio <em>Playfool</em> has created a set of sustainable crayons made entirely from Japanese wood, which was designed to celebrate the unseen colours within a forest's trees.
 
 <p class="detached">🔗 <a href="https://www.dezeen.com/2021/10/14/forest-crayons-vast-spectrum-colours-japanese-wood/">Read the article</a> (on Dezeen)</p>
-
----
-
-{% include pattern-newsletter-post.html %}

@@ -98,7 +98,3 @@ A couple of essential books for anyone into design. *Extra Bold*, written by a d
   <li><a href="https://papress.com/products/extra-bold" title="Read about the book on Princeton Architectural Press">Extra Bold</a> – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers</li>
   <li><a href="https://bookshop.org/books/100-things-every-designer-needs-to-know-about-people-9780136746911/9780136746911" title="Read about the book on Bookshop.org">100 Things Every Designer Needs to Know about People</a> by Susan Weinschenk</li>
 </ul>
-
----
-
-{% include pattern-newsletter-post.html %}

@@ -90,5 +90,4 @@ Servegnini is a respected journalist, whose column, _[Italians](https://italians
 
 <p class="detached">🔗 <a href="https://www.goodreads.com/book/show/1564625.La_testa_degli_italiani">Read the book in Italian</a> or <a href="https://www.goodreads.com/book/show/581712.La_Bella_Figura">in English</a></p>
 
-{: .detached}
 Last updated on 22 March 2022.

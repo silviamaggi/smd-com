@@ -76,9 +76,4 @@ In his series of haunting images, Michał Dyjuk rethinks photography in an attem
 > The landscape too seems to forget human suffering. Struggle as we might against forgetting, generations change, and tragedies are absorbed into everyday existence. Who remembers the turbulence of war of centuries long past? Do death and pain leave no trace?
 
 {: .detached}
-🔗 [Read the essay](https://www.lensculture.com/solo-exhibition/michal-dyjuk-cows-can-smell-the-scent-of-death) (on Lens Culture) 
-
-
----
-
-{% include pattern-newsletter-post.html %}
+🔗 [Read the essay](https://www.lensculture.com/solo-exhibition/michal-dyjuk-cows-can-smell-the-scent-of-death) (on Lens Culture)

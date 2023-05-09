@@ -61,4 +61,4 @@ In his best-selling book [The Design Of Everyday Things](https://www.goodreads.c
 > _Invisible Women_ […] exposes the gender data gap – a gap in our knowledge that is at the root of perpetual, systemic discrimination against women, and that has created a pervasive but invisible bias with a profound effect on women’s lives.
 
 
-<p class="detached">🔗 <a href="https://www.carolinecriadoperez.com/books">Read about the book</a> (on Caroline Criado Perez's website)</p>
+<p>🔗 <a href="https://www.carolinecriadoperez.com/books">Read about the book</a> (on Caroline Criado Perez's website)</p>

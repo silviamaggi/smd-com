@@ -63,10 +63,3 @@ What would social media look like if it served the public interest?
 
 {: .detached}
 🔗 [Read the article](https://www.politico.eu/article/greta-thunberg-climate-change-activism-fridays-for-future-profile-doesnt-want-you-to-talk-about-her-anymore-2022/) (on Politico)
-
-
-
-
----
-
-{% include pattern-newsletter-post.html %}

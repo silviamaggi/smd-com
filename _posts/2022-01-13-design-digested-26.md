@@ -67,7 +67,3 @@ For years, the [three-click](https://en.wikipedia.org/wiki/Three-click_rule) rul
 The Tokyoiter is a tribute to *The New Yorker* traditional cover art and *The Parisianer* to celebrate illustration, cartooning, drawing, design, creativity, and Tokyo.
 
 <p class="detached">🔗 <a href="https://www.thetokyoiter.com/">See the website</a></p>
-
----
-
-{% include pattern-newsletter-post.html %}

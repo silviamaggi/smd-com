@@ -65,9 +65,3 @@ A team of Swedish engineers has finally developed the first dummy, or to use the
 Jessica Wade began writing Wikipedia biographies about women and minority scientists who never got their due — from employers, from other scientists, from the public.
 
 🔗 [Read about Jessica Wade's quest on Today.com](https://www.today.com/parents/jessica-wade-wikipedia-women-scientists-rcna51628)
-
-
-
----
-
-{% include pattern-newsletter-post.html %}

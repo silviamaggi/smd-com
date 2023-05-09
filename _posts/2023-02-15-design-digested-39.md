@@ -53,7 +53,3 @@ Explore the HTTP Archive’s annual state of the web report. In particular, Chap
 A great resource to start recognising microaggression and understand their impact on people. 
 
 🔗 [Browse _The Micropedia_](https://www.themicropedia.org/)
-
----
-
-{% include pattern-newsletter-post.html %}

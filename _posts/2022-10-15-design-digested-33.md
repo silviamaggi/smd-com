@@ -71,7 +71,3 @@ Per Axbom wrote a blog adaptation of a recent 15-minute talk he was asked to do 
 Artist Neil Harbisson was born completely color blind, but these days a device attached to his head turns color into audible frequencies. Instead of seeing a world in grayscale, Harbisson can hear a symphony of color -- and yes, even listen to faces and paintings.
 
 🔗 [Watch the video](https://www.ted.com/talks/neil_harbisson_i_listen_to_color) (on TED)
-
----
-
-{% include pattern-newsletter-post.html %}

@@ -51,7 +51,3 @@ Tiia Aurora explains how the current high contrast standard actively locks out u
 SVG icons extracted from the 30th Anniversary Mac Font. 
 
 🔗 [Check the _Mac 30th anniversary icons_](https://rknightuk.github.io/mac-30-font-svg/)
-
----
-
-{% include pattern-newsletter-post.html %}

@@ -42,7 +42,3 @@ For the past few years, Alex Hollender worked on the Wikipedia redesign that lau
 Handcrafted recipes to get you started with everything UX — user research, design, usability testing, and more.
 
 🔗 [Consult _The UX Cookbook_](https://theuxcookbook.com)
-
----
-
-{% include pattern-newsletter-post.html %}
