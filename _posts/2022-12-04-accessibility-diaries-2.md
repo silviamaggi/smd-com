@@ -1,7 +1,7 @@
 ---
 title: Accessibility diaries – Part 2
 date: '2022-12-04 18:17:45'
-last_modified_at: '2023-01-09 15:17:38'
+last_modified_at: '2023-05-10 11:23:37'
 featured-post: false
 categories:
   - Accessibility
@@ -11,8 +11,8 @@ tags:
   - accessibility
   - work
   - diaries
-description: "To wrap up the third month working as accessibility consultant for Italy’s top bank, I’m sharing a few things I learned."
-excerpt: "To wrap up the third month working as accessibility consultant for Italy’s top bank, I’m sharing a few things I learned."
+description: "To wrap up the second month working as accessibility consultant for Italy’s top bank, I’m sharing a few things I learned."
+excerpt: "To wrap up the second month working as accessibility consultant for Italy’s top bank, I’m sharing a few things I learned."
 ---
 This is the second instalment of a series, [read about the first month](https://silviamaggidesign.com/accessibility/accessibility-diaries-1/).
 
