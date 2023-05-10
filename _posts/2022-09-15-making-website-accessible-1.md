@@ -1,7 +1,7 @@
 ---
 title: Making my website accessible — Part 1
 date: '2022-09-15 13:23:08'
-last_modified_at: '2023-05-10 13:44:01'
+last_modified_at: '2023-05-10 23:54:10'
 featured-post: false
 categories:
   - Accessibility
@@ -26,7 +26,7 @@ This is the first of a series of posts where I explain the changes I’m making 
 
 There used to be three buttons on my website: 
 
-- *Buy me a coffee*, in the sidebar when reading blog posts.
+- *Buy me a coffee*, at the end of blog posts.
 - *Back to Top* in the footer.
 - *Submit* in the newsletter form.
 
@@ -87,3 +87,7 @@ Finding a comfortable line length is important for everyone, especially for peop
 ### Results
 
 I reduced the max-width of the main container to make sure that block of texts are never longer than 80 characters. Also, text is now left aligned, and paragraphs behave normally: there is space before and after.
+
+## Read further
+
+- [Making my website accessible — Part 2](https://silviamaggidesign.com/accessibility/making-website-accessible-2/)
