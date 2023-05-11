@@ -1,7 +1,7 @@
 ---
 title: "Silvia Maggi Design Website"
 date: '2022-03-21'
-last_modified_at: '2023-05-05 21:53:49'
+last_modified_at: '2023-05-11 14:57:38'
 featured-post: false
 categories:
   - Projects
@@ -51,8 +51,8 @@ Building static websites doesn't mean doing everything manually. Liquid uses a c
 Everything that is not a blog post is organised in collections. It's a neat way to group related content and keep it organised. Each item in a collection is iterated on a page that outputs its content.
 Currently, they are:
 
-- [Projects](/projects/){: title="Visit my projects page"}
-- [Newsletter archive](/newsletter/archive/){: title="Visit my newsletter archive page"}
+- [Projects](/work/){: title="Visit my projects page"}
+- [Newsletter archive](/newsletter/){: title="Visit my newsletter archive page"}
 
 ## Design
 We chose [Bootstrap 5](https://getbootstrap.com/){: title= "Visit the Bootstrap 5 website"} to speed up the creation of grids and other features, building my theme on top of it. Using utility-first CSS[^utility-first] helped us decouple stylesheets from markup. Along with a customised inclusion of Bootstrap's SASS source files, it helped keep the final CSS light and efficient.
@@ -114,7 +114,8 @@ Due to the site compact size, it’s member of: [![512kb Blue Team](/assets/imag
 
 ## Further reading
 
-🔗 [How I am making my website accessible](https://silviamaggidesign.com/accessibility/making-website-accessible-1/ "Read the blog post")
+- [How I am making my website accessible — Part 1](https://silviamaggidesign.com/accessibility/making-website-accessible-1/ "Read the blog post")
+- [How I am making my website accessible — Part 2](https://silviamaggidesign.com/accessibility/making-website-accessible-2/ "Read the blog post")
 
 ---
 
