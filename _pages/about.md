@@ -54,6 +54,3 @@ In May 2020, I started *Design, Digested* – the [design inspiration series](/c
 <div class="my-5">
   <p class="text-center">🔗 <a href="https://www.linkedin.com/in/silviamaggi/"><strong>View my profile on LinkedIn</strong>&nbsp;→</a></p>
 </div>
-
-{: .btn-lg .d-inline-block .btn-label-smd .btn-label-smd-bg .fw-bold .smd-font-micro .px-2 .py-1 }
-Updated on: {{ page.last_modified_at | date: "%-d %B %Y" }}

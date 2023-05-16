@@ -34,8 +34,5 @@ After a long hiatus that started just before the pandemic, [I've picked up knitt
 
 Another hobby I’m slowly picking up again is [photography](https://silviamaggidesign.com/category/photography/ "View all posts under the 'photography' category"). Feeling uninspired ever since the pandemic made me sad, because photography is a passion I’ve been cultivating since around the age of 12. I’m planning to create a website to collect and regularly publish my photos. It won’t offer the ability to comment or like, as I’ve lost interest in those after [I’ve left algorithmic social media](https://silviamaggidesign.com/personal/life-off-social-media/ "read what happened when I left social media").
 
-{: .btn-lg .d-inline-block .btn-label-smd .btn-label-smd-bg .fw-bold .smd-font-micro .px-2 .py-1}
-Updated on: {{ page.last_modified_at | date: "%-d %B %Y" }}
-
 ---
 This is my *now page*, where I tell you what I am up to at this point in my life. [You can make one, too](https://nownownow.com/about).

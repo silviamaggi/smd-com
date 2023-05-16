@@ -35,6 +35,9 @@
         </div>
         <div class="col-md-8 pt-4" id="smd-content">
           {{ content }}
+          {% unless page.url == "/" or page.url contains "/search/" or page.url contains "/blog/" or page.url contains "/newsletter/" or page.url contains "/contact/" or page.url contains "/rss/" or page.url contains "/archive/" or page.is_post %}
+          <p class="btn-lg d-inline-block btn-label-smd btn-label-smd-bg fw-bold smd-font-micro px-2 py-1">Updated on: {{ page.last_modified_at | date: "%-d %B %Y" }}</p>
+          {% endunless %}
         </div>
       </div>
     </div>
@@ -42,21 +45,11 @@
   <div class="smd-footer-wrapper container-lg-fluid mt-0 mt-md-5 pb-md-0 pt-3">
     <footer class="container-lg smd-container mt-2 mt-md-4 pb-4 pb-md-3">
       {%- include navigation-secondary.html %}
-      <div class="text-center text-md-start mt-3">
-        {% include navigation-social.html %}
-      </div>
       <div class="d-md-flex flex-nowrap flex-sm-wrap justify-content-md-between py-4">
         <div class="d-md-flex text-center mb-4 mb-md-0"><p class="mb-0 small">&copy; {{ site.time | date: '%Y' }} &ndash; {{ site.title }}</p></div>
         <div class="d-md-flex text-center align-items-md-end mt-5 mb-3 mt-md-0 mb-md-0 text-decoration-none">
           <a class="smd-link px-3 py-2 fw-bold" href="{{ page.url }}#top" title="Go to the top of the page">Back to top&nbsp;<svg width="24" height="24" fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M5.25 3.495h13.498a.75.75 0 0 0 .101-1.493l-.101-.007H5.25a.75.75 0 0 0-.102 1.493l.102.007Zm6.633 18.498L12 22a1 1 0 0 0 .993-.884L13 21V8.41l3.294 3.292a1 1 0 0 0 1.32.083l.094-.083a1 1 0 0 0 .083-1.32l-.083-.094-4.997-4.997a1 1 0 0 0-1.32-.083l-.094.083-5.004 4.996a1 1 0 0 0 1.32 1.499l.094-.083L11 8.415V21a1 1 0 0 0 .883.993Z" fill="currentColor"/></svg></a>
         </div>
-      </div>
-      <div class="d-md-flex text-center mb-4">
-        <p class="mb-0 small">
-          <a href="https://xn--sr8hvo.ws/2%EF%B8%8F%E2%83%A3%F0%9F%8E%B7%E2%9B%8E/previous" target="_blank" title="Previous Indieweb site">←</a>
-          An <strong>IndieWeb Webring</strong> 
-          <a href="https://xn--sr8hvo.ws/2%EF%B8%8F%E2%83%A3%F0%9F%8E%B7%E2%9B%8E/next" target="_blank" title="Next Indieweb site">→</a>
-        </p>
       </div>
     </footer>
   </div>
