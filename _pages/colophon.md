@@ -3,6 +3,7 @@ layout: page
 title: Colophon
 date: '2021-08-13 15:50'
 last_modified_at: '2023-04-08 11:15:23'
+updated_on: true
 description: null
 permalink: /colophon/
 ---

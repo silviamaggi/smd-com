@@ -35,9 +35,9 @@
         </div>
         <div class="col-md-8 pt-4" id="smd-content">
           {{ content }}
-          {% unless page.url == "/" or page.url contains "/search/" or page.url contains "/blog/" or page.url contains "/newsletter/" or page.url contains "/contact/" or page.url contains "/rss/" or page.url contains "/archive/" or page.is_post %}
+          {% if page.updated_on == true %}
           <p class="btn-lg d-inline-block btn-label-smd btn-label-smd-bg fw-bold smd-font-micro px-2 py-1">Updated on: {{ page.last_modified_at | date: "%-d %B %Y" }}</p>
-          {% endunless %}
+          {% endif %}
         </div>
       </div>
     </div>

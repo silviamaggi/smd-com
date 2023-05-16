@@ -3,6 +3,7 @@ layout: page
 title: Now
 date: '2023-02-19'
 last_modified_at: '2023-05-05 22:15:08'
+updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
 ---

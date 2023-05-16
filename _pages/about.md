@@ -4,6 +4,7 @@ title: About
 date: '2020-02-27'
 last_modified_at: '2023-05-05 14:06:41'
 description: "I’m Silvia Maggi (she/her), a designer specialised in building accessible and usable products. Curator of the inspiration series Design, Digested."
+updated_on: true
 permalink: /about/
 ---
 {: .p-summary .lead }
