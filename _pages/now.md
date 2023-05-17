@@ -2,7 +2,7 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-05-17 16:42:50'
+last_modified_at: '2023-05-17 21:12:17'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
@@ -19,7 +19,7 @@ My main goal is to <a href="https://silviamaggidesign.com/notes/note-about-news-
 
 In progress:
 
-- _Girl, Woman, Other_, by Bernardine Evaristo
+- _The Left Hand of Darkness_, by Ursula K. le Guin
 
 Finished:
 
