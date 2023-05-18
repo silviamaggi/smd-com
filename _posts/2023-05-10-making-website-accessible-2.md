@@ -1,13 +1,13 @@
 ---
 title: Making my website accessible — Part 2
 date: '2023-05-10 10:44:24'
-last_modified_at: '2023-05-10 11:36:37'
+last_modified_at: '2023-05-18 18:14:36'
 featured-post: false
 categories:
   - Accessibility
 tags:
-  - WCAG
-  - W3C
+  - wcag
+  - w3c
   - accessibility
 description: "Second post of a series where I explain the steps I’m taking to make my website accessible."
 excerpt: "Second post of a series where I explain the steps I’m taking to make my website accessible."

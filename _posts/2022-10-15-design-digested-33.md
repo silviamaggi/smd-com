@@ -6,7 +6,7 @@ featured-post: false
 categories:
   - Design Digested
 tags:
-  - WCAG
+  - wcag
   - accessibility
   - algorithm
   - carbon footprinting

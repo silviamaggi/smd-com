@@ -8,7 +8,7 @@ categories:
 tags:
   - accessibility
   - design
-  - WCAG
+  - wcag
   - vestibular disorders
   - diaries
 description: "Design, Digested 35 – Why everything looks the same, the limits of contrast checkers, changing perspectives over accessibility and more."

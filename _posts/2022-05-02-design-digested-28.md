@@ -7,7 +7,7 @@ categories:
 tags:
   - disability
   - accessibility
-  - WCAG
+  - wcag
   - design
   - ux
   - the infinite scroll effect 

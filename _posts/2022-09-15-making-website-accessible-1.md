@@ -1,13 +1,13 @@
 ---
 title: Making my website accessible — Part 1
 date: '2022-09-15 13:23:08'
-last_modified_at: '2023-05-10 23:54:10'
+last_modified_at: '2023-05-18 18:14:28'
 featured-post: false
 categories:
   - Accessibility
 tags:
-  - WCAG
-  - W3C
+  - wcag
+  - w3c
   - accessibility
 description: "As I took a closer look to the WCAG 2.1 success criteria, I decided to take a step-by-step approach to make my website entirely compliant. First of a series."
 excerpt: "As I took a closer look to the WCAG 2.1 success criteria, I decided to take a step-by-step approach to make my website entirely compliant. First post of a series."

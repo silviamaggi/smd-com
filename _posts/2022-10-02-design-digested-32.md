@@ -7,7 +7,7 @@ categories:
   - Design Digested
 tags:
   - accessibility
-  - WCAG
+  - wcag
   - racism
   - design
   - tokyo

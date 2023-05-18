@@ -1,13 +1,13 @@
 ---
 title: Accessibility diaries – Part 1
 date: '2022-10-31 18:21:57'
-last_modified_at: '2023-05-10 11:23:44'
+last_modified_at: '2023-05-18 18:12:46'
 featured-post: false
 categories:
   - Accessibility
 tags:
-  - WCAG
-  - W3C
+  - wcag
+  - w3c
   - accessibility
   - work
   - diaries
