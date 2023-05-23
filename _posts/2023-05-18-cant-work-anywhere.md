@@ -1,7 +1,7 @@
 ---
 title: "I can’t work anywhere"
 date: '2023-05-18 16:26:07'
-last_modified_at: '2023-05-23 18:24:05'
+last_modified_at: '2023-05-23 18:25:55'
 featured-post: false
 categories:
   - Personal
@@ -27,5 +27,3 @@ It surely happened to me as I moved back to Italy after living almost 10 years i
 - trying to calm down when the noise is unbearable (most notably, when the neighbours transform their place to a rave party).
 
 It’s possible that the same situation is valid in other countries, and I mostly blame it on the disrespectful use of social media and portable devices. Culture also plays a part, as usual. Something that’s common in a place can be unacceptable in another. And then there’s me and few others, the square pegs in round holes.
-
-At least today I've managed to write this post.
