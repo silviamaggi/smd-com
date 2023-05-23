@@ -1,7 +1,7 @@
 ---
 title: "I can’t work anywhere"
 date: '2023-05-18 16:26:07'
-last_modified_at: '2023-05-23 18:25:55'
+last_modified_at: '2023-05-23 18:52:20'
 featured-post: false
 categories:
   - Personal
@@ -18,12 +18,16 @@ It’s a concept I helped spreading, because it's technically true. I don’t ne
 
 As it happens, quiet is a commodity that is sorely lacking in my life. Italy is a very loud country: very broadly speaking – because of course there are exceptions – people’s conversations are louder, phones are louder, as are TVs and places of work.
 
-This reality is impossible not to notice when spending a certain amount of time abroad living like a local. Immerse yourself in a culture where tranquillity is more appreciated, and it’ll be difficult to adjust to previous customs.
+This reality is impossible not to notice when spending a certain amount of time abroad. Immerse yourself in a culture where tranquillity is more appreciated, and it’ll be difficult to adjust to previous customs.
 
-It surely happened to me as I moved back to Italy after living almost 10 years in the UK — 5 of which in a tranquil neighbourhood in Cambridge. I’ve spent a considerable amount of money and time protecting my hearing and concentration: 
+It surely happened to me as I moved back after living almost 10 years in the UK — 5 of which in a tranquil neighbourhood in Cambridge. I’ve spent a considerable amount of money and time protecting my hearing and concentration: 
 
-- buying expensive noise-cancelling headphones and earplugs,
+- buying noise-cancelling headphones and earplugs,
 - moving from one place to the other,
-- trying to calm down when the noise is unbearable (most notably, when the neighbours transform their place to a rave party).
+- trying to calm down when the noise is unbearable (most notably, when the neighbours unapologetically transform their place to a rave party).
 
 It’s possible that the same situation is valid in other countries, and I mostly blame it on the disrespectful use of social media and portable devices. Culture also plays a part, as usual. Something that’s common in a place can be unacceptable in another. And then there’s me and few others, the square pegs in round holes.
+
+## Read further
+
+- [The Culture Map by Erin Meyer](https://silviamaggidesign.com/books/culture-and-design-books/#culture-map)
