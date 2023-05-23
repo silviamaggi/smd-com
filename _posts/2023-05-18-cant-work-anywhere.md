@@ -14,15 +14,17 @@ excerpt: "The answer to the following question should always be: <em>it depends<
 ---
 > Because of the work you do, you can work from anywhere, right? You simply need a laptop.
 
-It’s a concept I helped spreading, because it's technically true. I don’t necessarily need to physically be in an office to work with my colleagues and stick to deadlines. Yet, there is one thing I need: quiet. 
+It’s a concept I helped spreading, because it's technically true. I don’t necessarily need to be in an office to work with my colleagues and stick to deadlines. Yet, there is one thing I need: quiet. 
 
-As it happens, quiet is a commodity that is lacking in my life. It seems I live in a very loud country: very broadly speaking – because of course there are exceptions – people’s conversations are louder, phones are louder, as are TVs and places of work.
+As it happens, quiet is a commodity that is lacking in my life. I live in a very loud country: broadly speaking – because of course there are exceptions – people’s conversations are louder, phones are louder, as are TVs and places of work.
 
-This reality is impossible not to notice after having spent 5 years in a tranquil neighbourhood in Cambridge. Even the years we lived in London seem less noisy compared to Milan. Mostly because of loud neighbours, I’ve spent a considerable amount of money and time protecting my hearing and concentration: 
+This reality is impossible not to notice, after having spent five years in a tranquil neighbourhood in Cambridge. In retrospective, even London seems less noisy than Milan. Humans get used to their environment, so it is possible that certain sounds (those of car traffic, trains and planes, for example) become so much a part of life that we no longer pay attention to them.
+
+Because of loud neighbours, I’ve spent a considerable amount of money and time protecting my hearing and concentration: 
 
 - buying noise-cancelling headphones and earplugs,
 - moving from one place to the other,
-- trying to calm down when the noise is unbearable (most notably, when the neighbours unapologetically transform their place to a rave party).
+- trying to calm down when the noise is unbearable.
 
 Culture also plays a part, as usual. Something that’s common in a place may be unacceptable in another. Yet, there is growing evidence that cities are becoming noisier, creating health problems to both humans and animals.
 
