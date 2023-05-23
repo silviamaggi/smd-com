@@ -1,7 +1,7 @@
 ---
 title: Postcards from Emilia-Romagna
 date: '2023-05-18 22:09:50'
-last_modified_at: '2023-05-23 18:57:29'
+last_modified_at: '2023-05-23 19:07:08'
 featured-post: false
 categories:
   - Photography
@@ -15,8 +15,8 @@ featuredimage: true
 featimage: 20230504-casalborsetti
 featimage-alt: "Seaside scene at dusk, the last sunlight hits the restaurant at the end of the pier"
 image-caption: true
-description: ""
-excerpt: "While the region has been hardly hit by heavy rain, floods, and landslides, I want to celebrate it with some pictures taken a few days before it all started."
+description: "As the region has been hardly hit by heavy rain, floods, and landslides, I want to celebrate it with some pictures taken a few days before it all started."
+excerpt: "As the region has been hardly hit by heavy rain, floods, and landslides, I want to celebrate it with some pictures taken a few days before it all started. And there are more linked at the end of the post."
 ---
 Ravenna is one of the places I can call home, which it had actually been for a year between 2020 and 2021. Family and friends are here, never short of good humour and laughter.
 
