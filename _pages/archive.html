@@ -2,9 +2,9 @@
 layout: page
 title: Archive
 date: '2021-08-20 13:00'
-last_modified_at: '2023-05-10 09:34:35'
-description: 'Browse the full archive of blog posts by year, categories and tags.'
-excerpt: 'Browse the full archive of <a href="#blog">blog posts by year</a>, <a href="#categories">categories</a> and <a href="#tags">tags</a>.'
+last_modified_at: '2023-05-21 17:47:48'
+description: 'Browse the blog categories and tags.'
+excerpt: 'Browse the blog categories and tags.'
 permalink: /archive/
 ---
 {% comment %}
@@ -20,6 +20,7 @@ permalink: /archive/
 </section>
 {% endcomment %}
 
+{% comment %}
 <section class="h-feed">
   <h2 class="p-name mt-5" id="blog">Blog</h2>
   {% for post in site.posts %}
@@ -45,8 +46,9 @@ permalink: /archive/
 {% endif %}
 {% endif %}
 {% endfor %}
+{% endcomment %}
 
-<h2 class="p-name my-5" id="categories">Blog categories</h2>
+<h2 class="p-name my-5">Categories</h2>
 <ol class="h-feed list-unstyled list-inline">
 {% assign sorted_cats = site.categories | sort %}
 {% for category in sorted_cats %}
@@ -57,7 +59,7 @@ permalink: /archive/
   </li>
 {% endfor %}
 </ol>
-<h2 class="mb-5" id="tags">Blog tags</h2>
+<h2 class="mb-5">Tags</h2>
 <ol class="h-feed list-unstyled list-inline">
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
