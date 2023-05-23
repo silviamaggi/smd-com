@@ -1,7 +1,7 @@
 ---
 title: "I can’t work anywhere"
 date: '2023-05-18 16:26:07'
-last_modified_at: '2023-05-23 18:52:20'
+last_modified_at: '2023-05-24 00:47:34'
 featured-post: false
 categories:
   - Personal
@@ -14,20 +14,22 @@ excerpt: "The answer to the following question should always be: <em>it depends<
 ---
 > Because of the work you do, you can work from anywhere, right? You simply need a laptop.
 
-It’s a concept I helped spreading, because it's technically true. I don’t necessarily need to physically be in an office to work with my colleagues and stick to deadlines. Yet, there is one thing I desperately need: quiet. 
+It’s a concept I helped spreading, because it's technically true. I don’t necessarily need to physically be in an office to work with my colleagues and stick to deadlines. Yet, there is one thing I need: quiet. 
 
-As it happens, quiet is a commodity that is sorely lacking in my life. Italy is a very loud country: very broadly speaking – because of course there are exceptions – people’s conversations are louder, phones are louder, as are TVs and places of work.
+As it happens, quiet is a commodity that is lacking in my life. It seems I live in a very loud country: very broadly speaking – because of course there are exceptions – people’s conversations are louder, phones are louder, as are TVs and places of work.
 
-This reality is impossible not to notice when spending a certain amount of time abroad. Immerse yourself in a culture where tranquillity is more appreciated, and it’ll be difficult to adjust to previous customs.
-
-It surely happened to me as I moved back after living almost 10 years in the UK — 5 of which in a tranquil neighbourhood in Cambridge. I’ve spent a considerable amount of money and time protecting my hearing and concentration: 
+This reality is impossible not to notice after having spent 5 years in a tranquil neighbourhood in Cambridge. Even the years we lived in London seem less noisy compared to Milan. Mostly because of loud neighbours, I’ve spent a considerable amount of money and time protecting my hearing and concentration: 
 
 - buying noise-cancelling headphones and earplugs,
 - moving from one place to the other,
 - trying to calm down when the noise is unbearable (most notably, when the neighbours unapologetically transform their place to a rave party).
 
-It’s possible that the same situation is valid in other countries, and I mostly blame it on the disrespectful use of social media and portable devices. Culture also plays a part, as usual. Something that’s common in a place can be unacceptable in another. And then there’s me and few others, the square pegs in round holes.
+Culture also plays a part, as usual. Something that’s common in a place may be unacceptable in another. Yet, there is growing evidence that cities are becoming noisier, creating health problems to both humans and animals.
 
 ## Read further
 
-- [The Culture Map by Erin Meyer](https://silviamaggidesign.com/books/culture-and-design-books/#culture-map)
+- [Noisy cities map](https://interactive.wearepossible.org/noisycities/#/?city=london&language=en), a project by Possible — Inspiring Climate Action
+- [Noise Pollution](https://education.nationalgeographic.org/resource/noise-pollution/) on National Geographic
+- [Shout it from the rooftops: the noise pollution in towns and cities is killing us](https://www.theguardian.com/commentisfree/2023/apr/10/noise-pollution-britains-towns-cities-killing-us) on The Guardian
+- [Noise pollution is a menace to humanity – and a deadly threat to animals](https://www.theguardian.com/commentisfree/2023/jan/03/noise-pollution-is-a-menace-to-humanity-and-a-deadly-threat-to-animals) on The Guardian
+- Book: [The Culture Map by Erin Meyer](https://silviamaggidesign.com/books/culture-and-design-books/#culture-map)
