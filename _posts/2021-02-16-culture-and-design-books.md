@@ -1,6 +1,6 @@
 ---
 title: Brilliant culture and design books I’m reading
-last_modified_at: '2022-07-19 17:00:06'
+last_modified_at: '2023-05-23 18:47:17'
 featured-post: false
 categories:
   - Books
@@ -28,7 +28,7 @@ featimage-caption-desc: 'Photo by <a href="https://unsplash.com/@drewcoffman">Dr
 ---
 Recently, I managed to finish a few titles I’ve been dragging for months and start a few more. Some of them are ideal if you’re a designer, others are either very interesting or funny — or both — for anyone.
 
-## The Culture Map, by Erin Meyer
+## <a name="culture-map"></a>The Culture Map, by Erin Meyer
 
 {% include pattern-figure.html image="/assets/images/the-culture-map.jpg" alt="The Culture Map by Erin Meyer" width="198" height="300" %}
 
