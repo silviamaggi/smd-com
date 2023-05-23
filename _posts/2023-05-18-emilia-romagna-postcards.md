@@ -1,7 +1,7 @@
 ---
 title: Postcards from Emilia-Romagna
 date: '2023-05-18 22:09:50'
-last_modified_at: '2023-05-18 22:18:54'
+last_modified_at: '2023-05-23 18:57:29'
 featured-post: false
 categories:
   - Photography
@@ -41,6 +41,6 @@ Ravenna is one of the places I can call home, which it had actually been for a y
   caption: The beach in Marina di Ravenna
 {% endresponsive_image_block %}
 
-See other pictures:
+## Other pictures
 
-🔗 [A perfect day](https://silviamaggidesign.com/photography/a-perfect-day/)
+- [A perfect day](https://silviamaggidesign.com/photography/a-perfect-day/)
