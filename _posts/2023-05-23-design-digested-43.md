@@ -1,7 +1,7 @@
 ---
 title: "Design, Digested 43 — Design thinking went wrong, Fitts’ Law, visual frameworks"
 date: '2023-05-23 11:46:57'
-last_modified_at: '2023-05-23 16:16:32'
+last_modified_at: '2023-05-23 16:45:47'
 featured-post: false
 categories:
   - Design Digested
@@ -13,8 +13,8 @@ tags:
   - wise
   - visual frameworks
   - ux podcast
-description: "Design, Digested 43. Design Thinking went wrong, Fitts’ Law, visual frameworks and more."
-excerpt: "On this issue: How Design Thinking went wrong, Fitts’ Law in the touch era, visual frameworks and more."
+description: "Design, Digested 43. Design thinking went wrong, Fitts’ Law, visual frameworks and more."
+excerpt: "On this issue: How Design thinking went wrong, Fitts’ Law in the touch era, visual frameworks and more."
 featuredimage: true
 featimage-alt: ""
 featimage-class: 'u-featured'
