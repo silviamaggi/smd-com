@@ -7,7 +7,16 @@ description: "This is Silvia Maggi’s blog, where she writes about design, tech
 ---
 <p class="p-summary lead">From 2016 onward, posts about design, technology, their effects on our lives, and photography. <a href="/rss/">Read via good old RSS</a>.</p>
 
-{% include pattern-popular-posts.html %}
+<ol class="h-feed list-unstyled list-inline">
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
+{% assign c = category | first %}
+{% assign posts = category | last %}
+  <li class="list-inline-item mb-4 me-4">
+    <a class="btn btn-lg btn-label-smd btn-label-lg-smd btn-label-smd-bg btn-label-smd-link px-4 py-2" href="{{ site.url }}/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
+  </li>
+{% endfor %}
+</ol>
 
 <section class="h-feed">
   {% for post in site.posts %}
