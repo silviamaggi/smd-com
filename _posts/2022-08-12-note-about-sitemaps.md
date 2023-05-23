@@ -7,6 +7,7 @@ categories:
 tags:
   - ux
   - ux podcast
+  - design
 type: note
 image-caption: true
 description: "The other day, I listened to a very interesting episode of UX Podcast about button design and UX sitemaps"

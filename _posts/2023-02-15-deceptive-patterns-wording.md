@@ -1,13 +1,14 @@
 ---
 title: "On ‘deceptive patterns’ and wording"
 date: '2023-02-15 09:59:01'
-last_modified_at: '2023-04-08 23:41:36'
+last_modified_at: '2023-05-23 16:10:38'
 featured-post: false
 categories:
   - Design
 tags:
   - deceptive patterns
   - inclusion
+  - design
 description: "I deleted all occurrences of the adjective ’dark’ when used to describe deceptive patterns on my website, in a bid to be more inclusive and not discriminatory."
 excerpt: "I deleted all occurrences of the adjective ’dark’ when used to describe deceptive patterns on my website, in a bid to be more inclusive and not discriminatory."
 ---

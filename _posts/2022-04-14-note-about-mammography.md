@@ -8,6 +8,7 @@ tags:
   - mammography
   - prevention
   - women health
+  - personal
 type: note
 description: "A note about mammography, pain, and possible new designs to make the examination more comfortable and less painful for people of all ages."
 excerpt: "This morning I went for a mammography. In Italy, the examination is offered for prevention from the age of 40."
