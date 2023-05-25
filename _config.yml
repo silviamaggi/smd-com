@@ -5,7 +5,7 @@ posts_limit: 20
 
 # SEO
 title: Silvia Maggi
-tagline: Web designer
+tagline: Designer
 description: I’m Silvia, an expert in designing for accessibility and usability. Curator of the inspiration series and newsletter ‘Design, Digested’.
 permalink: /:categories/:title/
 keywords:
