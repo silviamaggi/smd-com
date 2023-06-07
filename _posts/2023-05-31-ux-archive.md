@@ -1,11 +1,12 @@
 ---
 title: Good UX, bad UX
 date: '2023-05-31 18:14:08'
-last_modified_at: '2023-05-31 18:41:28'
+last_modified_at: '2023-06-07 18:10:13'
 featured-post: false
 categories:
-  - UX
+  - Projects
 tags:
+  - ux
   - github
   - design
 description: "I’ve created two GitHub repositories to gather good and bad user experiences from both digital and physical interactions."
