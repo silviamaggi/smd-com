@@ -16,15 +16,17 @@ last_modified_at: '2023-05-08 18:12:54'
     </div>
   </section>
 </div>
-<section class="h-feed my-2 pt-4">
-  <h2 class="p-name smd-heads mb-3 mb-md-2">Latest post</h2>
-  {%- assign recentPosts = site.posts -%}
-  <div class="smd-entry">
-    <ul class="list-group list-group-flush ps-0">
-      {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
-      <li class="list-group-item ps-0"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong><p class="smd-font-micro mt-2 mb-2">{{ post.date | date: "%d %B %Y" }}</p></li>
-      {% endfor -%}
-    </ul>
+<section class="h-feed my-2">
+  <div class="special-box rounded my-5 px-4 py-4 smd-bg-l-60">
+    <h2 class="p-name smd-heads mb-3 mb-md-2">Latest post</h2>
+    {%- assign recentPosts = site.posts -%}
+    <div class="smd-entry">
+      <ul class="list-group list-group-flush ps-0 mb-0">
+        {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
+        <li class="list-group-item ps-0"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong><p class="smd-font-micro mt-2 mb-2">{{ post.date | date: "%d %B %Y" }}</p></li>
+        {% endfor -%}
+      </ul>
+    </div>
   </div>
   {% include hcard-page.html %}
 </section>
