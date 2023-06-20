@@ -2,7 +2,7 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-05-17 21:12:17'
+last_modified_at: '2023-06-19 19:22:01'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
@@ -23,6 +23,7 @@ In progress:
 
 Finished:
 
+- _Black Hole_, by Charles Burns
 - _The Deception of Harriet Fleet_, by Helen Scarlett
 - _Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers_, by multiple authors
 - _Hamnet_, by Maggie O’Farrell
