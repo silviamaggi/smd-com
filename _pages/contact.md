@@ -8,8 +8,10 @@ excerpt: 'The best way to contact me is via email. I will get back to you in a f
 permalink: '/contact/'
 ---
 <div class="my-5">
-  <p class="text-center">✒️ <a href="mailto:contacts@silviamaggidesign.com"><strong>Write me an email</strong></a></p>
+  <p class="text-center">✒️ <a href="mailto:contacts@silviamaggidesign.com"><strong>Write me an email</strong></a>.</p>
 </div>
+
+For secure communication, use my [PGP public key](/assets/files/key.pub) (fingerprint `685A 2528 ABAF 965B 2BC7 8435 2F45 1F30 780B 20EF`)
 
 Find me also on:
 
