@@ -2,12 +2,12 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-06-19 19:22:01'
+last_modified_at: '2023-06-22 16:46:47'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
 ---
-I’m currently living in Italy, between Lake Maggiore and Milan. My husband and I are planning to move back to the UK in 2023, where we lived for almost 10 years up until the pandemic.
+I’m temporarily living between Lake Maggiore and Milan. My husband and I are planning to move back to the UK in 2023, where we lived for almost 10 years up until the pandemic.
 
 ## Work
 
@@ -32,7 +32,6 @@ Finished:
 - _Women & Power_ by Mary Beard
 - _The Essex Serpent_ by Sarah Perry
 - _Pigeon English_ by Stephen Kelman
-
 
 ## Hobbies
 
