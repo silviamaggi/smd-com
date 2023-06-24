@@ -17,4 +17,4 @@ Find me also on:
 
 - [LinkedIn](https://www.linkedin.com/in/silviamaggi/)
 - [GitHub](https://github.com/silviamaggi)
-- [Mastodon](https://indieweb.social/@silviamaggi)
+- [Mastodon](https://mastodon.design/@silviamaggi)
