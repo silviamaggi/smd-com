@@ -1,6 +1,6 @@
 ---
 title: 'Life off social media, six months in'
-last_modified_at: '2022-07-19 16:00:08'
+last_modified_at: '2023-07-04 23:30:27'
 featured-post: false
 popular-post: true
 categories:
@@ -54,15 +54,19 @@ Everytime I had something to say or show, I’d post it on some social media alm
 
 **Quitting social media has been a good decision for me**. I’m more focused, less anxious and have more free time. These, plus the various lockdowns, allowed me to reflect and concentrate more on what matters. This decision is not for everyone, but it’s important to realise how much influence social media has on our lives, how much they can change our behaviours and ways of thinking. And then make decisions for ourselves.
 
-## Go deeper
+## Further reading
 
-<ul class="smd-ul">
-<li><a href="https://www.theatlantic.com/ideas/archive/2021/07/twitter-addict-realizes-she-needs-rehab/619343/">You Really Need to Quit Twitter</a> – article on The Atlantic</li>
-<li><a href="https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media">Why you should quit social media</a> TED Talk by Cal Newport</li>
-<li><a href="https://www.humanetech.com/">Center for Humane Technology</a></li>
-<li><a href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads">We’re building a dystopia just to make people click on ads</a> TED Talk by Zeynep Tufekci</li>
-</ul>
+- [You Really Need to Quit Twitter](https://www.theatlantic.com/ideas/archive/2021/07/twitter-addict-realizes-she-needs-rehab/619343/) – article on The Atlantic
+- [Why you should quit social media](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media) TED Talk by Cal Newport
+- [Center for Humane Technology](https://www.humanetech.com/)
+- [We’re building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads) TED Talk by Zeynep Tufekci
 
-## Update
+## Updates
 
-<strong>22 November, 2021</strong>. Two months ago, I logged in on my Instagram account and felt nothing. I saw a friend's video, but <em>didn't feel the need to see the rest of my feed</em>. There was no point in keeping the account inactive, so I set it for deletion. Now it's gone.
+### 22 November, 2021
+
+Two months ago, I logged in on my Instagram account and felt nothing. I saw a friend's video, but <em>didn't feel the need to see the rest of my feed</em>. There was no point in keeping the account inactive, so I set it for deletion. Now it's gone.
+
+### 4 July, 2023
+
+I joined [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(social_network)) in March 2022. I did because it is a different type of social media. One that is not owned by a corporate and where there is no algorithm to crack. It still a social network, so people share news and content about subjects I try to avoid, but Mastodon provides tools to curate the feed.
