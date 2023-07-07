@@ -1,13 +1,13 @@
 ---
 title: A week in London
 date: '2023-07-07 09:58:51'
-last_modified_at: '2023-07-07 11:55:13'
+last_modified_at: '2023-07-07 16:58:46'
 featured-post: false
 categories:
   - Personal
 tags:
   - london
-  - UK
+  - uk
   - photography
 description: "Sensations, emotions, facts and lists from our recent holiday in London."
 excerpt: "Sensations, emotions, facts and lists from our recent holiday in London."
