@@ -1,7 +1,7 @@
 ---
 title: A week in London
 date: '2023-07-07 09:58:51'
-last_modified_at: '2023-07-07 16:58:46'
+last_modified_at: '2023-07-07 17:52:46'
 featured-post: false
 categories:
   - Personal
@@ -9,8 +9,8 @@ tags:
   - london
   - uk
   - photography
-description: "Sensations, emotions, facts and lists from our recent holiday in London."
-excerpt: "Sensations, emotions, facts and lists from our recent holiday in London."
+description: "Feelings, facts and lists from our recent holiday in London."
+excerpt: "Feelings, facts and lists from our recent holiday in London."
 featuredimage: true
 featimage-alt: "The Queen’s House, The Old Royal Navy College and the Canary Wharf skyscrapers from the Royal Observatory viewpoint in Greenwich"
 featimage-class: 'u-featured'
