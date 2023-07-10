@@ -1,7 +1,7 @@
 ---
 title: "Letting go of my Duolingo streak"
 date: '2023-07-08 16:54:35'
-last_modified_at: '2023-07-08 17:25:43'
+last_modified_at: '2023-07-10 20:17:21'
 featured-post: false
 categories:
   - Personal
@@ -27,7 +27,7 @@ I ended up reviewing past lessons more often than starting new ones, because I d
 
 ## Comparison
 
-The following is a visual comparison of the two mobile apps. Babbel also tracks activities, based on the goal that students can set. The count is visible at the top of the page, but I won‘t be receiving any notification about it.
+The following is a visual comparison of the two mobile apps. Babbel also tracks activities, based on the goal that students can set. The count is visible at the top of the page, but I won’t be receiving any notification about it.
 
 I find Duolingo’s user experience choices quite aggressive. They include a red countdown of the hours left until I will lose my streak if I don’t start a lesson.
 
