@@ -2,7 +2,7 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-06-22 16:46:47'
+last_modified_at: '2023-07-10 20:13:16'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
@@ -17,12 +17,9 @@ I’m contracting with an Italian web agency in the role of UX designer for <a h
 
 My main goal is to <a href="https://silviamaggidesign.com/notes/note-about-news-consumption/" title="read a brief note about news consumption">avoid reading the news every day</a>, focusing on the many books I bought.
 
-In progress:
-
-- _The Left Hand of Darkness_, by Ursula K. le Guin
-
 Finished:
 
+- _The Left Hand of Darkness_, by Ursula K. le Guin
 - _Black Hole_, by Charles Burns
 - _The Deception of Harriet Fleet_, by Helen Scarlett
 - _Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers_, by multiple authors
