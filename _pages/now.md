@@ -2,7 +2,7 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-07-10 20:13:16'
+last_modified_at: '2023-07-11 11:15:59'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
@@ -16,6 +16,10 @@ I’m contracting with an Italian web agency in the role of UX designer for <a h
 ## Reading
 
 My main goal is to <a href="https://silviamaggidesign.com/notes/note-about-news-consumption/" title="read a brief note about news consumption">avoid reading the news every day</a>, focusing on the many books I bought.
+
+In progress:
+
+- _Do Androids Dream of Electric Sheep?_, by Philip K. Dick
 
 Finished:
 
