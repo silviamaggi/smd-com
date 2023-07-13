@@ -1,7 +1,7 @@
 ---
 title: "My temporary disability and how I coped with it"
 date: '2023-07-13 12:38:14'
-last_modified_at: '2023-07-13 12:38:41'
+last_modified_at: '2023-07-13 13:09:08'
 featured-post: false
 categories:
   - Accessibility
@@ -78,7 +78,7 @@ That’s when being able to use the mouse with the right hand helped. I would sw
 
 ## Not so simple
 
-At least once a day, Siri would freeze and Voice Control stopped working too. So I had to restart the computer. I can’t count the times Voice Control misinterpreted me, both in English and in Italian. My solution often was to use the mouse to delete the incorrect text and start over. Something that not everyone can do.
+At least once a day, Siri would freeze and Voice Control would stop working too. So I had to restart the computer. I can’t count the times Voice Control misinterpreted me, both in English and in Italian. My solution often was to use the mouse to delete the incorrect text and start over. Something that not everyone can do.
 
 Another challenge is making Voice Control work in your enviroment. Even in my case, working from home in a relatively quite house, there have been a few fun and annoying situations. Leave the microphone active, with the cursor on text, and you’ll find everything you said written down. This is also annoying because then you’ll have to delete the text.
 
