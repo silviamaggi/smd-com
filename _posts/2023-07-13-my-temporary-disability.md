@@ -1,7 +1,7 @@
 ---
 title: "My temporary disability and how I coped with it"
 date: '2023-07-13 12:38:14'
-last_modified_at: '2023-07-13 13:09:08'
+last_modified_at: '2023-07-13 14:18:19'
 featured-post: false
 categories:
   - Accessibility
@@ -82,7 +82,7 @@ At least once a day, Siri would freeze and Voice Control would stop working too.
 
 Another challenge is making Voice Control work in your enviroment. Even in my case, working from home in a relatively quite house, there have been a few fun and annoying situations. Leave the microphone active, with the cursor on text, and you’ll find everything you said written down. This is also annoying because then you’ll have to delete the text.
 
-Speak in Italian while the English language was selected – and vice versa – and you’ll have something fun to show your friends. Unless you’re working, then the restaring and deleting can become cumbersome.
+Speak in Italian while the English language was selected – and vice versa – and you’ll have something fun to show your friends. Unless you’re working, then the restarting and deleting can become cumbersome.
 
 ## Temporary abled
 
@@ -92,7 +92,7 @@ If you happen to work on digital products, **make them accessibile**! There are 
 
 ## Rest, finally
 
-During the sixth week, I was finally able to take a holiday and rest properly. All I did was reading on my Kobo, and texting a few friends. I wish I did it sooner: it’s exctactly what the doctor prescribed, with good reason.
+During the sixth week, I was finally able to take a holiday and rest properly. All I did was reading on my Kobo, and texting a few friends. I wish I did it sooner: it’s exactly what the doctor prescribed, with good reason.
 
 ## Further reads
 
