@@ -2,7 +2,7 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-07-14 23:29:00'
+last_modified_at: '2023-07-19 10:37:21'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
@@ -19,11 +19,11 @@ My main goal is to <a href="https://silviamaggidesign.com/notes/note-about-news-
 
 In progress:
 
-- _Do Androids Dream of Electric Sheep?_, by Philip K. Dick
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 
 Finished:
 
+- _Do Androids Dream of Electric Sheep?_, by Philip K. Dick
 - _The Left Hand of Darkness_, by Ursula K. le Guin
 - _Black Hole_, by Charles Burns
 - _The Deception of Harriet Fleet_, by Helen Scarlett
