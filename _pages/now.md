@@ -11,11 +11,11 @@ I’m temporarily living between Lake Maggiore and Milan. My husband and I are p
 
 ## Work
 
-I’m contracting with an Italian web agency in the role of UX designer for <a href="https://www.bper.it/">BPER Bank</a>. Work is mostly remote. I am specialising in [digital accessibility](https://silviamaggidesign.com/category/accessibility/ "View posts under the 'accessibility' category"), having trained in-house and recently helped UniCredit Bank comply with the WCAG 2.1 (AA) rules. The plan is to complete <a href="https://www.edx.org/course/web-accessibility-introduction">the course <em>Introduction to Accessibility</em> on edX</a> and get the official certification.
+I’m contracting with an Italian web agency in the role of UX designer for <a href="https://www.webuildgroup.com/en/">Webuild</a>. Work is mostly remote. I am specialising in [digital accessibility](https://silviamaggidesign.com/category/accessibility/ "View posts under the 'accessibility' category"), having trained in-house and recently helped UniCredit Bank comply with the WCAG 2.1 (AA) rules. The plan is to complete <a href="https://www.edx.org/course/web-accessibility-introduction">the course <em>Introduction to Accessibility</em> on edX</a> and get the official certification.
 
 ## Reading
 
-My main goal is to <a href="https://silviamaggidesign.com/notes/note-about-news-consumption/" title="read a brief note about news consumption">avoid reading the news every day</a>, focusing on the many books I bought.
+My main goal is to <a href="https://silviamaggidesign.com/tag/news/" title="read my posts about news consumption">avoid reading the news every day</a>, focusing on the many books I bought. The record started at the beginning of 2023.
 
 In progress:
 
