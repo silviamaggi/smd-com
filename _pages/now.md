@@ -2,7 +2,7 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-07-19 10:37:21'
+last_modified_at: '2023-07-20 10:56:43'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
@@ -19,6 +19,7 @@ My main goal is to <a href="https://silviamaggidesign.com/notes/note-about-news-
 
 In progress:
 
+- _Flashforward_, by Robert J. Sawyer
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 
 Finished:
