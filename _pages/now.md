@@ -25,7 +25,7 @@ In progress:
 Finished:
 
 - _Do Androids Dream of Electric Sheep?_, by Philip K. Dick
-- _The Left Hand of Darkness_, by Ursula K. le Guin
+- _The Left Hand of Darkness_, by Ursula K. Le Guin
 - _Black Hole_, by Charles Burns
 - _The Deception of Harriet Fleet_, by Helen Scarlett
 - _Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers_, by multiple authors
