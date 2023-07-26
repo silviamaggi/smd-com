@@ -2,7 +2,7 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-07-20 10:56:43'
+last_modified_at: '2023-07-26 17:06:52'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
@@ -19,11 +19,11 @@ My main goal is to <a href="https://silviamaggidesign.com/tag/news/" title="read
 
 In progress:
 
-- _Flashforward_, by Robert J. Sawyer
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 
 Finished:
 
+- _Flashforward_, by Robert J. Sawyer
 - _Do Androids Dream of Electric Sheep?_, by Philip K. Dick
 - _The Left Hand of Darkness_, by Ursula K. Le Guin
 - _Black Hole_, by Charles Burns
