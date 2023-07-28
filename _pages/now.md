@@ -2,7 +2,7 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-07-26 17:06:52'
+last_modified_at: '2023-07-28 14:37:35'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
@@ -19,6 +19,7 @@ My main goal is to <a href="https://silviamaggidesign.com/tag/news/" title="read
 
 In progress:
 
+- _High Fidelity_, by Nick Hornby
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 
 Finished:
