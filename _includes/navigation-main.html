@@ -2,7 +2,7 @@
   <ul>
     {% for item in site.data.nav-main -%}
     <li class="nav-item">
-      <a class="{% if page.url contains item.link %} smd-current{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
+      <a {% if page.url contains item.link %} class="smd-current"{% endif %} href="{{ item.link }}">{{ item.name }}</a>
     </li>
     {% endfor -%}
   </ul>
