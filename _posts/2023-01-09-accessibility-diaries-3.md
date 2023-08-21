@@ -1,7 +1,7 @@
 ---
 title: Accessibility diaries – Part 3
 date: '2023-01-09 15:18:12'
-last_modified_at: '2023-05-18 18:13:00'
+last_modified_at: '2023-08-21 20:39:00'
 featured-post: false
 categories:
   - Accessibility
@@ -18,9 +18,7 @@ This is the second instalment of a series, [read about the second month](https:/
 ## Background
 The [_Stanca Law_ or _Disability Law_ (9 January 2004, n. 4)](https://www.agid.gov.it/it/design-servizi/accessibilita "read the law text: beware, it's in Italian") has been updated. It now applies to all public companies offering services through websites or mobile applications and have had an average turnover of 500 million euros in the past three years. The law, which scope was previously limited to public administration websites only, makes it compulsory for companies to comply with the [WCAG 2.1 (Level AA) guidelines](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=133%2C332%2C333&currentsidebar=%23col_overview&levels=aaa#principle1). In case of failure, the fine is up to 5% of the turnover.
 
-## Things I learned
-
-### Not just a checklist
+## Not just a checklist
 
 Despite the previous request to analyse the issues through the lens of the WCAG rules, instead of the usability lens, many design remediations fixed the latter. It confirms that accessibility is not merely about a checklist and how many items we get to cross off. Good usability and user experience play a big part in how accessible a digital product is.
 
@@ -47,6 +45,6 @@ While there will be more to come on my blog, it’s a wrap on the *Accessibility
 ---
 ## Read further
 
-- [Accessibility diaries – Part 1](https://silviamaggidesign.com/accessibility/accessibility-diaries-1/)
-- [Accessibility diaries – Part 2](https://silviamaggidesign.com/accessibility/accessibility-diaries-2/)
+- [Accessibility diaries – Part 1]({{ site.url }}/accessibility/accessibility-diaries-1/)
+- [Accessibility diaries – Part 2]({{ site.url }}/accessibility/accessibility-diaries-2/)
 - Accessibility diaries – Part 3

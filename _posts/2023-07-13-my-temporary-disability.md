@@ -1,7 +1,7 @@
 ---
 title: "My temporary disability and how I coped with it"
 date: '2023-07-13 12:38:14'
-last_modified_at: '2023-07-13 14:18:19'
+last_modified_at: '2023-08-21 20:36:47'
 featured-post: false
 categories:
   - Accessibility
@@ -28,13 +28,9 @@ Remember what the doctor said? _Complete rest_. So, I worked. I was consulting r
 
 ## How I managed
 
-### My everyday life
-
 Luckily, I had every possible help from my husband and my parents. I used the left hand and arm as little as possible, and had to learn how to use fork and spoon with my right hand. I suspect watching me eating felt like watching Bambi taking his first steps.
 
-### My work
-
-Taking time off was not an option, so I set up macOS’ Voice Control. I was advantaged because I normally use the mouse with the right hand, a plus that helped me greatly for reasons I’m going to explain.
+Taking time off work was not an option, so I set up macOS’ Voice Control. I was advantaged because I normally use the mouse with the right hand, a plus that helped me greatly for reasons I’m going to explain.
 
 ## The setup
 

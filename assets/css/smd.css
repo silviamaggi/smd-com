@@ -36,7 +36,7 @@
   --bs-font-serif: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
   --bs-font-headings: Avenir, 'Avenir Next LT Pro', Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
   --bs-font-monospace: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
-  --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0))
+  --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
 }
 *,
 ::after,
@@ -258,8 +258,8 @@ h3,
 h4 {
   margin-top: 0;
   margin-bottom: 1.7rem;
-  font-family: var(--bs-font-serif);
-  font-weight: 900;
+  font-family: var(--bs-font-headings);
+  font-weight: 700;
   line-height: 1.2
 }
 .h1,
@@ -269,7 +269,7 @@ h1 {
 @media (min-width:1200px) {
   .h1,
   h1 {
-    font-size: 3rem
+    font-size: 2.1rem
   }
 }
 .h2,
@@ -279,7 +279,7 @@ h2 {
 @media (min-width:1200px) {
   .h2,
   h2 {
-    font-size: 2.4rem
+    font-size: 1.8rem
   }
 }
 .h3,
@@ -1716,12 +1716,12 @@ main {
 }
 .smd-right-arrow::after {
   display: inline-block;
-  content: "›";
+  content: "→";
   padding-left: 2px
 }
 .smd-left-arrow::before {
   display: inline-block;
-  content: "‹";
+  content: "←";
   padding-right: 2px
 }
 footer nav a {
@@ -1806,14 +1806,14 @@ cite {
 .previous-next-post-links a {
   line-height: 1.3;
   font-size: 1.2rem;
-  font-weight: 900 !important;
+  font-weight: bold;
 }
 .smd-entry ol li,
 .smd-entry ul li,
 .smd-entry-fs,
 .smd-ul li,
 p {
-  font-size: calc(1.25625rem + .075vw)
+  font-size: calc(1.45rem + .075vw)
 }
 .smd-entry .h2,
 .smd-entry .h3,
@@ -1833,7 +1833,7 @@ p {
   line-height: 1.4
 }
 .smd-entry p.lead {
-  font-size: 150% !important;
+  font-size: 155% !important;
   font-weight: 400;
   line-height: 1.4;
   text-align: left!important;
@@ -2072,9 +2072,7 @@ hr:not([size]) {
   margin-bottom: 0;
   font-weight: 700
 }
-.h1,
-.smd-mask-texture,
-h1 {
+.smd-mask-texture {
   -webkit-mask-image: url("/assets/images/heading-texture.png");
   mask-image: url("/assets/images/heading-texture.png")
 }
