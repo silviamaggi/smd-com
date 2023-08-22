@@ -1832,14 +1832,14 @@ p {
   margin-bottom: 1rem;
   line-height: 1.4
 }
-.smd-entry p.lead {
+/*.smd-entry p.lead {
   font-size: 155% !important;
   font-weight: 400;
   line-height: 1.4;
   text-align: left!important;
   text-indent: 0;
   margin-bottom: 2rem 0 !important
-}
+}*/
 @media (min-width:1400px) {
   .smd-entry p {
     line-height: 1.5
