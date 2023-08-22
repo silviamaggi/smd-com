@@ -7,7 +7,7 @@ categories:
   - Design Digested
 tags:
   - accessibility
-  - videogames
+  - video games
   - prototyping
   - iteration
   - design

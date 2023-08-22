@@ -9,7 +9,7 @@ tags:
   - misogyny
   - anti-racism
   - empathy
-  - videogames
+  - video games
   - ux
   - don norman
   - shigeru miyamoto

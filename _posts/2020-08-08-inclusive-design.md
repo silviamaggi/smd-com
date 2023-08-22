@@ -15,7 +15,7 @@ tags:
   - racism
   - twitter
   - ux
-  - videogames
+  - video games
   - minutes to midnight
   - music
 description: 'Design inspiration series. Inclusive design, problematic social media facts, and a great music project.'
