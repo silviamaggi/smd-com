@@ -2,40 +2,20 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-08-14 18:06:15'
+last_modified_at: '2023-09-11 13:05:30'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
 ---
-I’m temporarily living between Lake Maggiore and Milan. My husband and I are planning to move back to the UK in 2023, where we lived for almost 10 years up until the pandemic.
+I’m temporarily living between in the north of Italy. My husband and I are planning to move back to the UK, where we lived for almost 10 years.
 
 ## Work
 
-I’m contracting with an Italian web agency in the role of UX designer for <a href="https://www.webuildgroup.com/en/">Webuild</a>. Work is mostly remote. I am specialising in [digital accessibility](https://silviamaggidesign.com/category/accessibility/ "View posts under the 'accessibility' category"), having trained in-house and recently helped UniCredit Bank comply with the WCAG 2.1 (AA) rules. The plan is to complete <a href="https://www.edx.org/course/web-accessibility-introduction">the course <em>Introduction to Accessibility</em> on edX</a> and get the official certification.
+I’m contracting with an Italian web agency in the role of UX designer. I am specialising in [digital accessibility](https://silviamaggidesign.com/category/accessibility/ "View posts under the 'accessibility' category"). The plan is to complete <a href="https://www.edx.org/course/web-accessibility-introduction">the course <em>Introduction to Accessibility</em> on edX</a>.
 
 ## Reading
 
-My main goal is to <a href="https://silviamaggidesign.com/tag/news/" title="read my posts about news consumption">avoid reading the news every day</a>, focusing on the many books I bought. The record started at the beginning of 2023.
-
-In progress:
-
-- _Ariadne_, by Jennifer Saint
-- _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
-
-Finished:
-
-- _Flashforward_, by Robert J. Sawyer
-- _Do Androids Dream of Electric Sheep?_, by Philip K. Dick
-- _The Left Hand of Darkness_, by Ursula K. Le Guin
-- _Black Hole_, by Charles Burns
-- _The Deception of Harriet Fleet_, by Helen Scarlett
-- _Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers_, by multiple authors
-- _Hamnet_, by Maggie O’Farrell
-- _Stories of Your Life and Others_, by Ted Chiang
-- _The Norkfolk Mystery_ by Ian Samson
-- _Women & Power_ by Mary Beard
-- _The Essex Serpent_ by Sarah Perry
-- _Pigeon English_ by Stephen Kelman
+My main goal is to <a href="https://silviamaggidesign.com/tag/news/" title="read my posts about news consumption">avoid reading the news every day</a>, focusing on the many books I bought. <a href="https://silviamaggidesign.com/books/books-im-reading/">See my reading list</a>.
 
 ## Hobbies
 
