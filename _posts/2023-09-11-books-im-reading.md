@@ -1,7 +1,7 @@
 ---
 title: "Books I‘m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2023-09-11 12:55:30'
+last_modified_at: '2023-09-12 09:56:03'
 featured-post: false
 categories:
   - Books
@@ -17,12 +17,12 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 
 ## In progress
 
-- _Ariadne_, by Jennifer Saint
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 - _Ultra-Processed People_, by Chris van Tulleken
 
 ## Finished
 
+- _Ariadne_, by Jennifer Saint
 - _Flashforward_, by Robert J. Sawyer
 - _Do Androids Dream of Electric Sheep?_, by Philip K. Dick
 - _The Left Hand of Darkness_, by Ursula K. Le Guin
