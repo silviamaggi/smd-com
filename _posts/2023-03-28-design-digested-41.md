@@ -1,7 +1,7 @@
 ---
 title: "Design, Digested 41 — Big Tech’s big downgrade, UX office politics, and more"
 date: '2023-03-28 17:42:07'
-last_modified_at: '2023-04-08 17:34:33'
+last_modified_at: '2023-09-12 17:09:35'
 featured-post: false
 categories:
   - Design Digested
@@ -35,7 +35,7 @@ A very helpful and well explained 6-point guide on how to get your designs appro
 
 For the past few years, Alex Hollender worked on the Wikipedia redesign that launched on January. Here are his notes on the project, and how design decisions get approval. 
 
-🔗 [Check the article _Design notes on the 2023 Wikipedia redesign_ on Alex Hollender’s website](https://alexhollender.com/wikipedia-2023-redesign)
+🔗 [Check the article _Design notes on the 2023 Wikipedia redesign_ on Alex Hollender’s website](https://alexhollender.info/wikipedia-2023-redesign)
 
 ## The UX Cookbook
 

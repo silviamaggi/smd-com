@@ -1,7 +1,7 @@
 ---
 title: "Silvia Maggi Design Website"
 date: '2022-03-21'
-last_modified_at: '2023-05-11 14:57:38'
+last_modified_at: '2023-09-12 17:18:01'
 featured-post: false
 categories:
   - Projects
@@ -80,7 +80,7 @@ Over the years, I published many pictures on social networks and  previous blogs
 
 Whereas I previously didn't invest much time thinking about images before publishing, now I have **workflows to make sure they're optimised** and within specific dimensions. Jekyll's responsive images plugin automatically generates different versions of the photos I include, based on the viewport of multiple devices. Despite the amount of pictures published, the website performance is stellar, both on mobile and desktop.
 
-Simone created an [image gallery carousel in pure HTML and CSS](https://minutestomidnight.co.uk/work/web-design/responsive-photogallery-carousel/){: title="Read Simone's case study"}, featuring intuitive controls for mobile devices, along with responsive images. The gallery is now a module ready to be implemented.
+Simone created an [image gallery carousel in pure HTML and CSS](https://simonesilvestroni.com/project-responsive-photogallery-carousel/){: title="Read Simone's case study"}, featuring intuitive controls for mobile devices, along with responsive images. The gallery is now a module ready to be implemented.
 
 ## Search
 

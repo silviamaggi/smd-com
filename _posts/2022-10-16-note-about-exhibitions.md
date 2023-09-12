@@ -1,7 +1,7 @@
 ---
 title: About exhibitions
 date: '2022-10-16 18:39:53'
-last_modified_at: '2022-10-17 20:44:46'
+last_modified_at: '2023-09-12 17:07:13'
 featured-post: false
 categories:
   - Notes
@@ -20,5 +20,5 @@ Inevitably, I thought about the last time I saw a photography exhibition. It was
 
 ## Links
 
-- [Elliott Erwitt “100 Fotografie”](https://milanoartguide.com/calendar/elliott-erwitt-100-fotografie/ "Read more on Milano Art Guide")
+- [Elliott Erwitt “100 Fotografie”](https://web.archive.org/web/20221001115952/https://milanoartguide.com/calendar/elliott-erwitt-100-fotografie/ "Read more on Milano Art Guide")
 - [The Radical Eye exhibition](https://www.theguardian.com/artanddesign/2016/nov/08/radical-eye-modernist-photographs-elton-john-private-collection-exhibition-tate-modern "Read about it on The Guardian")
