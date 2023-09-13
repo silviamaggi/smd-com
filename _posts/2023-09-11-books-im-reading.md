@@ -1,7 +1,7 @@
 ---
 title: "Books I‘m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2023-09-12 09:56:03'
+last_modified_at: '2023-09-13 10:04:06'
 featured-post: false
 categories:
   - Books
@@ -17,8 +17,10 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 
 ## In progress
 
+- _The Expats_, by Chris Pavone
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 - _Ultra-Processed People_, by Chris van Tulleken
+- _Children of the New World_, by Alexander Weinstein[^AfterYang]
 
 ## Finished
 
@@ -35,3 +37,7 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 - _Women & Power_ by Mary Beard
 - _The Essex Serpent_ by Sarah Perry
 - _Pigeon English_ by Stephen Kelman
+
+## Notes
+
+[^AfterYang]: Contains the short story _Saying Goodbye to Yang_, the only one I read so far, on which the beautiful film _After Yang_ is based on.
