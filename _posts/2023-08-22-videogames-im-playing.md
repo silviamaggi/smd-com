@@ -1,7 +1,7 @@
 ---
 title: "Video games I‘m playing"
 date: '2023-08-22 16:42:59'
-last_modified_at: '2023-08-22 21:19:16'
+last_modified_at: '2023-09-18 15:34:46'
 featured-post: false
 categories:
   - Personal
@@ -31,12 +31,28 @@ A goose wreaks havoc in a British-looking village and gets rewarded for its nast
 **[A Short Hike](https://en.wikipedia.org/wiki/A_Short_Hike)**  
 Claire, a little blue bird, is on holiday with her aunt on an island. She needs to get to the top of a high mountain to be able to receive an important phone call. It’s easy to forget about it though, as you get lost exploring the pixellated island and talk to its inhabitants.
 
+**[Papers, Please](https://en.wikipedia.org/wiki/Papers,_Please)**  
+A border-crossing immigration officer in the fictional dystopian country Arstotzka is faced with many challenges. He needs to check the documents validity against ever-changing rules, while trying to balance his finances and navigate through moral dilemmas.
+
+## iPad
+When I feel the need to wind down, I play [Monument Valley 1](https://en.wikipedia.org/wiki/Monument_Valley_(video_game)) and [Monument Valley 2](https://en.wikipedia.org/wiki/Monument_Valley_2) on my iPad. As I manage to forget the solution to some of the levels, it’s still challenging and much enjoyable.
+
+## Game Boy Advance
+I went through my memories box and found my Game Boy Advance from 2001. So I’m occasionally playing **[Kuru Kuru Kururin](https://en.wikipedia.org/wiki/Kuru_Kuru_Kururin) (Japanese edition)**, **Super Mario** and **Rayman** again. What a great find!
+
+{% responsive_image_block %}
+  path: assets/images/gameboy-advance-games.jpg
+  alt: White Game Boy Advance handheld device by Nintendo on a table with three game cartridges
+  caption-true: {{ page.image-caption }}
+  caption: 
+{% endresponsive_image_block %}
+
+
 ## Looking forward to
 
 - [Seasalt Chronicles](https://www.saltseachronicles.com/) – out this year
 - [Stray](https://stray.game/) – in development for macOS
 - [Baby Steps](https://www.babystepsgame.com/) – out in 2024
-- [Papers, Please](https://en.wikipedia.org/wiki/Papers,_Please) – bought
 
 ## Further reads
 
