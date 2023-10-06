@@ -1,7 +1,7 @@
 ---
 title: "Books I‘m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2023-09-13 10:04:06'
+last_modified_at: '2023-10-06 10:12:32'
 featured-post: false
 categories:
   - Books
@@ -17,13 +17,13 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 
 ## In progress
 
-- _The Expats_, by Chris Pavone
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 - _Ultra-Processed People_, by Chris van Tulleken
 - _Children of the New World_, by Alexander Weinstein[^AfterYang]
 
 ## Finished
 
+- _The Expats_, by Chris Pavone
 - _Ariadne_, by Jennifer Saint
 - _Flashforward_, by Robert J. Sawyer
 - _Do Androids Dream of Electric Sheep?_, by Philip K. Dick
