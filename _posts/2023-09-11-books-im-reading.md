@@ -33,7 +33,7 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 - _Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers_, by multiple authors
 - _Hamnet_, by Maggie O’Farrell
 - _Stories of Your Life and Others_, by Ted Chiang
-- _The Norkfolk Mystery_ by Ian Samson
+- _The Norfolk Mystery_ by Ian Samson
 - _Women & Power_ by Mary Beard
 - _The Essex Serpent_ by Sarah Perry
 - _Pigeon English_ by Stephen Kelman
