@@ -2,16 +2,16 @@
 layout: page
 title: Now
 date: '2023-02-19'
-last_modified_at: '2023-09-11 13:05:30'
+last_modified_at: '2023-11-01 13:07:41'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
 ---
-I’m temporarily living between in the north of Italy. My husband and I are planning to move back to the UK, where we lived for almost 10 years.
+A few days ago, my husband and I moved back to the UK. More on this soon, when the house will start looking like a home.
 
 ## Work
 
-I’m contracting with an Italian web agency in the role of UX designer. I am specialising in [digital accessibility](https://silviamaggidesign.com/category/accessibility/ "View posts under the 'accessibility' category"). The plan is to complete <a href="https://www.edx.org/course/web-accessibility-introduction">the course <em>Introduction to Accessibility</em> on edX</a>.
+I am specialising in [digital accessibility](https://silviamaggidesign.com/category/accessibility/ "View posts under the 'accessibility' category"). The plan is to complete <a href="https://www.edx.org/course/web-accessibility-introduction">the course <em>Introduction to Accessibility</em> on edX</a>.
 
 ## Reading
 
