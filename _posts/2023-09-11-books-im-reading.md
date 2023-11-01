@@ -1,7 +1,7 @@
 ---
 title: "Books I‘m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2023-10-06 10:12:32'
+last_modified_at: '2023-11-01 16:45:20'
 featured-post: false
 categories:
   - Books
@@ -17,6 +17,7 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 
 ## In progress
 
+- _A Brief History of Time_, by Stephen Hawking
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 - _Ultra-Processed People_, by Chris van Tulleken
 - _Children of the New World_, by Alexander Weinstein[^AfterYang]
