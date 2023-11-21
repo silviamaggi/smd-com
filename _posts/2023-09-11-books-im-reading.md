@@ -1,7 +1,7 @@
 ---
 title: "Books I‘m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2023-11-01 16:45:20'
+last_modified_at: '2023-11-21 15:41:05'
 featured-post: false
 categories:
   - Books
@@ -24,6 +24,7 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 
 ## Finished
 
+- _Exhalation_, by Ted Chiang
 - _The Expats_, by Chris Pavone
 - _Ariadne_, by Jennifer Saint
 - _Flashforward_, by Robert J. Sawyer
