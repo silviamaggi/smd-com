@@ -1,7 +1,7 @@
 ---
 title: "Books I‘m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2023-11-21 15:41:05'
+last_modified_at: '2023-11-22 11:28:21'
 featured-post: false
 categories:
   - Books
@@ -18,13 +18,14 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 ## In progress
 
 - _A Brief History of Time_, by Stephen Hawking
+- _To the Lighthouse_, Virginia Woolf
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
-- _Ultra-Processed People_, by Chris van Tulleken
+- _Ultra-Processed People_, by Chris van Tulleken [^UltraP]
 - _Children of the New World_, by Alexander Weinstein[^AfterYang]
 
 ## Finished
 
-- _Exhalation_, by Ted Chiang
+- _Exhalation_, by Ted Chiang[^TedChiang]
 - _The Expats_, by Chris Pavone
 - _Ariadne_, by Jennifer Saint
 - _Flashforward_, by Robert J. Sawyer
@@ -42,4 +43,6 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 
 ## Notes
 
+[^UltraP]: Going very slowly with this, as it requires a state of mind I’m not always in.
 [^AfterYang]: Contains the short story _Saying Goodbye to Yang_, the only one I read so far, on which the beautiful film _After Yang_ is based on.
+[^TedChiang]: A few stories included in this collection were already present in _Stories of Your Life and Others_, so this was a faster read.
