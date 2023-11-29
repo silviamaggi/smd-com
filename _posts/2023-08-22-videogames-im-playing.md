@@ -12,6 +12,7 @@ tags:
 description: "I tell you about the games I’m currently playing and why I like them."
 excerpt: "Summer 2020. During the first lockdown I was offered a temporary subscription to Apple Arcade because I had bought an iPad months before. That’s how I started playing video games again."
 image-caption: true
+updated_on: true
 ---
 Eventually, I hadn't kept the subscription and opened a Steam account instead. Yet, it wasn’t until this Summer that I truly invested time and effort in playing. Last time this happened, I was in my early 20s, playing _The Legend of Zelda: Ocarina of Time_ on a borrowed Nintendo 64. Some time later, I even worked as a texture artist for a studio based in Milan that was developing a platformer video game. Once the experience ended, I rarely played again. There are multiple reasons why it happened, but one is _peer pressure_.
 

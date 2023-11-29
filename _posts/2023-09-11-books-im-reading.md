@@ -12,6 +12,7 @@ tags:
 description: "A post where I track the progress of my reading activity since the beginning of 2023."
 excerpt: "A list of the books I read and am currently reading."
 image-caption: true
+updated_on: true
 ---
 My main reading goal is [to avoid the daily and live news](https://silviamaggidesign.com/tag/news/), focusing instead on the many books I bought. I’ve been trying to go through my library with varying results, mainly disappointing, until the beginning of this year. Here is a list of what I read and what I’m reading now. The record started at the beginning of 2023, and the post will be constantly updated.
 

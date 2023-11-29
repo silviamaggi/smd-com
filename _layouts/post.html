@@ -33,6 +33,9 @@ layout: default
     <p>Also posted on: <a rel="syndication" class="u-syndication" href="{{ page.syndicate }}">{{ page.syndicate }}</a></p>
     {% endif -%}
   </div>
+  {% if page.updated_on == true %}
+    <p class="btn-lg d-inline-block btn-label-smd btn-label-smd-bg fw-bold smd-font-micro mt-4 px-2 py-1">Updated on: {{ page.last_modified_at | date: "%-d %B %Y" }}</p>
+  {% endif %}
   <div class="mt-5">
     <p class="fs-5 mb-2">Enjoyed this {% if page.url contains '/newsletter/archive/' %}newsletter{% else %}article{% endif %}?</p>
     <p><img src='{{ site.url }}/assets/images/ko-fi-logo.svg' alt=''>&nbsp;<a class="smd-link smd-entry-fs fw-bold" href="https://ko-fi.com/W7W51YK7N">Support me on ko-fi.com</a>&nbsp;→</p>
