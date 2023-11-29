@@ -1878,9 +1878,6 @@ p {
 .blog-box {
   background: rgba(241,226,217,.2);
 }
-.webmentions-box {
-  background: rgba(241,226,217,.2);
-}
 #webmentions,
 .webmentions {
   position: relative;

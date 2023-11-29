@@ -33,11 +33,14 @@ layout: default
     <p>Also posted on: <a rel="syndication" class="u-syndication" href="{{ page.syndicate }}">{{ page.syndicate }}</a></p>
     {% endif -%}
   </div>
-  <div class="post-meta">{%- include post-meta.html %}</div>
+  <div class="mt-5">
+  <p class="fs-5 mb-2">Enjoyed this {% if page.url contains '/newsletter/archive/' %}newsletter{% else %}article{% endif %}?</p>
+  <p><img src='{{ site.url }}/assets/images/ko-fi-logo.svg' atl=''>&nbsp;<a class="smd-link smd-entry-fs fw-bold" href="https://ko-fi.com/W7W51YK7N" title="Support me on ko-fi.com">Support me on ko-fi.com</a>&nbsp;→</p>
+</div>
+  <div class="post-meta">
+    {%- include post-meta.html %}
+  </div>
   {%- if page.id -%}
-  {% unless page.type == 'note' %}
-  <div class="text-center text-md-start mt-0 mb-5">{%- include pattern-buymeacoffee.html %}</div>
-  {% endunless %}
   {%- endif -%}
   {%- if page.url contains '/design-digested/' -%}
   {% include pattern-newsletter-post.html %}
