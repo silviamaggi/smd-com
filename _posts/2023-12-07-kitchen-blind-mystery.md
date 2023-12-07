@@ -1,12 +1,13 @@
 ---
 title: "The kitchen blind mystery"
 date: '2023-12-07 12:40:13'
-last_modified_at: '2023-12-07 13:30:03'
+last_modified_at: '2023-12-07 16:02:20'
 featured-post: false
 categories:
   - Design
 tags:
   - usability
+  - design
   - cambridge
   - uk
 description: "Design and usability questions concerning a kitchen window."
