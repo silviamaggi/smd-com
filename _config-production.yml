@@ -1,6 +1,5 @@
 exclude:
   - README.md
   - assets/css/smd.css
-  - assets/js/webmention.js
 
 include: ["_pages", "_redirects", "assets/js/search.json"]

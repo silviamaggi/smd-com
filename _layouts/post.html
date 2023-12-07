@@ -48,9 +48,6 @@ layout: default
   </div>
   {%- if page.id -%}
   {%- endif -%}
-  {% unless page.url contains '/newsletter/archive' %}
-  {%- include pattern-responses.html -%}
-  {% endunless %}
   {% assign maxRelated = 3 %}
   {% assign minCommonTags = 2 %}
   {% assign maxRelatedCounter = 0 %}
