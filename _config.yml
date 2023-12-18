@@ -28,7 +28,7 @@ author:
 brand:
   smd_avatar_src: /assets/images/silviamaggi-avatar.png
   smd_bio: 'I’m Silvia, an expert in designing for accessibility and usability. Curator of the inspiration series and newsletter <em>Design, Digested</em>.'
-  smd_latestposts_limit: 3
+  smd_latestposts_limit: 5
 
 exclude: 
   - README.md
