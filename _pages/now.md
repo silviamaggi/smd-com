@@ -1,13 +1,17 @@
 ---
 layout: page
 title: Now
-date: '2023-02-19'
-last_modified_at: '2023-11-21 15:49:36'
+date: '2023-02-19 10:32'
+last_modified_at: '2023-12-19 10:43:16'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
 ---
-My husband and I finally moved back to the UK, and [I started writing about it](https://silviamaggidesign.com/personal/home-again/).
+My husband and I finally moved back to the UK, and [I started writing about it](https://silviamaggidesign.com/personal/home-again/). 
+
+After years of regrets, I took the plunge and started [learning to play an instrument](https://silviamaggidesign.com/personal/four-strings-of-joy/).
+
+I’m on day 1 of creating my sourdough starter. Fingers crossed!
 
 ## Reading
 
