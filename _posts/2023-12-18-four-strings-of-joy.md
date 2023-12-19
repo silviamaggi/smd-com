@@ -1,13 +1,14 @@
 ---
 title: "Four strings of joy"
 date: '2023-12-18 14:38:21'
-last_modified_at: '2023-12-18 22:23:01'
+last_modified_at: '2023-12-19 10:09:02'
 featured-post: false
 categories:
   - Personal
 tags:
   - ukulele
   - music
+  - personal
 description: "I recently started learning to play the ukulele. Read why, and how it’s going."
 excerpt: "After years of regrets, I took the plunge and started learning to play an instrument."
 featuredimage: true
