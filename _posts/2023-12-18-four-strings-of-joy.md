@@ -9,6 +9,7 @@ tags:
   - ukulele
   - music
   - creativity
+  - personal
 description: "I recently started learning to play the ukulele. Read why, and how it’s going."
 excerpt: "After years of regrets, I took the plunge and started learning to play an instrument."
 featuredimage: true
