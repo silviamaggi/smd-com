@@ -1,7 +1,7 @@
 ---
 title: 'LinkedIn collaborative articles? Write on your blog instead'
 date: '2024-01-03 11:03:34'
-last_modified_at: '2024-01-03 14:39:27'
+last_modified_at: '2024-01-03 14:53:48'
 featured-post: false
 categories:
   - Design
@@ -10,6 +10,7 @@ tags:
   - ai
   - microsoft
   - social media
+  - indieweb
 description: "LinkedIn is prompting users with strange prompts to contribute to collaborative articles. What is it all about?"
 excerpt: "LinkedIn is prompting users with strange questions to contribute to collaborative articles. What is it all about?"
 image-caption: true
@@ -68,7 +69,7 @@ Sharing knowledge is always good. However, generic questions followed by generic
 - Overlooking feedback
 - Here’s what else to consider
 
-Doesn’t it all add up to a person not actually doing what a UX designer is expected to do? That’s probably why the career is not growing. More importantly, what kind of question is that? What does it even mean?
+Doesn’t it all add up to a person not actually doing what a UX designer is expected to do? The reality is surely more complex than suggested though, and the reasons why a designer’s career is not growing can be completely unrelated to their skills. More appropriately to the case, what kind of question is that? What does it even mean? 
 
 ## To what end?
 
