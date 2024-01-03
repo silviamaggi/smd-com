@@ -1,7 +1,7 @@
 ---
-title: "LinkedIn collaborative articles? Write on your blog instead"
+title: 'LinkedIn collaborative articles? Write on your blog instead'
 date: '2024-01-03 11:03:34'
-last_modified_at: '2024-01-03 14:16:41'
+last_modified_at: '2024-01-03 14:39:27'
 featured-post: false
 categories:
   - Design
@@ -10,10 +10,10 @@ tags:
   - ai
   - microsoft
   - social media
-description: ""
-excerpt: ""
-featuredimage: false
+description: "LinkedIn is prompting users with strange prompts to contribute to collaborative articles. What is it all about?"
+excerpt: "LinkedIn is prompting users with strange questions to contribute to collaborative articles. What is it all about?"
 image-caption: true
+featuredimage: false
 ---
 I see more and more people on LinkedIn answering those **You’re one of a few experts invited to add to this collaborative article: [insert AI question here]** prompts, and find it sad for different reasons. 
 
@@ -34,16 +34,16 @@ A notification invites me to contribute to an article. Once I land on the articl
 
 {% responsive_image_block %}
   path: assets/images/li-top-expert.jpg
-  alt: Screenshot of the that introduces the top expert in the article. A box with my avatar says: Contribute to 3 or more articles in this skill to be eligible to earn a Top User Experience (UX) Voice badge.
+  alt: 'Screenshot of the that introduces the top expert in the article. A box with my avatar says: Contribute to 3 or more articles in this skill to be eligible to earn a Top User Experience (UX) Voice badge.'
   caption-true: {{ page.image-caption }}
-  caption: Contribute to gain a title that doesn’t mean anything in the real world
+  caption: 'Contribute to gain a title that doesn’t mean anything in the real world'
 {% endresponsive_image_block %}
 
 The article is already structured. The title is a question, and presents sections that guide answers.
 
 {% responsive_image_block %}
   path: assets/images/li-collaborative-article.jpg
-  alt: Screenshot of the article introduction. The title says: What are the most common UX design mistakes that hinder your career growth? The sections are: 1 – Lack of user research, 2 – Poor usability testing, 3 – Inconsistent design, 4 – Ignoring accessibility, 5 – Overlooking feedback, 6 – Here’s what else to consider.
+  alt: 'Screenshot of the article introduction. The title says: What are the most common UX design mistakes that hinder your career growth? The sections are: 1 – Lack of user research, 2 – Poor usability testing, 3 – Inconsistent design, 4 – Ignoring accessibility, 5 – Overlooking feedback, 6 – Here’s what else to consider.'
   caption-true: {{ page.image-caption }}
   caption: 
 {% endresponsive_image_block %}
@@ -52,9 +52,9 @@ Clicking on a section, it expands to reveal a sort of excerpt, to which I can ad
 
 {% responsive_image_block %}
   path: assets/images/li-your-perspective.jpg
-  alt: Screenshot of a section. Its title is: Ignoring accessibility. The text says: A fourth common mistake that UX designers can make is to ignore accessibility. Accessibility is the practice of designing products that are usable by everyone, regardless of their abilities, disabilities, or preferences. It helps you to reach a wider and more diverse audience, comply with legal and ethical standards, and improve your user satisfaction and loyalty. Without accessibility, you risk excluding or discriminating against users who have different needs or limitations, such as visual, auditory, cognitive, or motor impairments, and losing their potential value or revenue. To avoid this mistake, you should always consider accessibility in your design process, using methods such as personas, scenarios, guidelines, and tools.
+  alt: 'Screenshot of a section. Its title is: Ignoring accessibility. The text says: A fourth common mistake that UX designers can make is to ignore accessibility. Accessibility is the practice of designing products that are usable by everyone, regardless of their abilities, disabilities, or preferences. It helps you to reach a wider and more diverse audience, comply with legal and ethical standards, and improve your user satisfaction and loyalty. Without accessibility, you risk excluding or discriminating against users who have different needs or limitations, such as visual, auditory, cognitive, or motor impairments, and losing their potential value or revenue. To avoid this mistake, you should always consider accessibility in your design process, using methods such as personas, scenarios, guidelines, and tools.'
   caption-true: {{ page.image-caption }}
-  caption: Not sure if I should feel patronised or encouraged by the quite basic and generic text
+  caption: 'Not sure if I should feel patronised or encouraged by the quite basic and generic text'
 {% endresponsive_image_block %} 
 
 ## Why it doesn’t work
