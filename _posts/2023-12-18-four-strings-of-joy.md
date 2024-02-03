@@ -1,10 +1,10 @@
 ---
 title: "Four strings of joy"
 date: '2023-12-18 14:38:21'
-last_modified_at: '2023-12-19 10:13:08'
+last_modified_at: '2024-02-03 13:47:31'
 featured-post: false
 categories:
-  - Personal
+  - Music
 tags:
   - ukulele
   - music
