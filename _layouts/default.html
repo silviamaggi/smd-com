@@ -26,9 +26,7 @@
       <div class="row gx-md-5">
         <div class="col-md-4">
           <header class="site-header sticky-md-top pe-lg-5 pt-2 pt-md-4">
-            <div>
-              {% include site-logo.html %} 
-            </div>
+            {% include site-logo.html %} 
             {%- include navigation-main.html %}
           </header>
         </div>
@@ -56,7 +54,7 @@
   <script type="text/javascript" src="{{ site.url }}/assets/js/search-smd.js"></script>
   {% endif -%}
   <data class="p-org" value="Silvia Maggi Design"></data>
-  <data class="p-note" value="{{ site.description }}"></data>
+  <data class="p-note" value="{{ site.description | strip_html }}"></data>
   <data class="u-email" rel="me" value="mailto:{{ site.author.email }}"></data>
   <data rel="me" value="https://www.linkedin.com/in/silviamaggi/"></data>
   <data rel="me" value="https://oreganodangereux.wordpress.com"></data>

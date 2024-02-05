@@ -6,7 +6,7 @@ layout: none
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang }}">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
+    <description>{{ site.description | strip_html | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <language>{{ site.lang }}</language>
     <copyright>{{ site.url }}/colophon/#copyright</copyright>

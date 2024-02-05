@@ -2,17 +2,23 @@
 layout: default
 title: Silvia Maggi – Designer
 date: '2021-04-13 16:44:23'
-last_modified_at: '2023-09-13 10:19:13'
+last_modified_at: '2024-02-05 18:00:49'
 ---
 <div>
   <section class="intro mb-2 mb-md-5">
     <div class="row">
-      <div class="row d-flex align-items-center">
-          <h1 class="p-name text-center text-md-start mt-3 mt-md-0">Welcome!</h1>
+      <div class="col-md-11 pt-3 pb-3">
+         <div class="row d-flex align-items-center">
+           <div class="col-md-11 d-flex justify-content-md-end">
+             <a class="mx-auto" href="/about/">
+               {% include pattern-avatar.html alt="Portrait of Silvia Maggi smiling" width="120" height="120" %}
+             </a>
+           </div>
+         </div>
       </div>
     </div>
     <div class="e-content smd-entry">
-      <p class="lead">{{ site.brand.smd_bio }}&nbsp;<a href="/about/"><strong>More about me</strong>&nbsp;→</a></p>
+      <p class="lead">{{ site.description }}&nbsp;<a href="/about/"><strong>More about me</strong>&nbsp;→</a></p>
     </div>
   </section>
 </div>

@@ -272,6 +272,9 @@ h1 {
     font-size: 2.1rem
   }
 }
+body.page-silvia-maggi-designer h1 {
+  margin-bottom: 0;
+}
 .h2,
 h2 {
   font-size: calc(1.35rem + 1.2vw)
@@ -1969,6 +1972,9 @@ picture {
 }
 .smd-logo svg {
   max-width: 100%
+}
+.smd-logo a {
+  display: inline-block;
 }
 hr {
   width: 100%;
