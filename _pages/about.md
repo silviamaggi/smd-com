@@ -2,7 +2,7 @@
 layout: page
 title: About
 date: '2020-02-27'
-last_modified_at: '2023-05-05 14:06:41'
+last_modified_at: '2024-02-05 18:35:19'
 description: "I’m Silvia Maggi (she/her), a designer specialised in building accessible and usable products. Curator of the inspiration series Design, Digested."
 updated_on: true
 permalink: /about/
@@ -18,7 +18,7 @@ Working alongside UX researchers, I enjoy creating experiences that best balance
 
 I do accessibility audits, and advise clients on how to make their websites comply with their local legislation.
 
-Both as a consultant and in-house, I’ve designed for clients spanning industries such as banking, retail and energy, impacting considerable amounts of people. In 2014 I co-founded the agency [UI Farm](https://web.archive.org/web/20180314165034/http://uifarm.co.uk/). 
+Both as a consultant and in-house, I’ve designed for clients spanning industries such as banking, retail and energy, impacting considerable amounts of people. In 2012 I co-founded the agency [UI Farm](https://web.archive.org/web/20180314165034/http://uifarm.co.uk/). 
 
 My tools are Miro, Figma, and ProtoPie, although ideas take form on paper first. I also used: Sketch, InVision, and Adobe XD.
 
