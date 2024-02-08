@@ -2,20 +2,17 @@
 layout: page
 title: Now
 date: '2023-02-19 10:32'
-last_modified_at: '2023-12-19 10:43:16'
+last_modified_at: '2024-02-08 12:10:17'
 updated_on: true
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 permalink: /now/
 ---
-My husband and I finally moved back to the UK, and [I started writing about it](https://silviamaggidesign.com/personal/home-again/). 
+<ul class="mb-5">
+  <li class="border-bottom mt-2">Recently moved back to the UK. I’m literally home again, in Cambridge, in the same house. <a href="https://silviamaggidesign.com/personal/home-again/">Read the post</a></li>
+  <li class="border-bottom mt-2">Started learning to play the <a href="https://silviamaggidesign.com/tag/ukulele/">ukulele</a>, after years of regrets</li>
+  <li class="border-bottom mt-2">Finished working on a small project, will start a job search soon</li>
+  <li class="border-bottom mt-2">Currently reading: <em>Lady Susan</em>, by Jane Austen, and <em>To The Lighthouse</em>, by Virginia Woolf. <a href="https://silviamaggidesign.com/books/books-im-reading/">See the whole list</a></li>
+</ul>
 
-After years of regrets, I took the plunge and started [learning to play an instrument](https://silviamaggidesign.com/personal/four-strings-of-joy/).
 
-I’m on day 1 of creating my sourdough starter. Fingers crossed!
-
-## Reading
-
-My main goal is to <a href="https://silviamaggidesign.com/tag/news/" title="read my posts about news consumption">avoid reading the news every day</a>, focusing on the many books I bought, and long read form articles. <a href="https://silviamaggidesign.com/books/books-im-reading/">See my reading list</a>.
-
----
 This is my *now page*, where I tell you what I am up to at this point in my life. [You can make one, too](https://nownownow.com/about).
