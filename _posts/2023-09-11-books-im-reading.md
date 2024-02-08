@@ -1,7 +1,7 @@
 ---
 title: "Books I‘m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2023-11-22 11:28:21'
+last_modified_at: '2024-02-08 11:46:52'
 featured-post: false
 categories:
   - Books
@@ -18,11 +18,11 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 
 ## In progress
 
-- _A Brief History of Time_, by Stephen Hawking
+- _Lady Susan_, by Jane Austen
 - _To the Lighthouse_, Virginia Woolf
+- _A Brief History of Time_, by Stephen Hawking
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 - _Ultra-Processed People_, by Chris van Tulleken [^UltraP]
-- _Children of the New World_, by Alexander Weinstein[^AfterYang]
 
 ## Finished
 
@@ -32,6 +32,7 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 - _Flashforward_, by Robert J. Sawyer
 - _Do Androids Dream of Electric Sheep?_, by Philip K. Dick
 - _The Left Hand of Darkness_, by Ursula K. Le Guin
+- _Saying Goodbye to Yang_, from _Children of the New World_, by Alexander Weinstein[^AfterYang]
 - _Black Hole_, by Charles Burns
 - _The Deception of Harriet Fleet_, by Helen Scarlett
 - _Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers_, by multiple authors
@@ -45,5 +46,5 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 ## Notes
 
 [^UltraP]: Going very slowly with this, as it requires a state of mind I’m not always in.
-[^AfterYang]: Contains the short story _Saying Goodbye to Yang_, the only one I read so far, on which the beautiful film _After Yang_ is based on.
+[^AfterYang]: On which the beautiful film _After Yang_ is based on.
 [^TedChiang]: A few stories included in this collection were already present in _Stories of Your Life and Others_, so this was a faster read.
