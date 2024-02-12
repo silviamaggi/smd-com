@@ -1,7 +1,7 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-02-08 12:11:59'
+last_modified_at: '2024-02-12 17:15:13'
 featured-post: false
 categories:
   - Books
@@ -18,7 +18,6 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 
 ## In progress
 
-- _Lady Susan_, by Jane Austen
 - _To the Lighthouse_, Virginia Woolf
 - _A Brief History of Time_, by Stephen Hawking
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
@@ -26,6 +25,7 @@ My main reading goal is [to avoid the daily and live news](https://silviamaggide
 
 ## Finished
 
+- _Lady Susan_, by Jane Austen
 - _Exhalation_, by Ted Chiang[^TedChiang]
 - _The Expats_, by Chris Pavone
 - _Ariadne_, by Jennifer Saint
