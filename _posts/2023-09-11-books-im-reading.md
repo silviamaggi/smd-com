@@ -1,7 +1,7 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-02-14 12:35:31'
+last_modified_at: '2024-02-14 13:10:30'
 featured-post: false
 categories:
   - Books
@@ -14,7 +14,7 @@ excerpt: "A list of the books I read and am currently reading."
 image-caption: true
 updated_on: true
 ---
-My main reading goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), focusing instead on the many books I bought. I’ve been trying to go through my library with varying results, mainly disappointing, until the beginning of this year. Here is a list of what I read and what I’m reading now. The record started at the beginning of 2023, and the post will be constantly updated.
+My main goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), and to focus instead on the books I bought. I’ve been trying to go through my library with varying results, mainly disappointing, until very recently. Here is my reading list. The record started at the beginning of 2023, and is constantly updated.
 
 ## In progress
 
