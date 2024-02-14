@@ -1,7 +1,7 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-02-12 17:15:13'
+last_modified_at: '2024-02-14 12:35:31'
 featured-post: false
 categories:
   - Books
@@ -14,13 +14,25 @@ excerpt: "A list of the books I read and am currently reading."
 image-caption: true
 updated_on: true
 ---
-My main reading goal is [to avoid the daily and live news](https://silviamaggidesign.com/tag/news/), focusing instead on the many books I bought. I’ve been trying to go through my library with varying results, mainly disappointing, until the beginning of this year. Here is a list of what I read and what I’m reading now. The record started at the beginning of 2023, and the post will be constantly updated.
+My main reading goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), focusing instead on the many books I bought. I’ve been trying to go through my library with varying results, mainly disappointing, until the beginning of this year. Here is a list of what I read and what I’m reading now. The record started at the beginning of 2023, and the post will be constantly updated.
 
 ## In progress
 
+- _Vox_, by Christina Dalcher
+> Silence can be deafening.
+Jean McClellan spends her time in almost complete silence, limited to just one hundred words a day. Any more, and a thousand volts of electricity will course through her veins.
+Now the new government is in power, everything has changed. But only if you’re a woman.
+Almost overnight, bank accounts are frozen, passports are taken away and seventy million women lose their jobs. Even more terrifyingly, young girls are no longer taught to read or write.
+For herself, her daughter, and for every woman silenced, Jean will reclaim her voice. This is only the beginning…
+[100 WORD LIMIT REACHED]
+- _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
+
+## Parked
+
+Books I started to read, but don’t feel like continuing – for now.
+
 - _To the Lighthouse_, Virginia Woolf
 - _A Brief History of Time_, by Stephen Hawking
-- _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 - _Ultra-Processed People_, by Chris van Tulleken [^UltraP]
 
 ## Finished
