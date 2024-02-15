@@ -1,6 +1,6 @@
 ---
 title: New journey and new blog
-last_modified_at: '2022-04-17 15:47:31'
+last_modified_at: '2024-02-15 14:21:27'
 featured-post: false
 categories:
   - Personal
@@ -22,8 +22,14 @@ image-caption: true
   caption: The North Sea at Cromer
 {% endresponsive_image_block %}
 
-It feels like hitting the reset button: a much-needed pause to regroup and understand what to do next. We’ll be writing both in English and in Italian, on the blog [Oregano Dangereux](https://oreganodangereux.wordpress.com/).
+It feels like hitting the reset button: a much-needed pause to regroup and understand what to do next. We’ll be writing both in English and in Italian, on the blog _Oregano Dangereux_.
 
 <p class="detached">I’d be glad if you’d like to accompany us on this journey.</p>
+
+## Update
+
+*15 February, 2024*
+
+The mentioned blog has been deleted in the meantime. This is because we found little joy updating it, and because we’re both focused on our personal websites.
 
 <p class="detached"><mark class="smd-highlight small">Photo &copy; Silvia Maggi</mark></p>
