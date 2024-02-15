@@ -1,6 +1,6 @@
 ---
 title: 'Learning to draw. A journey'
-last_modified_at: '2022-04-17 16:06:56'
+last_modified_at: '2024-02-15 14:26:37'
 featured-post: false
 popular-post: false
 categories:
@@ -17,7 +17,7 @@ featimage-alt: "Hand holding a pencil"
 featimage-class: 'u-featured'
 featimage: 'feat-sam-rios-unsplash'
 image-caption: true
-featimage-caption-desc: 'Photo by <a href="https://unsplash.com/@samr1os_official">Sam Rios</a>'
+featimage-caption-desc: 'Photo by Sam Rios'
 ---
 In my latest _Design, Digested_ post titled [The importance of sketching in UX and beyond](/design-digested/importance-of-sketching-in-ux/ "Read the post on my website"), I enthusiastically suggested sketching every day. As much as wanted to, I couldn’t follow my own advice: I’d stare at the blank page, not knowing _what_ to draw, and then give up.
 
