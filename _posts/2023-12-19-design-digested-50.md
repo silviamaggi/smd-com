@@ -1,8 +1,9 @@
 ---
-title: "Design, Digested 50 — About Don Norman, HTML semantics, Women in type history"
+title: "Design, Digested 50 – About Don Norman, HTML semantics, Women in type history"
 date: '2023-12-19 10:17:21'
 last_modified_at: '2023-12-18 16:04:53'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 45 — Performing goodness in UX, automatic captions and more"
+title: "Design, Digested 45 – Performing goodness in UX, automatic captions and more"
 date: '2023-06-22 10:34:02'
 last_modified_at: '2023-06-22 16:10:35'
 featured-post: false

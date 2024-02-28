@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 46 — The UX of Wise, alternatives to surveys, accessible numbers"
+title: "Design, Digested 46 – The UX of Wise, alternatives to surveys, accessible numbers"
 date: '2023-07-07 16:03:51'
 last_modified_at: '2023-07-07 17:27:52'
 featured-post: false

@@ -1,8 +1,9 @@
 ---
-title: Making my website accessible — Part 1
+title: Making my website accessible – Part 1
 date: '2022-09-15 13:23:08'
-last_modified_at: '2023-05-18 18:14:28'
+last_modified_at: '2024-02-28 16:54:08'
 featured-post: false
+popular-post: true
 categories:
   - Accessibility
 tags:

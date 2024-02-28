@@ -3,6 +3,7 @@ title: "Design, Digested 33 – Accessibility, sustainability, climate crisis"
 date: '2022-10-16 18:00:54'
 last_modified_at: '2022-10-30 20:41:42'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

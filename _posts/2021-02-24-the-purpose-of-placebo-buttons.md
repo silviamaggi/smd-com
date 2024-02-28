@@ -2,6 +2,7 @@
 title: The purpose of placebo buttons
 last_modified_at: '2022-04-17 16:01:04'
 featured-post: false
+popular-post: true
 categories:
   - Design
 tags:

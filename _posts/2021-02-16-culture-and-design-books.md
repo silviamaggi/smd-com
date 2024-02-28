@@ -2,6 +2,7 @@
 title: Brilliant culture and design books I’m reading
 last_modified_at: '2023-05-23 18:47:17'
 featured-post: false
+popular-post: true
 categories:
   - Books
 tags:

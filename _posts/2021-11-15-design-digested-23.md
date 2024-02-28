@@ -1,6 +1,6 @@
 ---
-title: "Imposter syndrome and pockets"
-last_modified_at: '2022-07-19 16:07:51'
+title: "Design, Digested 23 – Imposter syndrome and pockets"
+last_modified_at: '2024-02-28 16:37:06'
 featured-post: false
 categories:
   - Design Digested

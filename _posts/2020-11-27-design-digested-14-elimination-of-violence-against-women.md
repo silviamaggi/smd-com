@@ -1,7 +1,8 @@
 ---
-title: "Elimination of violence against women"
-last_modified_at: '2022-04-17 15:51:15'
+title: "Design, Digested 14 – Elimination of violence against women"
+last_modified_at: '2024-02-28 16:32:59'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

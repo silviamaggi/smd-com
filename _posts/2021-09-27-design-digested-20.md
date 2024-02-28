@@ -1,7 +1,8 @@
 ---
-title: "Gender-neutral language"
-last_modified_at: '2021-09-27 13:51:03'
+title: "Design, Digested 20 – Gender-neutral language"
+last_modified_at: '2024-02-28 16:36:13'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

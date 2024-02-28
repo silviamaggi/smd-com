@@ -1,7 +1,8 @@
 ---
-title: "Killing Eve set design, and more"
-last_modified_at: '2022-03-23 15:16:58'
+title: "Design, Digested 1 – Killing Eve set design, and more"
+last_modified_at: '2024-02-28 16:28:41'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

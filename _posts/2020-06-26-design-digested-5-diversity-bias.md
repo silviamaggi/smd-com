@@ -1,6 +1,6 @@
 ---
-title: "Diversity bias"
-last_modified_at: '2023-09-12 17:14:43'
+title: "Design, Digested 5 – Diversity bias"
+last_modified_at: '2024-02-28 16:29:19'
 featured-post: false
 categories:
   - Design Digested

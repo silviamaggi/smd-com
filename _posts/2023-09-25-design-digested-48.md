@@ -1,8 +1,9 @@
 ---
-title: "Design, Digested 48 — Culture influences design, UX for older adults, bad use of AI"
+title: "Design, Digested 48 – Culture influences design, UX for older adults, bad use of AI"
 date: '2023-09-24 10:53:42'
 last_modified_at: '2023-09-24 15:06:13'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

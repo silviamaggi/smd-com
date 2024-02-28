@@ -3,6 +3,7 @@ title: "Design, Digested 38 – Green accessibility, Braille, the state of mobil
 date: '2023-01-16 14:32:09'
 last_modified_at: '2023-01-16 16:19:36'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

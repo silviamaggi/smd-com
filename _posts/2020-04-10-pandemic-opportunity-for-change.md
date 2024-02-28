@@ -2,6 +2,7 @@
 title: The pandemic is a massive opportunity for change
 last_modified_at: '2022-04-17 15:24:53'
 featured-post: false
+popular-post: true
 categories:
   - Design
 tags:

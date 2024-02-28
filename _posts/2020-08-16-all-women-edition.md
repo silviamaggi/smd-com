@@ -1,7 +1,8 @@
 ---
-title: "All-women edition"
-last_modified_at: '2022-04-17 15:47:05'
+title: "Design, Digested 11 – All-women edition"
+last_modified_at: '2024-02-28 16:26:11'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

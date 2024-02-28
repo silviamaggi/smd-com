@@ -1,7 +1,8 @@
 ---
-title: "Design community solidarity"
-last_modified_at: '2023-09-12 17:07:04'
+title: "Design, Digested 2 – Design community solidarity"
+last_modified_at: '2024-02-28 16:28:54'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

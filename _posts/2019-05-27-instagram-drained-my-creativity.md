@@ -2,6 +2,7 @@
 title: How Instagram drained my creativity
 last_modified_at: '2022-04-17 15:24:35'
 featured-post: false
+popular-post: true
 categories:
   - Photography
 tags:

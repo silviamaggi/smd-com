@@ -1,6 +1,6 @@
 ---
-title: "How a website lost community trust"
-last_modified_at: '2022-04-17 15:36:26'
+title: "Design, Digested 8 – How a website lost community trust"
+last_modified_at: '2024-02-28 16:31:26'
 featured-post: false
 categories:
   - Design Digested

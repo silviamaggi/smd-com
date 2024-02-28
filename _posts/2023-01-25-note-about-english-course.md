@@ -3,6 +3,7 @@ title: 'Reply: Duolingo’s English course from Italian'
 date: '2023-01-25 12:19:34'
 last_modified_at: '2023-07-08 18:13:34'
 featured-post: false
+popular-post: true
 categories:
   - Notes
 tags:

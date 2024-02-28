@@ -3,6 +3,7 @@ title: "Design, Digested 35 – “Blanding”, vestibular disorders, diaries"
 date: '2022-11-16 11:32:12'
 last_modified_at: '2022-11-16 18:08:32'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

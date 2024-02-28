@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 49 — Fake inclusion, bumpy rides, culture matters"
+title: "Design, Digested 49 – Fake inclusion, bumpy rides, culture matters"
 date: '2023-11-29 12:46:48'
 last_modified_at: '2023-11-29 13:39:06'
 featured-post: false

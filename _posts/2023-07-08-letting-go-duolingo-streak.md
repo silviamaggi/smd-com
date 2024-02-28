@@ -3,6 +3,7 @@ title: "Letting go of my Duolingo streak"
 date: '2023-07-08 16:54:35'
 last_modified_at: '2023-07-10 20:17:21'
 featured-post: false
+popular-post: true
 categories:
   - Personal
 tags:

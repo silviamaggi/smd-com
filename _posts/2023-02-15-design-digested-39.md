@@ -3,6 +3,7 @@ title: "Design, Digested 39 – UX of banking, state of web accessibility, micro
 date: '2023-02-15 09:22:28'
 last_modified_at: '2023-02-15 09:37:56'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

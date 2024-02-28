@@ -1,7 +1,8 @@
 ---
-title: "Social media content moderation issues"
-last_modified_at: '2022-04-17 15:48:49'
+title: "Design, Digested 12 – Social media content moderation issues"
+last_modified_at: '2024-02-28 16:32:19'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

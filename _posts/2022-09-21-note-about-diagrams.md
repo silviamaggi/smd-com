@@ -3,6 +3,7 @@ title: About diagrams
 date: '2022-09-21 09:49:58'
 last_modified_at: '2022-10-02 22:15:08'
 featured-post: false
+popular-post: true
 categories:
   - Notes
 tags:

@@ -1,6 +1,6 @@
 ---
-title: 'Tabula rasa'
-last_modified_at: '2022-07-19 16:14:42'
+title: 'Design, Digested 26 – Tabula rasa'
+last_modified_at: '2024-02-28 16:37:55'
 featured-post: false
 categories:
   - Design Digested

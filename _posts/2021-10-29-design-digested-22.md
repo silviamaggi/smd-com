@@ -1,7 +1,8 @@
 ---
-title: "The Hook model and UX design’s dirty secret"
-last_modified_at: '2023-03-05 11:59:12'
+title: "Design, Digested 22 – The Hook model and UX design’s dirty secret"
+last_modified_at: '2024-02-28 16:36:48'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

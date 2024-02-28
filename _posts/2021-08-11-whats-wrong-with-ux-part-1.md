@@ -1,7 +1,8 @@
 ---
-title: "What’s wrong with UX (Part 1)"
-last_modified_at: '2022-07-19 16:59:46'
+title: "Design, Digested 19 – What’s wrong with UX (Part 1)"
+last_modified_at: '2024-02-28 16:35:55'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

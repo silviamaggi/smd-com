@@ -1,7 +1,8 @@
 ---
-title: "Anti-Racism, misogyny of the workforce"
-last_modified_at: '2022-04-17 15:31:35'
+title: "Design, Digested 6 – Anti-Racism, misogyny of the workforce"
+last_modified_at: '2024-02-28 16:29:32'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

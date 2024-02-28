@@ -1,7 +1,8 @@
 ---
-title: "Undoing toxic dogmatism; designing less"
-last_modified_at: '2023-02-24 10:20:15'
+title: "Design, Digested 15 – Undoing toxic dogmatism, designing less"
+last_modified_at: '2024-02-28 16:33:25'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

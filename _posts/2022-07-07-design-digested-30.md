@@ -1,6 +1,6 @@
 ---
-title: 'Design, Digested 30'
-last_modified_at: '2022-07-19 16:28:07'
+title: 'Design, Digested 30 – Design is evolving, willful blindness, honest internet'
+last_modified_at: '2024-02-28 16:53:05'
 featured-post: false
 categories:
   - Design Digested

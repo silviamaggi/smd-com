@@ -3,6 +3,7 @@ title: "Design, Digested 36 – HCI demos, usability heuristics, the greatest"
 date: '2022-12-05 11:23:30'
 last_modified_at: '2023-05-18 18:12:10'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

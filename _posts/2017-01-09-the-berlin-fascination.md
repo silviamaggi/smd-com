@@ -2,6 +2,7 @@
 title: The Berlin fascination
 last_modified_at: '2022-04-19 18:15:44'
 featured-post: false
+popular-post: true
 categories:
   - Photography
 tags:

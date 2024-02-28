@@ -3,6 +3,7 @@ title: "Silvia Maggi Design Website"
 date: '2022-03-21'
 last_modified_at: '2023-09-12 17:18:01'
 featured-post: false
+popular-post: true
 categories:
   - Projects
 tags:

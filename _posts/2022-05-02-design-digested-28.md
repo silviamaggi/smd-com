@@ -1,6 +1,6 @@
 ---
-title: 'Design, Digested 28'
-last_modified_at: '2022-07-19 16:23:55'
+title: 'Design, Digested 28 – Disability Dongle, ethical design, 17 years of Git'
+last_modified_at: '2024-02-28 16:49:24'
 featured-post: false
 categories:
   - Design Digested
@@ -51,7 +51,6 @@ WCAG 3.0 will be here soon and it will represent a significant shift in how acce
 
 {: .detached}
 🔗 [Read the article](https://scribe.rip/wcag-3-0-what-you-need-to-know-about-the-future-of-accessibility-standards-2e1f6374f2c7) (on Scribe)
-
 
 ## The Business Case for Digital Accessibility
 

@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 47 — Privacy, dreamhouses, the woman behind the author"
+title: "Design, Digested 47 – Privacy, dreamhouses, the woman behind the author"
 date: '2023-09-18 14:13:13'
 last_modified_at: '2023-09-18 16:57:39'
 featured-post: false

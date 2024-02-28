@@ -1,8 +1,9 @@
 ---
-title: 'Design, Digested 31'
+title: 'Design, Digested 31 – Distracted to death, the problem with the Metaverse, deceptive patterns on Instagram'
 date: '2022-07-27 16:13:25'
-last_modified_at: '2023-02-15 10:27:32'
+last_modified_at: '2024-02-28 16:10:48'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

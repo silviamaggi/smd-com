@@ -2,6 +2,7 @@
 title: I deactivated my Instagram account. What now?
 last_modified_at: '2022-04-17 15:54:43'
 featured-post: false
+popular-post: true
 categories:
   - Personal
 tags:

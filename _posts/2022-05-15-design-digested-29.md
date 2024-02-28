@@ -1,7 +1,8 @@
 ---
-title: 'Design, Digested 29'
-last_modified_at: '2022-07-19 16:26:36'
+title: 'Design, Digested 29 – Designing for the autistic community, tales from cryptoland, “tender technicians”'
+last_modified_at: '2024-02-28 16:51:42'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

@@ -1,6 +1,6 @@
 ---
-title: "The importance of sketching in UX"
-last_modified_at: '2023-03-19 21:28:39'
+title: "Design, Digested 18 – The importance of sketching in UX"
+last_modified_at: '2024-02-28 16:35:26'
 featured-post: false
 popular-post: true
 categories:

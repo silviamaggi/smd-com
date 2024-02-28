@@ -1,6 +1,6 @@
 ---
-title: "Exploring design cultures"
-last_modified_at: '2022-07-19 15:50:24'
+title: "Design, Digested 21 – Exploring design cultures"
+last_modified_at: '2024-02-28 16:36:31'
 featured-post: false
 categories:
   - Design Digested

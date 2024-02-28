@@ -1,7 +1,8 @@
 ---
-title: "Black women in UX, foster creativity"
-last_modified_at: '2022-03-23 15:15:42'
+title: "Design, Digested 4 – Black women in UX, foster creativity"
+last_modified_at: '2024-02-28 16:28:06'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

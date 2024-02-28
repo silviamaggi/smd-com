@@ -1,8 +1,9 @@
 ---
-title: "Design, Digested 41 — Big Tech’s big downgrade, UX office politics, and more"
+title: "Design, Digested 41 – Big Tech’s big downgrade, UX office politics, and more"
 date: '2023-03-28 17:42:07'
 last_modified_at: '2023-09-12 17:09:35'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

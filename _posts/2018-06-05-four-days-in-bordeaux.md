@@ -2,6 +2,7 @@
 title: Four days in Bordeaux
 last_modified_at: '2023-04-08 16:51:23'
 featured-post: false
+popular-post: true
 categories:
   - Photography
 tags:

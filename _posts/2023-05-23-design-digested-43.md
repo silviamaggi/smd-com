@@ -1,5 +1,5 @@
 ---
-title: "Design, Digested 43 — Design thinking went wrong, Fitts’ Law, visual frameworks"
+title: "Design, Digested 43 – Design thinking went wrong, Fitts’ Law, visual frameworks"
 date: '2023-05-23 11:46:57'
 last_modified_at: '2023-05-23 16:45:47'
 featured-post: false

@@ -1,6 +1,6 @@
 ---
-title: "Responsive design at 10"
-last_modified_at: '2022-07-19 16:42:26'
+title: "Design, Digested 3 – Responsive design at 10"
+last_modified_at: '2024-02-28 16:29:05'
 featured-post: false
 categories:
   - Design Digested

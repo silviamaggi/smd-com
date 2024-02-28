@@ -1,6 +1,6 @@
 ---
-title: "Inclusive design"
-last_modified_at: '2023-03-05 11:59:01'
+title: "Design, Digested 10 – Inclusive design"
+last_modified_at: '2024-02-28 16:26:44'
 featured-post: false
 categories:
   - Design Digested

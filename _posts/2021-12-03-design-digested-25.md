@@ -1,7 +1,8 @@
 ---
-title: "Blue Beanie Day, UX of checkout flows, Ikea names"
-last_modified_at: '2022-07-19 16:12:18'
+title: "Design, Digested 25 – Blue Beanie Day, UX of checkout flows, Ikea names"
+last_modified_at: '2024-02-28 16:37:44'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

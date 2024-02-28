@@ -1,8 +1,9 @@
 ---
-title: "Design, Digested 44 — UX of a monopoly, Sabbath mode, buttons"
+title: "Design, Digested 44 – UX of a monopoly, Sabbath mode, buttons"
 date: '2023-06-07 12:33:17'
 last_modified_at: '2023-06-07 12:33:12'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

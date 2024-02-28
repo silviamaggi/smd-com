@@ -3,6 +3,7 @@ title: "My temporary disability and how I coped with it"
 date: '2023-07-13 12:38:14'
 last_modified_at: '2023-08-31 17:41:32'
 featured-post: false
+popular-post: true
 categories:
   - Accessibility
 tags:

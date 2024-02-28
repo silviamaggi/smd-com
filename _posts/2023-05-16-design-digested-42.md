@@ -1,8 +1,9 @@
 ---
-title: "Design, Digested 42 — Accessibility, designing for attention, diaries of note"
+title: "Design, Digested 42 – Accessibility, designing for attention, diaries of note"
 date: '2023-05-16 18:25:42'
 last_modified_at: '2023-05-17 10:25:07'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

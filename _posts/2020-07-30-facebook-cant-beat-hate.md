@@ -1,7 +1,8 @@
 ---
-title: "Facebook can’t beat hate"
-last_modified_at: '2022-04-17 15:40:27'
+title: "Design, Digested 9 – Facebook can’t beat hate"
+last_modified_at: '2024-02-28 16:31:44'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:

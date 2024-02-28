@@ -1,6 +1,6 @@
 ---
-title: "Deceptive patterns in user interfaces"
-last_modified_at: '2023-02-15 10:52:11'
+title: "Design, Digested 16 – Deceptive patterns in user interfaces"
+last_modified_at: '2024-02-28 16:33:42'
 featured-post: false
 categories:
   - Design Digested

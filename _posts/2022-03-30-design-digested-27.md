@@ -1,7 +1,8 @@
 ---
-title: 'False empathy, fast fashion, gender pay gap'
-last_modified_at: '2023-04-08 17:38:09'
+title: 'Design, Digested 27 – False empathy, fast fashion, gender pay gap'
+last_modified_at: '2024-02-28 16:38:15'
 featured-post: false
+popular-post: true
 categories:
   - Design Digested
 tags:
