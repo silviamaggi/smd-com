@@ -1,5 +1,8 @@
+sass:
+  style: compressed
+
 exclude:
   - README.md
-  - assets/css/smd.css
+  - /assets/css/smd.css.map
 
 include: ["_pages", "_redirects", "assets/js/search.json"]

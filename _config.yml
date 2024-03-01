@@ -23,6 +23,12 @@ logo: /assets/images/silviamaggi-og-image.jpg
 author:
   name: Silvia Maggi
   email: hello@silviamaggidesign.com
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: /assets/css/partials/
+  sourcemap: development
 
 # Brand
 brand:
