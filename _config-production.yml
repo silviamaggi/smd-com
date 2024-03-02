@@ -5,4 +5,4 @@ exclude:
   - README.md
   - /assets/css/smd.css.map
 
-include: ["_pages", "_redirects", "assets/js/search.json"]
+include: ["_pages", ".htaccess", "assets/js/search.json"]

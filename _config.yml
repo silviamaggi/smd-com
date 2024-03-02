@@ -35,9 +35,7 @@ brand:
   smd_avatar_src: /assets/images/silviamaggi-avatar.png
   smd_latestposts_limit: 5
 
-exclude: 
-  - README.md
-include: ["_pages", "_redirects"]
+include: ["_pages", "assets/js/search.json"]
 
 # Defaults
 defaults:
