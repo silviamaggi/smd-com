@@ -4,18 +4,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {% if page.robots %}<meta content="{{ page.robots }}, noai, noimageai" name="robots">{% else %}<meta content="index, follow, noai, noimageai" name="robots">{% endif %}
 <meta content="{% if page.description %}{{ page.description }}{% else %}{{ site.description | strip_html }}{% endif %}" name="description">
+<!-- minimal open graph implementation -->
 <meta content="{%- include site-title.html -%}" property="og:title">
-<meta content="{{ page.url | prepend: site.url }}" property="og:url">
-<meta content="website" property="og:type">
-<meta content="{{ site.title }}" property="og:site_name">
-<meta content="{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description | strip_html }}{% endif %}" property="og:description">
+<meta content="{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description | strip_html }}{% endif %}" name="description" property="og:description">
 <meta content="{% if page.featuredimage %}{{ site.url }}/assets/images/{{ page.featimage }}.jpg{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" property="og:image">
-<meta content="en_GB" property="og:locale">
-<meta content="{%- include site-title.html -%}" prefix="og: https://ogp.me/ns#" property="og:title">
-<meta content="website" property="og:type" prefix="og: https://ogp.me/ns#">
-<meta content="{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description | strip_html }}{% endif %}" prefix="og: https://ogp.me/ns#" property="og:description">
-<meta content="{% if page.featuredimage %}{{ site.url }}/assets/images/{{ page.featimage }}.jpg{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" prefix="og: https://ogp.me/ns#" property="og:image">
-<meta content="{{ page.url | prepend: site.url }}" prefix="og: https://ogp.me/ns#" property="og:url">
+<meta content="{% if page.featuredimage %}{{ site.url }}/assets/images/{{ page.featimage }}.jpg{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" name="twitter:card">
+<!-- end open graph -->
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",

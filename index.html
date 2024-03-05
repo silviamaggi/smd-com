@@ -28,7 +28,7 @@ last_modified_at: '2024-02-05 18:00:49'
     {%- assign recentPosts = site.posts -%}
     <div class="smd-entry">
       <ul class="mb-0">
-        {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
+        {%- for post in recentPosts limit:site.smd_latestposts_limit -%}
         <li><a href="{{ post.url }}" class="small">{{ post.title }}</a></li>
         {% endfor -%}
       </ul>

@@ -1,19 +1,19 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" itemscope itemtype="http://schema.org/WebPage">
+<html lang="{{ site.lang }}" dir="ltr" itemscope itemtype="http://schema.org/WebPage">
 <head>
-<title>{% include site-title.html %}</title>
-{% include site-meta.html %}
-<link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url |  replace:'index.html','' | absolute_url }}{% endif %}">
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/smd.css">
-<link rel="webmention" href="https://webmention.io/silviamaggidesign.com/webmention">
-<link rel="authorization_endpoint" href="https://indieauth.com/auth">
-<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
-<link rel="pgpkey authn" href="{{ site.url }}/assets/files/key.pub">
-<link rel="icon" href="{{ site.url }}/favicon.ico" sizes="any">
-<link rel="icon" href="{{ site.url }}/assets/images/favicons/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/assets/images/favicons/apple-touch-icon.png">
-<link rel="manifest" href="{{ site.url }}/assets/images/favicons/site.webmanifest">
-<link href='/feed.xml' rel='alternate' type='application/atom+xml'>
+  <title>{% include site-title.html %}</title>
+  {% include site-meta.html %}
+  <link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url |  replace:'index.html','' | absolute_url }}{% endif %}">
+  <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/smd.css">
+  <link rel="webmention" href="https://webmention.io/silviamaggidesign.com/webmention">
+  <link rel="authorization_endpoint" href="https://indieauth.com/auth">
+  <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+  <link rel="pgpkey authn" href="{{ site.url }}/assets/files/key.pub">
+  <link rel="icon" href="{{ site.url }}/favicon.ico" sizes="any">
+  <link rel="icon" href="{{ site.url }}/assets/images/favicons/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/assets/images/favicons/apple-touch-icon.png">
+  <link rel="manifest" href="{{ site.url }}/assets/images/favicons/site.webmanifest">
+  <link href='{{ site.url }}/feed.xml' rel='alternate' type='application/atom+xml'>
 </head>
 <body class="h-entry layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
   <a class="skip-to-content" href="#smd-content">Skip to content</a>

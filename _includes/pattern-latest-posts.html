@@ -5,7 +5,7 @@
   {%- assign recentPosts = site.posts -%}
 
   <div class="row row-cols-1 row-cols-sm-2 g-4">
-  {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
+  {%- for post in recentPosts limit:site.smd_latestposts_limit -%}
 
     <div class="col">
       {% if post %}
