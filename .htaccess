@@ -1,3 +1,6 @@
+# 404
+ErrorDocument 404 /404.html
+
 # Content security policy
 Header add X-Frame-Options "SAMEORIGIN"
 Header add X-XSS-Protection "1; mode=block"
@@ -35,7 +38,6 @@ Header add Permissions-Policy "accelerometer=(self),autoplay=(self),camera=(self
 </IfModule>
 
 # Redirects
-Redirect 301 https://blog.silviamaggidesign.com/2020/07/28/instagrams-camera-on-bug/ /ux/instagrams-camera-on-bug/
 Redirect 301 /resume-silviamaggi/ /about/
 Redirect 301 /about-silviamaggi/ /about/
 Redirect 301 /about-silviamaggi-ux-designer/ /about/
