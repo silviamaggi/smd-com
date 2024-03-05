@@ -1,13 +1,31 @@
+# -------------------
+# Site settings
+# -------------------
 host: "localhost"
 url: "https://silviamaggidesign.com"
 baseurl: ""
 posts_limit: 20
-
-# SEO
+lang: "en-GB"
 title: Silvia Maggi
 tagline: Designer
-description: 'Welcome to my personal website. I write about about design, technology, their effects on our lives, photography and music. <br>Curator of the inspiration series <em>Design, Digested</em>.'
 permalink: /:categories/:title/
+timezone: UK/London
+logo: /assets/images/silviamaggi-og-image.jpg
+smd_latestposts_limit: 5
+excerpt_separator: <!--more-->
+
+# -------------------
+# Personal data
+# -------------------
+author:
+  name: Silvia Maggi
+  email: hello@silviamaggidesign.com
+  smd_avatar_src: /assets/images/silviamaggi-avatar.png
+
+# -------------------
+# About
+# -------------------
+description: 'Welcome to my personal website. I write about about design, technology, their effects on our lives, photography and music. <br>Curator of the inspiration series <em>Design, Digested</em>.'
 keywords:
   UX design,
   web design,
@@ -18,26 +36,29 @@ keywords:
   WordPress,
   usability,
   information architecture,
-timezone: UK/London
-logo: /assets/images/silviamaggi-og-image.jpg
-author:
-  name: Silvia Maggi
-  email: hello@silviamaggidesign.com
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
+
+# -------------------
+# Inclusions
+# -------------------
+include: ["_pages", "assets/js/search.json"]
+
+# -------------------
+# SASS
+# -------------------
 sass:
   sass_dir: /assets/css/partials/
   sourcemap: development
 
-# Brand
-brand:
-  smd_avatar_src: /assets/images/silviamaggi-avatar.png
-  smd_latestposts_limit: 5
+# -------------------
+# Markdown
+# -------------------
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
 
-include: ["_pages", "assets/js/search.json"]
-
-# Defaults
+# -------------------
+# Jekyll defaults
+# -------------------
 defaults:
   - scope:
       path: ""
@@ -65,7 +86,9 @@ defaults:
     values:
       layout: "jeremy"
 
-# Collections
+# -------------------
+# Jekyll collections
+# -------------------
 collections:
   projects:
     output: true
@@ -77,7 +100,9 @@ collections:
     output: true
     permalink: /jeremybearimy/:path/
 
-# Taxonomy
+# -------------------
+# Jekyll archives
+# -------------------
 jekyll-archives:
   enabled:
     - categories
@@ -89,9 +114,13 @@ jekyll-archives:
   slug_mode: latin
   date: 2021-08-15 13:45
 
-excerpt_separator: <!--more-->
+# -------------------
+# Jekyll plugins
+# -------------------
+plugins:
+  - jekyll-archives
+  - jekyll-responsive-image
 
-# Responsive images
 responsive_image:
   template: _includes/pattern-responsive-image.html
   sizes:
@@ -103,8 +132,3 @@ responsive_image:
       quality: 90
   strip: true
   output_path_format: assets/images/responsive/%{width}/%{basename}
-
-# Plugins
-plugins:
-  - jekyll-archives
-  - jekyll-responsive-image

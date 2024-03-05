@@ -1,8 +1,19 @@
+# -------------------
+# SASS
+# -------------------
 sass:
   style: compressed
 
+# -------------------
+# Inclusions
+# -------------------
+include: ["_pages", ".htaccess", "assets/js/search.json"]
+
+# -------------------
+# Exclusions
+# -------------------
 exclude:
   - README.md
   - /assets/css/smd.css.map
-
-include: ["_pages", ".htaccess", "assets/js/search.json"]
+  - SMD.sublime-project
+  - SMD.sublime-workspace
