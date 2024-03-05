@@ -30,7 +30,7 @@
   {%- assign tagArchive = page.type | where: 'post.type', 'tag' -%}
   {% unless tagArchive %}
   "datePublished": "{{ page.date }}",
-  "dateModified": "{{ page.last_modified_at }}",
+  "dateModified": "{% if page.url == '/' %}{{ site.time }}{% else %}{{ page.last_modified_at }}{% endif %}",
   {% endunless -%}
   "author": {
     "@type": "Person",
