@@ -1,60 +1,61 @@
-{%- assign note = site.notes -%}
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-{% if page.robots %}<meta content="{{ page.robots }}, noai, noimageai" name="robots">{% else %}<meta content="index, follow, noai, noimageai" name="robots">{% endif %}
-<meta content="{% if page.description %}{{ page.description }}{% else %}{{ site.description | strip_html }}{% endif %}" name="description">
-<!-- minimal open graph implementation -->
-<meta content="{%- include site-title.html -%}" property="og:title">
-<meta content="{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description | strip_html }}{% endif %}" name="description" property="og:description">
-<meta content="{% if page.featuredimage %}{{ site.url }}/assets/images/{{ page.featimage }}.jpg{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" property="og:image">
-<meta content="{% if page.featuredimage %}{{ site.url }}/assets/images/{{ page.featimage }}.jpg{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" name="twitter:card">
-<!-- end open graph -->
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  {% if page.is_post -%}
-  "@type": "BlogPosting",{% else %}"@type": "WebSite",
-  {%- endif %}
-  "name": "{%- include site-title.html -%}",
-  "headline": "{%- include site-title.html %}",
-  "url": "{{ site.url }}{{ page.url }}",
-  "description": "{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description | strip_html }}{% endif %}",
-  "keywords": "{% if page.tags %}{{ page.tags | join: ',' }}{% else %}{{ site.keywords }}{% endif %}",
-  {%- assign tagArchive = page.type | where: 'post.type', 'tag' -%}
-  {% unless tagArchive %}
-  "datePublished": "{{ page.date }}",
-  "dateModified": "{% if page.url == '/' %}{{ site.time }}{% else %}{{ page.last_modified_at }}{% endif %}",
-  {% endunless -%}
-  "author": {
-    "@type": "Person",
-    "name": "Silvia Maggi",
-    "givenName": "Silvia",
-    "familyName": "Maggi"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ site.url }}{{ page.url }}"
-  },
-  "sameAs": [
-    "https://linkedin.com/in/silviamaggi/",
-    "https://github.com/silviamaggi/",
-    "https://www.flickr.com/photos/silvia-m/"
-  ],
-  {%- if page.featuredimage %}
-  "image": {
-    "@type": "ImageObject",
-    "width": "1200",
-    "height": "500",
-    "url": "{{ site.url }}/assets/images/{{ page.featimage }}.jpg"
+  {%- assign note = site.notes -%}
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  {% if page.redirect %}<meta http-equiv="refresh" content="0; url={{ page.redirect }}">{% endif %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.robots %}<meta content="{{ page.robots }}, noai, noimageai" name="robots">{% else %}<meta content="index, follow, noai, noimageai" name="robots">{% endif %}
+  <meta content="{% if page.description %}{{ page.description }}{% else %}{{ site.description | strip_html }}{% endif %}" name="description">
+  <!-- minimal open graph implementation -->
+  <meta content="{%- include site-title.html -%}" property="og:title">
+  <meta content="{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description | strip_html }}{% endif %}" name="description" property="og:description">
+  <meta content="{% if page.featuredimage %}{{ site.url }}/assets/images/{{ page.featimage }}.jpg{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" property="og:image">
+  <meta content="{% if page.featuredimage %}{{ site.url }}/assets/images/{{ page.featimage }}.jpg{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" name="twitter:card">
+  <!-- end open graph -->
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    {% if page.is_post -%}
+    "@type": "BlogPosting",{% else %}"@type": "WebSite",
+    {%- endif %}
+    "name": "{%- include site-title.html -%}",
+    "headline": "{%- include site-title.html %}",
+    "url": "{{ site.url }}{{ page.url }}",
+    "description": "{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description | strip_html }}{% endif %}",
+    "keywords": "{% if page.tags %}{{ page.tags | join: ',' }}{% else %}{{ site.keywords }}{% endif %}",
+    {%- assign tagArchive = page.type | where: 'post.type', 'tag' -%}
+    {% unless tagArchive %}
+    "datePublished": "{{ page.date }}",
+    "dateModified": "{% if page.url == '/' %}{{ site.time }}{% else %}{{ page.last_modified_at }}{% endif %}",
+    {% endunless -%}
+    "author": {
+      "@type": "Person",
+      "name": "Silvia Maggi",
+      "givenName": "Silvia",
+      "familyName": "Maggi"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ site.url }}{{ page.url }}"
+    },
+    "sameAs": [
+      "https://linkedin.com/in/silviamaggi/",
+      "https://github.com/silviamaggi/",
+      "https://www.flickr.com/photos/silvia-m/"
+    ],
+    {%- if page.featuredimage %}
+    "image": {
+      "@type": "ImageObject",
+      "width": "1200",
+      "height": "500",
+      "url": "{{ site.url }}/assets/images/{{ page.featimage }}.jpg"
+    }
+    {%- else %}
+    "image": {
+      "@type": "ImageObject",
+      "width": "1200",
+      "height": "628",
+      "url": "{{ site.url }}{{ site.logo }}"
+    }
+    {%- endif %}
   }
-  {%- else %}
-  "image": {
-    "@type": "ImageObject",
-    "width": "1200",
-    "height": "628",
-    "url": "{{ site.url }}{{ site.logo }}"
-  }
-  {%- endif %}
-}
-</script>
+  </script>
