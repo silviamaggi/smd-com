@@ -35,7 +35,7 @@
               <footer>Published: <time><xsl:value-of select="pubDate" /></time></footer>
             </article>
           </xsl:for-each>
-          <p class="about"><img src="/assets/images/favicons/favicon.svg" alt="Silvia Maggi icon" width="24" height="24" /><a href="https://silviamaggidesign.com/about/">About Silvia Maggi</a>.</p>
+          <p class="about"><img src="/assets/images/favicons/favicon.svg" alt="Silvia Maggi icon" width="24" height="24" /><a href="{{ site.url }}/about/">About Silvia Maggi</a>.</p>
         </main>
       </body>
     </html>

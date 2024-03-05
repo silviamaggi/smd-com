@@ -18,7 +18,7 @@ featimage: '20230612-235211-london-5985'
 ---
 The scent of the vegetation. It’s the first thing I recognised while walking the ramp from the arrivals hall to the train station at Stansted Airport. The same ramp I walked so many times in ten years.
 
-I was immediately reminded of [my commute to work in Cambridge](https://silviamaggidesign.com/projects/the-changing-season/), especially in spring and summer, when the air is filled with the same smell and that of wild flowers. The mood was set for our first holiday since 2020, which coincided with our first visit to the UK after we moved to Italy.
+I was immediately reminded of [my commute to work in Cambridge]({{ site.url }}/projects/the-changing-season/), especially in spring and summer, when the air is filled with the same smell and that of wild flowers. The mood was set for our first holiday since 2020, which coincided with our first visit to the UK after we moved to Italy.
 
 My husband and I stayed in an hotel in Greenwich, a place we love and used to visit regularly when we lived in [Rotherhithe](https://en.wikipedia.org/wiki/Rotherhithe). It only took eating at the local Nando’s and a walk along the Thames for us to feel home again. Almost every place, scent, and sound is linked to a memory. A few examples:
 

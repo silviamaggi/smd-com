@@ -13,6 +13,6 @@ It is clear by now that **the tech industry has a diversity problem**. As humans
 
 To design for everyone, we need to consider the users’ context, hence, why we need professionals that can empathise with them. We need people to call us out on our assumptions. Data is already biased against women, as a powerful and provocative book reveals, so change must be happening now, a moment where algorithms and AI are becoming more prominent in our lives. These, and other intriguing topics — including a funny video about poorly designed doors — is what you’ll find in this week’s digest.
 
-Also, I wrote an article about <a href="https://silviamaggidesign.com/ux/ux-of-contact-lenses-containers/">The UX of contact lenses containers</a>.
+Also, I wrote an article about <a href="{{ site.url }}/ux/ux-of-contact-lenses-containers/">The UX of contact lenses containers</a>.
 
-<p class="detached">🔗 <a href="https://silviamaggidesign.com/design-digested/design-digested-5-diversity-bias/">Read this week’s digest</a></p>
+<p class="detached">🔗 <a href="{{ site.url }}/design-digested/design-digested-5-diversity-bias/">Read this week’s digest</a></p>

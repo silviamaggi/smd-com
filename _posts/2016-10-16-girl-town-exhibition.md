@@ -22,16 +22,16 @@ image-caption: true
   caption: Girl Town – Back from the office, &copy; Silvia Maggi
 {% endresponsive_image_block %}
 
-_GIRL TOWN_ is a selected exhibition of photography celebrating the culture of the female in the 21st Century. It’s been curated through Instagram, so it is possible to see all the entries by exploring the hashtag `#girltownPM`. The selected 200 photos are visible at the lovely St Margaret’s House, London, until 1st November 2016.
+_GIRL TOWN_ is a selected exhibition of photography celebrating the culture of the female in the 21st Century. It’s been curated through Instagram, so it is possible to see all the entries by exploring the hashtag `#girltownPM`. The selected 200 photos are visible at the lovely St Margaret’s House, London, until 1st November 2016.
 
-_GIRL TOWN_ is also a series of talks, meetups, films screenings. Programme and other information [here](https://shutterhub.org.uk/blog/girltownpm){:title="Read more on the Shutter Hub website"}. The exhibition already got very good press and, the night of the opening, it was announced that next year it’ll be going to Tel Aviv. I couldn’t have imagined a better result!
+_GIRL TOWN_ is also a series of talks, meetups, films screenings. Programme and other information [here](https://shutterhub.org.uk/blog/girltownpm){:title="Read more on the Shutter Hub website"}. The exhibition already got very good press and, the night of the opening, it was announced that next year it’ll be going to Tel Aviv. I couldn’t have imagined a better result!
 
-## About Shutter Hub
+## About Shutter Hub
 
 Shutter Hub is a community and online resource for photographers, providing opportunities for photographers to promote their work, network, receive support, develop themselves professionally, and exhibit their work both online and in exhibitions.
 
 <p class="detached">🔗 <a href="https://shutterhub.org.uk" title="Go to the Shutter Hub website">https://shutterhub.org.uk</a></p>
 
-## About the Old Girls’ Club
+## About the Old Girls’ Club
 
 The Old Girl’s Club is committed to supporting women in photography and lens-based creative media.

@@ -22,4 +22,4 @@ All I read this week revolves around two main areas: how we can get absorbed int
 <p class="detached">Enjoy!<br>
 Silvia</p>
 
-<p class="detached">🔗 <a href="https://silviamaggidesign.com/design-digested/biased-ai/">Read this week’s digest</a></p>
+<p class="detached">🔗 <a href="{{ site.url }}/design-digested/biased-ai/">Read this week’s digest</a></p>

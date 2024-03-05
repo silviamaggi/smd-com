@@ -17,11 +17,11 @@ Also in the list, how the cookies consent boxes went too far, and a video about 
 
 The second one is a photography project that I recently published. I wanted to document the extraordinary times we’re living. By no means the situation changed, but it feels like the project should be over:
 
-<p class="detached">🔗 View the project <a href="https://silviamaggidesign.com/photography/isolation-photo-diary/">Isolation Photo Diary</a></p>
+<p class="detached">🔗 View the project <a href="{{ site.url }}/photography/isolation-photo-diary/">Isolation Photo Diary</a></p>
 
 <p class="detached">I hope you enjoy it!</p>
 
 <p class="detached">Stay safe,<br>
 Silvia</p>
 
-<p class="detached">🔗 <a href="https://silviamaggidesign.com/design-digested/design-digested-empathic-design/">Read this week’s digest</a></p>
+<p class="detached">🔗 <a href="{{ site.url }}/design-digested/design-digested-empathic-design/">Read this week’s digest</a></p>

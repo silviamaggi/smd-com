@@ -14,7 +14,7 @@ tags:
 description: 'I don’t like trackers. That’s why I stopped using Mailchimp. I tell you why and how I stopped using Mailchimp and what I did instead.'
 excerpt: 'I tell you why and how I stopped using Mailchimp and what I did instead.'
 ---
-I don’t like trackers. When I decided to build [my own independent website](https://silviamaggidesign.com/design/brand-new-website/), I got rid of everything that could tell me who visited it. Furthermore, every link I share on it is <abbr title="Urchin Tracking Module">UTM</abbr>[^utm]-free. I do it because I also don’t like to track people. 
+I don’t like trackers. When I decided to build [my own independent website]({{ site.url }}/design/brand-new-website/), I got rid of everything that could tell me who visited it. Furthermore, every link I share on it is <abbr title="Urchin Tracking Module">UTM</abbr>[^utm]-free. I do it because I also don’t like to track people. 
 
 The next natural step was to get rid of Mailchimp. Their new composer had given me headhaches, leaving me less than happy every time I sent out a newsletter. Not activating tracking for opens and clicks didn’t help much, as Mailchimp will keep using the clicks data for abuse mitigation purposes[^mailchimp-trackers].
 
@@ -28,7 +28,7 @@ Without looking further away, the solution has always been in front of my eyes: 
 
 [Netlify](https://www.netlify.com/), my web hosting, comes with built-in form handling. I created a simple subscription form  adding a `netlify` attribute to the `<form>` tag[^netlify-forms].  Now I manage it from the site admin panel. Spam is automatically filtered out and I receive notifications every time someone subscribes. 
 
-Mailchimp provides a handy archive of past newsletters for people to consult before deciding to subscribe. I recreated it [on my website](https://silviamaggidesign.com/newsletter/). 
+Mailchimp provides a handy archive of past newsletters for people to consult before deciding to subscribe. I recreated it [on my website]({{ site.url }}/newsletter/). 
 
 ## What’s ahead
 

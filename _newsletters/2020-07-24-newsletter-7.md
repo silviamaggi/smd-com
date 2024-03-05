@@ -15,4 +15,4 @@ Last month, the well-know among knitters and crocheters website Ravelry underwen
 
 In the meantime, Ravelry didn’t fix the accessibility issues. Moreover, the founders and team closed or made private their social media accounts, and closed the threads about the redesign on the forum: not a good sign of the things to come. It’s up to us, designers and developers, to build accessible websites. It’s up to all of us to call out companies that don’t do it. **It’s our responsibility to make the web accessible, usable and inclusive**.
 
-<p class="detached">🔗 <a href="https://silviamaggidesign.com/design/ravelry-rebranding/">Read the blog post</a></p>
+<p class="detached">🔗 <a href="{{ site.url }}/design/ravelry-rebranding/">Read the blog post</a></p>

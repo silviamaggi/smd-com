@@ -58,7 +58,7 @@ Everytime I had something to say or show, I’d post it on some social media alm
 
 - [You Really Need to Quit Twitter](https://www.theatlantic.com/ideas/archive/2021/07/twitter-addict-realizes-she-needs-rehab/619343/) – article on The Atlantic
 - [Why you should quit social media](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media) TED Talk by Cal Newport
-- [The vicious flower and the news](https://silviamaggidesign.com/personal/vicious-flower-news/) on my website
+- [The vicious flower and the news]({{ site.url }}/personal/vicious-flower-news/) on my website
 - [Center for Humane Technology](https://www.humanetech.com/)
 - [We’re building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads) TED Talk by Zeynep Tufekci
 

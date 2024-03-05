@@ -12,4 +12,4 @@ As designers, we work with **empathy, research and solution-based approaches** e
 <p class="detached">Stay safe,<br>
 Silvia</p>
 
-<p class="detached">🔗 <a href="https://silviamaggidesign.com/design-digested/design-community-solidarity/">Read this week’s digest</a></p>
+<p class="detached">🔗 <a href="{{ site.url }}/design-digested/design-community-solidarity/">Read this week’s digest</a></p>

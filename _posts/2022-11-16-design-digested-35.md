@@ -22,7 +22,7 @@ permalink: '/design-digested/:title/'
 ---
 ## Why everything looks the same
 
-In the natural follow-up to [Design, Digested 34's first article](https://silviamaggidesign.com/design-digested/design-digested-34/ "Read the previous issue"), Ryan Duffy explores the reasons why everything looks the same. From interior spaces to websites, via logos and cars, find out about what he calls “blanding”.
+In the natural follow-up to [Design, Digested 34's first article]({{ site.url }}/design-digested/design-digested-34/ "Read the previous issue"), Ryan Duffy explores the reasons why everything looks the same. From interior spaces to websites, via logos and cars, find out about what he calls “blanding”.
 
 🔗 [Read the article _Why everything looks the same_ on Scribe](https://scribe.rip/knowable/why-everything-looks-the-same-bad80133dd6e)
 
@@ -40,7 +40,7 @@ Roger Attrill takes a look at the contrast checker, one of the most fundamental 
 
 ## Accessibility for vestibular disorders: how my temporary disability changed my perspective
 
-A bad case of vertigo caused by labyrinthitis made Facundo Corradini reconsider his abled life and the way he approached design and development. He explains what he learned and what he's doing differently now. Facundo's observations reminded me of the problems many people experienced with the [2020 redesign of the Raverly website](https://silviamaggidesign.com/design/ravelry-rebranding/ "read the blog post on my website").
+A bad case of vertigo caused by labyrinthitis made Facundo Corradini reconsider his abled life and the way he approached design and development. He explains what he learned and what he's doing differently now. Facundo's observations reminded me of the problems many people experienced with the [2020 redesign of the Raverly website]({{ site.url }}/design/ravelry-rebranding/ "read the blog post on my website").
 
 🔗 [Read _Accessibility for vestibular disorders: how my temporary disability changed my perspective_ on A List Apart](http://alistapart.com/article/accessibility-for-vestibular/)
 

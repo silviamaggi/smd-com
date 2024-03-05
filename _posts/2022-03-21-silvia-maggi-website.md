@@ -74,10 +74,10 @@ Yet, no tool can reliably substitute a manual test. That is, navigating a site u
 
 As I took a closer look to the WCAG 2.1 success criteria, and recently enrolled in the [Web Accessibility course on Udacity](https://www.udacity.com/course/web-accessibility--ud891 "Visit the course page"), I decided to take a step-by-step approach to make my website entirely compliant.
 
-Continue reading on [the first of a series of posts where I explain the changes I’m making and why](https://silviamaggidesign.com/accessibility/making-website-accessible-1/).
+Continue reading on [the first of a series of posts where I explain the changes I’m making and why]({{ site.url }}/accessibility/making-website-accessible-1/).
 
 ## Responsive images and photo galleries
-Over the years, I published many pictures on social networks and  previous blogs. After [quitting social media](https://silviamaggidesign.com/personal/life-off-social-media/){: title="Read what happened after I quit social media"}, the website needed to become the centre of my virtual life and the place from where to publish elsewhere.
+Over the years, I published many pictures on social networks and  previous blogs. After [quitting social media]({{ site.url }}/personal/life-off-social-media/){: title="Read what happened after I quit social media"}, the website needed to become the centre of my virtual life and the place from where to publish elsewhere.
 
 Whereas I previously didn't invest much time thinking about images before publishing, now I have **workflows to make sure they're optimised** and within specific dimensions. Jekyll's responsive images plugin automatically generates different versions of the photos I include, based on the viewport of multiple devices. Despite the amount of pictures published, the website performance is stellar, both on mobile and desktop.
 
@@ -115,8 +115,8 @@ Due to the site compact size, it’s member of: [![512kb Blue Team](/assets/imag
 
 ## Further reading
 
-- [How I am making my website accessible — Part 1](https://silviamaggidesign.com/accessibility/making-website-accessible-1/ "Read the blog post")
-- [How I am making my website accessible — Part 2](https://silviamaggidesign.com/accessibility/making-website-accessible-2/ "Read the blog post")
+- [How I am making my website accessible — Part 1]({{ site.url }}/accessibility/making-website-accessible-1/ "Read the blog post")
+- [How I am making my website accessible — Part 2]({{ site.url }}/accessibility/making-website-accessible-2/ "Read the blog post")
 
 ---
 

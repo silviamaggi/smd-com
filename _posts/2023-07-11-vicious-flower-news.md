@@ -31,11 +31,11 @@ At the centre of the flower is the belief (e.g. I’m not good enough). The peta
 
 Whenever I feel anxious, I end up in a loop that keeps me scrolling the news and other feeds multiple times a day. Better if the scrolling is mindless and catches mainly the negative. This activity tends to distract me from my goals. Even though I can find interesting reads among a sea of information, I’m left with a feeling of emptiness.
 
-This year I’m doing better, as [I keep reading books as well](https://silviamaggidesign.com/now/), but it doesn’t feel enough to placate the anxiety. I need to pluck a few more petals.
+This year I’m doing better, as [I keep reading books as well]({{ site.url }}/now/), but it doesn’t feel enough to placate the anxiety. I need to pluck a few more petals.
 
 ## Social media are not the only problem
 
-One of the most read articles on my website is the one where I explain [what happened after I closed my social media accounts](https://silviamaggidesign.com/personal/life-off-social-media/). Everything I wrote still holds true. Yet, I keep falling into the scrolling trap.
+One of the most read articles on my website is the one where I explain [what happened after I closed my social media accounts]({{ site.url }}/personal/life-off-social-media/). Everything I wrote still holds true. Yet, I keep falling into the scrolling trap.
 
 Nowadays the news are treated like social media feeds. Every day there is at least one live feed of an event deemed important, and newspapers are updated constantly to keep people informed.
 
@@ -47,7 +47,7 @@ I know facts, which I can briefly summarise to other people, but do I understand
 
 The first petal to pluck is the news. I tried to cut them multiple times, with different degrees of success. What I did today is to subscribe to a couple of more newsletters from The Guardian, including the Long Reads ones. That should help me focus on stories I can assimilate better.
 
-The second petal to pluck is the articles I use to share in my [_Design, Digested_ series](https://silviamaggidesign.com/category/design-digested/). As it is summer, I’m considering sending it on holiday while I find ways to avoid the dreaded information overload.
+The second petal to pluck is the articles I use to share in my [_Design, Digested_ series]({{ site.url }}/category/design-digested/). As it is summer, I’m considering sending it on holiday while I find ways to avoid the dreaded information overload.
 
 Other petals are about adding more filters to my Mastodon feed, and cutting down my visits to LinkedIn to a minimum.
 

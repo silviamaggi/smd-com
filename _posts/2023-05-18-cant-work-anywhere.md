@@ -34,4 +34,4 @@ Culture also plays a part, as usual. Something that’s common in a place may be
 - [Noise Pollution](https://education.nationalgeographic.org/resource/noise-pollution/) on National Geographic
 - [Shout it from the rooftops: the noise pollution in towns and cities is killing us](https://www.theguardian.com/commentisfree/2023/apr/10/noise-pollution-britains-towns-cities-killing-us) on The Guardian
 - [Noise pollution is a menace to humanity – and a deadly threat to animals](https://www.theguardian.com/commentisfree/2023/jan/03/noise-pollution-is-a-menace-to-humanity-and-a-deadly-threat-to-animals) on The Guardian
-- Book: [The Culture Map by Erin Meyer](https://silviamaggidesign.com/books/culture-and-design-books/#culture-map)
+- Book: [The Culture Map by Erin Meyer]({{ site.url }}/books/culture-and-design-books/#culture-map)

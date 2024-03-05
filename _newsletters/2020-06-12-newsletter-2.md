@@ -20,4 +20,4 @@ I can’t wait to attend a webinar about designing with the constraint of social
 <p class="detached">Stay safe,<br>
 Silvia</p>
 
-<p class="detached">🔗 <a href="https://silviamaggidesign.com/design-digested/responsive-design-at-ten/">Read this week’s digest</a></p>
+<p class="detached">🔗 <a href="{{ site.url }}/design-digested/responsive-design-at-ten/">Read this week’s digest</a></p>

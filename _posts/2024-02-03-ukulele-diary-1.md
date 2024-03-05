@@ -16,7 +16,7 @@ featuredimage: false
 ---
 My ukulele was delivered a few days before Christmas, a Cascha lefthand concert model from the mahogany series that comes with a padded case from [Thomann](https://www.thomann.de/gb/index.html). It smells amazingly, and is the perfect size for me, a small woman.
 
-As I had already bought a beginners’ book, [I started learning to play it right away](https://silviamaggidesign.com/music/four-strings-of-joy/). With some exception due to circumstances, I practise every day for at least 10 minutes.
+As I had already bought a beginners’ book, [I started learning to play it right away]({{ site.url }}/music/four-strings-of-joy/). With some exception due to circumstances, I practise every day for at least 10 minutes.
 
 ## Mental somersault
 

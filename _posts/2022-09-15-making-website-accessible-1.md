@@ -13,7 +13,7 @@ tags:
 description: "As I took a closer look to the WCAG 2.1 success criteria, I decided to take a step-by-step approach to make my website entirely compliant. First of a series."
 excerpt: "As I took a closer look to the WCAG 2.1 success criteria, I decided to take a step-by-step approach to make my website entirely compliant. First post of a series."
 ---
-When [I designed and developed my new website](https://silviamaggidesign.com/design/brand-new-website/ "Read the launch blog post"),  I took care of all the details that make a site compliant with the basic WCAG rules. A test with [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.com/ "Check the test result on WAVE") didn’t reveal any problematic issue.
+When [I designed and developed my new website]({{ site.url }}/design/brand-new-website/ "Read the launch blog post"),  I took care of all the details that make a site compliant with the basic WCAG rules. A test with [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.com/ "Check the test result on WAVE") didn’t reveal any problematic issue.
 
 I checked the colour contrast of elements, the legibility of text, and took care of *alternate description* for links and images. The automatic test that WAVE performs assured me I did a good job.
 
@@ -91,4 +91,4 @@ I reduced the max-width of the main container to make sure that block of texts a
 
 ## Read further
 
-- [Making my website accessible — Part 2](https://silviamaggidesign.com/accessibility/making-website-accessible-2/)
+- [Making my website accessible — Part 2]({{ site.url }}/accessibility/making-website-accessible-2/)

@@ -48,7 +48,7 @@ The Braille Institute created and made free for everyone to use a new typeface t
 
 ## Life, the UX-verse and everything
 
-Lisa Angela, who wrote a [great article on the toxic pragmatism of digital design](https://silviamaggidesign.com/design-digested/undoing-toxic-dogmatism/), is leaving the UX field. 
+Lisa Angela, who wrote a [great article on the toxic pragmatism of digital design]({{ site.url }}/design-digested/undoing-toxic-dogmatism/), is leaving the UX field. 
 
 > And whenever I initiate public discussions about design work satisfaction, I find these feelings are pretty universal — the more you care, the more disappointed you are. Not disappointed with the actual functional duties of the job but with the neverending compromises and tenuous respect the role commands.
 

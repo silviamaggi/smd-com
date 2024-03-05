@@ -20,7 +20,7 @@ Designed by Silvia Maggi, developed by Silvia Maggi and [Simone Silvestroni](htt
 
 ## Accessibility
 
-According to [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.com/), this website doesn't present any accessibility errors. Yet, I know the flaws that don't make it 100% accessible. [I'm working on it](https://silviamaggidesign.com/accessibility/making-website-accessible-1/ "read about the changes I'm making").
+According to [WAVE](https://wave.webaim.org/report#/https://silviamaggidesign.com/), this website doesn't present any accessibility errors. Yet, I know the flaws that don't make it 100% accessible. [I'm working on it]({{ site.url }}/accessibility/making-website-accessible-1/ "read about the changes I'm making").
 
 ## Sustainability
 

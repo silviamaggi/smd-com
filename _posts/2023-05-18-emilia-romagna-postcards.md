@@ -43,4 +43,4 @@ Ravenna is one of the places I can call home, which it had actually been for a y
 
 ## Other pictures
 
-- [A perfect day](https://silviamaggidesign.com/photography/a-perfect-day/)
+- [A perfect day]({{ site.url }}/photography/a-perfect-day/)

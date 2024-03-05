@@ -27,4 +27,4 @@ That’s where you’ll find them. Work in progress.
 
 ## Further reading
 
-- [Learn How to Use Sketching as an Ideation Method](https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design) on IDF — previously mentioned in the post [The importance of sketching in UX](https://silviamaggidesign.com/design-digested/importance-of-sketching-in-ux/).
+- [Learn How to Use Sketching as an Ideation Method](https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design) on IDF — previously mentioned in the post [The importance of sketching in UX]({{ site.url }}/design-digested/importance-of-sketching-in-ux/).

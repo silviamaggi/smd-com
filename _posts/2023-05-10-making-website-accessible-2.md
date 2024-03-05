@@ -60,4 +60,4 @@ A dotted outline is now visible around links that take focus, both when using a 
 
 ## Read further
 
-- [Making my website accessible — Part 1](https://silviamaggidesign.com/accessibility/making-website-accessible-1/)
+- [Making my website accessible — Part 1]({{ site.url }}/accessibility/making-website-accessible-1/)
