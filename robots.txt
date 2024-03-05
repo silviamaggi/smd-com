@@ -4,10 +4,19 @@ layout: none
 User-Agent: ChatGPT-User
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
 User-Agent: AdsBot-Google
 Disallow: /
 
 User-Agent: Mediapartners-Google
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: PerplexityBot
 Disallow: /
 
 User-Agent: adidxbot
@@ -22,4 +31,4 @@ Disallow: /
 User-agent: yandex
 Disallow: /
 
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: {{ site.url}}/sitemap.xml
