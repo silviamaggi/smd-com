@@ -1,7 +1,7 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-03-06 22:09:51'
+last_modified_at: '2024-03-07 14:10:55'
 featured-post: false
 categories:
   - Books
@@ -18,6 +18,7 @@ My main goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), an
 
 ## In progress
 
+- _Kitchen Confidential_, by Anthony Bourdain
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 
 ## Parked
