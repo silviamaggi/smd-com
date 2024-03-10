@@ -1,7 +1,7 @@
 ---
-title: 'Women’s day and theatre'
+title: 'International Women’s Day and theatre'
 date: '2024-03-09 18:13:01'
-last_modified_at: '2024-03-09 22:05:54'
+last_modified_at: '2024-03-10 13:34:48'
 featured-post: false
 popular-post: false
 categories:
@@ -10,6 +10,7 @@ tags:
   - cambridge
   - uk
   - book
+  - theatre
 description: "Yesterday I got to celebrate International Women’s Day in a pleasant and unexpected way."
 excerpt: "Yesterday I got to celebrate <em>International Women’s Day</em> in a pleasant and unexpected way."
 image-caption: true
