@@ -2,8 +2,9 @@
 layout: page
 title: Cornerstone books
 date: '2023-04-07 22:47:25'
-last_modified_at: '2023-04-07 22:55:38'
+last_modified_at: '2024-03-12 11:18:51'
 description: "List of the books that improved my profession."
+updated_on: true
 permalink: /books/
 ---
 {: .smd-ul }
@@ -20,6 +21,4 @@ permalink: /books/
 - _Git for Humans_, by David Demaree;
 - _Cross-Cultural Design_, by Senongo Akpem;
 - _Sustainable Web Design_, by Tom Greenwood.
-
-{: .btn-lg .d-inline-block .btn-label-smd .btn-label-smd-bg .fw-bold .smd-font-micro .px-2 .py-1 }
-Updated on: {{ page.last_modified_at | date: "%-d %B %Y" }}
+- _Extra Bold – A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers_, by multiple authors

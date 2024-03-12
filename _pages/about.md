@@ -2,15 +2,13 @@
 layout: page
 title: About
 date: '2020-02-27'
-last_modified_at: '2024-02-05 18:35:19'
+last_modified_at: '2024-03-12 11:16:17'
 description: "I’m Silvia Maggi (she/her), a designer specialised in building accessible and usable products. Curator of the inspiration series Design, Digested."
 updated_on: true
 permalink: /about/
 ---
 {: .p-summary .lead }
 I’m Silvia Maggi (she/her), a designer specialised in building accessible and usable products. I care about design ethics and sustainability.
-
-<!-- Currently contracting with [Mango Interactive](https://mangointeractive.it/) in the role of UX designer for the Italian bank [BPER](https://www.bper.it/), I previously helped the leading European commercial bank [UniCredit](https://www.unicredit.it) conform with WCAG 2.1.  -->
 
 ## I’m a designer
 
@@ -42,11 +40,11 @@ In May 2020, I started *Design, Digested* – the [design inspiration series](/c
 - Born and raised in Italy.
 - Moved to the UK in 2011.
 - Bilingual in Italian and English.
-- Currently brushing up my French and started to study Swedish.
 - In a bid to better my visual communication skills, I started [learning to draw](/drawing/learning-to-draw/).
 - Photography is my life-long passion. I contributed to several [exhibitions](/exhibitions/).
 - Authored [two music videos](/projects/after-1989-a-trip-to-freedom/). 
 - [I’m a knitter](/personal/back-to-knitting/).
+- Currently learning to play the <a href="{{ site.url }}/tag/ukulele/">ukulele</a>.
 
 ## More
 
