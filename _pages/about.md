@@ -2,7 +2,7 @@
 layout: page
 title: About
 date: '2020-02-27'
-last_modified_at: '2024-03-12 11:16:17'
+last_modified_at: '2024-03-12 12:47:18'
 description: "I’m Silvia Maggi (she/her), a designer specialised in building accessible and usable products. Curator of the inspiration series Design, Digested."
 updated_on: true
 permalink: /about/
@@ -30,7 +30,7 @@ With UI Farm, I used to *design in the browser*. The wireframes were done in HTM
 
 My favourite editor is Sublime Text.
 
-## I’m an archiver
+## I’m an archivist
 
 In May 2020, I started *Design, Digested* – the [design inspiration series](/category/design-digested/) and [newsletter](/newsletter/) about design, tech, and their implication in our lives. I gather the articles that leave an impression or become bookmarks, and share them.
 
