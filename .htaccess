@@ -340,7 +340,6 @@ Redirect 301 /tag/ui-copy/ /archive/
 Redirect 301 /tag/un/ /archive/
 Redirect 301 /tag/user-defenders/ /archive/
 Redirect 301 /tag/user-experience-design/ /archive/
-Redirect 301 /tag/user-research/ /archive/
 Redirect 301 /tag/ux-design/ /archive/
 Redirect 301 /tag/ux-designer/ /archive/
 Redirect 301 /tag/ux-research/ /archive/
