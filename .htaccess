@@ -62,7 +62,6 @@ Redirect 301 /turtle-nest-monitoring-app/ /work/
 Redirect 301 /case-study-acclimatize-me/ /work/
 Redirect 301 /portfolio/case-study-acclimatize-me/ /work/
 Redirect 301 /portfolio/ /work/
-Redirect 301 /projects/ /work/
 Redirect 301 /projects/case-study-origami/ /work/
 Redirect 301 /work/women-management/ /work/
 Redirect 301 /work/counterbooks-dashboard-design/ /work/
@@ -80,7 +79,7 @@ Redirect 301 /projects/apm-models-new-york-website/ /work/
 Redirect 301 /projects/not-on-the-high-street-blog/ /work/
 Redirect 301 /projects/counterbooks-dashboard-design/ /work/
 Redirect 301 /projects/women-management/ /work/
-Redirect 301 /ux/ux-archive/ /projects/ux-archive/
+Redirect 301 /work/ux-archive/ /projects/ux-archive/
 Redirect 301 /creativity/photography-rut-and-little-things-in-my-garden/ /photography/photography-rut/
 Redirect 301 /creativity/photography-rut/ /photography/photography-rut/
 Redirect 301 /photography/a-mirrorless-camera-changed-my-mindset/ /photography/mirrorless-camera-vs-dslr/
