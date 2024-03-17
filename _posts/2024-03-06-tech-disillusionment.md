@@ -3,7 +3,7 @@ title: 'My disillusionment with technology'
 date: '2024-03-06 14:17:40'
 last_modified_at: '2024-03-06 14:47:31'
 featured-post: false
-popular-post: fasle
+popular-post: true
 categories:
   - Personal
 tags:
