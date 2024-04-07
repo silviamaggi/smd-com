@@ -169,6 +169,7 @@ Redirect 301 /photography/i-deactivated-my-instagram-account/ /personal/deactiva
 Redirect 301 /photography/deactivated-my-instagram-account/ /personal/deactivated-my-instagram-account/
 Redirect 301 /portfolio/smd-site-case-study/ /projects/silvia-maggi-website/
 Redirect 301 /projects/reevoo-corporate-website/ /work/
+Redirect 301 /projects/ /category/projects/
 Redirect 301 /projects/apm-models-new-york-website/ /work/
 Redirect 301 /projects/not-on-the-high-street-blog/ /work/
 Redirect 301 /projects/counterbooks-dashboard-design/ /work/
