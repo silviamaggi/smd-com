@@ -11,7 +11,7 @@ tags:
   - accessibility
   - algorithm
   - carbon footprinting
-  - climate crisis
+  - climate
   - design
   - disability
   - greta thunberg
