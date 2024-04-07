@@ -210,8 +210,8 @@ Redirect 301 /tag/bot/ /archive/
 Redirect 301 /tag/brexit/ /archive/
 Redirect 301 /tag/camihawke/ /archive/
 Redirect 301 /tag/canon/ /archive/
-Redirect 301 /tag/climate-crisis/ /climate/
-Redirect 301 /tag/climate-justice/ /climate/
+Redirect 301 /tag/climate-crisis/ /tag/climate/
+Redirect 301 /tag/climate-justice/ /tag/climate/
 Redirect 301 /tag/cloudy/ /archive/
 Redirect 301 /tag/cold-war/ /archive/
 Redirect 301 /tag/concentration-camp/ /archive/
