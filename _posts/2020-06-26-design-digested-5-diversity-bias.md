@@ -1,6 +1,6 @@
 ---
 title: "Design, Digested 5 – Diversity bias"
-last_modified_at: '2024-02-28 16:29:19'
+last_modified_at: '2024-04-07 21:49:48'
 featured-post: false
 categories:
   - Design Digested
@@ -15,7 +15,7 @@ tags:
   - book
   - invisible women
   - caroline criado perez
-  - gender data gap
+  - gender gaps
 description: 'Design inspiration series. Diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.'
 excerpt: 'Design inspiration series. This week: diversity bias in the tech industry; the gender data gap; anti-racism reading list and bad doors.'
 featuredimage: true

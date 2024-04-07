@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 27 – False empathy, fast fashion, gender pay gap'
-last_modified_at: '2024-02-28 16:38:15'
+last_modified_at: '2024-04-07 21:48:49'
 featured-post: false
 popular-post: true
 categories:
@@ -11,7 +11,7 @@ tags:
   - algorithm
   - fast fashion
   - sustainability
-  - gender pay gap
+  - gender gaps
   - accessibility
   - design system
   - design

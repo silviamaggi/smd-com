@@ -257,6 +257,8 @@ Redirect 301 /tag/futura/ /archive/
 Redirect 301 /tag/future/ /archive/
 Redirect 301 /tag/girltownpm/ /archive/
 Redirect 301 /tag/glicine/ /archive/
+Redirect 301 /tag/gender-data-gap/ /tag/gender-gaps
+Redirect 301 /tag/gender-pay-gap/ /tag/gender-gaps
 Redirect 301 /tag/generationequality/ /archive/
 Redirect 301 /tag/good-design/ /archive/
 Redirect 301 /tag/goodreads/ /archive/

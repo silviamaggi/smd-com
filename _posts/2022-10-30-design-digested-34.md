@@ -1,7 +1,7 @@
 ---
 title: "Design, Digested 34 – Sterile aesthetics, privacy, dyslexia"
 date: '2022-10-30 20:44:01'
-last_modified_at: '2022-11-01 09:57:44'
+last_modified_at: '2024-04-07 21:49:06'
 featured-post: false
 categories:
   - Design Digested
@@ -10,7 +10,7 @@ tags:
   - big tech
   - design
   - dyslexia
-  - gender data gap
+  - gender gaps
   - inspiration
   - privacy
   - typography
