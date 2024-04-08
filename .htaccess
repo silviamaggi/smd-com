@@ -52,6 +52,7 @@ Redirect 301 /about-silviamaggi-ux-designer/ /about/
 Redirect 301 /because-we-can-shutter-hub-exhibition-festival-pilours/ /photography/because-we-can-exhibition/
 Redirect 301 /blog/2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/ /design/ravelry-rebranding/
 Redirect 301 /blogroll/ /links/
+Redirect 301 /books/ /work/
 Redirect 301 /books/design-digested-1/ /design-digested/killing-eve-set-design/
 Redirect 301 /books/killing-eve-set-design/ /design-digested/killing-eve-set-design/
 Redirect 301 /books/design-digested-2-design-solidarity/ /design-digested/design-community-solidarity/
@@ -73,6 +74,7 @@ Redirect 301 /category/exhibition/ /category/photography/
 Redirect 301 /category/culture/ /category/books/
 Redirect 301 /category/diversity/ /category/design-digested/
 Redirect 301 /category/weeknotes/ /category/personal/
+Redirect 301 /certificates/ /work/
 Redirect 301 /contacts-silviamaggi/ /contact/
 Redirect 301 /contacts/ /contact/
 Redirect 301 /creativity/photography-rut-and-little-things-in-my-garden/ /photography/photography-rut/
@@ -108,6 +110,7 @@ Redirect 301 /diversity/design-digested-10-inclusive-design-social-media/ /desig
 Redirect 301 /diversity/inclusive-design/ /design-digested/inclusive-design/
 Redirect 301 /diversity/design-digested-11-all-women-edition/ /design-digested/all-women-edition/
 Redirect 301 /diversity/all-women-edition/ /design-digested/all-women-edition/
+Redirect 301 /endorsements/ /work/
 Redirect 301 /exhibition/because-we-can-exhibition-festival-pilours/ /photography/because-we-can-exhibition/
 Redirect 301 /exhibition/because-we-can-exhibition-shutter-hub-festival-pilours/ /photography/because-we-can-exhibition/
 Redirect 301 /exhibition/because-we-can-shutter-hub-exhibition-festival-pilours/ /photography/because-we-can-exhibition/
