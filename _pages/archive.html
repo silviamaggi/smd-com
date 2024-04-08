@@ -13,7 +13,7 @@ permalink: /archive/
   <ul class="list-group list-group-flush ps-0">
     {% for project in site.projects reversed %}
     <li class="list-group-item ps-0">
-      {% if project.type contains 'Photography' %}📸{% else %}👩🏻‍💻{% endif %} <a class="p-name" href="{{ project.url }}"">{{ project.title }}</a>
+      {% if project.type contains 'Photography' %}📸{% else %}👩🏻‍💻{% endif %} <a class="p-name" href="{{ project.url }}">{{ project.title }}</a>
     </li>
     {% endfor %}
   </ul>
