@@ -2,29 +2,28 @@
 layout: page
 title: Work
 date: '2021-04-13 17:27:01'
-last_modified_at: '2023-05-17 13:58:21'
+last_modified_at: '2024-04-08 16:27:08'
 updated_on: true
-description: 'Silvia Maggi’s latest working experience. Ask to see my portfolio.'
-excerpt: 'I’m a senior designer with almost 20 years of experience designing for the web. '
+description: 'Silvia Maggi’s latest working experience'
+excerpt: 'I’m a senior designer with 20 years of experience designing for the web.'
 permalink: '/work/'
 ---
-
-<h2>Latest experiences</h2>
-<dl>
-  <dt>Mango Interactive — UX Designer</dt>
-  <dd>I’m creating new flows for the mobile app of the Italian bank BPER in my capacity as an external consultant within the Digital Service Design division.</dd>
-  <dt>Mango Interactive — Web Consultant</dt>
-  <dd>I performed accessibility assessments for the top European commercial bank UniCredit and provided design guidance on how to comply with WCAG 2.1.</dd>
-  <dt>Origami Energy — UX Designer</dt>
-  <dd>I collaborated closely with stakeholders and software engineers as a sole and in-house UX designer to develop and implement the designs of the first customer-facing online application.</dd>
-</dl>
-
-<div class="my-5">
-  <p class="text-center">🔗 <a href="https://www.linkedin.com/in/silviamaggi/"><strong>View my profile on LinkedIn</strong>&nbsp;→</a></p>
+<section>
+  <h2>Latest experiences</h2>
+  <dl>
+    <dt>Silvia Maggi Design — UX designer, Web designer</dt>
+    <dd>Consulting on UX, design and development of websites with HTML/CSS, Jekyll and WordPress. Focus on accessibility, usability and information architecture.</dd>
+    <dt>Mango Interactive — UX designer</dt>
+    <dd>Created new flows for the mobile app of the Italian bank BPER in my capacity as an external consultant within the Digital Service Design division. Performed accessibility assessments for the top European commercial bank UniCredit and provided design guidance on how to comply with WCAG 2.1.</dd>
+    <dt>Origami Energy — UX designer</dt>
+    <dd>Designed the company‘s first customer-facing web application by collaborating closely with stakeholders and software engineers.</dd>
+  </dl>
+</section>
+<div class="smd-bg-l-90 rounded my-5 py-3">
+  <p class="text-center mb-0">🔗 <a href="https://work.silviamaggidesign.com"><strong>View my portfolio</strong>&nbsp;→</a></p>
 </div>
-
 <section class="my-5">
-  <h2 class="mb-5">They also trusted me</h2>
+  <h2 class="mb-5">They trusted me</h2>
   <div class="row justify-content-start gy-4">
     <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-unicredit.png" alt="UniCredit"></div>
     <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-reevoo.png" alt="Reevoo"></div>
@@ -36,40 +35,3 @@ permalink: '/work/'
     <div class="col-4 col-md-3"><img class="d-block mx-auto comp-logos" src="/assets/images/companies-logo-coral.png" alt="Coral"></div>
   </div>
 </section>
-
-<h2>More</h2>
-
-<ul>
-  <li><a href="/endorsements/">Endorsements</a></li>
-  <li><a href="/certificates/">Certificates and workshops</a></li>
-</ul>
-
-<div class="smd-bg-l-90 rounded my-5 py-3">
-  <p class="text-center mb-0">To see my portfolio<br> ✒️ <a href="mailto:contacts@silviamaggidesign.com">Write me an email</a></p>
-</div>
-
-{% comment %}
-<div class="h-feed my-5">
-  <ul class="h-feed list-unstyled ps-0">
-    {% assign projects = site.projects | reverse %}
-    {% for project in projects %}
-    <li class="row gx-0 my-4 py-4 smd-transition-opacity-03s position-relative {% unless forloop.last %}border-bottom{% endunless %}">
-      <div class="col-12 col-md-3 mb-4 text-center text-md-start">
-        <img class="rounded-3" src="/assets/images/highlights/highlighted-{{ project.featimage }}" alt="{{ project.featured-image-alt }}" width="200" height="200">
-      </div>
-      <div class="col-12 col-md-9 text-center text-md-start ps-md-3">
-        <span class="p-category btn-label-smd btn-label-smd-bg d-inline-block initialism fw-bold me-1 rounded"><strong>{{ project.type }}</strong></span>
-        <h3 class="p-name my-4">{{ project.title }}</h3> 
-        <p class="e-content fs-5 card-text text-start">{{ project.description }}</p>
-        <div class="my-4">
-          {% if project.custom-cta == true %}
-          <a class="stretched-link text-uppercase fs-5 fw-bold" href="{{ project.custom-url }}" title="View: {{ project.title }}">{{ project.custom-cta-title }}</a>
-          {% else %}
-          <a class="stretched-link text-uppercase" href="{{ project.url }}" title="View: {{ project.title }}"><strong>View the project</strong></a>{% endif %}&nbsp;→
-        </div>
-      </div>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
-{% endcomment %}
