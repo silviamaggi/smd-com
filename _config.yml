@@ -9,7 +9,7 @@ lang: "en-GB"
 title: Silvia Maggi
 tagline: Designer
 permalink: /:categories/:title/
-timezone: UK/London
+timezone: Europe/London
 logo: /assets/images/silviamaggi-og-image.jpg
 smd_latestposts_limit: 5
 excerpt_separator: <!--more-->
