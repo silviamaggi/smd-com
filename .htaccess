@@ -16,6 +16,7 @@ Header add Permissions-Policy "accelerometer=(self),autoplay=(self),camera=(self
 # Caching
 <IfModule mod_expires.c>
   ExpiresActive On
+  ExpiresDefault "access plus 2 days"
   # Images
   ExpiresByType image/jpeg "access plus 1 year"
   ExpiresByType image/gif "access plus 1 year"
@@ -33,12 +34,21 @@ Header add Permissions-Policy "accelerometer=(self),autoplay=(self),camera=(self
   ExpiresByType application/font-woff "access plus 1 year"
   ExpiresByType application/font-woff2 "access plus 1 year"
   # CSS, JavaScript
-  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType text/css "access plus 7 days"
+  ExpiresByType text/html "access plus 2 days"
   ExpiresByType text/javascript "access plus 1 year"
   ExpiresByType application/javascript "access plus 1 year"
   # Others
   ExpiresByType application/pdf "access plus 1 year"
 </IfModule>
+
+# Block bots
+ <IfModule mod_rewrite.c>
+  RewriteEngine on
+  RewriteBase /
+  RewriteCond %{HTTP_USER_AGENT} ({{ site.data.bots | sort_natural | join: "|" }}) [NC]
+  RewriteRule ^ – [F]
+ </IfModule>
 
 # Redirects
 Redirect 301 /2020/07/30/design-digested-9-facebook-cant-beat-hate-the-uncensored-library-and-get-bad-news/ /design-digested/facebook-cant-beat-hate/
@@ -52,7 +62,6 @@ Redirect 301 /about-silviamaggi-ux-designer/ /about/
 Redirect 301 /because-we-can-shutter-hub-exhibition-festival-pilours/ /photography/because-we-can-exhibition/
 Redirect 301 /blog/2020/07/20/how-rebranding-cost-ravelry-the-trust-of-their-community/ /design/ravelry-rebranding/
 Redirect 301 /blogroll/ /links/
-Redirect 301 /books/ /work/
 Redirect 301 /books/design-digested-1/ /design-digested/killing-eve-set-design/
 Redirect 301 /books/killing-eve-set-design/ /design-digested/killing-eve-set-design/
 Redirect 301 /books/design-digested-2-design-solidarity/ /design-digested/design-community-solidarity/
