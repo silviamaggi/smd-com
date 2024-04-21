@@ -1,9 +1,9 @@
 ---
 title: 'From seed to plant'
 date: '2024-04-10 16:07:06'
-last_modified_at: '2024-04-10 16:07:12'
+last_modified_at: '2024-04-21 13:24:17'
 featured-post: false
-popular-post: true
+popular-post: false
 categories:
   - Personal
 tags:
@@ -13,7 +13,7 @@ tags:
   - photography
 description: "One of the things I missed most of our life in Cambridge is growing vegetables and flowers. Updates from the garden"
 excerpt: "One of the things I missed most of our life in Cambridge is growing vegetables and flowers. Having a garden is a lot of work, but it’s highly rewarding."
-image-caption: true
+image-caption: false
 featuredimage: false
 ---
 Simone and I have been busy preparing for spring during the last few weekends. We’ve found the mint we planted years ago, moved it to the other side of the garden, and are watching it thrive. From seeds, we planted:
