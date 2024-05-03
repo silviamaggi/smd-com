@@ -1,7 +1,7 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-03-07 14:10:55'
+last_modified_at: '2024-05-03 10:57:03'
 featured-post: false
 categories:
   - Books
@@ -18,7 +18,7 @@ My main goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), an
 
 ## In progress
 
-- _Kitchen Confidential_, by Anthony Bourdain
+- _Frankenstein_, by Mary Shelley
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 
 ## Parked
@@ -31,6 +31,7 @@ Books I started to read, but don’t feel like continuing – for now.
 
 ## Finished
 
+- _Kitchen Confidential_, by Anthony Bourdain <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
 - _Vox_, by Christina Dalcher <span class="btn-sm btn-label-smd-bg">Vote: 2/5&nbsp;★</span>
 - _Lady Susan_, by Jane Austen <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
 - _Exhalation_, by Ted Chiang[^TedChiang] <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
