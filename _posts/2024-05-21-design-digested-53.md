@@ -1,7 +1,7 @@
 ---
 title: 'Design, Digested 53 – The ubiquitousness of smartphones and its consequences'
 date: '2024-05-21 19:14:27'
-last_modified_at: '2024-05-21 19:14:31'
+last_modified_at: '2024-05-23 13:40:43'
 featured-post: false
 categories:
   - 'Design Digested'
@@ -9,6 +9,7 @@ tags:
   - social media
   - addiction
   - internet
+  - technology
 description: "Design, Digested 53. The smartphone kids are not all right, Smartphone pervasiveness, Heat death of the internet"
 excerpt: "Of the few articles I read the past couple of months, the most memorable are about smartphones use and the ways modern tech can make us miserable."
 featuredimage: true
