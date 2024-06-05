@@ -13,7 +13,7 @@ layout: default
   </header>
   {%- unless page.tldr == false %}{% unless page.url contains '/notes/' %}
   <p class="p-summary detached lead">{{ page.excerpt }}</p>
-  {% unless page.url contains '/newsletter/' %}{% unless page.featuredimage == true %}<hr>{%- endunless %}{% endunless %}
+  {% unless page.url contains '/newsletter/' %}{% unless page.featuredimage == true %}<hr class="excerpt">{%- endunless %}{% endunless %}
   {% endunless %}{% endunless %}
   {%- if page.mention == true %}
   <hr>

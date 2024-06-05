@@ -209,6 +209,10 @@ hr {
   border: 0;
   opacity: .25
 }
+.excerpt {
+  border: thin dashed #bcaaa1;
+  background-color: transparent;
+}
 hr:not([size]) {
   height: 1px
 }
