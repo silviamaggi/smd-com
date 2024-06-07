@@ -1,7 +1,7 @@
 ---
 title: 'Design, Digested 54 – Designing for healthy habits and positive impact on society'
 date: '2024-06-02 11:25:58'
-last_modified_at: '2024-06-02 11:31:22'
+last_modified_at: '2024-06-06 23:47:37'
 featured-post: false
 categories:
   - 'Design Digested'
@@ -10,7 +10,7 @@ tags:
   - usability
   - design
 description: "Design, Digested 54. Design for healthy habits, and for positive impact on society"
-excerpt: "Three articles I read last week and found informative, funny, and uplifting."
+excerpt: "Three articles that I found informative, funny, and uplifting."
 featuredimage: true
 featimage-alt: ""
 featimage-class: 'u-featured'
