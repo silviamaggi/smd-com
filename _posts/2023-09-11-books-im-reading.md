@@ -1,7 +1,7 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-06-02 11:24:00'
+last_modified_at: '2024-06-06 13:33:59'
 featured-post: false
 categories:
   - Books
@@ -19,7 +19,8 @@ My main goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), an
 ## In progress
 
 - _Poor Things_, by Alasdair Gray
-- _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
+- _The Happiness Trap_, by Russ Harris
+
 
 ## Parked
 
@@ -28,6 +29,7 @@ Books I started to read, but don’t feel like continuing – for now.
 - _To the Lighthouse_, Virginia Woolf
 - _A Brief History of Time_, by Stephen Hawking
 - _Ultra-Processed People_, by Chris van Tulleken [^UltraP]
+- _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 
 ## Finished
 
