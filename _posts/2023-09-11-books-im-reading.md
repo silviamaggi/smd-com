@@ -1,7 +1,7 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-06-06 13:33:59'
+last_modified_at: '2024-06-11 17:45:05'
 featured-post: false
 categories:
   - Books
@@ -20,6 +20,7 @@ My main goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), an
 
 - _Poor Things_, by Alasdair Gray
 - _The Happiness Trap_, by Russ Harris
+- _The Menopause Brain_, by Dr Lisa Mosconi
 
 
 ## Parked
@@ -29,10 +30,10 @@ Books I started to read, but don’t feel like continuing – for now.
 - _To the Lighthouse_, Virginia Woolf
 - _A Brief History of Time_, by Stephen Hawking
 - _Ultra-Processed People_, by Chris van Tulleken [^UltraP]
-- _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk
 
 ## Finished
 
+- _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
 - _Frankenstein_, by Mary Shelley <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _Kitchen Confidential_, by Anthony Bourdain <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
 - _Vox_, by Christina Dalcher <span class="btn-sm btn-label-smd-bg">Vote: 2/5&nbsp;★</span>
