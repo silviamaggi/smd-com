@@ -1,7 +1,7 @@
 ---
 title: "My ukulele diary – part 2"
 date: '2024-07-18 11:34:39'
-last_modified_at: '2024-07-18 11:34:44'
+last_modified_at: '2024-07-18 17:36:10'
 featured-post: false
 categories:
   - Music
@@ -26,7 +26,7 @@ The previous diary entry ended with strumming rhythms and changing between the C
 
 ## What’s next
 
-Waltz time. I casually played *How much is that Doggie in the Window?* without a strumming pattern, which makes it quite boring. I joked that, being Italian, Waltz is my blood. It might be different now but when I was younger it was impossible not to come across this genre, especially during the summer. I find it easy to follow the rhythm, but successfully adding a strumming pattern will take some time.
+Waltz time. I casually played *How much is that Doggie in the Window?* without a strumming pattern, which makes it quite boring. I joked that, being Italian, Waltz is in my blood. It might be different now but when I was younger it was impossible not to come across this genre, especially during the summer. I find it easy to follow the rhythm, but successfully adding a strumming pattern will take some time.
 
 ## Creativity and emotions
 
