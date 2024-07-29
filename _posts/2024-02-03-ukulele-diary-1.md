@@ -1,8 +1,9 @@
 ---
 title: "My ukulele diary – part 1"
 date: '2024-02-03 13:31:28'
-last_modified_at: '2024-02-08 16:14:58'
+last_modified_at: '2024-07-29 11:10:57'
 featured-post: false
+popular-post: true
 categories:
   - Music
 tags:

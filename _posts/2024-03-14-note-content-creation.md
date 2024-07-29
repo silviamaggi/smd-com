@@ -3,7 +3,7 @@ title: "Reply: My gripe with the concept of ‘content creation’, perfectly ex
 date: '2024-03-14 14:26:38'
 last_modified_at: '2024-03-18 12:57:44'
 featured-post: false
-popular-post: false
+popular-post: true
 categories:
   - Notes
 tags:

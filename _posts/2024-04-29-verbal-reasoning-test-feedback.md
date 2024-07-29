@@ -1,9 +1,9 @@
 ---
 title: 'Reasoning why verbal reasoning tests are bad'
 date: '2024-04-29 14:44:35'
-last_modified_at: '2024-04-29 14:57:03'
+last_modified_at: '2024-07-29 11:11:03'
 featured-post: false
-popular-post: false
+popular-post: true
 categories:
   - Personal
 tags:
