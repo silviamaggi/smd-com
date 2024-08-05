@@ -1,7 +1,7 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-07-23 14:24:48'
+last_modified_at: '2024-08-05 15:24:05'
 featured-post: false
 categories:
   - Books
@@ -17,7 +17,7 @@ updated_on: true
 My main goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), and to focus instead on the books I bought. I’ve been trying to go through my library with varying results, mainly disappointing, until very recently. Here is my reading list. The record started at the beginning of 2023, and is constantly updated.
 
 ## In progress
-
+- _The Vanishing Act of Esme Lennox_, by Maggie O’Farrell
 - _The Happiness Trap_, by Russ Harris
 - _The Menopause Brain_, by Dr Lisa Mosconi
 
