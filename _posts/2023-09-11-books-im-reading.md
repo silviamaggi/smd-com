@@ -1,7 +1,7 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-08-05 15:24:05'
+last_modified_at: '2024-08-11 11:30:25'
 featured-post: false
 categories:
   - Books
@@ -17,7 +17,8 @@ updated_on: true
 My main goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), and to focus instead on the books I bought. I’ve been trying to go through my library with varying results, mainly disappointing, until very recently. Here is my reading list. The record started at the beginning of 2023, and is constantly updated.
 
 ## In progress
-- _The Vanishing Act of Esme Lennox_, by Maggie O’Farrell
+
+- _Alice’s Adventures in Wonderland_, by Lewis Carroll [^Alice]
 - _The Happiness Trap_, by Russ Harris
 - _The Menopause Brain_, by Dr Lisa Mosconi
 
@@ -31,7 +32,8 @@ Books I started to read, but don’t feel like continuing – for now.
 
 ## Finished
 
-- _Poor Things_, by Alasdair Gray
+- _The Vanishing Act of Esme Lennox_, by Maggie O’Farrell <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
+- _Poor Things_, by Alasdair Gray <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
 - _Frankenstein_, by Mary Shelley <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _Kitchen Confidential_, by Anthony Bourdain <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
@@ -56,6 +58,7 @@ Books I started to read, but don’t feel like continuing – for now.
 
 ## Notes
 
+[^Alice]: Reading it in English for the first time
 [^UltraP]: Going very slowly with this, as it requires a state of mind I’m not always in.
 [^AfterYang]: On which the beautiful film _After Yang_ is based on.
 [^TedChiang]: A few stories included in this collection were already present in _Stories of Your Life and Others_, so this was a faster read.
