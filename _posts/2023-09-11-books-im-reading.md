@@ -32,6 +32,8 @@ Books I started to read, but don’t feel like continuing – for now.
 
 ## Finished
 
+### 2024
+
 - _The Vanishing Act of Esme Lennox_, by Maggie O’Farrell <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _Poor Things_, by Alasdair Gray <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
@@ -39,6 +41,9 @@ Books I started to read, but don’t feel like continuing – for now.
 - _Kitchen Confidential_, by Anthony Bourdain <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
 - _Vox_, by Christina Dalcher <span class="btn-sm btn-label-smd-bg">Vote: 2/5&nbsp;★</span>
 - _Lady Susan_, by Jane Austen <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
+
+### 2023
+
 - _Exhalation_, by Ted Chiang[^TedChiang] <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
 - _The Expats_, by Chris Pavone <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _Ariadne_, by Jennifer Saint <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
