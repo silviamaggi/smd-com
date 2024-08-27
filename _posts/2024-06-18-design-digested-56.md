@@ -1,7 +1,7 @@
 ---
-title: 'Design, Digested 56 – Rewilding the internet, distraction, accessibility resouces'
+title: 'Design, Digested 56 – Rewilding the internet, distraction, accessibility resources'
 date: '2024-06-18 17:46:01'
-last_modified_at: '2024-06-18 17:46:06'
+last_modified_at: '2024-08-22 11:21:07'
 featured-post: false
 categories:
   - 'Design Digested'
@@ -11,7 +11,7 @@ tags:
   - tech
   - big tech
   - diversity
-description: "Design, Digested 56. Rewilding the internet, distraction, accessibility resouces"
+description: "Design, Digested 56. Rewilding the internet, distraction, accessibility resources"
 excerpt: "We have become distracted and let technology companies build things that have no value, but there are ways to revive the internet and thus foster more competitive and meaningful environments."
 featuredimage: true
 featimage-alt: ""
