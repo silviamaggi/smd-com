@@ -1,7 +1,7 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-08-11 11:30:25'
+last_modified_at: '2024-09-02 11:06:30'
 featured-post: false
 categories:
   - Books
@@ -18,7 +18,7 @@ My main goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), an
 
 ## In progress
 
-- _Alice’s Adventures in Wonderland_, by Lewis Carroll [^Alice]
+- _The Vanishing Half_, by Brit Bennett
 - _The Happiness Trap_, by Russ Harris
 - _The Menopause Brain_, by Dr Lisa Mosconi
 
@@ -32,8 +32,7 @@ Books I started to read, but don’t feel like continuing – for now.
 
 ## Finished
 
-### 2024
-
+- _Alice’s Adventures in Wonderland_, by Lewis Carroll [^Alice] <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _The Vanishing Act of Esme Lennox_, by Maggie O’Farrell <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _Poor Things_, by Alasdair Gray <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _100 Things Every Designer Needs to Know About People_, by Susan Wienschenk <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
@@ -41,9 +40,6 @@ Books I started to read, but don’t feel like continuing – for now.
 - _Kitchen Confidential_, by Anthony Bourdain <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
 - _Vox_, by Christina Dalcher <span class="btn-sm btn-label-smd-bg">Vote: 2/5&nbsp;★</span>
 - _Lady Susan_, by Jane Austen <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
-
-### 2023
-
 - _Exhalation_, by Ted Chiang[^TedChiang] <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
 - _The Expats_, by Chris Pavone <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _Ariadne_, by Jennifer Saint <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
@@ -63,7 +59,7 @@ Books I started to read, but don’t feel like continuing – for now.
 
 ## Notes
 
-[^Alice]: Reading it in English for the first time
+[^Alice]: Read it in English for the first time
 [^UltraP]: Going very slowly with this, as it requires a state of mind I’m not always in.
 [^AfterYang]: On which the beautiful film _After Yang_ is based on.
 [^TedChiang]: A few stories included in this collection were already present in _Stories of Your Life and Others_, so this was a faster read.
