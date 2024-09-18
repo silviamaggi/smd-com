@@ -37,25 +37,25 @@
       "@type": "WebPage",
       "@id": "{{ site.url }}{{ page.url }}"
     },
-    "sameAs": [
-      "https://linkedin.com/in/silviamaggi/",
-      "https://github.com/silviamaggi/",
-      "https://www.flickr.com/photos/silvia-m/"
-    ],
     {%- if page.featuredimage %}
     "image": {
       "@type": "ImageObject",
       "width": "1200",
       "height": "500",
       "url": "{{ site.url }}/assets/images/{{ page.featimage }}.jpg"
-    }
+    },
     {%- else %}
     "image": {
       "@type": "ImageObject",
       "width": "1200",
       "height": "628",
       "url": "{{ site.url }}{{ site.logo }}"
-    }
+    },
     {%- endif %}
+    "sameAs": [
+      "https://linkedin.com/in/silviamaggi/",
+      "https://github.com/silviamaggi/",
+      "https://silviamaggiphotography.com/"
+    ],
   }
   </script>
