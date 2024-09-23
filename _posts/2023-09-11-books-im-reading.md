@@ -1,7 +1,7 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-09-09 17:50:00'
+last_modified_at: '2024-09-23 20:52:31'
 featured-post: false
 categories:
   - Books
@@ -19,7 +19,6 @@ My main goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), an
 ## In progress
 
 - _Julia_, by Sandra Newman
-- _The Happiness Trap_, by Russ Harris
 - _The Menopause Brain_, by Dr Lisa Mosconi
 
 ## Parked
@@ -29,6 +28,7 @@ Books I started to read, but don’t feel like continuing – for now.
 - _To the Lighthouse_, Virginia Woolf
 - _A Brief History of Time_, by Stephen Hawking
 - _Ultra-Processed People_, by Chris van Tulleken [^UltraP]
+- _The Happiness Trap_, by Russ Harris
 
 ## Finished
 
