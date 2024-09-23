@@ -1,7 +1,7 @@
 ---
 title: "A new home for my photos"
 date: '2024-09-19 16:02:02'
-last_modified_at: '2024-09-19 16:02:11'
+last_modified_at: '2024-09-20 13:45:55'
 featured-post: false
 categories:
   - Photography
@@ -18,7 +18,7 @@ featimage: 'feat-home-for-photos'
 image-caption: false
 featimage-caption-desc: ''
 ---
-For a long time [after quitting Instagram in 2021]({{ site.url }}/personal/deactivated-my-instagram-account), my photos were nowhere to be seen. Sometimes I would post a few pictures on my blog but it never felt quite right. I thought there there had to be a reason to publish one or more pictures, or a similarity between them to build a story. 
+For a long time [after quitting Instagram in 2021]({{ site.url }}/personal/deactivated-my-instagram-account), my photos were nowhere to be seen. Sometimes I would post a few pictures on my blog but it never felt quite right. I thought there had to be a reason to publish one or more pictures, or a similarity between them to build a story. 
 
 With infinite gratitude to [Simone](https://minutestomidnight.co.uk/) for helping me so much, I am happy and proud to launch my new photography website, which will be designed in the open. The site is good enough to be online but there will be changes to the design and functionality in the future.
 
