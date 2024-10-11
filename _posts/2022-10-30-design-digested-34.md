@@ -1,7 +1,7 @@
 ---
 title: "Design, Digested 34 – Sterile aesthetics, privacy, dyslexia"
 date: '2022-10-30 20:44:01'
-last_modified_at: '2024-04-07 21:49:06'
+last_modified_at: '2024-10-11 11:14:55'
 featured-post: false
 categories:
   - Design Digested
@@ -46,13 +46,13 @@ A resource that provides guidance for designing ethically humane digital product
 
 Comic Sans helps 780 million dyslexic people around the world read better, but it's the most hated typeface by designers. The organisation _Dyslexia Scotland_ created a font guide to inspire designers create dyslexia-friendly typefaces.
 
-🔗 [Hear Comic Sans' voice and be inspired](https://www.nothingcomicaboutdyslexia.com/)
+🔗 [Check the case study](https://www.masoheck.com/work/theres-nothing-comic-about-dyslexia)
 
 ## Thoughts on skin tone and text descriptions
 
 > In a blog post on writing great alt text, Jake Archibald asked "Should skin tone be mentioned in alt text?". It's a good question, and one I've asked myself as a blind person, so Jake's post has prompted me to do some thinking out loud...
 
-🔗 [Continue reading Léonie Watson's article on her website](https://tink.uk/thoughts-on-skin-tone-and-text-descriptions.md-notes-on-synthetic-speech/)
+🔗 [Continue reading Léonie Watson's article on her website](https://tink.uk/thoughts-on-skin-tone-and-text-descriptions/)
 
 ## The crash dummy aimed at protecting women drivers
 

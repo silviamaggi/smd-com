@@ -1,6 +1,6 @@
 ---
 title: 'Design, Digested 27 – False empathy, fast fashion, gender pay gap'
-last_modified_at: '2024-04-07 21:48:49'
+last_modified_at: '2024-10-11 11:32:32'
 featured-post: false
 popular-post: true
 categories:
@@ -52,12 +52,6 @@ Host Clare Press sits down with American journalists Meaghan Tobin and Louise Ma
 
 {: .detached}
 🔗 <a href="https://thewardrobecrisis.com/podcast/2022/1/19/ep-153-shein-story-meagan-toibin-and-louise-matsakis">Listen to the podcast</a> (on The Wardrobe Crisis)
-
-## Chinese tech companies now have to tell users about their algorithms
-A new set of Chinese regulations designed to restrict tech companies’ usage of algorithmic recommendations could shape the global algorithm regulatory landscape.
-
-{: .detached}
-🔗 <a href="https://www.protocol.com/bulletins/china-algorithm-rules-effective">Read the article</a> (on Protocol)
 
 ## Behind the Twitter bot posting the gender pay gap of brands celebrating IWD
 The Gender Pay Gap Bot called out empty corporate celebrations of International Women's Day. Francesca Lawson and Ali Fensome are its creators.

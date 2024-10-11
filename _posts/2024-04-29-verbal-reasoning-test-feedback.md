@@ -1,7 +1,7 @@
 ---
 title: 'Reasoning why verbal reasoning tests are bad'
 date: '2024-04-29 14:44:35'
-last_modified_at: '2024-07-29 11:11:03'
+last_modified_at: '2024-10-11 11:10:49'
 featured-post: false
 popular-post: true
 categories:
@@ -39,7 +39,7 @@ I firmly believe that these tests exclude perfectly good professionals, whose ta
 Yet they’re likely to have had successful careers during which they solved design problems creatively and in harmony with their teams.
 
 References:
-- [https://www.linkedin.com/pulse/redefining-recruitment-why-we-should-move-beyond-baker-acma-cgma-/q1](https://www.linkedin.com/pulse/redefining-recruitment-why-we-should-move-beyond-baker-acma-cgma-/q1)
+- [https://www.linkedin.com/pulse/redefining-recruitment-why-we-should-move-beyond-baker-acma-cgma-](https://www.linkedin.com/pulse/redefining-recruitment-why-we-should-move-beyond-baker-acma-cgma-)
 - [https://www.quora.com/Does-a-logical-reasoning-test-really-work-for-selecting-the-right-people](https://www.quora.com/Does-a-logical-reasoning-test-really-work-for-selecting-the-right-people)
 
 I know how difficult it is to hire people today, and it is also very difficult to get hired. I understand that initial screenings can be important. I’m also sure that my feedback is useful, because the candidate’s experience is a crucial part of every company’s culture.
