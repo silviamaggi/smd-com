@@ -7,7 +7,7 @@ baseurl: ""
 posts_limit: 20
 lang: "en-GB"
 title: Silvia Maggi
-tagline: Personal website
+tagline: My digital safe space
 permalink: /:categories/:title/
 timezone: Europe/London
 logo: /assets/images/silviamaggi-og-image.jpg
@@ -25,7 +25,7 @@ author:
 # -------------------
 # About
 # -------------------
-description: 'Welcome to my personal website. I write about design, technology, their effects on our lives, photography, and more. I curate the inspiration series <em>Design, Digested</em>.'
+description: 'A Gen X woman in search of her true self. I go straight to the point, unless I get distracted.'
 keywords:
   UX design,
   web design,

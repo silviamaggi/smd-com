@@ -2,7 +2,7 @@
 layout: page
 title: About
 date: '2020-02-27'
-last_modified_at: '2024-09-18 22:18:08'
+last_modified_at: '2024-11-13 12:27:26'
 description: "I’m Silvia Maggi (she/her), a designer specialised in building accessible and usable products. Curator of the inspiration series Design, Digested."
 updated_on: true
 permalink: /about/
@@ -14,9 +14,11 @@ Born and raised in Italy, then moved to the UK in 2011, I’m bilingual in Itali
 
 Photography is my life-long passion. For a long time, I didn't replace Instagram when I quit my account in 2021: now [my photos have a new home](https://silviamaggiphotography.com). I contributed to a few [exhibitions]({{ site.url }}/exhibitions/).
 
-Another passion of mine is design. During the first lockdown in 2020, I started publishing an inspiration series called [<em>Design, Digested</em>]({{ site.url }}/category/design-digested/) where I gather the articles that left an impression.
+I have several interests, which I write about in the blog. Some of them are: design, accessibility, sustainability, mental health.
 
-I care about sustainability, accessibility and design ethics. Better to leaf through the pages than to scroll.
+Better to turn pages than to scroll.
+
+<!-- Another passion of mine is design. During the first lockdown in 2020, I started publishing an inspiration series called [<em>Design, Digested</em>]({{ site.url }}/category/design-digested/) where I gather the articles that left an impression. -->
 
 ## Other facts
 
