@@ -1,7 +1,7 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-11-25 12:00:25'
+last_modified_at: '2024-12-12 11:32:08'
 featured-post: false
 categories:
   - Books
@@ -18,7 +18,6 @@ My main goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), an
 
 ## In progress
 
-- _Normal People_, by Sally Rooney
 - _The Menopause Brain_, by Dr Lisa Mosconi
 
 ## Parked
@@ -32,8 +31,9 @@ Books I started to read, but don’t feel like continuing – for now.
 
 ## Finished
 
-- _Breakfast at the Hotel Déjà Vu_, by Paul Torday<span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
-- _Before the Coffee Gets Cold_, by Toshikazu Kawaguchi<span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
+- _Normal People_, by Sally Rooney <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
+- _Breakfast at the Hotel Déjà Vu_, by Paul Torday <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
+- _Before the Coffee Gets Cold_, by Toshikazu Kawaguchi <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _Julia_, by Sandra Newman <span class="btn-sm btn-label-smd-bg"><span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _Alice’s Adventures in Wonderland_, by Lewis Carroll [^Alice] <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _The Vanishing Act of Esme Lennox_, by Maggie O’Farrell <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
