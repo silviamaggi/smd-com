@@ -1,14 +1,12 @@
 ---
 title: "Books I’m reading"
 date: '2023-09-11 12:16:15'
-last_modified_at: '2024-12-12 11:32:08'
+last_modified_at: '2024-12-28 13:29:48'
 featured-post: false
 categories:
   - Books
 tags:
   - book
-  - news
-  - personal
 description: "A post where I track the progress of my reading activity since the beginning of 2023."
 excerpt: "A list of the books I read and am currently reading."
 image-caption: true
@@ -18,6 +16,7 @@ My main goal is [to avoid the daily and live news]({{ site.url }}/tag/news/), an
 
 ## In progress
 
+- _Emma_, by Jane Austen
 - _The Menopause Brain_, by Dr Lisa Mosconi
 
 ## Parked
@@ -31,6 +30,7 @@ Books I started to read, but don’t feel like continuing – for now.
 
 ## Finished
 
+- _Conversations with Friends_, by Sally Rooney <span class="btn-sm btn-label-smd-bg">Vote: 4/5&nbsp;★</span>
 - _Normal People_, by Sally Rooney <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _Breakfast at the Hotel Déjà Vu_, by Paul Torday <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
 - _Before the Coffee Gets Cold_, by Toshikazu Kawaguchi <span class="btn-sm btn-label-smd-bg">Vote: 5/5&nbsp;★</span>
